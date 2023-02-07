@@ -85,13 +85,6 @@
 
       <h2>1. Collection Details</h2>
       <div class="form-group">
-        <label for="collection-id"
-          >Collection ID: <required>*</required>
-          <sup>assigned to you</sup></label
-        >
-        <input type="text" id="collection-id" name="collection-id" required />
-      </div>
-      <div class="form-group">
         <label for="collection-chain-id"
           >Collection Chain: <required>*</required></label
         >
@@ -398,7 +391,6 @@
         }
 
         let jsonData = {
-          id: document.getElementById("collection-id").value,
           chain: document.getElementById("collection-chain-id").value,
           name: document.getElementById("collection-name").value,
           images: {
