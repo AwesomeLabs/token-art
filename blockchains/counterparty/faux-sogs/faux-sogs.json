@@ -1,0 +1,436 @@
+{
+  "id": "faux-sogs",
+  "chain": "counterparty",
+  "name": "Faux SoGs",
+  "images": {
+    "avatar": "https://pbtwjpzkarqkorg6hc2nbvolrqgfjio6jbqy44e53ifun7guo2la.arweave.net/eGdkvyoEYKdE3ji00NXLjAxUod5IYY5wndoLRvzUdpY/s43ml0_image.png",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": [
+    {
+      "website": "https://www.fauxsogs.wtf/",
+      "twitter": "http://twitter.com/FAUXSOGS",
+      "discord": "https://discord.gg/E8eXeRjfzX",
+      "telegram": "http://t.me/FAUXSOGS"
+    }
+  ],
+  "sets": [
+    {
+      "name": "Series 1",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "assetId": "Card 1",
+          "name": "IRLFDCARD",
+          "images": {
+            "primary": "https://pbtwjpzkarqkorg6hc2nbvolrqgfjio6jbqy44e53ifun7guo2la.arweave.net/eGdkvyoEYKdE3ji00NXLjAxUod5IYY5wndoLRvzUdpY/s43ml0_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "coinking",
+              "link": "https://twitter.com/_coinking"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 2",
+          "name": "STSHRDX",
+          "images": {
+            "primary": "https://pekxct6akp2wsxyfvrp3hznyue4lrcrxl2r2gdmungxyrbchb6xq.arweave.net/eRVxT8BT9WlfBaxfs-W4oTi4ijdeo6MNlGmviIRHD68/cbgpjt_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Herckeim",
+              "link": "https://twitter.com/DucosGuillaume"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 3",
+          "name": "THREECHARMZ",
+          "images": {
+            "primary": "https://curfqkx2f3u7ujhufedomjuvcbhpqsmvuon2feaw5zfwelwpflka.arweave.net/FSJYKvou6fok9CkG5iaVEE74SZWjm6KQFu5LYi7PKtQ/51jlq5_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "thr33som3s",
+              "link": "https://twitter.com/thr33som3s"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 4",
+          "name": "FAUXSAYLOR",
+          "images": {
+            "primary": "https://vim3taezvtwgpawruygvhnpxupyxbc576avs4lljzuqhmzuaohra.arweave.net/qhm5gJms7GeC0aYNU7X3o_Fwi7_wKy4tac0gdmaAceI/dwjwip_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Mallery",
+              "link": "https://twitter.com/mr_mallery"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 5",
+          "name": "PARRAIN",
+          "images": {
+            "primary": "https://522ez5yliw7qt24hoaluzs3o73aqk7akvfrlersbrybjcnw467uq.arweave.net/7rRM9wtFvwnrh3AXTMtu_sEFfAqpYrJGQY4CkTbc9-k/22popn_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "wabi",
+              "link": "https://twitter.com/guanacastesurf"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 6",
+          "name": "SOGWAR",
+          "images": {
+            "primary": "https://i.imgur.com/7YCocMr.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "ROCHIGG",
+              "link": "https://twitter.com/rochigg_nft"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 7",
+          "name": "MANDELKING",
+          "images": {
+            "primary": "https://i.imgur.com/Mh7Ii82.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Jonny Johnsonson",
+              "link": "https://twitter.com/Jono61145535"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 8",
+          "name": "YACHTCARD",
+          "images": {
+            "primary": "https://ud3lnsguhfm6f427d7akco3alvu6vkcst32rklbqbzpicsork37q.arweave.net/oPa2yNQ5WeLzXx_AoTtgXWnqqFKe9RUsMA5egUnRVv8/4v962q_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Griffin",
+              "link": "https://twitter.com/griffds"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 9",
+          "name": "EMPENPEN",
+          "images": {
+            "primary": "https://i.imgur.com/4lP1Ypi.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "tomopen",
+              "link": "https://twitter.com/kouteipenpen_f"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 10",
+          "name": "DARKSCOPE",
+          "images": {
+            "primary": "https://a6bpsogqij77c6hxqelxgafasljzmanv5u3a3rgapsed4qf6qy4a.arweave.net/B4L5ONBCf_F494EXcwCgktOWAbXtNg3EwHyIPkC-hjg/uhyh2x_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "FWD",
+              "link": "https://twitter.com/fabooowy"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 11",
+          "name": "THEENIGMA",
+          "images": {
+            "primary": "https://6yj3hpvbh5ebsr37zqarnresh4utedifwglltncsdco3c6mj24nq.arweave.net/9hOzvqE_SBlHf8wBFsSSPykyDQWxlrm0UhidsXmJ1xs/2x640h_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "M0d3D3b0",
+              "link": "https://twitter.com/nftshart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 12",
+          "name": "FAUXTOSHI",
+          "images": {
+            "primary": "https://we6jptwcyak3n2q2c5ep6pyklpxeb7noq3yvt7n5p62e3kwfwhjq.arweave.net/sTyXzsLAFbbqGhdI_z8KW-5A_a6G8Vn9vX-0TarFsdM/vhkk1s_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "OurEverydayEarth",
+              "link": "https://twitter.com/EverydayEarth"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 13",
+          "name": "SOURDOGE",
+          "images": {
+            "primary": "https://gykqsjsrzcptcacymgcceagi2jrkwaecr5du46s53aynxlj6okoq.arweave.net/NhUJJlHInzEAWGGEIgDI0mKrAIKPR056Xdgw260-cp0/p3kz0e_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "kdh0k",
+              "link": "https://twitter.com/krishxbt"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 14",
+          "name": "FAUXELON",
+          "images": {
+            "primary": "https://xjxovrykaxeyh2xva4qnznpboiuis3nymcbxxto3fxl7mkm46xxa.arweave.net/um7qxwoFyYPq9Qcg3LXhciiJbbhgg3vN2y3X9imc9e4/i92511_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Psycopyro",
+              "link": "https://twitter.com/Psycopyr0"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 15",
+          "name": "BEARSOUL",
+          "images": {
+            "primary": "https://saaguvl5qpsbdjicd4as3h2qnyuapd7kxvqo6ihzst7yvo2qec4q.arweave.net/kABqVX2D5BGlAh8BLZ9QbigHj-q9YO8g-ZT_irtQILk/21qmjy_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "rarejay",
+              "link": "https://twitter.com/nft_ejay"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 16",
+          "name": "PHOENIXCD",
+          "images": {
+            "primary": "https://images.squarespace-cdn.com/content/v1/62ecab8cd1df13083dcacfcf/abae8474-09c2-4c2c-a5de-4c5a898e63f6/PHOENIXCD.jpeg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Tasha Moon",
+              "link": "https://twitter.com/NataljaMoon"
+            }
+          ],
+
+          "subAssets": [
+            {
+              "name": "PHOENIXCD.processvideo",
+              "images": {
+                "primary": "",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "",
+                  "link": ""
+                }
+              ],
+              "otherImageLinks": [""]
+            }
+          ]
+        },
+        {
+          "assetId": "Card 17",
+          "name": "FAUXKACHU",
+          "images": {
+            "primary": "https://rpdcks2cri566iytmgfkwqr66msn7daqrlbxdenulpn7pb2ga3ja.arweave.net/i8YlS0KKO-8jE2GKq0I-8yTfjBCKw3GRtFvb94dGBtI/gwqhee_image.GIF",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Pifu",
+              "link": "https://twitter.com/PiFu7"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 18",
+          "name": "MYTHOSSOO",
+          "images": {
+            "primary": "https://jt3bqhqjmw4wsmrljsy2k6olehuiwalgmt3wzpsz7zle22vdefdq.arweave.net/TPYYHglluWkyK0yxpXnLIeiLAWZk92y-Wf5WTWqjIUc/santp0_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Abbate",
+              "link": "https://twitter.com/vic_abbate"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 19",
+          "name": "SATOSHISWORD",
+          "images": {
+            "primary": "https://argy4ofw2i4fkyrlx4vtra4pvuiqwtx7cbr4fr3qpkdhyx5thuea.arweave.net/BE2OOLbSOFViK78rOIOPrRELTv8QY8LHcHqGfF-zPQg/uif2dq_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "REMSTER",
+              "link": "https://twitter.com/BautistaRemster"
+            }
+          ],
+          "subAssets": [
+            {
+              "name": "SATOSHISWORD.DORIANSBLADE1",
+              "images": {
+                "primary": "https://arweave.net/PxD8AwaGXQFz9PkWaZYC491PziUROqWMszurKMCEkME/d2v566_image.jpg",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "REMSTER",
+                  "link": "https://twitter.com/BautistaRemster"
+                }
+              ],
+              "otherImageLinks": [""]
+            },
+            {
+              "name": "SATOSHISWORD.DORIANSBLADE2",
+              "images": {
+                "primary": "https://arweave.net/htSlK89-YKyGzX6m0eKqNY_UqtWNOC1KUpu6epCJ00w/snsynh_image.jpg",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "REMSTER",
+                  "link": "https://twitter.com/BautistaRemster"
+                }
+              ],
+              "otherImageLinks": [""]
+            },
+            {
+              "name": "SATOSHISWORD.DORIANSBLADE3",
+              "images": {
+                "primary": "https://arweave.net/0yHCotE3IIqqPvXMvniz7rocUm_36YPX10UV1HImMUI/n7usst_image.jpg",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "REMSTER",
+                  "link": "https://twitter.com/BautistaRemster"
+                }
+              ],
+              "otherImageLinks": [""]
+            }
+          ]
+        },
+        {
+          "assetId": "Card 20",
+          "name": "GOTHCHAINER",
+          "images": {
+            "primary": "https://egzupk2vqgbvragkzefffwfwk6xpxlpfcoehoqrab3kvuwpeuprq.arweave.net/IbNHq1WBg1iAyskKUti2V677reUTiHdCIA7VWlnko-M/6ig8lb_image.PNG",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "JB",
+              "link": "https://twitter.com/JPegKillah"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "assetId": "Card 21",
+          "name": "FAUXDINGCARD",
+          "images": {
+            "primary": "https://5xxxy5gs7eoplani7edkbg3xjia5gy3ksntrg5tjc5hlts3bjm4a.arweave.net/7e98dNL5HPWBqPkGoJt3SgHTY2qTZxN2aRdOucthSzg/lx84tz_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Collaborative Design",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    },
+    {
+      "name": "Series 2",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": ""
+    },
+    {
+      "name": "Series 3",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": ""
+    },
+    {
+      "name": "Series 4",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": ""
+    },
+    {
+      "name": "Series 5",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": ""
+    }
+  ]
+}

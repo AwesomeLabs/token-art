@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html color-mode="user">
+  <head>
+    <title>token.art Collection Configurator</title>
+    <meta charset="utf-8" />
+    <link
+      href="https://unpkg.com/mvp.css@1.12/mvp.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+
+    <style>
+      body {
+        font-size: 1.1rem;
+        margin: 0 5rem;
+      }
+
+      header {
+        padding: 0;
+      }
+
+      main {
+        padding: 0;
+      }
+
+      hr {
+        margin: 0;
+      }
+
+      h1 {
+        font-size: 1.5rem;
+      }
+
+      button {
+        padding: 0.2rem 0.5rem;
+        background-color: chartreuse;
+        border-color: chartreuse;
+      }
+
+      required {
+        color: red;
+      }
+
+      .asset-button {
+        background-color: violet;
+        border-color: violet;
+      }
+
+      .generate-button {
+        background-color: aquamarine;
+        border-color: aquamarine;
+      }
+
+      .assets-container {
+        margin-left: 2rem;
+        padding-left: 0.5rem;
+        border-left: 1px solid white;
+      }
+
+      .sets-container {
+        margin-bottom: 4rem;
+      }
+
+      .set-container {
+        margin-bottom: 2rem;
+      }
+
+      .json-output-container {
+        padding-top: 2rem;
+      }
+
+      sup {
+        background-color: yellow;
+        color: black;
+      }
+    </style>
+  </head>
+
+  <body>
+    <header>
+      <h1>token.art Collection Configurator</h1>
+    </header>
+    <main>
+      <hr />
+
+      <h2>1. Collection Details</h2>
+      <div class="form-group">
+        <label for="collection-id"
+          >Collection ID: <required>*</required>
+          <sup>assigned to you</sup></label
+        >
+        <input type="text" id="collection-id" name="collection-id" required />
+      </div>
+      <div class="form-group">
+        <label for="collection-chain-id"
+          >Collection Chain: <required>*</required></label
+        >
+        <select id="collection-chain-id" required>
+          <option value="counterparty">Counterparty</option>
+          <option value="dogeparty">Dogeparty</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label for="collection-name"
+          >Collection Name: <required>*</required></label
+        >
+        <input type="text" id="collection-name" required />
+      </div>
+      <div class="form-group">
+        <label for="collection-avatar-url"
+          >Collection Avatar URL: <required>*</required></label
+        >
+        <input type="text" id="collection-avatar-url" required />
+      </div>
+      <div class="form-group">
+        <label for="collection-banner-url">Collection Banner URL:</label>
+        <input type="text" id="collection-banner-url" />
+      </div>
+      <div class="form-group">
+        <label for="collection-description">Collection Description:</label>
+        <input type="text" id="collection-description" />
+      </div>
+      <details>
+        <summary>Collection External Links</summary>
+        <div class="form-group">
+          <label for="collection-url-website">Collection Website URL:</label>
+          <input type="text" id="collection-url-website" />
+        </div>
+        <div class="form-group">
+          <label for="collection-url-twitter">Collection Twitter URL:</label>
+          <input type="text" id="collection-url-twitter" />
+        </div>
+        <div class="form-group">
+          <label for="collection-url-instagram"
+            >Collection Instagram URL:</label
+          >
+          <input type="text" id="collection-url-instagram" />
+        </div>
+        <div class="form-group">
+          <label for="collection-url-youtube">Collection YouTube URL:</label>
+          <input type="text" id="collection-url-youtube" />
+        </div>
+        <div class="form-group">
+          <label for="collection-url-discord">Collection Discord URL:</label>
+          <input type="text" id="collection-url-discord" />
+        </div>
+        <div class="form-group">
+          <label for="collection-url-telegram">Collection Telegram URL:</label>
+          <input type="text" id="collection-url-telegram" />
+        </div>
+      </details>
+
+      <hr />
+
+      <h2>2. Sets/Series</h2>
+      <div id="sets-container" class="sets-container">
+        <div id="sets-container-inner"></div>
+        <button id="add-set" onclick="addSet()">Add a Set</button>
+      </div>
+
+      <hr />
+
+      <div id="json-output-container" class="json-output-container">
+        <h2>3. JSON Output</h2>
+        <button
+          id="generate-button"
+          class="generate-button"
+          onclick="generateJSON()"
+        >
+          Generate JSON
+        </button>
+        <textarea id="json-output" rows="20" cols="60"></textarea>
+      </div>
+    </main>
+
+    <script type="text/javascript">
+      let sets = [];
+      let setCounter = 0;
+      let assetCounter = 0;
+
+      const addSet = () => {
+        setCounter++;
+        let setObject = {
+          id: setCounter,
+          assetIds: [],
+        };
+        sets.push(setObject);
+
+        const setsContainer = document.getElementById("sets-container-inner");
+        const setTemplate = `
+          <div id="set${setCounter}" class="set-container">
+            <h3>Set ${setCounter}</h3>
+            <div class="form-group">
+              <label for="set${setCounter}-name">Set Name: <required>*</required> <sup>Series 1, etc.</sup></label>
+              <input type="text" id="set${setCounter}-name" name="set${setCounter}-name" required />
+            </div>
+            <div class="form-group">
+              <label for="set${setCounter}-avatar-url">Set Avatar URL: <required>*</required></label>
+              <input type="text" id="set${setCounter}-avatar-url" name="set${setCounter}-avatar-url" required/>
+            </div>
+            <div class="form-group">
+              <label for="set${setCounter}-banner-url">Set Banner URL:</label>
+              <input type="text" id="set${setCounter}-banner-url" name="set${setCounter}-banner-url" />
+            </div>
+            <div class="form-group">
+              <label for="set${setCounter}-description">Set Description:</label>
+              <input type="text" id="set${setCounter}-description" name="set${setCounter}-description" />
+            </div>
+            <div class="assets-container">
+              <h3>Set ${setCounter} Assets</h3>
+              <div class="assets-container-inner" id="set${setCounter}-assets-container"></div>
+              <button type="button" onclick="addAsset(${setCounter})" class="asset-button">Add an Asset</button>
+            </div>`;
+
+        setsContainer.insertAdjacentHTML("beforeend", setTemplate);
+      };
+
+      const addAsset = (setId) => {
+        assetCounter++;
+        let set = sets.find((x) => x.id === setId);
+        if (!set) return;
+
+        set.assetIds.push(assetCounter);
+
+        const assetsContainer = document.getElementById(
+          `set${setId}-assets-container`
+        );
+
+        const assetTemplate = `
+          <div id="set${setId}-asset-${assetCounter}" class="asset">
+            <h4>Asset</h4>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-name">Asset Name: <required>*</required> <sup>FDCARD, etc.</sup></label>
+              <input type="text" id="set${setId}-asset${assetCounter}-name" name="set${setId}-asset${assetCounter}-name" required />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-id">Asset ID: <sup>Card 1, etc.</sup></label>
+              <input type="text" id="set${setId}-asset${assetCounter}-id" name="set${setId}-asset${assetCounter}-id" />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-primary-url">Asset Primary Image URL: <required>*</required></label>
+              <input type="text" id="set${setId}-asset${assetCounter}-primary-url" name="set${setId}-asset${assetCounter}-primary-url" required />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-other-url">Asset Other Image URL: </label>
+              <input type="text" id="set${setId}-asset${assetCounter}-other-url" name="set${setId}-asset${assetCounter}-other-url" />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-artist1-name">Artist 1 Name: </label>
+              <input type="text" id="set${setId}-asset${assetCounter}-artist1-name" name="set${setId}-asset${assetCounter}-artist1-name" />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-artist1-url">Artist 1 URL: </label>
+              <input type="text" id="set${setId}-asset${assetCounter}-artist1-url" name="set${setId}-asset${assetCounter}-artist1-url" />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-artist2-name">Artist 2 Name: </label>
+              <input type="text" id="set${setId}-asset${assetCounter}-artist2-name" name="set${setId}-asset${assetCounter}-artist2-name" />
+            </div>
+            <div class="form-group">
+              <label for="set${setId}-asset${assetCounter}-artist2-url">Artist 2 URL: </label>
+              <input type="text" id="set${setId}-asset${assetCounter}-artist2-url" name="set${setId}-asset${assetCounter}-artist2-url" />
+            </div>
+        `;
+
+        assetsContainer.insertAdjacentHTML("beforeend", assetTemplate);
+      };
+
+      const generateAssetsJson = (setId) => {
+        let assetIds = sets.find((x) => x.id === setId).assetIds;
+        // console.log(assetIds);
+        if (!assetIds) return {};
+
+        let assetsJson = [];
+        assetIds?.forEach((assetId) => {
+          // TODO: make this dynamic
+          let artistsJson = [];
+          let artist1Name = document.getElementById(
+            `set${setId}-asset${assetId}-artist1-name`
+          ).value;
+          let artist1Url = document.getElementById(
+            `set${setId}-asset${assetId}-artist1-url`
+          ).value;
+          let artist2Name = document.getElementById(
+            `set${setId}-asset${assetId}-artist2-name`
+          ).value;
+          let artist2Url = document.getElementById(
+            `set${setId}-asset${assetId}-artist2-url`
+          ).value;
+          if (artist1Name !== "") {
+            artistsJson.push({
+              name: artist1Name,
+              link: artist1Url,
+            });
+          }
+          if (artist2Name !== "") {
+            artistsJson.push({
+              name: artist2Name,
+              link: artist2Url,
+            });
+          }
+
+          let assetJson = {
+            assetId: `${
+              document.getElementById(`set${setId}-asset${assetId}-id`).value
+            }`,
+            name: `${
+              document.getElementById(`set${setId}-asset${assetId}-name`).value
+            }`,
+            images: {
+              primary: `${
+                document.getElementById(
+                  `set${setId}-asset${assetId}-primary-url`
+                ).value
+              }`,
+              other: document.getElementById(
+                `set${setId}-asset${assetId}-other-url`
+              ).value
+                ? [
+                    `${
+                      document.getElementById(
+                        `set${setId}-asset${assetId}-other-url`
+                      ).value
+                    }`,
+                  ]
+                : [],
+            },
+            artists: artistsJson,
+          };
+          assetsJson.push(assetJson);
+        });
+        return assetsJson;
+      };
+
+      const generateSetsJson = () => {
+        let setsJson = [];
+        sets.forEach((set) => {
+          let setJson = {
+            name: `${document.getElementById(`set${set.id}-name`).value}`,
+            images: {
+              avatar: `${
+                document.getElementById(`set${set.id}-avatar-url`).value
+              }`,
+              banner: `${
+                document.getElementById(`set${set.id}-banner-url`).value
+              }`,
+            },
+            description: `${
+              document.getElementById(`set${set.id}-description`).value
+            }`,
+            assets: generateAssetsJson(set.id),
+            subAssets: [],
+          };
+          setsJson.push(setJson);
+        });
+        return setsJson;
+      };
+
+      const generateJSON = () => {
+        let setsJson = generateSetsJson();
+
+        let externalLinksJson = [];
+        let websiteUrl = document.getElementById(
+          "collection-url-website"
+        ).value;
+        if (websiteUrl) {
+          externalLinksJson.push({ website: websiteUrl });
+        }
+        let twitterUrl = document.getElementById(
+          "collection-url-twitter"
+        ).value;
+        if (twitterUrl) {
+          externalLinksJson.push({ twitter: twitterUrl });
+        }
+        let instagramUrl = document.getElementById(
+          "collection-url-instagram"
+        ).value;
+        if (instagramUrl) {
+          externalLinksJson.push({ instagram: instagramUrl });
+        }
+        let youtubeUrl = document.getElementById(
+          "collection-url-youtube"
+        ).value;
+        if (youtubeUrl) {
+          externalLinksJson.push({ youtube: youtubeUrl });
+        }
+        let discordUrl = document.getElementById(
+          "collection-url-discord"
+        ).value;
+        if (discordUrl) {
+          externalLinksJson.push({ discord: discordUrl });
+        }
+        let telegramUrl = document.getElementById(
+          "collection-url-telegram"
+        ).value;
+        if (telegramUrl) {
+          externalLinksJson.push({ telegram: telegramUrl });
+        }
+
+        let jsonData = {
+          id: document.getElementById("collection-id").value,
+          chain: document.getElementById("collection-chain-id").value,
+          name: document.getElementById("collection-name").value,
+          images: {
+            avatar: document.getElementById("collection-avatar-url").value,
+            banner: document.getElementById("collection-banner-url").value,
+          },
+          description: document.getElementById("collection-description").value,
+          externalLinks: externalLinksJson,
+          sets: setsJson,
+        };
+        document.getElementById("json-output").value = JSON.stringify(
+          jsonData,
+          null,
+          2
+        );
+      };
+    </script>
+  </body>
+</html>
