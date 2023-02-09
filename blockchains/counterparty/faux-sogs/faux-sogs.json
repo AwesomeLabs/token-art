@@ -6,14 +6,12 @@
     "banner": ""
   },
   "description": "",
-  "externalLinks": [
-    {
-      "website": "https://www.fauxsogs.wtf/",
-      "twitter": "http://twitter.com/FAUXSOGS",
-      "discord": "https://discord.gg/E8eXeRjfzX",
-      "telegram": "http://t.me/FAUXSOGS"
-    }
-  ],
+  "externalLinks": {
+    "website": "https://www.fauxsogs.wtf/",
+    "twitter": "http://twitter.com/FAUXSOGS",
+    "discord": "https://discord.gg/E8eXeRjfzX",
+    "telegram": "http://t.me/FAUXSOGS"
+  },
   "sets": [
     {
       "name": "Series 1",

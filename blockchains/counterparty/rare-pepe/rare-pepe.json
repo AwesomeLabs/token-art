@@ -6,11 +6,9 @@
     "banner": ""
   },
   "description": "",
-  "externalLinks": [
-    {
-      "website": "https://pepe.wtf"
-    }
-  ],
+  "externalLinks": {
+    "website": "https://pepe.wtf"
+  },
   "sets": [
     {
       "name": "Series 1",

@@ -7,11 +7,9 @@
     "banner": ""
   },
   "description": "",
-  "externalLinks": [
-    {
-      "website": "https://raredogedirectory.com/"
-    }
-  ],
+  "externalLinks": {
+    "website": "https://raredogedirectory.com/"
+  },
   "sets": [
     {
       "name": "Series 1",

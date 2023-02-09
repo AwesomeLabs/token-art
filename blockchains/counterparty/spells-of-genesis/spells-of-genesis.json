@@ -7,15 +7,13 @@
     "banner": "https://i.imgur.com/lKh3IUe.jpg"
   },
   "description": "Spells of Genesis is the 1st blockchain-based mobile game. It combines Trading Card Game (TCG) functionalities with the point-and-shoot aspects of arcade games. Our card collection minted since 2015 is historical to the NFT world. How many can you collect? Embark on an epic adventure and build your team! Are you up for the challenge?",
-  "externalLinks": [
-    {
-      "website": "https://spellsofgenesis.com",
-      "twitter": "https://twitter.com/SpellsofGenesis",
-      "discord": "https://discord.gg/H4UXSaJ",
-      "youtube": "https://www.youtube.com/user/Everdreamsoft",
-      "telegram": "https://t.me/EverdreamSoft"
-    }
-  ],
+  "externalLinks": {
+    "website": "https://spellsofgenesis.com",
+    "twitter": "https://twitter.com/SpellsofGenesis",
+    "discord": "https://discord.gg/H4UXSaJ",
+    "youtube": "https://www.youtube.com/user/Everdreamsoft",
+    "telegram": "https://t.me/EverdreamSoft"
+  },
   "sets": [
     {
       "name": "2015 Spells of Genesis",
