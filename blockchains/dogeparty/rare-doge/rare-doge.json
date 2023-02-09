@@ -4662,9 +4662,9 @@
         },
         {
           "assetId": "Card 7",
-          "name": "THEDREAMDOGI ",
+          "name": "THEDREAMDOGI",
           "images": {
-            "primary": "https://raredogedirectory.com/images/cards/THEDREAMDOGI .png",
+            "primary": "https://raredogedirectory.com/images/cards/THEDREAMDOGI%20.png",
             "other": []
           },
           "artists": [],
@@ -8204,7 +8204,7 @@
           "assetId": "Card 4",
           "name": "LUVDOGE",
           "images": {
-            "primary": "https://raredogedirectory.com/images/cards/LUVDOGE .jpg",
+            "primary": "https://raredogedirectory.com/images/cards/LUVDOGE.jpg",
             "other": []
           },
           "artists": [],
