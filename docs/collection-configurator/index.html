@@ -227,8 +227,8 @@
               <input type="text" id="set${setId}-asset${assetCounter}-name" name="set${setId}-asset${assetCounter}-name" required />
             </div>
             <div class="form-group">
-              <label for="set${setId}-asset${assetCounter}-id">Asset ID: <sup>Card 1, etc.</sup></label>
-              <input type="text" id="set${setId}-asset${assetCounter}-id" name="set${setId}-asset${assetCounter}-id" />
+              <label for="set${setId}-asset${assetCounter}-edition">Asset Edition: <sup>Card 1, Issue 3, etc.</sup></label>
+              <input type="text" id="set${setId}-asset${assetCounter}-edition" name="set${setId}-asset${assetCounter}-edition" />
             </div>
             <div class="form-group">
               <label for="set${setId}-asset${assetCounter}-primary-url">Asset Primary Image URL: <required>*</required></label>
@@ -294,8 +294,9 @@
           }
 
           let assetJson = {
-            assetId: `${
-              document.getElementById(`set${setId}-asset${assetId}-id`).value
+            edition: `${
+              document.getElementById(`set${setId}-asset${assetId}-edition`)
+                .value
             }`,
             name: `${
               document.getElementById(`set${setId}-asset${assetId}-name`).value
