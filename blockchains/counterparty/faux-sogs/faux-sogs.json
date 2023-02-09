@@ -24,7 +24,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "Card 1",
+          "edition": "Card 1",
           "name": "IRLFDCARD",
           "images": {
             "primary": "https://pbtwjpzkarqkorg6hc2nbvolrqgfjio6jbqy44e53ifun7guo2la.arweave.net/eGdkvyoEYKdE3ji00NXLjAxUod5IYY5wndoLRvzUdpY/s43ml0_image.png",
@@ -39,7 +39,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 2",
+          "edition": "Card 2",
           "name": "STSHRDX",
           "images": {
             "primary": "https://pekxct6akp2wsxyfvrp3hznyue4lrcrxl2r2gdmungxyrbchb6xq.arweave.net/eRVxT8BT9WlfBaxfs-W4oTi4ijdeo6MNlGmviIRHD68/cbgpjt_image.jpg",
@@ -54,7 +54,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 3",
+          "edition": "Card 3",
           "name": "THREECHARMZ",
           "images": {
             "primary": "https://curfqkx2f3u7ujhufedomjuvcbhpqsmvuon2feaw5zfwelwpflka.arweave.net/FSJYKvou6fok9CkG5iaVEE74SZWjm6KQFu5LYi7PKtQ/51jlq5_image.png",
@@ -69,7 +69,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 4",
+          "edition": "Card 4",
           "name": "FAUXSAYLOR",
           "images": {
             "primary": "https://vim3taezvtwgpawruygvhnpxupyxbc576avs4lljzuqhmzuaohra.arweave.net/qhm5gJms7GeC0aYNU7X3o_Fwi7_wKy4tac0gdmaAceI/dwjwip_image.png",
@@ -84,7 +84,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 5",
+          "edition": "Card 5",
           "name": "PARRAIN",
           "images": {
             "primary": "https://522ez5yliw7qt24hoaluzs3o73aqk7akvfrlersbrybjcnw467uq.arweave.net/7rRM9wtFvwnrh3AXTMtu_sEFfAqpYrJGQY4CkTbc9-k/22popn_image.jpg",
@@ -99,7 +99,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 6",
+          "edition": "Card 6",
           "name": "SOGWAR",
           "images": {
             "primary": "https://i.imgur.com/7YCocMr.jpg",
@@ -114,7 +114,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 7",
+          "edition": "Card 7",
           "name": "MANDELKING",
           "images": {
             "primary": "https://i.imgur.com/Mh7Ii82.gif",
@@ -129,7 +129,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 8",
+          "edition": "Card 8",
           "name": "YACHTCARD",
           "images": {
             "primary": "https://ud3lnsguhfm6f427d7akco3alvu6vkcst32rklbqbzpicsork37q.arweave.net/oPa2yNQ5WeLzXx_AoTtgXWnqqFKe9RUsMA5egUnRVv8/4v962q_image.jpg",
@@ -144,7 +144,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 9",
+          "edition": "Card 9",
           "name": "EMPENPEN",
           "images": {
             "primary": "https://i.imgur.com/4lP1Ypi.png",
@@ -159,7 +159,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 10",
+          "edition": "Card 10",
           "name": "DARKSCOPE",
           "images": {
             "primary": "https://a6bpsogqij77c6hxqelxgafasljzmanv5u3a3rgapsed4qf6qy4a.arweave.net/B4L5ONBCf_F494EXcwCgktOWAbXtNg3EwHyIPkC-hjg/uhyh2x_image.jpg",
@@ -174,7 +174,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 11",
+          "edition": "Card 11",
           "name": "THEENIGMA",
           "images": {
             "primary": "https://6yj3hpvbh5ebsr37zqarnresh4utedifwglltncsdco3c6mj24nq.arweave.net/9hOzvqE_SBlHf8wBFsSSPykyDQWxlrm0UhidsXmJ1xs/2x640h_image.png",
@@ -189,7 +189,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 12",
+          "edition": "Card 12",
           "name": "FAUXTOSHI",
           "images": {
             "primary": "https://we6jptwcyak3n2q2c5ep6pyklpxeb7noq3yvt7n5p62e3kwfwhjq.arweave.net/sTyXzsLAFbbqGhdI_z8KW-5A_a6G8Vn9vX-0TarFsdM/vhkk1s_image.gif",
@@ -204,7 +204,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 13",
+          "edition": "Card 13",
           "name": "SOURDOGE",
           "images": {
             "primary": "https://gykqsjsrzcptcacymgcceagi2jrkwaecr5du46s53aynxlj6okoq.arweave.net/NhUJJlHInzEAWGGEIgDI0mKrAIKPR056Xdgw260-cp0/p3kz0e_image.png",
@@ -219,7 +219,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 14",
+          "edition": "Card 14",
           "name": "FAUXELON",
           "images": {
             "primary": "https://xjxovrykaxeyh2xva4qnznpboiuis3nymcbxxto3fxl7mkm46xxa.arweave.net/um7qxwoFyYPq9Qcg3LXhciiJbbhgg3vN2y3X9imc9e4/i92511_image.png",
@@ -234,7 +234,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 15",
+          "edition": "Card 15",
           "name": "BEARSOUL",
           "images": {
             "primary": "https://saaguvl5qpsbdjicd4as3h2qnyuapd7kxvqo6ihzst7yvo2qec4q.arweave.net/kABqVX2D5BGlAh8BLZ9QbigHj-q9YO8g-ZT_irtQILk/21qmjy_image.png",
@@ -249,7 +249,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 16",
+          "edition": "Card 16",
           "name": "PHOENIXCD",
           "images": {
             "primary": "https://images.squarespace-cdn.com/content/v1/62ecab8cd1df13083dcacfcf/abae8474-09c2-4c2c-a5de-4c5a898e63f6/PHOENIXCD.jpeg",
@@ -280,7 +280,7 @@
           ]
         },
         {
-          "assetId": "Card 17",
+          "edition": "Card 17",
           "name": "FAUXKACHU",
           "images": {
             "primary": "https://rpdcks2cri566iytmgfkwqr66msn7daqrlbxdenulpn7pb2ga3ja.arweave.net/i8YlS0KKO-8jE2GKq0I-8yTfjBCKw3GRtFvb94dGBtI/gwqhee_image.GIF",
@@ -295,7 +295,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 18",
+          "edition": "Card 18",
           "name": "MYTHOSSOO",
           "images": {
             "primary": "https://jt3bqhqjmw4wsmrljsy2k6olehuiwalgmt3wzpsz7zle22vdefdq.arweave.net/TPYYHglluWkyK0yxpXnLIeiLAWZk92y-Wf5WTWqjIUc/santp0_image.jpg",
@@ -310,7 +310,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 19",
+          "edition": "Card 19",
           "name": "SATOSHISWORD",
           "images": {
             "primary": "https://argy4ofw2i4fkyrlx4vtra4pvuiqwtx7cbr4fr3qpkdhyx5thuea.arweave.net/BE2OOLbSOFViK78rOIOPrRELTv8QY8LHcHqGfF-zPQg/uif2dq_image.png",
@@ -368,7 +368,7 @@
           ]
         },
         {
-          "assetId": "Card 20",
+          "edition": "Card 20",
           "name": "GOTHCHAINER",
           "images": {
             "primary": "https://egzupk2vqgbvragkzefffwfwk6xpxlpfcoehoqrab3kvuwpeuprq.arweave.net/IbNHq1WBg1iAyskKUti2V677reUTiHdCIA7VWlnko-M/6ig8lb_image.PNG",
@@ -383,7 +383,7 @@
           "subAssets": []
         },
         {
-          "assetId": "Card 21",
+          "edition": "Card 21",
           "name": "FAUXDINGCARD",
           "images": {
             "primary": "https://5xxxy5gs7eoplani7edkbg3xjia5gy3ksntrg5tjc5hlts3bjm4a.arweave.net/7e98dNL5HPWBqPkGoJt3SgHTY2qTZxN2aRdOucthSzg/lx84tz_image.gif",

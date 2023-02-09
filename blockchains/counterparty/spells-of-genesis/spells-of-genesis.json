@@ -1,11 +1,12 @@
 {
+  "id": "spells-of-genesis",
   "chain": "counterparty",
   "name": "Spells of Genesis",
   "images": {
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://i.imgur.com/WIFHZCx.jpg",
+    "banner": "https://i.imgur.com/lKh3IUe.jpg"
   },
-  "description": "",
+  "description": "Spells of Genesis is the 1st blockchain-based mobile game. It combines Trading Card Game (TCG) functionalities with the point-and-shoot aspects of arcade games. Our card collection minted since 2015 is historical to the NFT world. How many can you collect? Embark on an epic adventure and build your team! Are you up for the challenge?",
   "externalLinks": [
     {
       "website": "https://spellsofgenesis.com",
@@ -25,7 +26,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "1",
+          "edition": "1",
           "name": "FDCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/FDCARD.jpg",
@@ -35,7 +36,7 @@
           "subassets": []
         },
         {
-          "assetId": "2",
+          "edition": "2",
           "name": "SJCXCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SJCXCARD.jpg",
@@ -45,7 +46,7 @@
           "subassets": []
         },
         {
-          "assetId": "3",
+          "edition": "3",
           "name": "GEMZCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GEMZCARD.jpg",
@@ -55,7 +56,7 @@
           "subassets": []
         },
         {
-          "assetId": "4",
+          "edition": "4",
           "name": "CLEFCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CLEFCARD.jpg",
@@ -65,7 +66,7 @@
           "subassets": []
         },
         {
-          "assetId": "5",
+          "edition": "5",
           "name": "ETHEREUMCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/ETHEREUMCARD.jpg",
@@ -75,7 +76,7 @@
           "subassets": []
         },
         {
-          "assetId": "6",
+          "edition": "6",
           "name": "SHAPESHIFTCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SHAPESHIFTCD.jpg",
@@ -85,7 +86,7 @@
           "subassets": []
         },
         {
-          "assetId": "7",
+          "edition": "7",
           "name": "XCPCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/XCPCARD.jpg",
@@ -95,7 +96,7 @@
           "subassets": []
         },
         {
-          "assetId": "8",
+          "edition": "8",
           "name": "SATOSHICARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SATOSHICARD.jpg",
@@ -105,7 +106,7 @@
           "subassets": []
         },
         {
-          "assetId": "9",
+          "edition": "9",
           "name": "RIPPLECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/RIPPLECARD.jpg",
@@ -115,7 +116,7 @@
           "subassets": []
         },
         {
-          "assetId": "10",
+          "edition": "10",
           "name": "GENESISCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GENESISCARD.jpg",
@@ -125,7 +126,7 @@
           "subassets": []
         },
         {
-          "assetId": "11",
+          "edition": "11",
           "name": "SWARMCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SWARMCD.jpg",
@@ -135,7 +136,7 @@
           "subassets": []
         },
         {
-          "assetId": "12",
+          "edition": "12",
           "name": "SHUMAICARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SHUMAICARD.jpg",
@@ -145,7 +146,7 @@
           "subassets": []
         },
         {
-          "assetId": "13",
+          "edition": "13",
           "name": "CNPCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CNPCARD.jpg",
@@ -155,7 +156,7 @@
           "subassets": []
         },
         {
-          "assetId": "14",
+          "edition": "14",
           "name": "BEARWHALECD",
           "images": {
             "primary": "https://xchain.io/img/cards/BEARWHALECD.jpg",
@@ -165,7 +166,7 @@
           "subassets": []
         },
         {
-          "assetId": "15",
+          "edition": "15",
           "name": "BLOCKSIZECD",
           "images": {
             "primary": "https://xchain.io/img/cards/BLOCKSIZECD.jpg",
@@ -175,7 +176,7 @@
           "subassets": []
         },
         {
-          "assetId": "16",
+          "edition": "16",
           "name": "ETHXCPCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/ETHXCPCARD.jpg",
@@ -185,7 +186,7 @@
           "subassets": []
         },
         {
-          "assetId": "17",
+          "edition": "17",
           "name": "LTBCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/LTBCARD.jpg",
@@ -195,7 +196,7 @@
           "subassets": []
         },
         {
-          "assetId": "18",
+          "edition": "18",
           "name": "XAJIBASILAAR",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIBASILAAR.jpg",
@@ -205,7 +206,7 @@
           "subassets": []
         },
         {
-          "assetId": "19",
+          "edition": "19",
           "name": "XAJIBESAAR",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIBESAAR.jpg",
@@ -215,7 +216,7 @@
           "subassets": []
         },
         {
-          "assetId": "20",
+          "edition": "20",
           "name": "XAJIJASPAAR",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIJASPAAR.jpg",
@@ -225,7 +226,7 @@
           "subassets": []
         },
         {
-          "assetId": "21",
+          "edition": "21",
           "name": "ZAIFCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/ZAIFCARD.jpg",
@@ -235,7 +236,7 @@
           "subassets": []
         },
         {
-          "assetId": "22",
+          "edition": "22",
           "name": "BAZAARCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/BAZAARCARD.jpg",
@@ -245,7 +246,7 @@
           "subassets": []
         },
         {
-          "assetId": "23",
+          "edition": "23",
           "name": "CARDAUGUR",
           "images": {
             "primary": "https://xchain.io/img/cards/CARDAUGUR.jpg",
@@ -255,7 +256,7 @@
           "subassets": []
         },
         {
-          "assetId": "24",
+          "edition": "24",
           "name": "WHEREBCYCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WHEREBCYCARD.jpg",
@@ -265,7 +266,7 @@
           "subassets": []
         },
         {
-          "assetId": "25",
+          "edition": "25",
           "name": "CARDAIRBITZ",
           "images": {
             "primary": "https://xchain.io/img/cards/CARDAIRBITZ.jpg",
@@ -275,7 +276,7 @@
           "subassets": []
         },
         {
-          "assetId": "26",
+          "edition": "26",
           "name": "XAJIARKETAAR",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIARKETAAR.jpg",
@@ -285,7 +286,7 @@
           "subassets": []
         },
         {
-          "assetId": "27",
+          "edition": "27",
           "name": "GOXCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GOXCARD.jpg",
@@ -295,7 +296,7 @@
           "subassets": []
         },
         {
-          "assetId": "28",
+          "edition": "28",
           "name": "XAJIYEREMAAR",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIYEREMAAR.jpg",
@@ -305,7 +306,7 @@
           "subassets": []
         },
         {
-          "assetId": "29",
+          "edition": "29",
           "name": "MINERCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/MINERCARD.jpg",
@@ -315,7 +316,7 @@
           "subassets": []
         },
         {
-          "assetId": "30",
+          "edition": "30",
           "name": "BCYDRAGON",
           "images": {
             "primary": "https://xchain.io/img/cards/BCYDRAGON.jpg",
@@ -325,7 +326,7 @@
           "subassets": []
         },
         {
-          "assetId": "31",
+          "edition": "31",
           "name": "BTCDRAGONCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BTCDRAGONCD.jpg",
@@ -335,7 +336,7 @@
           "subassets": []
         },
         {
-          "assetId": "32",
+          "edition": "32",
           "name": "CARDASTEMA",
           "images": {
             "primary": "https://xchain.io/img/cards/CARDASTEMA.jpg",
@@ -345,7 +346,7 @@
           "subassets": []
         },
         {
-          "assetId": "33",
+          "edition": "33",
           "name": "XAJIBOSS",
           "images": {
             "primary": "https://xchain.io/img/cards/XAJIBOSS.jpg",
@@ -355,7 +356,7 @@
           "subassets": []
         },
         {
-          "assetId": "34",
+          "edition": "34",
           "name": "TALISMANCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/TALISMANCARD.jpg",
@@ -365,7 +366,7 @@
           "subassets": []
         },
         {
-          "assetId": "35",
+          "edition": "35",
           "name": "DOGECOINCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/DOGECOINCARD.jpg",
@@ -375,7 +376,7 @@
           "subassets": []
         },
         {
-          "assetId": "36",
+          "edition": "36",
           "name": "EMERALDCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/EMERALDCARD.jpg",
@@ -385,7 +386,7 @@
           "subassets": []
         },
         {
-          "assetId": "37",
+          "edition": "37",
           "name": "CARDAMBER",
           "images": {
             "primary": "https://xchain.io/img/cards/CARDAMBER.jpg",
@@ -395,7 +396,7 @@
           "subassets": []
         },
         {
-          "assetId": "38",
+          "edition": "38",
           "name": "RUBYCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/RUBYCARD.jpg",
@@ -405,7 +406,7 @@
           "subassets": []
         },
         {
-          "assetId": "39",
+          "edition": "39",
           "name": "SAPPHIRECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SAPPHIRECARD.jpg",
@@ -415,7 +416,7 @@
           "subassets": []
         },
         {
-          "assetId": "40",
+          "edition": "40",
           "name": "WAGATECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WAGATECARD.jpg",
@@ -425,7 +426,7 @@
           "subassets": []
         },
         {
-          "assetId": "41",
+          "edition": "41",
           "name": "SGDARKNESS",
           "images": {
             "primary": "https://xchain.io/img/cards/SGDARKNESS.jpg",
@@ -435,7 +436,7 @@
           "subassets": []
         },
         {
-          "assetId": "42",
+          "edition": "42",
           "name": "BLOCKTRAILCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BLOCKTRAILCD.jpg",
@@ -445,7 +446,7 @@
           "subassets": []
         },
         {
-          "assetId": "43",
+          "edition": "43",
           "name": "SARUTOBICARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SARUTOBICARD.jpg",
@@ -465,7 +466,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "44",
+          "edition": "44",
           "name": "GOBLINCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GOBLINCARD.jpg",
@@ -475,7 +476,7 @@
           "subassets": []
         },
         {
-          "assetId": "45",
+          "edition": "45",
           "name": "SATOSHILITE",
           "images": {
             "primary": "https://xchain.io/img/cards/SATOSHILITE.jpg",
@@ -485,7 +486,7 @@
           "subassets": []
         },
         {
-          "assetId": "46",
+          "edition": "46",
           "name": "SAYOSIATAX",
           "images": {
             "primary": "https://xchain.io/img/cards/SAYOSIATAX.jpg",
@@ -495,7 +496,7 @@
           "subassets": []
         },
         {
-          "assetId": "47",
+          "edition": "47",
           "name": "DARYENCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/DARYENCARD.jpg",
@@ -505,7 +506,7 @@
           "subassets": []
         },
         {
-          "assetId": "48",
+          "edition": "48",
           "name": "LTCDRAGON",
           "images": {
             "primary": "https://xchain.io/img/cards/LTCDRAGON.jpg",
@@ -515,7 +516,7 @@
           "subassets": []
         },
         {
-          "assetId": "49",
+          "edition": "49",
           "name": "MERCHANTCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/MERCHANTCARD.jpg",
@@ -525,7 +526,7 @@
           "subassets": []
         },
         {
-          "assetId": "50",
+          "edition": "50",
           "name": "COINOFLITECD",
           "images": {
             "primary": "https://xchain.io/img/cards/COINOFLITECD.jpg",
@@ -535,7 +536,7 @@
           "subassets": []
         },
         {
-          "assetId": "51",
+          "edition": "51",
           "name": "SHIELDWALLCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SHIELDWALLCD.jpg",
@@ -545,7 +546,7 @@
           "subassets": []
         },
         {
-          "assetId": "52",
+          "edition": "52",
           "name": "MAIDSAFECD",
           "images": {
             "primary": "https://xchain.io/img/cards/MAIDSAFECD.jpg",
@@ -555,7 +556,7 @@
           "subassets": []
         },
         {
-          "assetId": "53",
+          "edition": "53",
           "name": "SHOPKEEPERCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SHOPKEEPERCD.jpg",
@@ -565,7 +566,7 @@
           "subassets": []
         },
         {
-          "assetId": "54",
+          "edition": "54",
           "name": "FOOTSOLDIER",
           "images": {
             "primary": "https://xchain.io/img/cards/FOOTSOLDIER.jpg",
@@ -575,7 +576,7 @@
           "subassets": []
         },
         {
-          "assetId": "55",
+          "edition": "55",
           "name": "BITSHARESCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BITSHARESCD.jpg",
@@ -585,7 +586,7 @@
           "subassets": []
         },
         {
-          "assetId": "56",
+          "edition": "56",
           "name": "CYCLOPSCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CYCLOPSCARD.jpg",
@@ -595,7 +596,7 @@
           "subassets": []
         },
         {
-          "assetId": "57",
+          "edition": "57",
           "name": "KEEPKEYCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/KEEPKEYCARD.jpg",
@@ -605,7 +606,7 @@
           "subassets": []
         },
         {
-          "assetId": "58",
+          "edition": "58",
           "name": "SADICARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SADICARD.jpg",
@@ -615,7 +616,7 @@
           "subassets": []
         },
         {
-          "assetId": "59",
+          "edition": "59",
           "name": "CCMCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CCMCARD.jpg",
@@ -625,7 +626,7 @@
           "subassets": []
         },
         {
-          "assetId": "60",
+          "edition": "60",
           "name": "DASHCD",
           "images": {
             "primary": "https://xchain.io/img/cards/DASHCD.jpg",
@@ -635,7 +636,7 @@
           "subassets": []
         },
         {
-          "assetId": "61",
+          "edition": "61",
           "name": "FLYINGBLAZE",
           "images": {
             "primary": "https://xchain.io/img/cards/FLYINGBLAZE.jpg",
@@ -645,7 +646,7 @@
           "subassets": []
         },
         {
-          "assetId": "62",
+          "edition": "62",
           "name": "MAYALCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/MAYALCARD.jpg",
@@ -655,7 +656,7 @@
           "subassets": []
         },
         {
-          "assetId": "63",
+          "edition": "63",
           "name": "XULNOCCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/XULNOCCARD.jpg",
@@ -665,7 +666,7 @@
           "subassets": []
         },
         {
-          "assetId": "64",
+          "edition": "64",
           "name": "DAOSOGCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/DAOSOGCARD.jpg",
@@ -675,7 +676,7 @@
           "subassets": []
         },
         {
-          "assetId": "65",
+          "edition": "65",
           "name": "GNOMECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GNOMECARD.jpg",
@@ -685,7 +686,7 @@
           "subassets": []
         },
         {
-          "assetId": "66",
+          "edition": "66",
           "name": "WATERSCOURT",
           "images": {
             "primary": "https://xchain.io/img/cards/WATERSCOURT.jpg",
@@ -695,7 +696,7 @@
           "subassets": []
         },
         {
-          "assetId": "67",
+          "edition": "67",
           "name": "EDSCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/EDSCARD.jpg",
@@ -705,7 +706,7 @@
           "subassets": []
         },
         {
-          "assetId": "68",
+          "edition": "68",
           "name": "VANBEXCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/VANBEXCARD.jpg",
@@ -715,7 +716,7 @@
           "subassets": []
         },
         {
-          "assetId": "69",
+          "edition": "69",
           "name": "TROLLSCLUBCD",
           "images": {
             "primary": "https://xchain.io/img/cards/TROLLSCLUBCD.jpg",
@@ -725,7 +726,7 @@
           "subassets": []
         },
         {
-          "assetId": "70",
+          "edition": "70",
           "name": "KRAKENCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/KRAKENCARD.jpg",
@@ -735,7 +736,7 @@
           "subassets": []
         },
         {
-          "assetId": "71",
+          "edition": "71",
           "name": "WEASELSCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WEASELSCARD.jpg",
@@ -745,7 +746,7 @@
           "subassets": []
         },
         {
-          "assetId": "72",
+          "edition": "72",
           "name": "NEMCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/NEMCARD.jpg",
@@ -755,7 +756,7 @@
           "subassets": []
         },
         {
-          "assetId": "73",
+          "edition": "73",
           "name": "SORCERESSCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SORCERESSCD.jpg",
@@ -765,7 +766,7 @@
           "subassets": []
         },
         {
-          "assetId": "74",
+          "edition": "74",
           "name": "HARPIESCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/HARPIESCARD.jpg",
@@ -775,7 +776,7 @@
           "subassets": []
         },
         {
-          "assetId": "75",
+          "edition": "75",
           "name": "TREZORCD",
           "images": {
             "primary": "https://xchain.io/img/cards/TREZORCD.jpg",
@@ -785,7 +786,7 @@
           "subassets": []
         },
         {
-          "assetId": "76",
+          "edition": "76",
           "name": "SLACKCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SLACKCARD.jpg",
@@ -795,7 +796,7 @@
           "subassets": []
         },
         {
-          "assetId": "77",
+          "edition": "77",
           "name": "WAVESCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WAVESCARD.jpg",
@@ -805,7 +806,7 @@
           "subassets": []
         },
         {
-          "assetId": "78",
+          "edition": "78",
           "name": "PEACOCKCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/PEACOCKCARD.jpg",
@@ -815,7 +816,7 @@
           "subassets": []
         },
         {
-          "assetId": "79",
+          "edition": "79",
           "name": "BITCOINCOMCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BITCOINCOMCD.jpg",
@@ -825,7 +826,7 @@
           "subassets": []
         },
         {
-          "assetId": "80",
+          "edition": "80",
           "name": "BARDCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/BARDCARD.jpg",
@@ -835,7 +836,7 @@
           "subassets": []
         },
         {
-          "assetId": "81",
+          "edition": "81",
           "name": "BITCOINISTCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BITCOINISTCD.jpg",
@@ -845,7 +846,7 @@
           "subassets": []
         },
         {
-          "assetId": "82",
+          "edition": "82",
           "name": "SCARECROWCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SCARECROWCD.jpg",
@@ -855,7 +856,7 @@
           "subassets": []
         },
         {
-          "assetId": "83",
+          "edition": "83",
           "name": "GOLEMCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GOLEMCARD.jpg",
@@ -865,7 +866,7 @@
           "subassets": []
         },
         {
-          "assetId": "84",
+          "edition": "84",
           "name": "WATERSCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WATERSCARD.jpg",
@@ -875,7 +876,7 @@
           "subassets": []
         },
         {
-          "assetId": "85",
+          "edition": "85",
           "name": "HUNTERCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/HUNTERCARD.jpg",
@@ -885,7 +886,7 @@
           "subassets": []
         },
         {
-          "assetId": "86",
+          "edition": "86",
           "name": "GASTADGRUN",
           "images": {
             "primary": "https://xchain.io/img/cards/GASTADGRUN.jpg",
@@ -895,7 +896,7 @@
           "subassets": []
         },
         {
-          "assetId": "87",
+          "edition": "87",
           "name": "KAYLAGRUN",
           "images": {
             "primary": "https://xchain.io/img/cards/KAYLAGRUN.jpg",
@@ -905,7 +906,7 @@
           "subassets": []
         },
         {
-          "assetId": "88",
+          "edition": "88",
           "name": "MAMAGRUN",
           "images": {
             "primary": "https://xchain.io/img/cards/MAMAGRUN.jpg",
@@ -915,7 +916,7 @@
           "subassets": []
         },
         {
-          "assetId": "89",
+          "edition": "89",
           "name": "TINYGRUN",
           "images": {
             "primary": "https://xchain.io/img/cards/TINYGRUN.jpg",
@@ -925,7 +926,7 @@
           "subassets": []
         },
         {
-          "assetId": "90",
+          "edition": "90",
           "name": "TROYGRUN",
           "images": {
             "primary": "https://xchain.io/img/cards/TROYGRUN.jpg",
@@ -935,7 +936,7 @@
           "subassets": []
         },
         {
-          "assetId": "91",
+          "edition": "91",
           "name": "EMERALDETHER",
           "images": {
             "primary": "https://xchain.io/img/cards/EMERALDETHER.jpg",
@@ -945,7 +946,7 @@
           "subassets": []
         },
         {
-          "assetId": "92",
+          "edition": "92",
           "name": "BITCOINMAGCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BITCOINMAGCD.jpg",
@@ -955,7 +956,7 @@
           "subassets": []
         },
         {
-          "assetId": "93",
+          "edition": "93",
           "name": "GENOFLIGHT",
           "images": {
             "primary": "https://xchain.io/img/cards/GENOFLIGHT.jpg",
@@ -965,7 +966,7 @@
           "subassets": []
         },
         {
-          "assetId": "94",
+          "edition": "94",
           "name": "VICTORIACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/VICTORIACARD.jpg",
@@ -975,7 +976,7 @@
           "subassets": []
         },
         {
-          "assetId": "95",
+          "edition": "95",
           "name": "CROWCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CROWCARD.jpg",
@@ -985,7 +986,7 @@
           "subassets": []
         },
         {
-          "assetId": "96",
+          "edition": "96",
           "name": "PIXIECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/PIXIECARD.jpg",
@@ -995,7 +996,7 @@
           "subassets": []
         },
         {
-          "assetId": "97",
+          "edition": "97",
           "name": "WAARTHCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WAARTHCARD.jpg",
@@ -1005,7 +1006,7 @@
           "subassets": []
         },
         {
-          "assetId": "98",
+          "edition": "98",
           "name": "KINGREINDEER",
           "images": {
             "primary": "https://xchain.io/img/cards/KINGREINDEER.jpg",
@@ -1015,7 +1016,7 @@
           "subassets": []
         },
         {
-          "assetId": "99",
+          "edition": "99",
           "name": "LAMUSECARD",
           "images": {
             "primary": "https://xchain.io/img/cards/LAMUSECARD.jpg",
@@ -1035,7 +1036,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "100",
+          "edition": "100",
           "name": "COINPORTALCD",
           "images": {
             "primary": "https://xchain.io/img/cards/COINPORTALCD.jpg",
@@ -1045,7 +1046,7 @@
           "subassets": []
         },
         {
-          "assetId": "101",
+          "edition": "101",
           "name": "TATIANACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/TATIANACARD.jpg",
@@ -1055,7 +1056,7 @@
           "subassets": []
         },
         {
-          "assetId": "102",
+          "edition": "102",
           "name": "KARMACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/KARMACARD.jpg",
@@ -1065,7 +1066,7 @@
           "subassets": []
         },
         {
-          "assetId": "103",
+          "edition": "103",
           "name": "BTCCFORGECD",
           "images": {
             "primary": "https://xchain.io/img/cards/BTCCFORGECD.jpg",
@@ -1075,7 +1076,7 @@
           "subassets": []
         },
         {
-          "assetId": "104",
+          "edition": "104",
           "name": "BTCCCOINCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/BTCCCOINCARD.jpg",
@@ -1085,7 +1086,7 @@
           "subassets": []
         },
         {
-          "assetId": "105",
+          "edition": "105",
           "name": "ROOSTERYEAR",
           "images": {
             "primary": "https://xchain.io/img/cards/ROOSTERYEAR.jpg",
@@ -1095,7 +1096,7 @@
           "subassets": []
         },
         {
-          "assetId": "106",
+          "edition": "106",
           "name": "MARKETACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/MARKETACARD.jpg",
@@ -1105,7 +1106,7 @@
           "subassets": []
         },
         {
-          "assetId": "107",
+          "edition": "107",
           "name": "MIGHTYSTORK",
           "images": {
             "primary": "https://xchain.io/img/cards/MIGHTYSTORK.jpg",
@@ -1115,7 +1116,7 @@
           "subassets": []
         },
         {
-          "assetId": "108",
+          "edition": "108",
           "name": "FIREANGEL",
           "images": {
             "primary": "https://xchain.io/img/cards/FIREANGEL.jpg",
@@ -1125,7 +1126,7 @@
           "subassets": []
         },
         {
-          "assetId": "109",
+          "edition": "109",
           "name": "WATERANGEL",
           "images": {
             "primary": "https://xchain.io/img/cards/WATERANGEL.jpg",
@@ -1135,7 +1136,7 @@
           "subassets": []
         },
         {
-          "assetId": "110",
+          "edition": "110",
           "name": "JEWELDRAGONS",
           "images": {
             "primary": "https://xchain.io/img/cards/JEWELDRAGONS.jpg",
@@ -1145,7 +1146,7 @@
           "subassets": []
         },
         {
-          "assetId": "111",
+          "edition": "111",
           "name": "SAPPHIREELF",
           "images": {
             "primary": "https://xchain.io/img/cards/SAPPHIREELF.jpg",
@@ -1155,7 +1156,7 @@
           "subassets": []
         },
         {
-          "assetId": "112",
+          "edition": "112",
           "name": "CRAZYLOLA",
           "images": {
             "primary": "https://xchain.io/img/cards/CRAZYLOLA.jpg",
@@ -1165,7 +1166,7 @@
           "subassets": []
         },
         {
-          "assetId": "113",
+          "edition": "113",
           "name": "WOODMONSTER",
           "images": {
             "primary": "https://xchain.io/img/cards/WOODMONSTER.jpg",
@@ -1175,7 +1176,7 @@
           "subassets": []
         },
         {
-          "assetId": "114",
+          "edition": "114",
           "name": "HERBODCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/HERBODCARD.jpg",
@@ -1185,7 +1186,7 @@
           "subassets": []
         },
         {
-          "assetId": "115",
+          "edition": "115",
           "name": "QUIRINCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/QUIRINCARD.jpg",
@@ -1195,7 +1196,7 @@
           "subassets": []
         },
         {
-          "assetId": "116",
+          "edition": "116",
           "name": "RIDANCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/RIDANCARD.jpg",
@@ -1205,7 +1206,7 @@
           "subassets": []
         },
         {
-          "assetId": "117",
+          "edition": "117",
           "name": "COINDESKCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/COINDESKCARD.jpg",
@@ -1215,7 +1216,7 @@
           "subassets": []
         },
         {
-          "assetId": "118",
+          "edition": "118",
           "name": "CRYSTALIBUR",
           "images": {
             "primary": "https://xchain.io/img/cards/CRYSTALIBUR.jpg",
@@ -1225,7 +1226,7 @@
           "subassets": []
         },
         {
-          "assetId": "119",
+          "edition": "119",
           "name": "FORKCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/FORKCARD.jpg",
@@ -1235,7 +1236,7 @@
           "subassets": []
         },
         {
-          "assetId": "120",
+          "edition": "120",
           "name": "PRINCEOFICE",
           "images": {
             "primary": "https://xchain.io/img/cards/PRINCEOFICE.jpg",
@@ -1245,7 +1246,7 @@
           "subassets": []
         },
         {
-          "assetId": "121",
+          "edition": "121",
           "name": "DARKSTATUE",
           "images": {
             "primary": "https://xchain.io/img/cards/DARKSTATUE.jpg",
@@ -1255,7 +1256,7 @@
           "subassets": []
         },
         {
-          "assetId": "122",
+          "edition": "122",
           "name": "MOTHERBIRD",
           "images": {
             "primary": "https://xchain.io/img/cards/MOTHERBIRD.jpg",
@@ -1265,7 +1266,7 @@
           "subassets": []
         },
         {
-          "assetId": "123",
+          "edition": "123",
           "name": "SOGLAUNCHCD",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGLAUNCHCD.jpg",
@@ -1275,7 +1276,7 @@
           "subassets": []
         },
         {
-          "assetId": "124",
+          "edition": "124",
           "name": "STAGWARRIOR",
           "images": {
             "primary": "https://xchain.io/img/cards/STAGWARRIOR.jpg",
@@ -1285,7 +1286,7 @@
           "subassets": []
         },
         {
-          "assetId": "125",
+          "edition": "125",
           "name": "GIANTCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GIANTCARD.jpg",
@@ -1295,7 +1296,7 @@
           "subassets": []
         },
         {
-          "assetId": "126",
+          "edition": "126",
           "name": "SYLVANELF",
           "images": {
             "primary": "https://xchain.io/img/cards/SYLVANELF.jpg",
@@ -1305,7 +1306,7 @@
           "subassets": []
         },
         {
-          "assetId": "127",
+          "edition": "127",
           "name": "THEMESSENGER",
           "images": {
             "primary": "https://xchain.io/img/cards/THEMESSENGER.jpg",
@@ -1315,7 +1316,7 @@
           "subassets": []
         },
         {
-          "assetId": "128",
+          "edition": "128",
           "name": "BADWOLF",
           "images": {
             "primary": "https://xchain.io/img/cards/BADWOLF.jpg",
@@ -1325,7 +1326,7 @@
           "subassets": []
         },
         {
-          "assetId": "129",
+          "edition": "129",
           "name": "PURPLEDRAGON",
           "images": {
             "primary": "https://xchain.io/img/cards/PURPLEDRAGON.jpg",
@@ -1335,7 +1336,7 @@
           "subassets": []
         },
         {
-          "assetId": "130",
+          "edition": "130",
           "name": "SIACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SIACARD.jpg",
@@ -1345,7 +1346,7 @@
           "subassets": []
         },
         {
-          "assetId": "131",
+          "edition": "131",
           "name": "SORCERERAKAM",
           "images": {
             "primary": "https://xchain.io/img/cards/SORCERERAKAM.jpg",
@@ -1355,7 +1356,7 @@
           "subassets": []
         },
         {
-          "assetId": "132",
+          "edition": "132",
           "name": "FACTOMCD",
           "images": {
             "primary": "https://xchain.io/img/cards/FACTOMCD.jpg",
@@ -1365,7 +1366,7 @@
           "subassets": []
         },
         {
-          "assetId": "133",
+          "edition": "133",
           "name": "MUSHROOMSIMP",
           "images": {
             "primary": "https://xchain.io/img/cards/MUSHROOMSIMP.jpg",
@@ -1375,7 +1376,7 @@
           "subassets": []
         },
         {
-          "assetId": "134",
+          "edition": "134",
           "name": "BTCMEETUPCD",
           "images": {
             "primary": "https://xchain.io/img/cards/BTCMEETUPCD.jpg",
@@ -1385,7 +1386,7 @@
           "subassets": []
         },
         {
-          "assetId": "135",
+          "edition": "135",
           "name": "BCINVESTCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/BCINVESTCARD.jpg",
@@ -1395,7 +1396,7 @@
           "subassets": []
         },
         {
-          "assetId": "136",
+          "edition": "136",
           "name": "JAYACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/JAYACARD.jpg",
@@ -1405,7 +1406,7 @@
           "subassets": []
         },
         {
-          "assetId": "137",
+          "edition": "137",
           "name": "ROYALGRIFFIN",
           "images": {
             "primary": "https://xchain.io/img/cards/ROYALGRIFFIN.jpg",
@@ -1415,7 +1416,7 @@
           "subassets": []
         },
         {
-          "assetId": "138",
+          "edition": "138",
           "name": "WEANARAASSAS",
           "images": {
             "primary": "https://xchain.io/img/cards/WEANARAASSAS.jpg",
@@ -1425,7 +1426,7 @@
           "subassets": []
         },
         {
-          "assetId": "139",
+          "edition": "139",
           "name": "ROYALDEER",
           "images": {
             "primary": "https://xchain.io/img/cards/ROYALDEER.jpg",
@@ -1435,7 +1436,7 @@
           "subassets": []
         },
         {
-          "assetId": "140",
+          "edition": "140",
           "name": "VISCULASCARA",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULASCARA.jpg",
@@ -1445,7 +1446,7 @@
           "subassets": []
         },
         {
-          "assetId": "141",
+          "edition": "141",
           "name": "VISCULADRAGO",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULADRAGO.jpg",
@@ -1455,7 +1456,7 @@
           "subassets": []
         },
         {
-          "assetId": "142",
+          "edition": "142",
           "name": "ELFMONSTERKI",
           "images": {
             "primary": "https://xchain.io/img/cards/ELFMONSTERKI.jpg",
@@ -1465,7 +1466,7 @@
           "subassets": []
         },
         {
-          "assetId": "143",
+          "edition": "143",
           "name": "GRAVIGASSCAR",
           "images": {
             "primary": "https://xchain.io/img/cards/GRAVIGASSCAR.jpg",
@@ -1475,7 +1476,7 @@
           "subassets": []
         },
         {
-          "assetId": "144",
+          "edition": "144",
           "name": "TROLLDEPTHS",
           "images": {
             "primary": "https://xchain.io/img/cards/TROLLDEPTHS.jpg",
@@ -1485,7 +1486,7 @@
           "subassets": []
         },
         {
-          "assetId": "145",
+          "edition": "145",
           "name": "CARNIATHCELE",
           "images": {
             "primary": "https://xchain.io/img/cards/CARNIATHCELE.jpg",
@@ -1495,7 +1496,7 @@
           "subassets": []
         },
         {
-          "assetId": "146",
+          "edition": "146",
           "name": "DEVASTATINGM",
           "images": {
             "primary": "https://xchain.io/img/cards/DEVASTATINGM.jpg",
@@ -1505,7 +1506,7 @@
           "subassets": []
         },
         {
-          "assetId": "147",
+          "edition": "147",
           "name": "PROSSESSORFL",
           "images": {
             "primary": "https://xchain.io/img/cards/PROSSESSORFL.jpg",
@@ -1515,7 +1516,7 @@
           "subassets": []
         },
         {
-          "assetId": "148",
+          "edition": "148",
           "name": "OUTRAGIOUSWA",
           "images": {
             "primary": "https://xchain.io/img/cards/OUTRAGIOUSWA.jpg",
@@ -1525,7 +1526,7 @@
           "subassets": []
         },
         {
-          "assetId": "149",
+          "edition": "149",
           "name": "SCORPIGAS",
           "images": {
             "primary": "https://xchain.io/img/cards/SCORPIGAS.jpg",
@@ -1535,7 +1536,7 @@
           "subassets": []
         },
         {
-          "assetId": "150",
+          "edition": "150",
           "name": "VISCULATICK",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULATICK.jpg",
@@ -1545,7 +1546,7 @@
           "subassets": []
         },
         {
-          "assetId": "151",
+          "edition": "151",
           "name": "GRIFFINMASTE",
           "images": {
             "primary": "https://xchain.io/img/cards/GRIFFINMASTE.jpg",
@@ -1555,7 +1556,7 @@
           "subassets": []
         },
         {
-          "assetId": "152",
+          "edition": "152",
           "name": "VIGILANTWATE",
           "images": {
             "primary": "https://xchain.io/img/cards/VIGILANTWATE.jpg",
@@ -1565,7 +1566,7 @@
           "subassets": []
         },
         {
-          "assetId": "153",
+          "edition": "153",
           "name": "DARKAODH",
           "images": {
             "primary": "https://xchain.io/img/cards/DARKAODH.jpg",
@@ -1575,7 +1576,7 @@
           "subassets": []
         },
         {
-          "assetId": "154",
+          "edition": "154",
           "name": "TRIDENTQUEEN",
           "images": {
             "primary": "https://xchain.io/img/cards/TRIDENTQUEEN.jpg",
@@ -1585,7 +1586,7 @@
           "subassets": []
         },
         {
-          "assetId": "155",
+          "edition": "155",
           "name": "CHARGEELITE",
           "images": {
             "primary": "https://xchain.io/img/cards/CHARGEELITE.jpg",
@@ -1595,7 +1596,7 @@
           "subassets": []
         },
         {
-          "assetId": "156",
+          "edition": "156",
           "name": "HEAVENLYSHEP",
           "images": {
             "primary": "https://xchain.io/img/cards/HEAVENLYSHEP.jpg",
@@ -1605,7 +1606,7 @@
           "subassets": []
         },
         {
-          "assetId": "157",
+          "edition": "157",
           "name": "SLASHINGCRIR",
           "images": {
             "primary": "https://xchain.io/img/cards/SLASHINGCRIR.jpg",
@@ -1615,7 +1616,7 @@
           "subassets": []
         },
         {
-          "assetId": "158",
+          "edition": "158",
           "name": "HUNGRYAMPHIB",
           "images": {
             "primary": "https://xchain.io/img/cards/HUNGRYAMPHIB.jpg",
@@ -1625,7 +1626,7 @@
           "subassets": []
         },
         {
-          "assetId": "159",
+          "edition": "159",
           "name": "PIRANHAMANIP",
           "images": {
             "primary": "https://xchain.io/img/cards/PIRANHAMANIP.jpg",
@@ -1635,7 +1636,7 @@
           "subassets": []
         },
         {
-          "assetId": "160",
+          "edition": "160",
           "name": "VISCULAMANTI",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULAMANTI.jpg",
@@ -1645,7 +1646,7 @@
           "subassets": []
         },
         {
-          "assetId": "161",
+          "edition": "161",
           "name": "CRYSTALREFIN",
           "images": {
             "primary": "https://xchain.io/img/cards/CRYSTALREFIN.jpg",
@@ -1655,7 +1656,7 @@
           "subassets": []
         },
         {
-          "assetId": "162",
+          "edition": "162",
           "name": "PRINCEOFWINT",
           "images": {
             "primary": "https://xchain.io/img/cards/PRINCEOFWINT.jpg",
@@ -1665,7 +1666,7 @@
           "subassets": []
         },
         {
-          "assetId": "163",
+          "edition": "163",
           "name": "GRIDCOINCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/GRIDCOINCARD.jpg",
@@ -1675,7 +1676,7 @@
           "subassets": []
         },
         {
-          "assetId": "164",
+          "edition": "164",
           "name": "ELFSAGE",
           "images": {
             "primary": "https://xchain.io/img/cards/ELFSAGE.jpg",
@@ -1685,7 +1686,7 @@
           "subassets": []
         },
         {
-          "assetId": "165",
+          "edition": "165",
           "name": "VISCULAFROZE",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULAFROZE.jpg",
@@ -1695,7 +1696,7 @@
           "subassets": []
         },
         {
-          "assetId": "166",
+          "edition": "166",
           "name": "DOGENHANCER",
           "images": {
             "primary": "https://xchain.io/img/cards/DOGENHANCER.jpg",
@@ -1705,7 +1706,7 @@
           "subassets": []
         },
         {
-          "assetId": "167",
+          "edition": "167",
           "name": "FAIRYTALESHA",
           "images": {
             "primary": "https://xchain.io/img/cards/FAIRYTALESHA.jpg",
@@ -1715,7 +1716,7 @@
           "subassets": []
         },
         {
-          "assetId": "168",
+          "edition": "168",
           "name": "CENTAURARCHE",
           "images": {
             "primary": "https://xchain.io/img/cards/CENTAURARCHE.jpg",
@@ -1725,7 +1726,7 @@
           "subassets": []
         },
         {
-          "assetId": "169",
+          "edition": "169",
           "name": "PRINCEAUTUMN",
           "images": {
             "primary": "https://xchain.io/img/cards/PRINCEAUTUMN.jpg",
@@ -1735,7 +1736,7 @@
           "subassets": []
         },
         {
-          "assetId": "170",
+          "edition": "170",
           "name": "PRINCESSSPRI",
           "images": {
             "primary": "https://xchain.io/img/cards/PRINCESSSPRI.jpg",
@@ -1745,7 +1746,7 @@
           "subassets": []
         },
         {
-          "assetId": "171",
+          "edition": "171",
           "name": "PRINCESSSUMM",
           "images": {
             "primary": "https://xchain.io/img/cards/PRINCESSSUMM.jpg",
@@ -1755,7 +1756,7 @@
           "subassets": []
         },
         {
-          "assetId": "172",
+          "edition": "172",
           "name": "WISETHRAL",
           "images": {
             "primary": "https://xchain.io/img/cards/WISETHRAL.jpg",
@@ -1765,7 +1766,7 @@
           "subassets": []
         },
         {
-          "assetId": "173",
+          "edition": "173",
           "name": "WIZARDTROLL",
           "images": {
             "primary": "https://xchain.io/img/cards/WIZARDTROLL.jpg",
@@ -1775,7 +1776,7 @@
           "subassets": []
         },
         {
-          "assetId": "174",
+          "edition": "174",
           "name": "ICEUNICORN",
           "images": {
             "primary": "https://xchain.io/img/cards/ICEUNICORN.jpg",
@@ -1785,7 +1786,7 @@
           "subassets": []
         },
         {
-          "assetId": "175",
+          "edition": "175",
           "name": "INFECTEDSORM",
           "images": {
             "primary": "https://xchain.io/img/cards/INFECTEDSORM.jpg",
@@ -1795,7 +1796,7 @@
           "subassets": []
         },
         {
-          "assetId": "176",
+          "edition": "176",
           "name": "QUEENSHEALER",
           "images": {
             "primary": "https://xchain.io/img/cards/QUEENSHEALER.jpg",
@@ -1805,7 +1806,7 @@
           "subassets": []
         },
         {
-          "assetId": "177",
+          "edition": "177",
           "name": "VIRBULOSELIT",
           "images": {
             "primary": "https://xchain.io/img/cards/VIRBULOSELIT.jpg",
@@ -1815,7 +1816,7 @@
           "subassets": []
         },
         {
-          "assetId": "178",
+          "edition": "178",
           "name": "WATERELFADMI",
           "images": {
             "primary": "https://xchain.io/img/cards/WATERELFADMI.jpg",
@@ -1825,7 +1826,7 @@
           "subassets": []
         },
         {
-          "assetId": "179",
+          "edition": "179",
           "name": "WATERSPEARFI",
           "images": {
             "primary": "https://xchain.io/img/cards/WATERSPEARFI.jpg",
@@ -1835,7 +1836,7 @@
           "subassets": []
         },
         {
-          "assetId": "180",
+          "edition": "180",
           "name": "ERAOL",
           "images": {
             "primary": "https://xchain.io/img/cards/ERAOL.jpg",
@@ -1845,7 +1846,7 @@
           "subassets": []
         },
         {
-          "assetId": "181",
+          "edition": "181",
           "name": "PAPIIGAS",
           "images": {
             "primary": "https://xchain.io/img/cards/PAPIIGAS.jpg",
@@ -1855,7 +1856,7 @@
           "subassets": []
         },
         {
-          "assetId": "182",
+          "edition": "182",
           "name": "YELLOWSHAMAN",
           "images": {
             "primary": "https://xchain.io/img/cards/YELLOWSHAMAN.jpg",
@@ -1865,7 +1866,7 @@
           "subassets": []
         },
         {
-          "assetId": "183",
+          "edition": "183",
           "name": "HARBINGERDEA",
           "images": {
             "primary": "https://xchain.io/img/cards/HARBINGERDEA.jpg",
@@ -1875,7 +1876,7 @@
           "subassets": []
         },
         {
-          "assetId": "184",
+          "edition": "184",
           "name": "DIVINEKNIGHT",
           "images": {
             "primary": "https://xchain.io/img/cards/DIVINEKNIGHT.jpg",
@@ -1885,7 +1886,7 @@
           "subassets": []
         },
         {
-          "assetId": "185",
+          "edition": "185",
           "name": "ICEGOLEM",
           "images": {
             "primary": "https://xchain.io/img/cards/ICEGOLEM.jpg",
@@ -1895,7 +1896,7 @@
           "subassets": []
         },
         {
-          "assetId": "186",
+          "edition": "186",
           "name": "VISCULABEETL",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULABEETL.jpg",
@@ -1905,7 +1906,7 @@
           "subassets": []
         },
         {
-          "assetId": "187",
+          "edition": "187",
           "name": "DARKCHALCOSI",
           "images": {
             "primary": "https://xchain.io/img/cards/DARKCHALCOSI.jpg",
@@ -1915,7 +1916,7 @@
           "subassets": []
         },
         {
-          "assetId": "188",
+          "edition": "188",
           "name": "ENCHANTEDSHI",
           "images": {
             "primary": "https://xchain.io/img/cards/ENCHANTEDSHI.jpg",
@@ -1925,7 +1926,7 @@
           "subassets": []
         },
         {
-          "assetId": "189",
+          "edition": "189",
           "name": "CARNIATHCREA",
           "images": {
             "primary": "https://xchain.io/img/cards/CARNIATHCREA.jpg",
@@ -1935,7 +1936,7 @@
           "subassets": []
         },
         {
-          "assetId": "190",
+          "edition": "190",
           "name": "OVERARMEDDWA",
           "images": {
             "primary": "https://xchain.io/img/cards/OVERARMEDDWA.jpg",
@@ -1945,7 +1946,7 @@
           "subassets": []
         },
         {
-          "assetId": "191",
+          "edition": "191",
           "name": "POWERSCATTER",
           "images": {
             "primary": "https://xchain.io/img/cards/POWERSCATTER.jpg",
@@ -1955,7 +1956,7 @@
           "subassets": []
         },
         {
-          "assetId": "192",
+          "edition": "192",
           "name": "WARRIORLUMIN",
           "images": {
             "primary": "https://xchain.io/img/cards/WARRIORLUMIN.jpg",
@@ -1965,7 +1966,7 @@
           "subassets": []
         },
         {
-          "assetId": "193",
+          "edition": "193",
           "name": "FROZENCOLOSS",
           "images": {
             "primary": "https://xchain.io/img/cards/FROZENCOLOSS.jpg",
@@ -1975,7 +1976,7 @@
           "subassets": []
         },
         {
-          "assetId": "194",
+          "edition": "194",
           "name": "LEVIOTHAN",
           "images": {
             "primary": "https://xchain.io/img/cards/LEVIOTHAN.jpg",
@@ -1985,7 +1986,7 @@
           "subassets": []
         },
         {
-          "assetId": "195",
+          "edition": "195",
           "name": "VISCULACENTI",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULACENTI.jpg",
@@ -1995,7 +1996,7 @@
           "subassets": []
         },
         {
-          "assetId": "196",
+          "edition": "196",
           "name": "VISCULAFIREF",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULAFIREF.jpg",
@@ -2005,7 +2006,7 @@
           "subassets": []
         },
         {
-          "assetId": "197",
+          "edition": "197",
           "name": "WARRIOROBSCU",
           "images": {
             "primary": "https://xchain.io/img/cards/WARRIOROBSCU.jpg",
@@ -2015,7 +2016,7 @@
           "subassets": []
         },
         {
-          "assetId": "198",
+          "edition": "198",
           "name": "DEALERFLAMES",
           "images": {
             "primary": "https://xchain.io/img/cards/DEALERFLAMES.jpg",
@@ -2025,7 +2026,7 @@
           "subassets": []
         },
         {
-          "assetId": "199",
+          "edition": "199",
           "name": "DEVASTATINGT",
           "images": {
             "primary": "https://xchain.io/img/cards/DEVASTATINGT.jpg",
@@ -2035,7 +2036,7 @@
           "subassets": []
         },
         {
-          "assetId": "200",
+          "edition": "200",
           "name": "ITLANKINGGAR",
           "images": {
             "primary": "https://xchain.io/img/cards/ITLANKINGGAR.jpg",
@@ -2045,7 +2046,7 @@
           "subassets": []
         },
         {
-          "assetId": "201",
+          "edition": "201",
           "name": "REINFORCEDOC",
           "images": {
             "primary": "https://xchain.io/img/cards/REINFORCEDOC.jpg",
@@ -2055,7 +2056,7 @@
           "subassets": []
         },
         {
-          "assetId": "202",
+          "edition": "202",
           "name": "VISCULALADYB",
           "images": {
             "primary": "https://xchain.io/img/cards/VISCULALADYB.jpg",
@@ -2065,7 +2066,7 @@
           "subassets": []
         },
         {
-          "assetId": "203",
+          "edition": "203",
           "name": "CARDMERCHANT",
           "images": {
             "primary": "https://xchain.io/img/cards/CARDMERCHANT.jpg",
@@ -2075,7 +2076,7 @@
           "subassets": []
         },
         {
-          "assetId": "204",
+          "edition": "204",
           "name": "CORRUPTEDTRO",
           "images": {
             "primary": "https://xchain.io/img/cards/CORRUPTEDTRO.jpg",
@@ -2085,7 +2086,7 @@
           "subassets": []
         },
         {
-          "assetId": "205",
+          "edition": "205",
           "name": "GUARDIANSOUR",
           "images": {
             "primary": "https://xchain.io/img/cards/GUARDIANSOUR.jpg",
@@ -2095,7 +2096,7 @@
           "subassets": []
         },
         {
-          "assetId": "206",
+          "edition": "206",
           "name": "ITLANEXPERTD",
           "images": {
             "primary": "https://xchain.io/img/cards/ITLANEXPERTD.jpg",
@@ -2105,7 +2106,7 @@
           "subassets": []
         },
         {
-          "assetId": "207",
+          "edition": "207",
           "name": "MONSTERDEPTH",
           "images": {
             "primary": "https://xchain.io/img/cards/MONSTERDEPTH.jpg",
@@ -2115,7 +2116,7 @@
           "subassets": []
         },
         {
-          "assetId": "208",
+          "edition": "208",
           "name": "QUEENSVIRBUL",
           "images": {
             "primary": "https://xchain.io/img/cards/QUEENSVIRBUL.jpg",
@@ -2125,7 +2126,7 @@
           "subassets": []
         },
         {
-          "assetId": "209",
+          "edition": "209",
           "name": "REINFORCEMEN",
           "images": {
             "primary": "https://xchain.io/img/cards/REINFORCEMEN.jpg",
@@ -2135,7 +2136,7 @@
           "subassets": []
         },
         {
-          "assetId": "210",
+          "edition": "210",
           "name": "TRANSCENDEN",
           "images": {
             "primary": "https://xchain.io/img/cards/TRANSCENDEN.jpg",
@@ -2145,7 +2146,7 @@
           "subassets": []
         },
         {
-          "assetId": "211",
+          "edition": "211",
           "name": "DISTRICTOXCD",
           "images": {
             "primary": "https://xchain.io/img/cards/DISTRICTOXCD.jpg",
@@ -2155,7 +2156,7 @@
           "subassets": []
         },
         {
-          "assetId": "212",
+          "edition": "212",
           "name": "TROLLBERSERK",
           "images": {
             "primary": "https://xchain.io/img/cards/TROLLBERSERK.jpg",
@@ -2165,7 +2166,7 @@
           "subassets": []
         },
         {
-          "assetId": "213",
+          "edition": "213",
           "name": "SOGHALLOWEEN",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGHALLOWEEN.jpg",
@@ -2175,7 +2176,7 @@
           "subassets": []
         },
         {
-          "assetId": "214",
+          "edition": "214",
           "name": "DRACOMANCER",
           "images": {
             "primary": "https://xchain.io/img/cards/DRACOMANCER.jpg",
@@ -2185,7 +2186,7 @@
           "subassets": []
         },
         {
-          "assetId": "215",
+          "edition": "215",
           "name": "CAMILACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/CAMILACARD.jpg",
@@ -2195,7 +2196,7 @@
           "subassets": []
         },
         {
-          "assetId": "216",
+          "edition": "216",
           "name": "DIMITRICARD",
           "images": {
             "primary": "https://xchain.io/img/cards/DIMITRICARD.jpg",
@@ -2205,7 +2206,7 @@
           "subassets": []
         },
         {
-          "assetId": "217",
+          "edition": "217",
           "name": "LYSANDERCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/LYSANDERCARD.jpg",
@@ -2215,7 +2216,7 @@
           "subassets": []
         },
         {
-          "assetId": "218",
+          "edition": "218",
           "name": "MAYACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/MAYACARD.jpg",
@@ -2225,7 +2226,7 @@
           "subassets": []
         },
         {
-          "assetId": "219",
+          "edition": "219",
           "name": "SELENACARD",
           "images": {
             "primary": "https://xchain.io/img/cards/SELENACARD.jpg",
@@ -2235,7 +2236,7 @@
           "subassets": []
         },
         {
-          "assetId": "220",
+          "edition": "220",
           "name": "BALABASTER",
           "images": {
             "primary": "https://xchain.io/img/cards/BALABASTER.jpg",
@@ -2245,7 +2246,7 @@
           "subassets": []
         },
         {
-          "assetId": "221",
+          "edition": "221",
           "name": "CALABASTER",
           "images": {
             "primary": "https://xchain.io/img/cards/CALABASTER.jpg",
@@ -2255,7 +2256,7 @@
           "subassets": []
         },
         {
-          "assetId": "222",
+          "edition": "222",
           "name": "EALABASTER",
           "images": {
             "primary": "https://xchain.io/img/cards/EALABASTER.jpg",
@@ -2265,7 +2266,7 @@
           "subassets": []
         },
         {
-          "assetId": "223",
+          "edition": "223",
           "name": "LALABASTER",
           "images": {
             "primary": "https://xchain.io/img/cards/LALABASTER.jpg",
@@ -2285,7 +2286,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "224",
+          "edition": "224",
           "name": "BADROMANCE",
           "images": {
             "primary": "https://xchain.io/img/cards/BADROMANCE.jpg",
@@ -2295,7 +2296,7 @@
           "subassets": []
         },
         {
-          "assetId": "225",
+          "edition": "225",
           "name": "SPRINGSDAWN",
           "images": {
             "primary": "https://xchain.io/img/cards/SPRINGSDAWN.jpg",
@@ -2305,7 +2306,7 @@
           "subassets": []
         },
         {
-          "assetId": "226",
+          "edition": "226",
           "name": "LRIKTHEFIGHT",
           "images": {
             "primary": "https://xchain.io/img/cards/LRIKTHEFIGHT.jpg",
@@ -2315,7 +2316,7 @@
           "subassets": []
         },
         {
-          "assetId": "227",
+          "edition": "227",
           "name": "ETHERMAGE",
           "images": {
             "primary": "https://xchain.io/img/cards/ETHERMAGE.jpg",
@@ -2325,7 +2326,7 @@
           "subassets": []
         },
         {
-          "assetId": "228",
+          "edition": "228",
           "name": "ORCSASSAULT",
           "images": {
             "primary": "https://xchain.io/img/cards/ORCSASSAULT.jpg",
@@ -2335,7 +2336,7 @@
           "subassets": []
         },
         {
-          "assetId": "229",
+          "edition": "229",
           "name": "GUMMYYUMMY",
           "images": {
             "primary": "https://xchain.io/img/cards/GUMMYYUMMY.jpg",
@@ -2345,7 +2346,7 @@
           "subassets": []
         },
         {
-          "assetId": "230",
+          "edition": "230",
           "name": "POLYMATHCARD",
           "images": {
             "primary": "https://xchain.io/img/cards/POLYMATHCARD.jpg",
@@ -2365,7 +2366,7 @@
       "description": "",
       "assets": [
         {
-          "assetId": "231",
+          "edition": "231",
           "name": "SOGWHTDRAGON",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGWHTDRAGON.jpg",
@@ -2375,7 +2376,7 @@
           "subassets": []
         },
         {
-          "assetId": "232",
+          "edition": "232",
           "name": "SOGWEREWOLF",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGWEREWOLF.jpg",
@@ -2385,7 +2386,7 @@
           "subassets": []
         },
         {
-          "assetId": "233",
+          "edition": "233",
           "name": "SOGBCYBOX",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGBCYBOX.jpg",
@@ -2395,7 +2396,7 @@
           "subassets": []
         },
         {
-          "assetId": "234",
+          "edition": "234",
           "name": "SOGJANUS",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGJANUS.jpg",
@@ -2405,7 +2406,7 @@
           "subassets": []
         },
         {
-          "assetId": "235",
+          "edition": "235",
           "name": "FIERCERABBIT",
           "images": {
             "primary": "https://xchain.io/img/cards/FIERCERABBIT.jpg",
@@ -2415,7 +2416,7 @@
           "subassets": []
         },
         {
-          "assetId": "236",
+          "edition": "236",
           "name": "SOGWILDHORSE",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGWILDHORSE.jpg",
@@ -2425,7 +2426,7 @@
           "subassets": []
         },
         {
-          "assetId": "237",
+          "edition": "237",
           "name": "BEARSPIRIT",
           "images": {
             "primary": "https://xchain.io/img/cards/BEARSPIRIT.jpg",
@@ -2435,7 +2436,7 @@
           "subassets": []
         },
         {
-          "assetId": "238",
+          "edition": "238",
           "name": "CROWWARRIOR",
           "images": {
             "primary": "https://xchain.io/img/cards/CROWWARRIOR.jpg",
@@ -2445,7 +2446,7 @@
           "subassets": []
         },
         {
-          "assetId": "239",
+          "edition": "239",
           "name": "LIGHTWARRIOR",
           "images": {
             "primary": "https://xchain.io/img/cards/LIGHTWARRIOR.jpg",
@@ -2455,7 +2456,7 @@
           "subassets": []
         },
         {
-          "assetId": "240",
+          "edition": "240",
           "name": "THEWATCHER",
           "images": {
             "primary": "https://xchain.io/img/cards/THEWATCHER.jpg",
@@ -2465,7 +2466,7 @@
           "subassets": []
         },
         {
-          "assetId": "241",
+          "edition": "241",
           "name": "SOGHARELORD",
           "images": {
             "primary": "https://xchain.io/img/cards/SOGHARELORD.jpg",
@@ -2475,7 +2476,7 @@
           "subassets": []
         },
         {
-          "assetId": "242",
+          "edition": "242",
           "name": "BROTHERFOX",
           "images": {
             "primary": "https://xchain.io/img/cards/BROTHERFOX.jpg",
@@ -2485,7 +2486,7 @@
           "subassets": []
         },
         {
-          "assetId": "243",
+          "edition": "243",
           "name": "WTRSUCCUBUS",
           "images": {
             "primary": "https://xchain.io/img/cards/WTRSUCCUBUS.jpg",
@@ -2495,7 +2496,7 @@
           "subassets": []
         },
         {
-          "assetId": "244",
+          "edition": "244",
           "name": "KINGHURIENK",
           "images": {
             "primary": "https://xchain.io/img/cards/KINGHURIENK.jpg",
@@ -2505,7 +2506,7 @@
           "subassets": []
         },
         {
-          "assetId": "245",
+          "edition": "245",
           "name": "MYSTRSMAID",
           "images": {
             "primary": "https://xchain.io/img/cards/MYSTRSMAID.jpg",
@@ -2515,7 +2516,7 @@
           "subassets": []
         },
         {
-          "assetId": "246",
+          "edition": "246",
           "name": "WISEWIZARD",
           "images": {
             "primary": "https://xchain.io/img/cards/WISEWIZARD.jpg",
