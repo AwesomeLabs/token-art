@@ -353,42 +353,42 @@
       const generateJSON = () => {
         let setsJson = generateSetsJson();
 
-        let externalLinksJson = [];
+        let externalLinksJson = {};
         let websiteUrl = document.getElementById(
           "collection-url-website"
         ).value;
         if (websiteUrl) {
-          externalLinksJson.push({ website: websiteUrl });
+          externalLinksJson.website = websiteUrl;
         }
         let twitterUrl = document.getElementById(
           "collection-url-twitter"
         ).value;
         if (twitterUrl) {
-          externalLinksJson.push({ twitter: twitterUrl });
+          externalLinksJson.twitter = twitterUrl;
         }
         let instagramUrl = document.getElementById(
           "collection-url-instagram"
         ).value;
         if (instagramUrl) {
-          externalLinksJson.push({ instagram: instagramUrl });
+          externalLinksJson.instagram = instagramUrl;
         }
         let youtubeUrl = document.getElementById(
           "collection-url-youtube"
         ).value;
         if (youtubeUrl) {
-          externalLinksJson.push({ youtube: youtubeUrl });
+          externalLinksJson.youtube = youtubeUrl;
         }
         let discordUrl = document.getElementById(
           "collection-url-discord"
         ).value;
         if (discordUrl) {
-          externalLinksJson.push({ discord: discordUrl });
+          externalLinksJson.discord = discordUrl;
         }
         let telegramUrl = document.getElementById(
           "collection-url-telegram"
         ).value;
         if (telegramUrl) {
-          externalLinksJson.push({ telegram: telegramUrl });
+          externalLinksJson.telegram = telegramUrl;
         }
 
         let jsonData = {
