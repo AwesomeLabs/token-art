@@ -1,0 +1,43 @@
+{
+  "chain": "dogeparty",
+  "name": "TrippyTokens",
+  "images": {
+    "avatar": "",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "",
+    "twitter": "",
+    "instagram": "",
+    "discord": "",
+    "telegram": ""
+  },
+  "sets": [
+    {
+      "name": "Series 1",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "",
+          "images": {
+            "primary": "",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    }
+  ]
+}
