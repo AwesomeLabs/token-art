@@ -1,22 +1,23 @@
 {
   "chain": "counterparty",
-  "name": "PunkFrens",
+  "name": "Punk Frens",
   "images": {
     "avatar": "https://d3vy6llg1tejsu.cloudfront.net/images/184.png",
     "banner": ""
   },
-  "description": "Counterparty's first generative art collection.",
+  "description": "Punk Frens are Bitcoin's firest first generative PFP collection embedded on the chain via Counterparty.",
   "externalLinks": {
-    "website": "https://punkfrens.com"
+    "website": "https://punkfrens.com",
+    "twitter": "https://twitter.com/punk_frens"
   },
   "sets": [
     {
-      "name": "PUNK FRENS",
+      "name": "Punk Frens",
       "images": {
         "avatar": "https://d3vy6llg1tejsu.cloudfront.net/images/184.png",
         "banner": ""
       },
-      "description": "Counterparty's first generative art collection.",
+      "description": "",
       "assets": [
         {
           "edition": "PUNK FREN #1",
