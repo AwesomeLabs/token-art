@@ -2,42 +2,335 @@
   "chain": "dogeparty",
   "name": "TrippyTokens",
   "images": {
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://i.imgur.com/xHvQzeb.png",
+    "banner": "https://i.imgur.com/yEecnqI.png"
   },
-  "description": "",
+  "description": "Psychedelic Trippy Crypto-Art on Dogeparty",
   "externalLinks": {
-    "website": "",
-    "twitter": "",
-    "instagram": "",
-    "discord": "",
-    "telegram": ""
+    "website": "https://trippytokens.wordpress.com/",
+    "twitter": "https://twitter.com/TrippyTokens",
+    "instagram": "https://www.instagram.com/trippytokens/",
+    "telegram": "https://t.me/trippytokens"
   },
   "sets": [
     {
       "name": "Series 1",
       "images": {
-        "avatar": "",
-        "banner": ""
+        "avatar": "https://i.imgur.com/xHvQzeb.png",
+        "banner": "https://i.imgur.com/yEecnqI.png"
       },
       "description": "",
       "assets": [
         {
           "edition": "Card 1",
-          "name": "",
+          "name": "SOTRIPPY",
           "images": {
-            "primary": "",
-            "other": [""]
+            "primary": "https://i.imgur.com/rQZiZHb.jpg",
+            "other": []
           },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
+          "artists": []
+        },
+        {
+          "edition": "Card 2",
+          "name": "DOGETRIPDUDE",
+          "images": {
+            "primary": "https://i.imgur.com/lc08fcw.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 3",
+          "name": "FOCUSLSD",
+          "images": {
+            "primary": "https://i.imgur.com/97tLoV7.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 4",
+          "name": "EATME",
+          "images": {
+            "primary": "https://i.imgur.com/sjluqMz.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "TRIPPERDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/gDA1qkU.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "NOTALONE",
+          "images": {
+            "primary": "https://i.imgur.com/z7HmAAq.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "SALVIDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/Ho1yGbZ.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "GREENDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/MHOhdTH.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 9",
+          "name": "TRIANGLEDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/OouTQvR.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 10",
+          "name": "SPACETRIP",
+          "images": {
+            "primary": "https://arweave.net/jzLLEJKXMKvtsdvZrwSBUFcZQxma0dqM3c2tGxzUfHI/5s0fmw_image.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 11",
+          "name": "WEBETRIPPY",
+          "images": {
+            "primary": "https://i.imgur.com/1xdGH4E.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 12",
+          "name": "DOGEISFINE",
+          "images": {
+            "primary": "https://i.imgur.com/x2qMzwz.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 13",
+          "name": "DOGEISFINEX",
+          "images": {
+            "primary": "https://i.imgur.com/LInHe61.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 14",
+          "name": "TRIPPINGMFER",
+          "images": {
+            "primary": "https://i.imgur.com/DbGL8FG.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 15",
+          "name": "MUCHTRIPPY",
+          "images": {
+            "primary": "https://i.imgur.com/aVHPFwC.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 16",
+          "name": "SKULLNPURPLE",
+          "images": {
+            "primary": "https://i.imgur.com/dvtsY5B.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 17",
+          "name": "TRIPPYTRUNKR",
+          "images": {
+            "primary": "https://i.imgur.com/0V30AYE.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 18",
+          "name": "NEEDFORWEED",
+          "images": {
+            "primary": "https://i.imgur.com/EKDzVPg.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 19",
+          "name": "SHROOMLIFE",
+          "images": {
+            "primary": "https://i.imgur.com/NwYhIpu.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 20",
+          "name": "PEPENDALA",
+          "images": {
+            "primary": "https:\\/\\/i.imgur.com\\/zpS0u7q.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 21",
+          "name": "MANDOGELA",
+          "images": {
+            "primary": "https://i.imgur.com/KUTQxEt.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 22",
+          "name": "A9903107880931656000",
+          "images": {
+            "primary": "https://i.imgur.com/wPJQNqj.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 23",
+          "name": "HOLYBADTRIP",
+          "images": {
+            "primary": "https://i.imgur.com/SJLALim.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 24",
+          "name": "BADTRIP",
+          "images": {
+            "primary": "https://i.imgur.com/Vb9BY0g.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 25",
+          "name": "TOOMUCH",
+          "images": {
+            "primary": "https://i.imgur.com/M7gQXCv.gif",
+            "other": []
+          },
+          "artists": []
         }
-      ]
+      ],
+      "subAssets": []
+    },
+    {
+      "name": "Series 2",
+      "images": {
+        "avatar": "https://i.imgur.com/xHvQzeb.png",
+        "banner": "https://i.imgur.com/yEecnqI.png"
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "TRIPPYDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/fTOOt3r.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 2",
+          "name": "DELIRIUM",
+          "images": {
+            "primary": "https://i.imgur.com/h02BFce.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 3",
+          "name": "MARDISIX",
+          "images": {
+            "primary": "https://i.imgur.com/pBLDiwi.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 4",
+          "name": "ENDOFTIMES",
+          "images": {
+            "primary": "https://i.imgur.com/bLF2odN.gif",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "THEREHELAYS",
+          "images": {
+            "primary": "https://xpkpu4pqgcbcnxd2a4ycvy6mwfzltj5pdst5lqs7rhrl7vjlktpa.arweave.net/u9T6cfAwgibcegcwKuPMsXK5p68cp9XCX4niv9UrVN4/wibus2_hires.jpeg",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "MYSTICMOTIF",
+          "images": {
+            "primary": "https://eiz5tcprklkhklku4rg2q3icdpkxy5idobwythjxihurypb4dl4a.arweave.net/IjPZifFS1HUtVORNqG0CG9V8dQNwbYmdN0HpHDw8Gvg/i38ozz_image.JPG",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "FUNGI",
+          "images": {
+            "primary": "https://3kq3yfobkzopvvbz3xgqrduhfsmwzfediwplybtpvofjocveyk4a.arweave.net/2qG8FcFWXPrUOd3NCI6HLJlslINFnrwGb6uKlwqkwrg/wubh92_image.jpeg",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "IAMALICE",
+          "images": {
+            "primary": "https://i.imgur.com/kI2QWX9.jpeg",
+            "other": []
+          },
+          "artists": []
+        }
+      ],
+      "subAssets": []
     }
   ]
 }
