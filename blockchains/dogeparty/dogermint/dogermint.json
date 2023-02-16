@@ -2,42 +2,294 @@
   "chain": "dogeparty",
   "name": "Dogermint",
   "images": {
-    "avatar": "",
-    "banner": ""
+    "avatar": "https://dogermint.com/wp-content/uploads/2023/02/dogermint-avatar.png",
+    "banner": "https://dogermint.com/wp-content/uploads/2023/02/dogermint-logo-banner-2.png"
   },
-  "description": "",
+  "description": "A collection of Dogeparty assets minted in 2014 featuring artwork attached in 2021-2022.",
   "externalLinks": {
-    "website": "",
-    "twitter": "",
-    "instagram": "",
-    "discord": "",
-    "telegram": ""
+    "website": "https://dogermint.com/",
+    "twitter": "https://twitter.com/dogermint",
+    "telegram": "https://t.me/dogermint"
   },
   "sets": [
     {
-      "name": "Series 1",
+      "name": "Main Collection",
       "images": {
-        "avatar": "",
-        "banner": ""
+        "avatar": "https://dogermint.com/wp-content/uploads/2023/02/dogermint-avatar.png",
+        "banner": "https://dogermint.com/wp-content/uploads/2023/02/dogermint-logo-banner-2.png"
       },
-      "description": "",
+      "description": "Dogermint tokens with original artwork.",
       "assets": [
         {
           "edition": "",
-          "name": "",
+          "name": "BENGALS",
           "images": {
-            "primary": "",
-            "other": [""]
+            "primary": "https://i.imgur.com/kEpvAQs.png",
+            "other": []
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Dogermint",
+              "link": "https://dogermint.com/bengals/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
             }
-          ],
-          "subAssets": []
+          ]
+        },
+        {
+          "edition": "",
+          "name": "BIKE",
+          "images": {
+            "primary": "https://i.imgur.com/stI6iBK.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/bike/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "Fiat Series, Token 3",
+          "name": "DOGEDIME",
+          "images": {
+            "primary": "https://i.imgur.com/3yEx8hB.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/dogedime/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "Fiat Series, Token 2",
+          "name": "DOGEDOLLAR",
+          "images": {
+            "primary": "https://i.imgur.com/oe58wcp.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/dogedollar/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "Fiat Series, Token 4",
+          "name": "DOGENICKEL",
+          "images": {
+            "primary": "https://i.imgur.com/qusEVcJ.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/dogenickel/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "Fiat Series, Token 5",
+          "name": "DOGEPENNY",
+          "images": {
+            "primary": "https://i.imgur.com/YCjGVWT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/dogepenny/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "Fiat Series, Token 1",
+          "name": "DOGEQUARTER",
+          "images": {
+            "primary": "https://i.imgur.com/jIE0AIg.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/dogequarter/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "",
+          "name": "GOLDENSHIBE",
+          "images": {
+            "primary": "https://i.imgur.com/bnYPqhX.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/goldenshibe/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "",
+          "name": "HAPPYDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/GiVE3br.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/happydoge/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
+        },
+        {
+          "edition": "",
+          "name": "SHITCOIN",
+          "images": {
+            "primary": "https://i.imgur.com/AgzTcvS.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/shitcoin/"
+            }
+          ]
+        },
+        {
+          "edition": "",
+          "name": "STELLA",
+          "images": {
+            "primary": "https://i.imgur.com/q0gorud.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/stella/"
+            },
+            {
+              "name": "Rocco",
+              "link": "https://twitter.com/ROCCOmeta01"
+            }
+          ]
+        },
+        {
+          "edition": "",
+          "name": "SUPERSHIBE",
+          "images": {
+            "primary": "https://i.imgur.com/1gCtHsr.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dogermint",
+              "link": "https://dogermint.com/supershibe/"
+            },
+            {
+              "name": "JoBiz",
+              "link": "https://www.instagram.com/jobiz.tattoo/"
+            }
+          ]
         }
-      ]
+      ],
+      "subAssets": []
+    },
+    {
+      "name": "Ancillary Collection",
+      "images": {
+        "avatar": "https://dogermint.com/wp-content/uploads/2023/02/shiba-inu-drawing-avatar.png",
+        "banner": "https://dogermint.com/wp-content/uploads/2023/02/dogermint-logo-banner-2.png"
+      },
+      "description": "Dogermint tokens with non-original artwork.",
+      "assets": [
+        {
+          "edition": "",
+          "name": "COUNTERDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/P6ugSGF.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "",
+          "name": "DODGERDOGE",
+          "images": {
+            "primary": "https://i.imgur.com/Hu8k9py.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "",
+          "name": "HAPPYSHIBE",
+          "images": {
+            "primary": "https://i.imgur.com/o6HhkJg.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "",
+          "name": "MILLERLIGHT",
+          "images": {
+            "primary": "https://i.imgur.com/3U6InaB.png",
+            "other": []
+          },
+          "artists": []
+        },
+        {
+          "edition": "",
+          "name": "WEBCOIN",
+          "images": {
+            "primary": "https://i.imgur.com/TybowSR.png",
+            "other": []
+          },
+          "artists": []
+        }
+      ],
+      "subAssets": []
     }
   ]
 }
