@@ -2,16 +2,16 @@
   "chain": "counterparty",
   "name": "Rare Ordinal Directory",
   "images": {
-    "avatar": "",
+    "avatar": "https://i.imgur.com/Cg2KZMc.png",
     "banner": ""
   },
   "description": "",
   "externalLinks": {
-    "website": "",
-    "twitter": "",
+    "website": "https://rareordinal.directory",
+    "twitter": "https://twitter.com/RareOrdinals",
     "instagram": "",
     "discord": "",
-    "telegram": ""
+    "telegram": "https://t.me/+qIdmbUk_m6ZmZTgx"
   },
   "sets": [
     {
@@ -23,15 +23,15 @@
       "description": "",
       "assets": [
         {
-          "edition": "",
-          "name": "",
+          "edition": "Card 1",
+          "name": "ORDINALPEPE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/eTPAq_EN_lL4UfpxjRCL1oLupkVcMZfYlIG_3xS47mQ/ORDINALPEPE.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "Cryptonati feat. droplister",
               "link": ""
             }
           ],
