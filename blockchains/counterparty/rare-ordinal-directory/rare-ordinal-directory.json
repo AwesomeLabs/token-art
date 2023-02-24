@@ -1,0 +1,43 @@
+{
+  "chain": "counterparty",
+  "name": "Rare Ordinal Directory",
+  "images": {
+    "avatar": "",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "",
+    "twitter": "",
+    "instagram": "",
+    "discord": "",
+    "telegram": ""
+  },
+  "sets": [
+    {
+      "name": "Series 1",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "",
+          "name": "",
+          "images": {
+            "primary": "",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    }
+  ]
+}
