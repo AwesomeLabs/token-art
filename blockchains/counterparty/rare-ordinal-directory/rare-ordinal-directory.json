@@ -41,7 +41,7 @@
           "edition": "Card 2",
           "name": "INSCRIBEPEPE",
           "images": {
-            "primary": "https://arweave.net/58iosXJ-qQkLAKWX-rbhnfkNr0oSxiWHCEpp3wfldbw/INSCRIBEPEPE.png",
+            "primary": "	https://arweave.net/58iosXJ-qQkLAKWX-rbhnfkNr0oSxiWHCEpp3wfldbw/INSCRIBEPEPE.png",
             "other": [""]
           },
           "artists": [
@@ -99,9 +99,9 @@
         }, 	
         {
           "edition": "Card 6",
-          "name": "",
+          "name": "FUNDEDPEPE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/z0Vn36NKxRCFd-e0BOwjBACVMhLxYOrShNoQboX7CnI/FUNDEDPEPE.jpg",
             "other": [""]
           },
           "artists": [
@@ -114,39 +114,39 @@
         }, 	
         {
           "edition": "Card 7",
-          "name": "",
+          "name": "ORDINALCASH",
           "images": {
-            "primary": "",
+            "primary": "http://rareordinal.directory/wp-content/uploads/2023/02/ORDINALCASH.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "DEFSTALKR",
+              "link": "https://DEFSTALKR.xyz"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 8",
-          "name": "",
+          "name": "BLACKLISTOR",
           "images": {
-            "primary": "",
+            "primary": "https://jj2wcjqzxkkfrcomxbbjwsxujttwgwvpp3adifro4lcnt2r5ta5a.arweave.net/SnVhJhm6lFiJzLhCm0r0TOdjWq9-wDQWLuLE2eo9mDo/BLACKLISTOR.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Yoshiro Furukawa",
+              "link": "https://t.me/TokyoYoshi"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 9",
-          "name": "",
+          "name": "NONFINANCIAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/TknB0K1mS5eKJ7dGb0xf5hs1rMbVP-gZYnCGGWZWrMQ/nonfinancial.jpg",
             "other": [""]
           },
           "artists": [
@@ -159,9 +159,9 @@
         }, 	
         {
           "edition": "Card 10",
-          "name": "",
+          "name": "RUGPAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/KTlIwhK8rLwS4ryRNZRTZHhqiLyQMvWdo32UlIO70BQ/RUGPAL.jpg",
             "other": [""]
           },
           "artists": [
@@ -174,29 +174,29 @@
         }, 	
         {
           "edition": "Card 11",
-          "name": "",
+          "name": "LORDINALKEK",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/SLo3549kq7gWy1Vq0RTE-FxnGjnF36tnQUoCVTapeik/40j0w8_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "GMONEY",
+              "link": "https://twitter.com/pappyG45"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 12",
-          "name": "",
+          "name": "SIRORDALOT",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/Q5rTv9T3FO1e-NPELU6mRKnBcTCB3GMqrbTH8z6O_rU/yuprxb_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "MEMECONSCIOUS",
               "link": ""
             }
           ],
@@ -204,39 +204,39 @@
         }, 	
         {
           "edition": "Card 13",
-          "name": "",
+          "name": "CASEYRARE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/Jro0TNNRuboE-w4m6-Zkkego4l27A1EhLNoh-s_Rnmk/uu5ij5_image.PNG",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Crazy Zapped",
+              "link": "www.crazyzapped.com"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 14",
-          "name": "",
+          "name": "OFORORDINAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/f5x9F73KVqI6yIgD4nFSmO9VRxoTReY3rCFzp3V55Ag/cyn5vg_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "BucaPunk",
+              "link": "https://www.bucapunk.com/"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 15",
-          "name": "",
+          "name": "ORDINALGTSE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/z3WecUsdcNQqJXS4fWrKj4LRACpnKRhuTaZ5E1IeClM/ordinalsgoatse.jpg",
             "other": [""]
           },
           "artists": [
@@ -249,39 +249,39 @@
         }, 	
         {
           "edition": "Card 16",
-          "name": "",
+          "name": "PEEKSCRIBE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/cl2Mdko2O6ozpduBqUdGVXIio0VgX1ZN139DPlTuiVY/39cnbj_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "FWD",
+              "link": "https://twitter.com/fabooowy"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 17",
-          "name": "",
+          "name": "ORDINALTRUMP",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/UxWiSS0uAyIc3d8xEAp0lWicVV0lTfs5Uu4EVFQRihg/ofcc5a_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "GMONEY",
+              "link": "https://twitter.com/pappyG45"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 18",
-          "name": "",
+          "name": "SWORDINALSEA",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/r74UIz-es52QmlMGhB8K6u_G1GG8kYJGRQWoEGCVFYU/SWORDINAL.png",
             "other": [""]
           },
           "artists": [
@@ -294,14 +294,14 @@
         }, 	
         {
           "edition": "Card 19",
-          "name": "",
+          "name": "PEPEKAMOTO",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/-WNuwxNMgcr0vWFVCqoWCTu4InyGmlFfCVHQAqXuHZE/l12v1j_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "Benzin",
               "link": ""
             }
           ],
@@ -309,44 +309,44 @@
         }, 	
         {
           "edition": "Card 20",
-          "name": "",
+          "name": "ORDINALSROCK",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/S-vfal_cOndSTGu_x-UHqzDKo0U79FQxNou-VVBWGsQ/0frkfc_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Crazy Zapped",
+              "link": "www.crazyzapped.com"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 21",
-          "name": "",
+          "name": "WHATTHEFOX",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/UuSq5w9AzDvQ9Z8xbhObNiRZRWYMULKh3AvpdAVZh1c/jk2ewz_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "BucaPunk",
+              "link": "https://www.bucapunk.com/"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 22",
-          "name": "",
+          "name": "ORDSOUL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/u-d3Ah46Ojs-Ez9vth-EADqHgwSp6EKPwRG8P6Wt4ag/xpuons_image.gif",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "MEMECONSCIOUS",
               "link": ""
             }
           ],
@@ -354,44 +354,44 @@
         }, 	
         {
           "edition": "Card 23",
-          "name": "",
+          "name": "CORDINAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/Bag43LAlVBd8bkTaPwbvEV8JYnXKCtTOIEf5wVoUjIM/p523qs_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Psycopyro",
+              "link": "https://twitter.com/Pyscopyr0"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 24",
-          "name": "",
+          "name": "DOUBLECRAMER",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/BKd8JVh68oPA_kmd92QLkL4HGeHhhMztLpSjjSotEeA/1p9wut_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Deviant",
+              "link": "https://twitter.com/SYDeviant"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 25",
-          "name": "",
+          "name": "LORDQUAKE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/80Jxu6CoCRzsY4svTAqCFImeQdEunp3mwWKX2tv9Qvw/LORDQUAKE.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "SH00K",
               "link": ""
             }
           ],
@@ -399,24 +399,24 @@
         }, 	
         {
           "edition": "Card 26",
-          "name": "",
+          "name": "ORDINALPILL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/BUfEm_Z0DrewWhKBuXRKW9SabUFdyKfvMCBD16jHxv4/ytmwyk_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Pepe Inside",
+              "link": "https://twitter.com/pepeinsidee"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 27",
-          "name": "",
+          "name": "GOLDENRECORD",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/6T1cZXV1CP9WNofXQYj6MSBhDbROhJXLqZUzkQJROjo/GOLDENRECORD.png",
             "other": [""]
           },
           "artists": [
@@ -429,14 +429,14 @@
         }, 	
         {
           "edition": "Card 28",
-          "name": "",
+          "name": "CARDINORDAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/rQw-nknWTTA-Ihi_3ixhYu9K467kgqe4Ocg8K2Ntz18/vtsydq_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "subterranean",
               "link": ""
             }
           ],
@@ -444,29 +444,29 @@
         }, 	
         {
           "edition": "Card 29",
-          "name": "",
+          "name": "BITCORDINALS",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/fCmN7Lbv0USIvHoSeXXpHpuZhrk2OoCe0QVXe-Bn-Bg/zv5ulj_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Sebngum",
+              "link": "https://twitter.com/sebngum"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 30",
-          "name": "",
+          "name": "ORDINALSDICE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/KPW16-UqcnolpzcCDrGDY5sk5s65uBQ_MpCOakWva48/arlhd5_image.JPEG",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "Chris Storm",
               "link": ""
             }
           ],
@@ -474,29 +474,29 @@
         }, 	
         {
           "edition": "Card 31",
-          "name": "",
+          "name": "ORDINALCARD",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/pXvr6gwIJdx_N8uyxlXex4G8OH2HGmtgjf9hsTtnuJY/gr2bs6_image.gif",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Abstract Mirror",
+              "link": "https://twitter.com/AbstractMirror"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 32",
-          "name": "",
+          "name": "POPEORDINAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/li-DElZN-ELH12y6UNsApxzJg0GOS8LUBVNzx5m9V0w/s7ma1t_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "subterranean",
               "link": ""
             }
           ],
@@ -504,59 +504,59 @@
         }, 	
         {
           "edition": "Card 33",
-          "name": "",
+          "name": "SHITCOINS.Ordinals",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/-lMkesA-5Pj7Z0QRFPg-EoCUf61dEnjxhAkQg2sCu8k/ynwoeu_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Cornholio the Great",
+              "link": "https://twitter.com/c0rnh0li0"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 34",
-          "name": "",
+          "name": "RVRSTRJN",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/jcan9Wtc9rVsiQo6O8JadtmxqVrX8CCGjPjRoI3RJrk/ubwhtb_image.JPG",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "rarejay",
+              "link": "https://twitter.com/rarejay_"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 35",
-          "name": "",
+          "name": "PENCILORD",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/wTek3YiaMPIgp6oJivmQFSmhg-ZXxQhkGIGJNx8zhDs/je3kgg_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Crazy Zapped",
+              "link": "www.crazyzapped.com"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 36",
-          "name": "",
+          "name": "LILSATOSHI",
           "images": {
-            "primary": "",
+            "primary": "https://ipfs.io/ipfs/bafkreie4q7nal5g6qf4zbntcr5jmfo4nyz4b6jpxi2lgtoyvpv2uhs3jyy?foo.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "mightbemike",
               "link": ""
             }
           ],
@@ -564,9 +564,9 @@
         }, 	
         {
           "edition": "Card 37",
-          "name": "",
+          "name": "ORDILAX",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/zVVn4WOSITgMVPqdx8OqgC-tRLizCIqNHULT511-tT8/ORDILAX.png",
             "other": [""]
           },
           "artists": [
@@ -579,39 +579,39 @@
         }, 	
         {
           "edition": "Card 38",
-          "name": "",
+          "name": "BREAKORDINAL",
           "images": {
-            "primary": "",
+            "primary": "https://ordinals.com/content/b5164818f3112f9efd5fff994810b9fbd067baa378a80a592127aeb6357e9f97i0",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "The Mule",
+              "link": "https://twitter.com/TheMule__"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 39",
-          "name": "",
+          "name": "ORDINALHERE",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/5opiOezbSW-iX6W2rggu8TSGxQLVPG_t64aXHf05Grc/3680r1_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "ROBENIRA",
+              "link": "https://twitter.com/Robenira"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 40",
-          "name": "",
+          "name": "ORDINALARMY",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/nt_qelxSHgh1WKVkUQau8qwcStQxjAM8mbmKHkhUw_M/OAF.png",
             "other": [""]
           },
           "artists": [
@@ -624,14 +624,14 @@
         }, 	
         {
           "edition": "Card 41",
-          "name": "",
+          "name": "DUSTBAG",
           "images": {
-            "primary": "",
+            "primary": "https://ordinals.com/content/f573d4f90f416e22ee4d387efe7e6b373d4be1799bcd12c375979eac621d65a7i0",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "FWD",
               "link": ""
             }
           ],
@@ -639,44 +639,44 @@
         }, 	
         {
           "edition": "Card 42",
-          "name": "",
+          "name": "ORDINALYPPL",
           "images": {
-            "primary": "",
+            "primary": "https://ordinals.com/content/26ce05a5372f589eeb944a1ad572f2ac5bf77668ff6ba642fae54878b680cb60i0",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "netidx",
+              "link": "https://twitter.com/netindexed"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 43",
-          "name": "",
+          "name": "FEEME",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/P-H2Mztb6APt6oOnEG0-mReoJoPir-AxUM5EN81HJ40/36umnt_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "D00MSDRE",
+              "link": "https://twitter.com/D00MSDRE"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 44",
-          "name": "",
+          "name": "CORNDINAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/wDn_vCcTjcYaxWEGqP9KVOZUE-fJq6s8ipY8r3kXwts/ittn2c_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
+              "name": "Gypsyladiez",
               "link": ""
             }
           ],
@@ -684,24 +684,24 @@
         }, 	
         {
           "edition": "Card 45",
-          "name": "",
+          "name": "ORDINALSTORY",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/ogLsgCVmtdyWh19Csmyu930mhJMMznpxR06GKDKWgxc/esozmu_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Mason Marcobello",
+              "link": "https://twitter.com/masonmarcobello"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 46",
-          "name": "",
+          "name": "RAREORDALISA",
           "images": {
-            "primary": "",
+            "primary": "https://ordinals.com/content/7a4b298ba386c16c688843d896f67a24a8284af8fa2fe169456924ba23194d4ci0",
             "other": [""]
           },
           "artists": [
@@ -714,60 +714,60 @@
         }, 	
         {
           "edition": "Card 47",
-          "name": "",
+          "name": "ORDINALHOOD",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/HAmcY2vSYCu_312n-TYv_SPXNx3dq76RPgmv8KLHLzU/07z9wd_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "BucaPunk",
+              "link": "https://www.bucapunk.com"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 48",
-          "name": "",
+          "name": "ORDROSS",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/lauWeNQEcyIaaIRVcbp7J_CKsJskpEX6OtyHva04yKo/djraay_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "rarejay",
+              "link": "https://twitter.com/rarejay_"
             }
           ],
           "subAssets": []
         },
         {
           "edition": "Card 49",
-          "name": "",
+          "name": "BTCPEPEPUNK",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/lRq1ZKIcSTMbul2drzyVGQRAemyh37LNdguPjbwfR60/jc9xnh_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "LORS",
+              "link": "https://twitter.com/Lors_eth"
             }
           ],
           "subAssets": []
         }, 	
         {
           "edition": "Card 50",
-          "name": "",
+          "name": "MYTHICORDNAL",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/S2m2JObA3xccSHKwYlGqDEsx8WFM7FBk7Q_rZwX5Ows/3izyut_image.jpg",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "GonkX",
+              "link": "https://twitter.com/VeeBugs"
             }
           ],
           "subAssets": []
@@ -783,22 +783,202 @@
       "description": "",
       "assets": [
         {
-          "edition": "Card ",
-          "name": "",
+          "edition": "Card 1",
+          "name": "CATINFOILLHAT",
           "images": {
-            "primary": "",
+            "primary": "https://arweave.net/KciA2TH6vBz8ZcyM38gngI0HIG7t4iLB1wJbhu8fzUo/9nhiud_image.png",
             "other": [""]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Johnny Dollar",
+              "link": "https://johnnydollar.biz"
             }
           ],
           "subAssets": []
         }, 	  
         {
-          "edition": "Card ",
+          "edition": "Card 2",
+          "name": "ORDINALBARON",
+          "images": {
+            "primary": "https://arweave.net/xHM3afjjGOY7w-DJnn2vZMslpVzuHbZO_1aMBJ0YiJs/l9o0e5_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TKY",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 3",
+          "name": "ORDFAUCET",
+          "images": {
+            "primary": "https://arweave.net/sfyGqBrYUZFEMAiK9TAmHTNDgRYqqPu_fHLtKq6c-qA/h124wx_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "KAWABANGGA_F",
+              "link": "www.kawabangga.art"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 4",
+          "name": "TAPROOTWIZ",
+          "images": {
+            "primary": "https://ordinals.com/content/b9b3fec1331fd494e59109599dc3c28995c13429208784ba1026a5a804fef6cfi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "FWD",
+              "link": "https://twitter.com/fabooowy"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 5",
+          "name": "ORDINALMAXI",
+          "images": {
+            "primary": "https://ordinals.com/content/01ee122be67e20c08adfd6ec7b28d20334872c39500a1a0e422b9f3a49050e72i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Jona Carbi",
+              "link": "https://twitter.com/jonacarbi"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 6",
+          "name": "KIMJONGORD",
+          "images": {
+            "primary": "https://arweave.net/6i7GhqMqPTXcbTRjYpMUfyaiey5ZSRzvAP2vV1oGXgU/71ntkx_image.jpeg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "BestKoreaFarm",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 7",
+          "name": "BITORDINALS",
+          "images": {
+            "primary": "https://ordinals.com/content/04c0c67bf25aaaa9f04a1dfa26cfe5a194b7b602af7264ea0bdc5286a84bccbci0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 8",
+          "name": "KEKTOSHI",
+          "images": {
+            "primary": "https://ordinals.com/content/96bc9f91430041e8218184dec5c8604f616137b6ddf1caa794c50e28beefe9aci0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "The Mule",
+              "link": "https://twitter.com/TheMule__"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 9",
+          "name": "THEETERNALS",
+          "images": {
+            "primary": "https://arweave.net/PTYpAzzT47N85acX9Jom8pXVSXC3jj5jBo49LzmtNaY/80uo07_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Pifu",
+              "link": "https://pepe.wtf/artists/PiFu"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 10",
+          "name": "CRYPTOCHUNK",
+          "images": {
+            "primary": "https://arweave.net/5pJoJBQiDLXsHngtBVXyCRyzyCO7DK4BF2fNpzAZJsY/19xtzf_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "DANCETURN",
+              "link": "https://twitter.com/DANCETURN"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 11",
+          "name": "DANDAMAN",
+          "images": {
+            "primary": "https://arweave.net/LyAI8RXgBsNYMtF5nRVXdP6qG5ERbdaHW_kccisF5bc/vgt465_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "ROBENIRA",
+              "link": "https://twitter.com/robenirart"
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 12",
+          "name": "INSCRIBEDCAT",
+          "images": {
+            "primary": "https://ordinals.com/content/9344871cc72e060a369e78f43d7c22fb71fc612f35cf29621ca5d23fed46a19ci0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 13",
+          "name": "FIRSTGM",
+          "images": {
+            "primary": "",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	       
+        {
+          "edition": "Card 14",
           "name": "",
           "images": {
             "primary": "",
@@ -813,7 +993,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 15",
           "name": "",
           "images": {
             "primary": "",
@@ -828,7 +1008,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 16",
           "name": "",
           "images": {
             "primary": "",
@@ -843,7 +1023,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 17",
           "name": "",
           "images": {
             "primary": "",
@@ -858,7 +1038,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 18",
           "name": "",
           "images": {
             "primary": "",
@@ -873,7 +1053,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 19",
           "name": "",
           "images": {
             "primary": "",
@@ -888,7 +1068,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 20",
           "name": "",
           "images": {
             "primary": "",
@@ -903,7 +1083,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 21",
           "name": "",
           "images": {
             "primary": "",
@@ -918,7 +1098,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 22",
           "name": "",
           "images": {
             "primary": "",
@@ -933,7 +1113,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 23",
           "name": "",
           "images": {
             "primary": "",
@@ -948,7 +1128,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 24",
           "name": "",
           "images": {
             "primary": "",
@@ -963,7 +1143,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 25",
           "name": "",
           "images": {
             "primary": "",
@@ -978,7 +1158,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 26",
           "name": "",
           "images": {
             "primary": "",
@@ -993,7 +1173,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 27",
           "name": "",
           "images": {
             "primary": "",
@@ -1008,7 +1188,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 28",
           "name": "",
           "images": {
             "primary": "",
@@ -1023,7 +1203,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 29",
           "name": "",
           "images": {
             "primary": "",
@@ -1038,7 +1218,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 30",
           "name": "",
           "images": {
             "primary": "",
@@ -1053,7 +1233,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 31",
           "name": "",
           "images": {
             "primary": "",
@@ -1068,7 +1248,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 32",
           "name": "",
           "images": {
             "primary": "",
@@ -1083,7 +1263,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 33",
           "name": "",
           "images": {
             "primary": "",
@@ -1098,7 +1278,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 34",
           "name": "",
           "images": {
             "primary": "",
@@ -1113,7 +1293,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 35",
           "name": "",
           "images": {
             "primary": "",
@@ -1128,7 +1308,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 36",
           "name": "",
           "images": {
             "primary": "",
@@ -1143,7 +1323,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 37",
           "name": "",
           "images": {
             "primary": "",
@@ -1158,7 +1338,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 38",
           "name": "",
           "images": {
             "primary": "",
@@ -1173,7 +1353,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 39",
           "name": "",
           "images": {
             "primary": "",
@@ -1188,7 +1368,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 40",
           "name": "",
           "images": {
             "primary": "",
@@ -1203,7 +1383,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 41",
           "name": "",
           "images": {
             "primary": "",
@@ -1218,7 +1398,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 42",
           "name": "",
           "images": {
             "primary": "",
@@ -1233,7 +1413,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 43",
           "name": "",
           "images": {
             "primary": "",
@@ -1248,7 +1428,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 44",
           "name": "",
           "images": {
             "primary": "",
@@ -1263,7 +1443,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 45",
           "name": "",
           "images": {
             "primary": "",
@@ -1278,7 +1458,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 46",
           "name": "",
           "images": {
             "primary": "",
@@ -1293,7 +1473,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 47",
           "name": "",
           "images": {
             "primary": "",
@@ -1308,7 +1488,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 48",
           "name": "",
           "images": {
             "primary": "",
@@ -1323,7 +1503,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
+          "edition": "Card 49",
           "name": "",
           "images": {
             "primary": "",
@@ -1338,187 +1518,7 @@
           "subAssets": []
         }, 	       
         {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
-          "name": "",
-          "images": {
-            "primary": "",
-            "other": [""]
-          },
-          "artists": [
-            {
-              "name": "",
-              "link": ""
-            }
-          ],
-          "subAssets": []
-        }, 	       
-        {
-          "edition": "Card ",
+          "edition": "Card 50",
           "name": "",
           "images": {
             "primary": "",
