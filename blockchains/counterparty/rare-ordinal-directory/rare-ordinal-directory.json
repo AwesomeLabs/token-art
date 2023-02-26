@@ -41,7 +41,7 @@
           "edition": "Card 2",
           "name": "INSCRIBEPEPE",
           "images": {
-            "primary": "	https://arweave.net/58iosXJ-qQkLAKWX-rbhnfkNr0oSxiWHCEpp3wfldbw/INSCRIBEPEPE.png",
+            "primary": "https://arweave.net/58iosXJ-qQkLAKWX-rbhnfkNr0oSxiWHCEpp3wfldbw/INSCRIBEPEPE.png",
             "other": [""]
           },
           "artists": [
@@ -1724,7 +1724,7 @@
         }, 	   	      
         {
           "edition": "Card 13",
-          "name": SUMMEROFSPAM"",
+          "name": "SUMMEROFSPAM",
           "images": {
             "primary": "https://ordinals.com/content/35e29d2378494eba7eec1837d1483a57be02d42a068f08908aa52272ab69652ai0",
             "other": [""]
@@ -2291,6 +2291,92 @@
             }
           ],
           "subAssets": []
+        }
+      ]
+    },
+    {
+      "name": "Series 4",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "PEPTRIS",
+          "images": {
+            "primary": "https://arweave.net/NMFBx5kbbmckcEDdP31LMmAK_FljEyj629OrW_jLm7c/fn1gb5_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+          "subAssets": []
+        }, 	 
+        {
+          "edition": "Card 2",
+          "name": "LIFEAFTERORD",
+          "images": {
+            "primary": "https://ordinals.com/content/f2bbaf1164b35ac37b6edc893007dcb2df64a1ebd5a129f923727922af133feci0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	   	      
+        {
+          "edition": "Card 3",
+          "name": "RAREPEPESS.ORDINALGLOBETROTTER",
+          "images": {
+            "primary": "https://ordinals.com/content/e39f58813268e070d817dfd936acbcb9e3d909c8eb7e4a41ac509a71ba028ef6i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	   	      
+        {
+          "edition": "Card 4",
+          "name": "MEMEORDINAL",
+          "images": {
+            "primary": "https://ordinals.com/content/94c200dd367d85e2cec104ff64016a11c02cb1238df2690ecbb148957d987482i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }, 	   	      
+        {
+          "edition": "Card 5",
+          "name": "ORDILLUMNAT",
+          "images": {
+            "primary": "https://arweave.net/ZTa56ttQI2CrPDe1KogcfXgfrEqLlGcOxQwNybyS7jU/0i9dez_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": "https://twitter.com/abysvora"
+            }
+          ],
+          "subAssets": []
+        }, 	   	      
         }
       ]
     }
