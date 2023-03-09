@@ -966,7 +966,7 @@
           "edition": "Card 13",
           "name": "FIRSTGM",
           "images": {
-            "primary": "https://bafybeicmtjkadeovthsmo7rglyhsacjhrxts7qn5qlsbcixf4cvkepxsae.ipfs.nftstorage.link/?filename=image.png",
+            "primary": "https://ordinals.com/content/3e4e164ec6ada3ac38ae3234cf3a7c1f3033c3d0ea7291ba0dc4006cfd1123eci0",
             "other": [""]
           },
           "artists": [
@@ -1786,7 +1786,7 @@
           "edition": "Card 17",
           "name": "SMARTORDINAL",
           "images": {
-            "primary": "https://bafkreiacu55uly4w6mmiwk3gjzu3cy53ytsdc5essbf4hbdpbksxigxb4q.ipfs.nftstorage.link/?filename=image.png",
+            "primary": "https://ordinals.com/content/c55d3ddb6ead62818248b844e6aad3ac883b64036e6d87811aa1b44627ae3235i0",
             "other": [""]
           },
           "artists": [
@@ -2116,7 +2116,7 @@
           "edition": "Card 39",
           "name": "ORDSTREAM",
           "images": {
-            "primary": "https://arweave.net/IarIFBO4NlhZnHEHgzUUrvOyup2FNwQwAaFcMervCZg/xb0mmz_thumb.png",
+            "primary": "https://ordinals.com/content/84ee4ece51695df049e2e064b083f30916e9057bec71d762947f3b46f5aecbedi0",
             "other": [""]
           },
           "artists": [
@@ -2376,6 +2376,681 @@
             }
           ],
           "subAssets": []
+          },
+        {
+          "edition": "Card 6",
+          "name": "PUNKBTC",
+          "images": {
+            "primary": "https://arweave.net/m0haFbtAjCbj50mwNLa2kWyCfnVccyXmSw6wnPZczkI/bnxdqz_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Mj | Rivaldi",
+              "link": "https://twitter.com/Mj_Rivaldi"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 7",
+          "name": "ORDANCE",
+          "images": {
+            "primary": "https://arweave.net/eMypgZc-kBQ6cvizPS2zGWcXuTL0B02b4gBt6ALNNrM/3xm9v6_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "ROBENIRA",
+              "link": "https://twitter.com/Robenirart"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 8",
+          "name": "OMEGALULORD",
+          "images": {
+            "primary": "https://ordinals.com/content/29243c834d2c78dcd9916847af2e83430a0740363b8c7ab0bd4e2cd960b0124bi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 9",
+          "name": "ORDINALSNES",
+          "images": {
+            "primary": "https://arweave.net/u_rit6BOiByAgVlMZacS0dq3jIAamOK50kJWPPAY1LY/a9tur1_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Mason Marcobello",
+              "link": "https://twitter.com/masonmarcobello"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 10",
+          "name": "ORDWARD",
+          "images": {
+            "primary": "https://ordinals.com/content/f45cdea25d38e57cb4b154759de128e94230508ed95ed548f63cf2890805be90i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 11",
+          "name": "MAXHODL",
+          "images": {
+            "primary": "https://arweave.net/_APjgjA2y78n-5kj15iotWOYYQYKHveNmgxij6utqFw/4mz3h2_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "GMONEY",
+              "link": "https://twitter.com/pappyG45"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 12",
+          "name": "ORDINALSUGAR",
+          "images": {
+            "primary": "https://ordinals.com/content/6698bb6c87b2e3ad901e7122fbb253779c945f46260fa07d478da7c16dc6c9fdi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 13",
+          "name": "TONYQUAKE",
+          "images": {
+            "primary": "https://arweave.net/so-uRe6h-7MAslZGmHRRnIl0UnJsEv58YNoaheMfruc/TONYQUAKE.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "SH00K",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 14",
+          "name": "PEPERARA",
+          "images": {
+            "primary": "https://ordinals.com/content/0ab82a2472acc150834766f89ad9c6dc28294fad9cf9dc14a85319e82d7818cdi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "RARA",
+              "link": "https://twitter.com/RaraHatcher"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 15",
+          "name": "ORDEINSTEIN",
+          "images": {
+            "primary": "https://arweave.net/G0PSLR3VVIiYKaS7ux9ejru1KfGb5G7nxkxTRyWgXWU/hqphm0_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Zeppik",
+              "link": "https://twitter.com/https://twitter.com/ZeppikE"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 16",
+          "name": "SHROUDOFPEPE",
+          "images": {
+            "primary": "https://arweave.net/O2DkiDb6ZdDPROBsD5EZ-Sl80BuNgg9j9ZxUXInLsn8/x3lewk_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 17",
+          "name": "SMOLSCRIBE",
+          "images": {
+            "primary": "https://ordinals.com/content/e9e7583132b9f8b636e25152c2cb741632f528093832eb0dede0ea096d369915i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 18",
+          "name": "GHOTB",
+          "images": {
+            "primary": "https://arweave.net/xtJ0MXAyug_yPsu6s1Fk5QpL9O67yujPjTUD893uE_A/knal28_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "CEFFIE",
+              "link": "https://twitter.com/CEFFIECEFFIE"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 19",
+          "name": "OWLDINALS",
+          "images": {
+            "primary": "https://ordinals.com/content/1f1d6981583c1796a328d0f9908f7ec1aadf8cac5ceb5f655e1fe01523e2c7f7i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 20",
+          "name": "BYDAMEMEPOOL",
+          "images": {
+            "primary": "https://ordinals.com/content/f45d91c1f8791cf1d55c2328c7ee2c0ddbc7989c73d069877b24559b49ad07f8i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 21",
+          "name": "ENTERTHEORD",
+          "images": {
+            "primary": "https://ordinals.com/content/717698d617157aa596b65016a73e7b531d2bf3dc1f712a34d1d30dfd5827f0a6i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 22",
+          "name": "LORDY",
+          "images": {
+            "primary": "https://arweave.net/Qp1Xdvq0C_wB-4bax4Ay1_QUpFURcLIC-6lsVaVg3Ws/ygryiw_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "RARETRUCK",
+              "link": "https://twitter.com/RARETRUCK"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 23",
+          "name": "CHANCHU",
+          "images": {
+            "primary": "https://ordinals.com/content/18dc73190b6b0bd9c2bf32e534c9663f5f017f3caf44dbee7ebf27f4ba04a93ci0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 24",
+          "name": "PEPEBUSTA",
+          "images": {
+            "primary": "https://arweave.net/PFYhvgUQC2enw32QtIvP_m6Av3H-RBmGCazgmah4hj4/61g85u_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 25",
+          "name": "ORDTRADERS",
+          "images": {
+            "primary": "https://ordinals.com/content/6bf546be2333a1d3f1859e5dd5fb4c398719061dd38fd4274f719b3227409e23i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 26",
+          "name": "ORDPPMOLIERE",
+          "images": {
+            "primary": "https://arweave.net/OrgWDypzzJY33QKbuEmdwidscXGeLFl6NTWIbUgfk2A/93h0x9_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Daisy",
+              "link": "https://twitter.com/animalsnotenshi"
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 27",
+          "name": "ORDWARDII",
+          "images": {
+            "primary": "https://ordinals.com/content/8fa1b2a8971a74c8c37c0564ce41f414372c2631f63ae11adc21b2f0baa20fcfi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+          },
+        {
+          "edition": "Card 28",
+          "name": "ORDINALPREME",
+          "images": {
+            "primary": "https://arweave.net/xq7h2xiRE-eGPLzEsaqfHnW8bhXvcz-V4p3nDRCwwow/fnbu04_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "subterranean",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+         {
+          "edition": "Card 29",
+          "name": "ORDILILNES",
+          "images": {
+            "primary": "https://ordinals.com/content/ba1e3612a933044c82f48191d80b1942ff6a2ee95e7823ce11197edb4b438e89i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "The Mule",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 30",
+          "name": "CENSORDINAL",
+          "images": {
+            "primary": "https://arweave.net/4i1pdRcuk19ujp98HfVynfGm1XHce6s7WCWx2LAmjcY/esazoq_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "DANCETURN",
+              "link": "https://twitter.com/DANCETURN"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 31",
+          "name": "GUIDORDINAL",
+          "images": {
+            "primary": "https://arweave.net/6poAnGZAIO367zk702mJALpSlTCS739NrgtAoFp9iyM/GUIDORDINAL.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "brocciu",
+              "link": "https://twitter.com/Brocciuz"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 32",
+          "name": "ORDINOOOS",
+          "images": {
+            "primary": "https://arweave.net/F0jQ0ceXM1qOyKIY4-UtgRhQLcYHLF55lpRPioEs76Q/ORDINOOOS.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 33",
+          "name": "ERORDINAL",
+          "images": {
+            "primary": "https://ordinals.com/content/340259dc1c16b2e82c42076da9ab5cba01efbba387ebb75b98e9bd192c6d008bi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 34",
+          "name": "ORDINALKESHA",
+          "images": {
+            "primary": "https://ordinals.com/content/d66244e388608de5554711f2eb7731542a02de2b96b74a823a172e45034f6fabi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 35",
+          "name": "ORDINALCHECK",
+          "images": {
+            "primary": "https://arweave.net/SzJPW9MyGkkfEya9OLUoT_KF5BgUemJFBo67ZdxoQjQ/992zw7_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Daisy",
+              "link": "https://twitter.com/animalsnotenshi"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 36",
+          "name": "RORSCHADINAL",
+          "images": {
+            "primary": "https://arweave.net/yxWbQeiy3YFZD0mwZA6xAUIrLU34BC31GYvicVJbqe4/tyeitd_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Asgardtek",
+              "link": "https://twitter.com/asgardtek"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 37",
+          "name": "NOTARMORD",
+          "images": {
+            "primary": "https://arweave.net/9GZl9044-79v863z8yKEP4D0c289-mFomC7xCLDIn7g/e3777b_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 38",
+          "name": "PEPEOUT",
+          "images": {
+            "primary": "https://arweave.net/bJV5Tjjx5IPhb4dG1CnBczDza0wviQ5vw3h_aSmv_vw/6b8uoi_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 39",
+          "name": "CHADINOL",
+          "images": {
+            "primary": "https://arweave.net/r2TaaGaMky9HFB8aGl16EMsJPPcjoKTqdQIuMleLsd4/5gpxf5_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Sam M",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 40",
+          "name": "ORDPHANTOM",
+          "images": {
+            "primary": "https://ordinals.com/content/6ed0a8b77082e96fc947e16468ff1636a886bca0959e0da61b2fecb0fd5bd174i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 41",
+          "name": "SELECTORD",
+          "images": {
+            "primary": "https://arweave.net/gmPe5g_9uJ0eYO8HkIJxeYcWmiAxAupkjLNdZ1J4gMo/k0akql_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 42",
+          "name": "ORDIPOLLOCK",
+          "images": {
+            "primary": "https://ordinals.com/content/8c1fb3a4d8d523d0e607039b18196e414104a94ac0f3270187f81bdecfd2879ai0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "The Mule",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 43",
+          "name": "BURNINGKISS",
+          "images": {
+            "primary": "https://arweave.net/FfH7zFjt1g9jfP3rC87LrJZtEP8EoA2h3Hleid1t-ks/y94dou_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Rito Rhymes & XclusiveColors",
+              "link": "https://twitter.com/https://twitter.com/Rito_Rhymes"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 44",
+          "name": "ORDINALSCASH",
+          "images": {
+            "primary": "https://arweave.net/dHLUtfTyig5Q80QKW5v2sE6C4PvtL5CLKL4_J0qHVi4/nejadu_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Mj | Rivaldi",
+              "link": "https://twitter.com/Mj_Rivaldi"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 45",
+          "name": "ORDRING",
+          "images": {
+            "primary": "https://ordinals.com/content/0c9288e011b86e363d7b534876c362c3e810a0ba7d2bb5c32f5c8c19700fa9abi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 46",
+          "name": "WINGSPEPE",
+          "images": {
+            "primary": "https://ordinals.com/content/57fccd3c1a21f8a1fc7ee1adca042e32fc5d4c8aa6fd683cdc0e3c7661308cabi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 47",
+          "name": "MTORDDEALS",
+          "images": {
+            "primary": "https://arweave.net/chCspLkSXzJT6hPzEvl6RjYO7YawBQdBKC6yS6MvkEA/mtorddeals.webp",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "mnl",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 48",
+          "name": "ORDBALLOON",
+          "images": {
+            "primary": "https://arweave.net/YYZgueX-GRO0W2c_z2g-45HdHM8YtoaIJv4JY68tVVg/y5q0xn_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "thgswe",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 49",
+          "name": "GOTORDINALS",
+          "images": {
+            "primary": "https://arweave.net/XzvHJN8GiRwsgXRr1ZgO4jIseVoZiPAFSwK5kE1uuHc/t7hf58_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "plebette",
+              "link": "https://twitter.com/pl3b3tt3"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 50",
+          "name": "BTCORDINALS",
+          "images": {
+            "primary": "https://arweave.net/8U305puCcWZ1lBP7UJtPdgaU1XW0j2B0xUGjbGc9124/1ig9hi_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Sam M",
+              "link": ""
+            }
+          ],
+           "subAssets": []
         }
       ]
     }
