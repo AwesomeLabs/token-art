@@ -2826,6 +2826,231 @@
             }
           ],
            "subAssets": []
+          },
+        {
+          "edition": "Card 36",
+          "name": "RORSCHADINAL",
+          "images": {
+            "primary": "https://arweave.net/yxWbQeiy3YFZD0mwZA6xAUIrLU34BC31GYvicVJbqe4/tyeitd_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Asgardtek",
+              "link": "https://twitter.com/asgardtek"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 37",
+          "name": "NOTARMORD",
+          "images": {
+            "primary": "https://arweave.net/9GZl9044-79v863z8yKEP4D0c289-mFomC7xCLDIn7g/e3777b_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 38",
+          "name": "PEPEOUT",
+          "images": {
+            "primary": "https://arweave.net/bJV5Tjjx5IPhb4dG1CnBczDza0wviQ5vw3h_aSmv_vw/6b8uoi_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 39",
+          "name": "CHADINOL",
+          "images": {
+            "primary": "https://arweave.net/r2TaaGaMky9HFB8aGl16EMsJPPcjoKTqdQIuMleLsd4/5gpxf5_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Sam M",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 40",
+          "name": "ORDPHANTOM",
+          "images": {
+            "primary": "https://ordinals.com/content/6ed0a8b77082e96fc947e16468ff1636a886bca0959e0da61b2fecb0fd5bd174i0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 41",
+          "name": "SELECTORD",
+          "images": {
+            "primary": "https://arweave.net/gmPe5g_9uJ0eYO8HkIJxeYcWmiAxAupkjLNdZ1J4gMo/k0akql_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 42",
+          "name": "ORDIPOLLOCK",
+          "images": {
+            "primary": "https://ordinals.com/content/8c1fb3a4d8d523d0e607039b18196e414104a94ac0f3270187f81bdecfd2879ai0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "The Mule",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 43",
+          "name": "BURNINGKISS",
+          "images": {
+            "primary": "https://arweave.net/FfH7zFjt1g9jfP3rC87LrJZtEP8EoA2h3Hleid1t-ks/y94dou_image.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Rito Rhymes & XclusiveColors",
+              "link": "https://twitter.com/https://twitter.com/Rito_Rhymes"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 44",
+          "name": "ORDINALSCASH",
+          "images": {
+            "primary": "https://arweave.net/dHLUtfTyig5Q80QKW5v2sE6C4PvtL5CLKL4_J0qHVi4/nejadu_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Mj | Rivaldi",
+              "link": "https://twitter.com/Mj_Rivaldi"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 45",
+          "name": "ORDRING",
+          "images": {
+            "primary": "https://ordinals.com/content/0c9288e011b86e363d7b534876c362c3e810a0ba7d2bb5c32f5c8c19700fa9abi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "HILMAN",
+              "link": "https://twitter.com/crypto4twit"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 46",
+          "name": "WINGSPEPE",
+          "images": {
+            "primary": "https://ordinals.com/content/57fccd3c1a21f8a1fc7ee1adca042e32fc5d4c8aa6fd683cdc0e3c7661308cabi0",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 47",
+          "name": "MTORDDEALS",
+          "images": {
+            "primary": "https://arweave.net/chCspLkSXzJT6hPzEvl6RjYO7YawBQdBKC6yS6MvkEA/mtorddeals.webp",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "mnl",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 48",
+          "name": "ORDBALLOON",
+          "images": {
+            "primary": "https://arweave.net/YYZgueX-GRO0W2c_z2g-45HdHM8YtoaIJv4JY68tVVg/y5q0xn_image.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "thgswe",
+              "link": ""
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 49",
+          "name": "GOTORDINALS",
+          "images": {
+            "primary": "https://arweave.net/XzvHJN8GiRwsgXRr1ZgO4jIseVoZiPAFSwK5kE1uuHc/t7hf58_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "plebette",
+              "link": "https://twitter.com/pl3b3tt3"
+            }
+          ],
+           "subAssets": []
+          },
+        {
+          "edition": "Card 50",
+          "name": "BTCORDINALS",
+          "images": {
+            "primary": "https://arweave.net/8U305puCcWZ1lBP7UJtPdgaU1XW0j2B0xUGjbGc9124/1ig9hi_image.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Sam M",
+              "link": ""
+            }
+          ],
+           "subAssets": []
         }
       ]
     }
