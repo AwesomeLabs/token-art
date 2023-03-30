@@ -1,1 +1,403 @@
-
+{
+  "chain": "counterparty",
+  "name": "Bitcoin Stamps",
+  "images": {
+    "avatar": "https://i.imgur.com/XEQOiuO.png",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "https://stampchain.io",
+    "twitter": "",
+    "instagram": "",
+    "discord": "",
+    "telegram": "https://t.me/BitcoinStamps"
+  },
+  "sets": [
+    {
+      "name": "",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Stamp: 0",
+          "name": "Stamp: 0",
+          "images": {
+            "primary": "https://stampchain.io/stamps/17686488353b65b128d19031240478ba50f1387d0ea7e5f188ea7fda78ea06f4.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A7337447728884561000"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Stamp: 1",
+          "name": "Stamp: 1",
+          "images": {
+            "primary": "https://stampchain.io/stamps/eb3da8146e626b5783f4359fb1510729f4aad923dfac45b6f1f3a2063907147c.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A6360128538192758000"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Stamp: 2",
+          "name": "Stamp: 2",
+          "images": {
+            "primary": "https://stampchain.io/stamps/1b15bd78a0f957ebcf38e6de7b56e173b4746c294cdfdca0e64b60b3e548bf92.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A3121984346241143000"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Stamp: 3",
+          "name": "Stamp: 3",
+          "images": {
+            "primary": "https://stampchain.io/stamps/47054da12382223bfa928e9c3e0c8c99b42fe3e88985fb6043d8d84f17b893c9.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A3331514441475851300"
+            }
+          ],
+          "subAssets": []
+          },
+          {
+          "edition": "Stamp: 4",
+          "name": "Stamp: 4",
+          "images": {
+            "primary": "https://stampchain.io/stamps/02e522afc3244a5029747fa37e6b451bce735565cbbb37a50a97ec9d87f7c96e.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A999999999999999991"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 5",
+          "name": "Stamp: 5",
+          "images": {
+            "primary": "https://stampchain.io/stamps/ddca4f5b61445fa52af02b3bb7dab259add31f40deb550da4e53c82bc21f19d6.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A16660558883256424000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 6",
+          "name": "Stamp: 6",
+          "images": {
+            "primary": "https://stampchain.io/stamps/487a3f3dd9c512bca5d93bcce7ad5fba969264f97d2e69a95fc873c43dab9d4d.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A14595469774866317000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 7",
+          "name": "Stamp: 7",
+          "images": {
+            "primary": "https://stampchain.io/stamps/ab8a1bb9d6443b666fc1eff4aee6b79e7d2eddc46211a0e7b558fd8c52ffdcdd.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A2569953638976296000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 8",
+          "name": "Stamp: 8",
+          "images": {
+            "primary": "https://stampchain.io/stamps/0a55f2e015a520b699f90de1a1f358b617446cffa5e963f68685b4ec8f3b9929.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A16834812796410196000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 9",
+          "name": "Stamp: 9",
+          "images": {
+            "primary": "https://stampchain.io/stamps/1d4b778bc88400da109767db79593c322e328c0eaceb1ffc32bc2af6be64811a.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A5433919738026560000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 10",
+          "name": "Stamp: 10",
+          "images": {
+            "primary": "https://stampchain.io/stamps/9a1e3e0534a868e8457fe3a94bd4927e43f96167fb31274d9012b83e8bcb77bd.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A5433915183508652000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 11",
+          "name": "Stamp: 11",
+          "images": {
+            "primary": "https://stampchain.io/stamps/88fab306902f27f2a2c5aabf8983f0ef1f4135c20c0cbf494546a611bc2692c6.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A5433937813514022010"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 12",
+          "name": "Stamp: 12",
+          "images": {
+            "primary": "https://stampchain.io/stamps/1ae5d90af112478e4076cd2f4b86805f888d9fe8f0e3360ed9e40e3fd3af89c3.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A1609866718358670800"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 13",
+          "name": "Stamp: 13",
+          "images": {
+            "primary": "https://stampchain.io/stamps/2c112530ef322147cfb7517872c69ab808ea60d66dfda80bf0fc36f3c102ed4e.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A572696032549040800"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 14",
+          "name": "Stamp: 14",
+          "images": {
+            "primary": "https://stampchain.io/stamps/14d9e8dbf9a54db20f7c4363c26dc8f7f124b509301655d3733722cf6cafaf34.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A1997663462583877600"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 15",
+          "name": "Stamp: 15",
+          "images": {
+            "primary": "https://stampchain.io/stamps/e41864470260d3eb6688bf81d2651b4261cbf8e84b74879b831289eaf806455b.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A2222222222222222221"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 16",
+          "name": "Stamp: 16",
+          "images": {
+            "primary": "https://stampchain.io/stamps/9e99825880aa7cac75629ec01de28b419f691503af2c4f51b4c8b939fd37e310.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A4444444444444444441"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 17",
+          "name": "Stamp: 17",
+          "images": {
+            "primary": "https://stampchain.io/stamps/b9d304c70439a198e4b9c5ec653787c4a1e58c2f772c997748e618091b7c1e56.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A5555555555555555551"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 18",
+          "name": "Stamp: 18",
+          "images": {
+            "primary": "https://stampchain.io/stamps/d037b65119dd0373cb2ece482264d1f7cbac50d2c1eed52336f4bdd51fdd9f43.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A14459877453569708000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 19",
+          "name": "Stamp: 19",
+          "images": {
+            "primary": "https://stampchain.io/stamps/7926c7471b308de043496dc62f71cae3e8b5b7d70f79d1730ae1476fc7976ab1.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A4444444444444444442"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 20",
+          "name": "Stamp: 20",
+          "images": {
+            "primary": "https://stampchain.io/stamps/de52429e4532436c4b8e06093d2b55cd5801b0e25c6bf8d05662e1dc8924a7bc.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A10101010101010101011"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 21",
+          "name": "Stamp: 21",
+          "images": {
+            "primary": "https://stampchain.io/stamps/941593f7506e937cd3d79cc5309fe2e717901b3c884741905537832c9fb7b6f8.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A876876876876876871"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 22",
+          "name": "Stamp: 22",
+          "images": {
+            "primary": "https://stampchain.io/stamps/e4d6c4edfff19748ddd75f2dc5b51d0d42863122a66eacebec3afcfeec993799.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A10214818740892290000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 23",
+          "name": "Stamp: 23",
+          "images": {
+            "primary": "https://stampchain.io/stamps/d83dd3827c5c693916686d299bc72f778c7201c5ce995defb20a0c82f2effe55.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A1578685388773678000"
+            }
+          ],
+          "subAssets": []
+        },
+         {
+          "edition": "Stamp: 24",
+          "name": "Stamp: 24",
+          "images": {
+            "primary": "https://stampchain.io/stamps/d3f471b14d443d9397fd7d64db257732cf63c4c1437c04b2d2c3cd91f593d12c.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": "https://xchain.io/asset/A14063242584083250000"
+            }
+          ],
+          "subAssets": []
+         }
+      ]
+    }
+  ]
+}
