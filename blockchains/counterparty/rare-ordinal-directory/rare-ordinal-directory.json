@@ -3051,8 +3051,10 @@
             }
           ],
           "subAssets": []
-        },
-        {
+         }
+      ]
+    },
+       {
           "name": "Series 5",
           "images": {
             "avatar": "",
@@ -3425,6 +3427,66 @@
               "name": "PUBKEYCARD",
               "images": {
                 "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PUBKEYCARD.png",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "",
+                  "link": ""
+                }
+              ],
+              "subAssets": []
+              },
+            {
+              "edition": "Card 26",
+              "name": "WHYSOORDINAL",
+              "images": {
+                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/WHYSOORDINAL.gif",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "",
+                  "link": ""
+                }
+              ],
+              "subAssets": []
+              },
+            {
+              "edition": "Card 27",
+              "name": "SELFCUSTODY",
+              "images": {
+                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/SELFCUSTODY.jpg",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "",
+                  "link": ""
+                }
+              ],
+              "subAssets": []
+              },
+            {
+              "edition": "Card 28",
+              "name": "ORDOLLAR",
+              "images": {
+                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/ORDOLLAR.png",
+                "other": [""]
+              },
+              "artists": [
+                {
+                  "name": "",
+                  "link": ""
+                }
+              ],
+              "subAssets": []
+              },
+            {
+              "edition": "Card 29",
+              "name": "NOSPEPERATU",
+              "images": {
+                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/NOSPEPERATU.png",
                 "other": [""]
               },
               "artists": [
