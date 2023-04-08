@@ -1,0 +1,520 @@
+{
+  "chain": "counterparty",
+  "name": "Penisium",
+  "images": {
+    "avatar": "https://i.imgur.com/T8aIJSS.png",
+    "banner": ""
+  },
+  "description": "Penisium - Decentralized E-Peen Capital",
+  "externalLinks": {
+    "website": "",
+    "twitter": "https://twitter.com/penisiumproject"
+  },
+  "sets": [
+    {
+      "name": "Holo",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "08",
+          "name": "DRUKPAKUNLEY",
+          "images": {
+            "primary": "https://arweave.net/Yr41h9neAktVabociLs4yP7Yx1LwzjwK82w-8DvGTLw/08 - DRUKPAKUNLEY.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "INDELIBLE",
+              "link": "https://twitter.com/SuperRareRares"
+            }
+          ],
+          "subassets": []
+        },
+        {
+          "edition": "13",
+          "name": "PENISIUMLONG",
+          "images": {
+            "primary": "https://arweave.net/E_w345EL0dDQMF2OFQOOoYYxtinsVpow4w8-LIxVtcY/13 - PENISIUMLONG.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "RARE SCRILLA",
+              "link": "https://twitter.com/ScrillaVentura"
+            }
+          ],
+          "subassets": []
+           },
+        {
+          "edition": "29",
+          "name": "DORKINS",
+          "images": {
+            "primary": "https://arweave.net/K6kLpg41expEekv06Tw1AWxBBwMX8ypP6BoFvRK6Obo/29 - DORKINS.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+             }
+          ],
+          "subassets": []
+          }
+        ]
+	    },
+      {
+      "name": "Gold",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+        "edition": "01",
+          "name":  "PEPEDROP",
+          "images": {
+            "primary": "https://arweave.net/j1nMg7pBT-aerhEfKN7oPpC1EvBNVN1zT8Abdac_KYA/01 - PEPEDROP.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "09",
+          "name":  "PENISQUIRREL",
+          "images": {
+            "primary": "https://arweave.net/18ebV03Skxp-DTAQimz-gZ6GOPZuU1VRtaORkRucdUA/09 - PENISQUIRREL.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "poor f00k",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "12",
+          "name":  "PEENARCH",
+          "images": {
+            "primary": "https://arweave.net/-sRkRvDKDUALgLXEWfxZHqWhG6aiFg0qRzCXFnmLW30/12 -PEENARCH.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Carsonated",
+              "link": "https://twitter.com/Carsonated"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "17",
+          "name":  "MOBYDICK",
+          "images": {
+            "primary": "https://arweave.net/Y10am38FobZ3E0fR1ZNGpXkhz-woTezQKDjnQwZd8iU/17 - MOBYDICK.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Jose Burrito",
+              "link": "https://twitter.com/Jose_Burrito_"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "22",
+          "name":  "DONGSLOSTMAP",
+          "images": {
+            "primary": "https://arweave.net/u-uT_qYLr3TmZRfwWuh_LNY-jqiAsvXKEj6aGfl1iPk/22 - DONGSLOSTMAP.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "24",
+          "name":  "PEGGPLANT",
+          "images": {
+            "primary": "https://arweave.net/tJZ-37Gt00IbYvr-c0ubABhGV930wNaNbdXrfZje4d4/24 - PEGGPLANT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Emoji Nakamoto",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "25",
+          "name":  "RAMSAYBOLTON",
+          "images": {
+            "primary": "https://arweave.net/N8pMqj1xAKi2Hu_R96XuX0f_5cEDSNZAIYf6Dyq86Tg/25 - RAMSAYBOLTON.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "INDELIBLE",
+              "link": "https://twitter.com/SuperRareRares"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "26",
+          "name":  "WHORECRUX",
+          "images": {
+            "primary": "https://arweave.net/lP9iBkJ-ixAlHBJBNzq63iP9rAcUEKwwBy9XIDZth58/26 - WHORECRUX.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "28",
+          "name":  "PEENPANTHER",
+          "images": {
+            "primary": "https://arweave.net/bVUpBTrJHpZ-BLKdI7bUXNNusOAkYextKZ7Iqt6FeM4/28 - PEENPANTHER.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "RARE SCRILLA",
+              "link": "https://twitter.com/ScrillaVentura"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "30",
+          "name":  "MCAFEEPEEN",
+          "images": {
+            "primary": "https://arweave.net/zRTL1fKPUdrFEen4LYXo7DyloEsvF8BXevLsyS-l2J4/30 - MCAFEEPEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "RARE SCRILLA",
+              "link": "https://twitter.com/ScrillaVentura"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "31",
+          "name":  "SPEEN",
+          "images": {
+            "primary": "https://arweave.net/zh7bbn8kp0GBTgZ0VE3Tj_ih__hi46E-S1LpFK_PWUo/31 - SPEEN.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "nathansonic",
+              "link": "https://twitter.com/nathansonic"
+            }
+          ],
+          "subassets": []
+          }
+        ]
+	    },
+       {
+      "name": "Silver",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+        "edition": "05",
+          "name":  "ORIGINTURBO",
+          "images": {
+            "primary": "https://arweave.net/xze41nt_snnaEg7acZz6rnn-z41HaH9lss4JzzWopWI/05 - ORIGINTURBO.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "06",
+          "name":  "NYANPEEN",
+          "images": {
+            "primary": "https://arweave.net/D_1BgtNzFpGhT2z7KA48TzRGK_KRtR3Q-iqOvACy-5g/06 - NYANPEEN.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "20",
+          "name":  "PEENOCCHIO",
+          "images": {
+            "primary": "https://arweave.net/FulyJodPoCWal1Hy16uxv-lrpujiRwk1viXZgb-cAcM/20 - PEENOCCHIO.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "23",
+          "name":  "SHLONGDONG",
+          "images": {
+            "primary": "https://arweave.net/5n3mrTxoz1L7lI2CUKVifE-N1SFTFFE8vvyuprbMfXI/23 - SHLONGDONG.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+          }
+        ]
+	    },
+      {
+      "name": "Bronze",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+        "edition": "02",
+          "name":  "DICKBUTTS",
+          "images": {
+            "primary": "https://arweave.net/dQTMYPzd06kz_F8_NtLagWneEtZDRVtsCFBGisEXPWM/02 - DICKBUTTS.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "03",
+          "name":  "PENISIMOON",
+          "images": {
+            "primary": "https://arweave.net/jLPD4MxlxGhwYyIVjCOKWOOrJ1UFEtJBvFMh0JXJ1U8/03 - PENISIMOON.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "poor f00k",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "04",
+          "name":  "TURBODASNAIL",
+          "images": {
+            "primary": "https://arweave.net/j1GxMMUVGv3ULf5mpB9Qev_-iJTPWb4X4KJYnUHoqWg/04 - TURBODASNAIL.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "07",
+          "name":  "POKEPEEN",
+          "images": {
+            "primary": "https://arweave.net/7f_9wQFrGmJs3xDy407yvLmEMvLRB9hqqArEFXX_5GI/07 - POKEPEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "10",
+          "name":  "DAVIDSNOSE",
+          "images": {
+            "primary": "https://arweave.net/K5m6Tvvdm6SO6S9znhOfg1gAJbI2a6fNiw_prMQmc-0/10 - DAVIDSNOSE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "nathansonic",
+              "link": "https://twitter.com/nathansonic"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "11",
+          "name":  "PEENHEAD",
+          "images": {
+            "primary": "https://arweave.net/1Nvt98dTPusosNshJHnVg44xTYhSkIQM2FvW4JPRzw8/11 - PEENHEAD.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "14",
+          "name":  "TAPEMEASURE",
+          "images": {
+            "primary": "https://arweave.net/8JmBHo5mo0L3Q1ncs3EF4W7gkNJho7yolVHE46oEv2I/14 - TAPEMEASURE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "nathansonic",
+              "link": "https://twitter.com/nathansonic"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "15",
+          "name":  "VITALTHICC",
+          "images": {
+            "primary": "https://arweave.net/7tPGW_EBd5IjhOkgs52tBDisf_h1SuyKXuewZ8PF98U/15 - VITALTHICC.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "16",
+          "name":  "PAPERJPEEN",
+          "images": {
+            "primary": "https://arweave.net/PBN3pDyw6Mj7NnRGP613Gve6LllujgkE0KN5t-eLlnM/16 - PAPERJPEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "18",
+          "name":  "TRIPPEEN",
+          "images": {
+            "primary": "https://arweave.net/Do9YLnvYeSvip2X2G0P3Iw58o6WHuv8co6Nqz4XkMu8/18 - TRIPPEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "19",
+          "name":  "THEANTONTAUN",
+          "images": {
+            "primary": "https://arweave.net/AXcZNroMpKqLDaVOu84OL-i-wwAPAtjSyjZRePh9F8A/19 - THEANTONTAUN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Emoji Nakamoto",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "21",
+          "name":  "PEENINSULA",
+          "images": {
+            "primary": "https://arweave.net/B-x5FsH6B88_aY8YucaoPulfjQN2HsfrBiKQ20gKCsQ/21 - PEENINSULA.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "netidx",
+              "link": "https://twitter.com/netindexed"
+            }
+          ],
+          "subassets": []
+        },
+	{
+        "edition": "27",
+          "name":  "WARHOLPEEN",
+          "images": {
+            "primary": "https://arweave.net/WIaLd3HewCJ8W_XkJI63101iR0JNq19-7qHwt-frW3o/27 - WARHOLPEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subassets": []
+        }
+      ]
+     }
+    ] 
+   } 
