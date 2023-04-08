@@ -63,9 +63,10 @@
              }
           ],
           "subassets": []
-  },
-  "sets": [
-    {
+          }
+        ]
+	    },
+      {
       "name": "Gold",
       "images": {
         "avatar": "",
@@ -227,9 +228,10 @@
             }
           ],
           "subassets": []
-  },
-  "sets": [
-    {
+          }
+        ]
+	    },
+       {
       "name": "Silver",
       "images": {
         "avatar": "",
@@ -293,9 +295,10 @@
             }
           ],
           "subassets": []
- },
- "sets": [
-   {
+          }
+        ]
+	    },
+      {
       "name": "Bronze",
       "images": {
         "avatar": "",
