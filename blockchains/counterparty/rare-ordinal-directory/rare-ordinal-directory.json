@@ -3051,453 +3051,453 @@
             }
           ],
           "subAssets": []
-       }
+        }
       ]
     },
     {
-          "name": "Series 5",
+      "name": "Series 5",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "PEPESSNAKE",
           "images": {
-            "avatar": "",
-            "banner": ""
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPESSNAKE.gif",
+            "other": [""]
           },
-          "description": "",
-          "assets": [
+          "artists": [
             {
-              "edition": "Card 1",
-              "name": "PEPESSNAKE",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPESSNAKE.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "TEWZ",
-                  "link": "https://twitter.com/TEWZ1"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 2",
-              "name": "ORDBEY",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBEY.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 3",
-              "name": "BIGBRORDINAL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/BIGBRORDINAL.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Bbleiztz",
-                  "link": "https://twitter.com/bbleiztz"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 4",
-              "name": "SATSLEUTHS",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SATSLEUTHS.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 5",
-              "name": "PELLOCK",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PELLOCK.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Nimzobit",
-                  "link": "https://twitter.com/Nimzobit"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 6",
-              "name": "TYSORDINAL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/TYSORDINAL.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Sam M",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 7",
-              "name": "ORDSMOBILE",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDSMOBILE.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Zelly",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 8",
-              "name": "ORDINALYF",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDINALYF.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 9",
-              "name": "ORDINALFRENZ.5",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDINALFRENZ_5.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 10",
-              "name": "ORDBTCNOBRDR",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBTCNOBRDR.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "AbysVora",
-                  "link": "https://twitter.com/abysvora"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 11",
-              "name": "ORDAROUND",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDAROUND.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Nimzobit",
-                  "link": "https://twitter.com/nimzobit"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 12",
-              "name": "CYBERPARTY",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/CYBERPARTY.webp",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 13",
-              "name": "PEPERANDOM",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPERANDOM.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "TEWZ",
-                  "link": "https://twitter.com/TEWZ1"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 14",
-              "name": "ORDICULT",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDICULT.webp",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "The Mule",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 15",
-              "name": "OFFROADINAL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/OFFROADINAL.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "DAVEARTNFT",
-                  "link": "https://twitter.com/daveartnft"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 16",
-              "name": "BITESTHEDUST",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/BITESTHEDUST.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 17",
-              "name": "SBHEGJRAGL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SBHEGJRAGL.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 18",
-              "name": "WTHDORDINAL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/WTHDORDINAL.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Glen & L_vs_D",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 19",
-              "name": "PEPEDRAW",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPEDRAW.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "TEWZ",
-                  "link": "https://twitter.com/TEWZ1"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 20",
-              "name": "MEMEPEPOOL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/MEMEPEPOOL.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Nimzobit",
-                  "link": "https://twitter.com/Nimzobit"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 21",
-              "name": "GOTORDINALS.2",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/GOTORDINALS.2.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "plebette",
-                  "link": "https://twitter.com/pl3b3tt3"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 22",
-              "name": "SATHUNTERS",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SATHUNTERS.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 23",
-              "name": "ORDEFEND",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDEFEND.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "Jean Wojak & Pepe Portman",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 24",
-              "name": "ORDBTCSNKE",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBTCSNKE.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "AbysVora",
-                  "link": "https://twitter.com/abysvora"
-                }
-              ],
-              "subAssets": []
-            },
-            {
-              "edition": "Card 25",
-              "name": "PUBKEYCARD",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PUBKEYCARD.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-              },
-            {
-              "edition": "Card 26",
-              "name": "WHYSOORDINAL",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/WHYSOORDINAL.gif",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-              },
-            {
-              "edition": "Card 27",
-              "name": "SELFCUSTODY",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/SELFCUSTODY.jpg",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-              },
-            {
-              "edition": "Card 28",
-              "name": "ORDOLLAR",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/ORDOLLAR.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
-              },
-            {
-              "edition": "Card 29",
-              "name": "NOSPEPERATU",
-              "images": {
-                "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/NOSPEPERATU.png",
-                "other": [""]
-              },
-              "artists": [
-                {
-                  "name": "",
-                  "link": ""
-                }
-              ],
-              "subAssets": []
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
             }
-					]
-				}
-			]
-		}
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 2",
+          "name": "ORDBEY",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBEY.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 3",
+          "name": "BIGBRORDINAL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/BIGBRORDINAL.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Bbleiztz",
+              "link": "https://twitter.com/bbleiztz"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 4",
+          "name": "SATSLEUTHS",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SATSLEUTHS.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "PELLOCK",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PELLOCK.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "TYSORDINAL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/TYSORDINAL.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Sam M",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "ORDSMOBILE",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDSMOBILE.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Zelly",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "ORDINALYF",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDINALYF.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 9",
+          "name": "ORDINALFRENZ.5",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDINALFRENZ_5.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 10",
+          "name": "ORDBTCNOBRDR",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBTCNOBRDR.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": "https://twitter.com/abysvora"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 11",
+          "name": "ORDAROUND",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDAROUND.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/nimzobit"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 12",
+          "name": "CYBERPARTY",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/CYBERPARTY.webp",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 13",
+          "name": "PEPERANDOM",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPERANDOM.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 14",
+          "name": "ORDICULT",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDICULT.webp",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "The Mule",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 15",
+          "name": "OFFROADINAL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/OFFROADINAL.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "DAVEARTNFT",
+              "link": "https://twitter.com/daveartnft"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 16",
+          "name": "BITESTHEDUST",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/BITESTHEDUST.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 17",
+          "name": "SBHEGJRAGL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SBHEGJRAGL.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 18",
+          "name": "WTHDORDINAL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/WTHDORDINAL.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Glen & L_vs_D",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 19",
+          "name": "PEPEDRAW",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PEPEDRAW.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "TEWZ",
+              "link": "https://twitter.com/TEWZ1"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 20",
+          "name": "MEMEPEPOOL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/MEMEPEPOOL.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Nimzobit",
+              "link": "https://twitter.com/Nimzobit"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 21",
+          "name": "GOTORDINALS.2",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/GOTORDINALS.2.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "plebette",
+              "link": "https://twitter.com/pl3b3tt3"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 22",
+          "name": "SATHUNTERS",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/SATHUNTERS.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 23",
+          "name": "ORDEFEND",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDEFEND.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "Jean Wojak & Pepe Portman",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 24",
+          "name": "ORDBTCSNKE",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/ORDBTCSNKE.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": "https://twitter.com/abysvora"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 25",
+          "name": "PUBKEYCARD",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/03/PUBKEYCARD.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 26",
+          "name": "WHYSOORDINAL",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/WHYSOORDINAL.gif",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 27",
+          "name": "SELFCUSTODY",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/SELFCUSTODY.jpg",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 28",
+          "name": "ORDOLLAR",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/ORDOLLAR.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 29",
+          "name": "NOSPEPERATU",
+          "images": {
+            "primary": "https://rareordinal.directory/wp-content/uploads/2023/04/NOSPEPERATU.png",
+            "other": [""]
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    }
+  ]
+}
