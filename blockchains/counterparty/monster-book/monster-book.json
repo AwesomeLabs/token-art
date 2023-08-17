@@ -22,31 +22,1718 @@
       "description": "",
       "assets": [
         {
-          "edition": "Card 1",
-          "name": "MOSU",
+          "edition": "CDABYSSINIAN",
+          "name": "Abyssinian",
           "images": {
-            "primary": "",
-            "other": [""]
+            "primary": "https://monsterbook.io/img/400x560/CDABYSSINIAN_101_Abyssinian_Common.png",
+            "other": [
+              ""
+            ]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
             }
           ],
           "subAssets": []
         },
         {
-          "edition": "Card 2",
-          "name": "",
+          "edition": "THEANEMONE",
+          "name": "Anemone",
           "images": {
-            "primary": "",
-            "other": [""]
+            "primary": "https://monsterbook.io/img/400x560/THEANEMONE_59_Anemone_Rare.png",
+            "other": [
+              ""
+            ]
           },
           "artists": [
             {
-              "name": "",
-              "link": ""
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CDAURGELMIR",
+          "name": "Aurgelmir",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/CDAURGELMIR_181_Aurgelmir_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "BEGGERM",
+          "name": "Beg Germ",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/13_BegGerm_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "BIGBEAKBIRD",
+          "name": "Big Beak Bird",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/108_BigBeakBird_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "BINACARD",
+          "name": "Binaz Soldier",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/BINACARD_92_BinazSoldier_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "BONECLAD",
+          "name": "Boneclad",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/187_Boneclad_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CAVENAGA",
+          "name": "Cave Naga",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/45_CaveNaga_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CHILDOFLIGHT",
+          "name": "Child of Light",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/67_ChildOfLight_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CLOCHET",
+          "name": "Clochet",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/51_Clochet_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "THEROCKCOCK",
+          "name": "Cock of the Rock",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/THEROCKCOCK_119_CockoftheRock_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "COLLECTDRONE",
+          "name": "Collector Drone",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/COLLECTDRONE_176_CollectorDrone_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CRUNCHDRONE",
+          "name": "Crunch Drone",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/CRUNCHDRONE_28_CruncherDrone_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CYRUSCARD",
+          "name": "Cyrus",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/CYRUSCARD_151_Cyrus_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "DGELLIES",
+          "name": "Dgellies",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/163_Dgellies_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SECURBOT",
+          "name": "DNA Reaper",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/SECURBOT_178_DNAReaper_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "DOGGYBAG",
+          "name": "Doggy Bag",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/DOGGYBAG_114_Doggy_Bag_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "DOLEAPHUS",
+          "name": "Doleaphus",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/60_Doleaphus_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "DROG",
+          "name": "Drog Beetle",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/10_DrogBeetle_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FAHL",
+          "name": "Fahl",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/102_Fahl_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FARMERMAGPIE",
+          "name": "Farmer MagPie",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/FARMERMAGPIE_120_FarmerMacPie_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FENFIRE",
+          "name": "Fenfire",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/188_Fenfire_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FENGBO",
+          "name": "Fengbo",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/138_Fengbo_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FIREFIEND",
+          "name": "Fire Fiend",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/50_FireFiend_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FLOGENGINEER",
+          "name": "Flog The Engineer",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/FLOGENGINEER_3_FlogTheEngineer_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FORGETTEI",
+          "name": "Forgettei",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/69_Forgettei_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HENGE",
+          "name": "Forgotten Henge",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/16_ForgottenHenge_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FYRR",
+          "name": "Fyrr",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/180_Fyrr_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GALARSMONK",
+          "name": "Galar's Monk",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/133_GalarsMonk_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GALDALS",
+          "name": "Galdals",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/44_Galdals_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GENTLEGHOST",
+          "name": "Gentleman's Ghost",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/GENTLEGHOST_115_GentlemanGhost_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GERMOGLIO",
+          "name": "Germoglio",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/GERMOGLIO_35_Germolio_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GIGAJELLY",
+          "name": "Gigajelly",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/89_Gigajelly_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GLOOMBUG",
+          "name": "Gloombug",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/61_Gloombug_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GLYME",
+          "name": "Glyme",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/58_Glyme_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GOLEMSOLDIER",
+          "name": "Goldem Soldier",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/20_GolemSoldier_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GROWNUPSIIDZ",
+          "name": "Grown Up Siidz",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/GROWNUPSIIDZ_24_GrownUpSiidz_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GRUMPYDOG",
+          "name": "Grumpy Dog",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/157_GrumpyDog_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GYARU",
+          "name": "Gyaru",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/26_Gyaru_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HAMMERHEAD",
+          "name": "Hammerhead",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/12_HammerHead_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SIIDZ",
+          "name": "Harmful Siidz",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/SIIDZ_9_HarmfulSiidz_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HORNJAW",
+          "name": "Hornjaw",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/111_Hornjaw_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HUNTERRAY",
+          "name": "Hunter Ray Mark 1",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/HUNTERRAY_174_HunterRayMark1_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HUNTERBOT",
+          "name": "Hunter-Bot",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/43_HunterBot_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "HUNTINGDRONE",
+          "name": "Hunting Drone",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/2_HuntingDrone_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "FISHERJEAN",
+          "name": "Jean the Fisherman",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/FISHERJEAN_47_JeanTheFisherman_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "JUHNPOWDER",
+          "name": "Juhn Powder",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/36_JuhnPowder_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "KAGUTSUCHI",
+          "name": "Kagutsuchi",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/185_Kagutsuchi_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "KINGOKO",
+          "name": "King Oko",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/22_King_Oko_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "KITSUNEBI",
+          "name": "Kitsunebi",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/100_Kitsunebi_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "KINGOKOGUARD",
+          "name": "Kng Oko's Guard",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/8_KingOkoGuard_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "LIRCARD",
+          "name": "Lir",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/LIRCARD_15_Lir_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "LOUFMECHA",
+          "name": "Louf Mecha",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/LOUFMECHA_23_Louf_Mecha_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "LURKCARD",
+          "name": "Lurk",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/LURKCARD_153_Lurk_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MAKARA",
+          "name": "Makara",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/64_Makara_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MARVINCARD",
+          "name": "Marvin Z5",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/MARVINCARD_84_MarvinZ5_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MAUGMIGHT",
+          "name": "Maugmight",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/33_Maugmight_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MAXTHECAT",
+          "name": "Max The Cat",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/183_MaxTheCat_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MOPEY",
+          "name": "Mopey",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/97_Mopey_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MOSU",
+          "name": "Mosu",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/1_Mosu_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MRBRAINER",
+          "name": "Mr Brainer",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/105_MrBrainer_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "MUUWY",
+          "name": "Muuwy",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/MUUWY_53_Muuwy_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "NAIAD",
+          "name": "Naiad",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/177_Naiad_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "OCTOPHIBIUS",
+          "name": "Octophibius",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/11_Octophibius_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "OMNIBITE",
+          "name": "Omnibite",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/29_Omnibite_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "ONEEYEGOOBER",
+          "name": "One Eyed Goober",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/ONEEYEGOOBER_42_OneEyedGoober_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "PEACESIIDZ",
+          "name": "Peaceful Siidz",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/PEACESIIDZ_117_PeacefulSiidz_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "PUFFCARD",
+          "name": "Puff",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/PUFFCARD_86_Puff_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "ROBSHY",
+          "name": "R0B5HY",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/ROBSHY_21_R0B-5HY_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "RADARCARD",
+          "name": "R4YDAR",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/RADARCARD_146_R4YD4R_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "RABBOX",
+          "name": "Rabbox",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/39_Rabbox_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "RAWRAFARR",
+          "name": "Rawrafarr",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/107_Rawrafarr_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "REBITZ",
+          "name": "Rebitz",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/REBITZ_83_Rebitz_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "KAMAKHAZI",
+          "name": "Rocket Drone",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/KAMAKHAZI_104_RocketDronee_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SANDALPHON",
+          "name": "Sandalphon",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/38_Sandalphon_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SAWBILL",
+          "name": "Sawbill",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/103_Sawbill_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SCOUTDRONE",
+          "name": "Scout Drones",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/166_ScoutDrones_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SEEDOFDRAGON",
+          "name": "Seed of Dragon",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/6_SeedOfDragon_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SHREIKFLOWER",
+          "name": "Shreiking Flower",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/SHREIKFLOWER_77_ShreikingFlower_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SHUURI",
+          "name": "Shuuri",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/55_Shuuri_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SILOBOT",
+          "name": "Silobot U8",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/125_SilobotU8_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SLIVERHUNTER",
+          "name": "Silver Hunter",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/SLIVERHUNTER_167_SilverHunter_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SMOLGERM",
+          "name": "Smol Germ",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/14_SmolGerm_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "SHREEIK",
+          "name": "Sneakyshreeik",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/112_Sneakyshreeik_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TATZELWORM",
+          "name": "Tatzelworm",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/TATZELWORM_169_Tatyelworm_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TEENFLARWAS",
+          "name": "Teen Flarwas",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/40_TeenFlarwas_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CANDLEMAKER",
+          "name": "The Candle Maker",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/48_TheCandleMaker_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "GRAILRARE",
+          "name": "The Key",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/GRAILRARE_106_The_Key_Grail.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "THESLAYER",
+          "name": "The Slayer",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/131_TheSlayer_Rare.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "THESNEER",
+          "name": "The Sneer",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/7_TheSneer_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TOOTHBOOTH",
+          "name": "Tooth Booth",
+          "images": {
+            "primary": "",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TOOTHOZORUS",
+          "name": "Toothozorus",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/52_ToothBooth_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TRICKCARD",
+          "name": "Trickster",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/TRICKCARD_37_Trickster_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "UNIWHALE",
+          "name": "Uniwhale",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/82_Uniwhale_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "URNACH",
+          "name": "Urnach",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/170_Urnach_Mythic.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "VISIONBRINGR",
+          "name": "Vision Bringer",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/VISIONBRINGR_96_VisionBringer_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "WAFFLESCARD",
+          "name": "Waffles",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/WAFFLESCARD_158_Waffles_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "WEAVERS",
+          "name": "Weavers",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/57_Weavers_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "WILOHCHOMP",
+          "name": "WilOhChomp",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/70_Wilohchomp_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "CHAMEO",
+          "name": "Zoomer X1",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/CHAMEO_88_ZoomerX1_Common.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "TARTHORK",
+          "name": "Tarthork",
+          "images": {
+            "primary": "https://monsterbook.io/img/400x560/TARTHORK_175_TarThork_Uncommon.png",
+            "other": [
+              ""
+            ]
+          },
+          "artists": [
+            {
+              "name": "Rinaldo Wirz",
+              "link": "https://monsterbook.io"
             }
           ],
           "subAssets": []
