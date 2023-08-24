@@ -2,7 +2,7 @@
   "chain": "counterparty",
   "name": "Monster Book",
   "images": {
-    "avatar": "",
+    "avatar": "https://monsterbook.io/img/Thumbnails/squared500px_MB02.jpg",
     "banner": ""
   },
   "description": "",
@@ -16,7 +16,7 @@
     {
       "name": "Series 1",
       "images": {
-        "avatar": "",
+        "avatar": "https://monsterbook.io/img/Thumbnails/squared500px_MB02.jpg",
         "banner": ""
       },
       "description": "",
@@ -26,7 +26,7 @@
           "name": "CDABYSSINIAN",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/CDABYSSINIAN_101_Abyssinian_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -41,7 +41,7 @@
           "name": "THEANEMONE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/THEANEMONE_59_Anemone_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -56,7 +56,7 @@
           "name": "CDAURGELMIR",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/CDAURGELMIR_181_Aurgelmir_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -71,7 +71,7 @@
           "name": "BEGGERM",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/13_BegGerm_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -86,7 +86,7 @@
           "name": "BIGBEAKBIRD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/108_BigBeakBird_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -101,7 +101,7 @@
           "name": "BINACARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/BINACARD_92_BinazSoldier_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -116,7 +116,7 @@
           "name": "BONECLAD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/187_Boneclad_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -131,7 +131,7 @@
           "name": "CAVENAGA",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/45_CaveNaga_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -146,7 +146,7 @@
           "name": "CHILDOFLIGHT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/67_ChildOfLight_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -161,7 +161,7 @@
           "name": "CLOCHET",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/51_Clochet_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -176,7 +176,7 @@
           "name": "THEROCKCOCK",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/THEROCKCOCK_119_CockoftheRock_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -191,7 +191,7 @@
           "name": "COLLECTDRONE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/COLLECTDRONE_176_CollectorDrone_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -206,7 +206,7 @@
           "name": "CRUNCHDRONE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/CRUNCHDRONE_28_CruncherDrone_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -221,7 +221,7 @@
           "name": "CYRUSCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/CYRUSCARD_151_Cyrus_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -236,7 +236,7 @@
           "name": "DGELLIES",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/163_Dgellies_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -251,7 +251,7 @@
           "name": "SECURBOT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/SECURBOT_178_DNAReaper_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -266,7 +266,7 @@
           "name": "DOGGYBAG",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/DOGGYBAG_114_Doggy_Bag_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -281,7 +281,7 @@
           "name": "DOLEAPHUS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/60_Doleaphus_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -296,7 +296,7 @@
           "name": "DROG",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/10_DrogBeetle_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -311,7 +311,7 @@
           "name": "FAHL",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/102_Fahl_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -326,7 +326,7 @@
           "name": "FARMERMAGPIE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/FARMERMAGPIE_120_FarmerMacPie_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -341,7 +341,7 @@
           "name": "FENFIRE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/188_Fenfire_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -356,7 +356,7 @@
           "name": "FENGBO",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/138_Fengbo_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -371,7 +371,7 @@
           "name": "FIREFIEND",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/50_FireFiend_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -386,7 +386,7 @@
           "name": "FLOGENGINEER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/FLOGENGINEER_3_FlogTheEngineer_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -401,7 +401,7 @@
           "name": "FORGETTEI",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/69_Forgettei_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -416,7 +416,7 @@
           "name": "HENGE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/16_ForgottenHenge_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -431,7 +431,7 @@
           "name": "FYRR",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/180_Fyrr_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -446,7 +446,7 @@
           "name": "GALARSMONK",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/133_GalarsMonk_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -461,7 +461,7 @@
           "name": "GALDALS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/44_Galdals_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -476,7 +476,7 @@
           "name": "GENTLEGHOST",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/GENTLEGHOST_115_GentlemanGhost_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -491,7 +491,7 @@
           "name": "GERMOGLIO",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/GERMOGLIO_35_Germolio_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -506,7 +506,7 @@
           "name": "GIGAJELLY",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/89_Gigajelly_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -521,7 +521,7 @@
           "name": "GLOOMBUG",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/61_Gloombug_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -536,7 +536,7 @@
           "name": "GLYME",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/58_Glyme_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -551,7 +551,7 @@
           "name": "GOLEMSOLDIER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/20_GolemSoldier_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -566,7 +566,7 @@
           "name": "GROWNUPSIIDZ",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/GROWNUPSIIDZ_24_GrownUpSiidz_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -581,7 +581,7 @@
           "name": "GRUMPYDOG",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/157_GrumpyDog_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -596,7 +596,7 @@
           "name": "GYARU",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/26_Gyaru_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -611,7 +611,7 @@
           "name": "HAMMERHEAD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/12_HammerHead_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -626,7 +626,7 @@
           "name": "SIIDZ",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/SIIDZ_9_HarmfulSiidz_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -641,7 +641,7 @@
           "name": "HORNJAW",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/111_Hornjaw_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -656,7 +656,7 @@
           "name": "HUNTERRAY",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/HUNTERRAY_174_HunterRayMark1_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -671,7 +671,7 @@
           "name": "HUNTERBOT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/43_HunterBot_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -686,7 +686,7 @@
           "name": "HUNTINGDRONE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/2_HuntingDrone_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -701,7 +701,7 @@
           "name": "FISHERJEAN",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/FISHERJEAN_47_JeanTheFisherman_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -716,7 +716,7 @@
           "name": "JUHNPOWDER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/36_JuhnPowder_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -731,7 +731,7 @@
           "name": "KAGUTSUCHI",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/185_Kagutsuchi_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -746,7 +746,7 @@
           "name": "KINGOKO",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/22_King_Oko_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -761,7 +761,7 @@
           "name": "KITSUNEBI",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/100_Kitsunebi_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -776,7 +776,7 @@
           "name": "KINGOKOGUARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/8_KingOkoGuard_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -791,7 +791,7 @@
           "name": "LIRCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/LIRCARD_15_Lir_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -806,7 +806,7 @@
           "name": "LOUFMECHA",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/LOUFMECHA_23_Louf_Mecha_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -821,7 +821,7 @@
           "name": "LURKCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/LURKCARD_153_Lurk_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -836,7 +836,7 @@
           "name": "MAKARA",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/64_Makara_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -851,7 +851,7 @@
           "name": "MARVINCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/MARVINCARD_84_MarvinZ5_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -866,7 +866,7 @@
           "name": "MAUGMIGHT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/33_Maugmight_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -881,7 +881,7 @@
           "name": "MAXTHECAT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/183_MaxTheCat_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -896,7 +896,7 @@
           "name": "MOPEY",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/97_Mopey_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -911,7 +911,7 @@
           "name": "MOSU",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/1_Mosu_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -926,7 +926,7 @@
           "name": "MRBRAINER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/105_MrBrainer_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -941,7 +941,7 @@
           "name": "MUUWY",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/MUUWY_53_Muuwy_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -956,7 +956,7 @@
           "name": "NAIAD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/177_Naiad_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -971,7 +971,7 @@
           "name": "OCTOPHIBIUS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/11_Octophibius_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -986,7 +986,7 @@
           "name": "OMNIBITE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/29_Omnibite_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1001,7 +1001,7 @@
           "name": "ONEEYEGOOBER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/ONEEYEGOOBER_42_OneEyedGoober_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1016,7 +1016,7 @@
           "name": "PEACESIIDZ",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/PEACESIIDZ_117_PeacefulSiidz_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1031,7 +1031,7 @@
           "name": "PUFFCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/PUFFCARD_86_Puff_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1046,7 +1046,7 @@
           "name": "ROBSHY",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/ROBSHY_21_R0B-5HY_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1061,7 +1061,7 @@
           "name": "RADARCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/RADARCARD_146_R4YD4R_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1076,7 +1076,7 @@
           "name": "RABBOX",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/39_Rabbox_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1091,7 +1091,7 @@
           "name": "RAWRAFARR",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/107_Rawrafarr_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1106,7 +1106,7 @@
           "name": "REBITZ",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/REBITZ_83_Rebitz_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1121,7 +1121,7 @@
           "name": "KAMAKHAZI",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/KAMAKHAZI_104_RocketDronee_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1136,7 +1136,7 @@
           "name": "SANDALPHON",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/38_Sandalphon_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1151,7 +1151,7 @@
           "name": "SAWBILL",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/103_Sawbill_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1166,7 +1166,7 @@
           "name": "SCOUTDRONE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/166_ScoutDrones_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1181,7 +1181,7 @@
           "name": "SEEDOFDRAGON",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/6_SeedOfDragon_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1196,7 +1196,7 @@
           "name": "SHREIKFLOWER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/SHREIKFLOWER_77_ShreikingFlower_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1211,7 +1211,7 @@
           "name": "SHUURI",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/55_Shuuri_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1226,7 +1226,7 @@
           "name": "SILOBOT",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/125_SilobotU8_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1241,7 +1241,7 @@
           "name": "SLIVERHUNTER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/SLIVERHUNTER_167_SilverHunter_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1256,7 +1256,7 @@
           "name": "SMOLGERM",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/14_SmolGerm_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1271,7 +1271,7 @@
           "name": "SHREEIK",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/112_Sneakyshreeik_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1286,7 +1286,7 @@
           "name": "TATZELWORM",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/TATZELWORM_169_Tatyelworm_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1301,7 +1301,7 @@
           "name": "TEENFLARWAS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/40_TeenFlarwas_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1316,7 +1316,7 @@
           "name": "CANDLEMAKER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/48_TheCandleMaker_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1331,7 +1331,7 @@
           "name": "GRAILRARE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/GRAILRARE_106_The_Key_Grail.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1346,7 +1346,7 @@
           "name": "THESLAYER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/131_TheSlayer_Rare.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1361,7 +1361,7 @@
           "name": "THESNEER",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/7_TheSneer_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1376,7 +1376,7 @@
           "name": "TOOTHBOOTH",
           "images": {
             "primary": "",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1391,7 +1391,7 @@
           "name": "TOOTHOZORUS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/52_ToothBooth_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1406,7 +1406,7 @@
           "name": "TRICKCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/TRICKCARD_37_Trickster_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1421,7 +1421,7 @@
           "name": "UNIWHALE",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/82_Uniwhale_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1436,7 +1436,7 @@
           "name": "URNACH",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/170_Urnach_Mythic.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1451,7 +1451,7 @@
           "name": "VISIONBRINGR",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/VISIONBRINGR_96_VisionBringer_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1466,7 +1466,7 @@
           "name": "WAFFLESCARD",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/WAFFLESCARD_158_Waffles_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1481,7 +1481,7 @@
           "name": "WEAVERS",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/57_Weavers_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1496,7 +1496,7 @@
           "name": "WILOHCHOMP",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/70_Wilohchomp_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1511,7 +1511,7 @@
           "name": "CHAMEO",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/CHAMEO_88_ZoomerX1_Common.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
@@ -1526,7 +1526,7 @@
           "name": "TARTHORK",
           "images": {
             "primary": "https://monsterbook.io/img/400x560/TARTHORK_175_TarThork_Uncommon.png",
-            "other": [""]
+            "other": []
           },
           "artists": [
             {
