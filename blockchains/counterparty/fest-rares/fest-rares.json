@@ -48,7 +48,7 @@
             }
           ],
           "subassets": []
-           },
+        },
         {
           "edition": "03",
           "name": "PEACENIKPEPE",
@@ -60,13 +60,13 @@
             {
               "name": "Mamo Looney",
               "link": ""
-             }
+            }
           ],
           "subassets": []
-          },
+        },
         {
-        "edition": "04",
-          "name":  "SHROOMTOSHI",
+          "edition": "04",
+          "name": "SHROOMTOSHI",
           "images": {
             "primary": "https://q2woi4ipasz2hbr5wlyqmyxg6mz5y4tptppsgdzh4ew4rx3ig5bq.arweave.net/hqzkcQ8Es6OGPbLxBmLm8zPccm-b3yMPJ-EtyN9oN0M/SHROOMTOSHI.jpg",
             "other": []
@@ -79,9 +79,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "05",
-          "name":  "NOPEPENO",
+        {
+          "edition": "05",
+          "name": "NOPEPENO",
           "images": {
             "primary": "https://pvt4wjr4x5abuw4bwr35nsdr35e3dkgbukoabuym6baffg6yooda.arweave.net/fWfLJjy_QBpbgbR31shx30mxqMGinADTDPBAUpvYc4Y/NOPEPENO.jpg",
             "other": []
@@ -94,9 +94,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "06",
-          "name":  "MARGEMEME",
+        {
+          "edition": "06",
+          "name": "MARGEMEME",
           "images": {
             "primary": "https://2vdiybk2lllrnb47dxgrrzytpr465hyrsv64mvsqqgjqw3yygddq.arweave.net/1UaMBVpa1xaHnx3NGOcTfHnunxGVfcZWUIGTC28YMMc/MARGEMEME.jpg",
             "other": []
@@ -109,9 +109,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "07",
-          "name":  "PEPYEAH",
+        {
+          "edition": "07",
+          "name": "PEPYEAH",
           "images": {
             "primary": "https://2eohyayisbdr6rkuifgbdpfxbldikigsrel5owt2jz6m6sxmzuwa.arweave.net/0Rx8AwiQRx9FVEFMEby3CsaFINKJF9daek58z0rszSw/PEPYEAH.jpg",
             "other": []
@@ -124,9 +124,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "08",
-          "name":  "A1448255510946016597",
+        {
+          "edition": "08",
+          "name": "A1448255510946016597",
           "images": {
             "primary": "https://27rmofzyuqc7t4d5capjkpwyhzdnfckarpi5vlwde6ch2sh4nw4a.arweave.net/1-LHFzikBfnwfRAelT7YPkbSiUCL0dquwyeEfUj8bbg/A1448255510946016597.jpg",
             "other": []
@@ -139,9 +139,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "09",
-          "name":  "CHEFPEPELEGS",
+        {
+          "edition": "09",
+          "name": "CHEFPEPELEGS",
           "images": {
             "primary": "https://redu2zidgx2he425wuqzyaocjewc7k7dwbygkgzfuwrsvgknpcea.arweave.net/iQdNZQM19HJzXbUhnAHCSSwvq-OwcGUbJaWjKplNeIg/CHEFPEPELEGS.jpg",
             "other": []
@@ -154,9 +154,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "10",
-          "name":  "PEPESOF",
+        {
+          "edition": "10",
+          "name": "PEPESOF",
           "images": {
             "primary": "https://pro7ai2tb34fbbwi422g4symq6jklbplkyfxyva7ayidlirjrcda.arweave.net/fF3wI1MO-FCGyOa0bksMh5KlhetWC3xUHwYQNaIpiIY/PEPESOF.jpg",
             "other": []
@@ -169,9 +169,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "11",
-          "name":  "PEPECRICKET",
+        {
+          "edition": "11",
+          "name": "PEPECRICKET",
           "images": {
             "primary": "https://n3uu4a4rhgb7bys7lkddtwlq7d66szmmwy4fawxl3cjpyjuoggnq.arweave.net/bulOA5E5g_DiX1qGOdlw-P3pZYy2OFBa69iS_CaOMZs/PEPECRICKET.jpg",
             "other": []
@@ -184,9 +184,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "12",
-          "name":  "HIPEPE",
+        {
+          "edition": "12",
+          "name": "HIPEPE",
           "images": {
             "primary": "https://kbvj2biq5g6q7wijetppbulqletg3usr4llqomaqx4yy6rr6djzq.arweave.net/UGqdBRDpvQ_ZCSTe8NFwWSZt0lHi1wcwEL8xj0Y-GnM/HIPEPE.jpg",
             "other": []
@@ -199,9 +199,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "13",
-          "name":  "RAREWORKSHOP",
+        {
+          "edition": "13",
+          "name": "RAREWORKSHOP",
           "images": {
             "primary": "https://sxa3vtq5vnodwnbua47x6jrit7qlbgy4v6cmvj62zbxtxybc72xq.arweave.net/lcG6zh2rXDs0NAc_fyYon-CwmxyvhMqn2shvO-Ai_q8/RAREWORKSHOP.jpg",
             "other": []
@@ -214,9 +214,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "14",
-          "name":  "KRAKENPEPE",
+        {
+          "edition": "14",
+          "name": "KRAKENPEPE",
           "images": {
             "primary": "https://ixl7fmox2higtsiep46e3qzpvnxs4o5rhjamvw454stwjdm6hx7a.arweave.net/RdfysdfR0GnJBH88TcMvq28uO7E6QMrbneSnZI2ePf4/KRAKENPEPE.jpg",
             "other": []
@@ -228,11 +228,10 @@
             }
           ],
           "subassets": []
-          },
- {
-        
-        "edition": "15",
-          "name":  "PEPEBUSINESS",
+        },
+        {
+          "edition": "15",
+          "name": "PEPEBUSINESS",
           "images": {
             "primary": "https://nezajhrgepqad2qszunsriam6kusd6xab5qv27dmbifyq34sns2q.arweave.net/aTIEniYj4AHqEs0bKKAM8qkh-uAPYV18bAoLiG-SbLU/PEPEBUSINESS.jpg",
             "other": []
@@ -245,9 +244,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "16",
-          "name":  "MADEINPARIS",
+        {
+          "edition": "16",
+          "name": "MADEINPARIS",
           "images": {
             "primary": "https://mplzpiqtmdgfsat35fukz72f4yevypz5jigopw653kv3gbt7o3ca.arweave.net/Y9eXohNgzFkCe-lorP9F5glcPz1KDOfb3dqrswZ_dsQ/MADEINPARIS.jpg",
             "other": []
@@ -260,9 +259,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "17",
-          "name":  "MINIMALPEPE",
+        {
+          "edition": "17",
+          "name": "MINIMALPEPE",
           "images": {
             "primary": "https://aas66mxwpfx7sqfr5pnq6cvq4u6kdtrsd4lcdodsdrbxh6j5kv2q.arweave.net/ACXvMvZ5b_lAsevbDwqw5TyhzjIfFiG4chxDc_k9VXU/minimalpepe.jpg",
             "other": []
@@ -275,9 +274,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "18",
-          "name":  "PEPEDEVINCI",
+        {
+          "edition": "18",
+          "name": "PEPEDEVINCI",
           "images": {
             "primary": "https://wxxnbtcokzj3zt5or2sev7vpqxkqdwedddyq7fm5akej2bt7tyfa.arweave.net/te7QzE5WU7zPro6kSv6vhdUB2IMY8Q-VnQKInQZ_ngo/PEPEDEVINCI.jpg",
             "other": []
@@ -289,10 +288,10 @@
             }
           ],
           "subassets": []
-          },
-  {
-        "edition": "19",
-          "name":  "FROSRETROUVL",
+        },
+        {
+          "edition": "19",
+          "name": "FROSRETROUVL",
           "images": {
             "primary": "https://ah4jlbkiavkqzpe45ksz3unpbwsdkdqwnje6z22d2hjdbed66d2a.arweave.net/AfiVhUgFVQy8nOqlndGvDaQ1DhZqSezrQ9HSMJB-8PQ/FROSRETROUVL.jpg",
             "other": []
@@ -305,9 +304,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "20",
-          "name":  "RCSAPARIS",
+        {
+          "edition": "20",
+          "name": "RCSAPARIS",
           "images": {
             "primary": "https://eeuzovmap64kzyd6s3skbndbpey7ksbyvkpewlga5mx32aeqd77q.arweave.net/ISmXVYB_uKzgfpbkoLRheTH1SDiqnksswOsvvQCQH_8/RCSAPARIS.jpg",
             "other": []
@@ -320,9 +319,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "21",
-          "name":  "YUPEPE",
+        {
+          "edition": "21",
+          "name": "YUPEPE",
           "images": {
             "primary": "https://jrtyidikbrdfnwbiozwutmifxw3luis56d7hmnbea5nguvmx2uca.arweave.net/TGeEDQoMRlbYKHZtSbEFvba6Il3w_nY0JAdaalWX1QQ/YUPEPE.jpg",
             "other": []
@@ -335,9 +334,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "22",
-          "name":  "PEPEHA",
+        {
+          "edition": "22",
+          "name": "PEPEHA",
           "images": {
             "primary": "https://pie2kea2cqd6jiuunugtwav64ut6r6m65ay4gjb64hzhocjhhfba.arweave.net/egmlEBoUB-SilG0NOwK-5Sfo-Z7oMcMkPuHydwknOUI/PEPEHA.jpg",
             "other": []
@@ -350,9 +349,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "23",
-          "name":  "PEPEPLEXI",
+        {
+          "edition": "23",
+          "name": "PEPEPLEXI",
           "images": {
             "primary": "https://j4qbktiskwcwbt6iu52beyvwktbezafy5u2ydxxrx6lxoeqopqbq.arweave.net/TyAVTRJVhWDPyKd0EmK2VMJMgLjtNYHe8b-XdxIOfAM/PEPEPLEXI.jpg",
             "other": []
@@ -365,9 +364,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "24",
-          "name":  "PEPECOLM",
+        {
+          "edition": "24",
+          "name": "PEPECOLM",
           "images": {
             "primary": "https://atb3hay4ec36be55pdn56qsdafdkyodxenc4piygt5p5oek5wo7a.arweave.net/BMOzgxwgt-CTvXjb30JDAUasOHcjRcejBp9f1xFds74/PEPECOLM.jpg",
             "other": []
@@ -380,9 +379,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "25",
-          "name":  "PEPEVRYWHERE",
+        {
+          "edition": "25",
+          "name": "PEPEVRYWHERE",
           "images": {
             "primary": "https://qlthwwwppxm7oq2ulk33lpug2h37nyirftzuukyljpsdg4443kia.arweave.net/guZ7Ws992fdDVFq3tb6G0ff24REs80orC0vkM3Oc2pA/PEPEVRYWHERE.jpg",
             "other": []
@@ -395,9 +394,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "26",
-          "name":  "MEMEALPHA",
+        {
+          "edition": "26",
+          "name": "MEMEALPHA",
           "images": {
             "primary": "https://qdeql6sud4ytvw7t6jx4nxgpbn4ge5fgwxs4ltme66rj3mevzesq.arweave.net/gMkF-lQfMTrb8_JvxtzPC3hidKa15cXNhPeinbCVySU/MEMEALPHA.jpg",
             "other": []
@@ -410,9 +409,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "27",
-          "name":  "NOSKILLPEPE",
+        {
+          "edition": "27",
+          "name": "NOSKILLPEPE",
           "images": {
             "primary": "https://ew6u72dwahl2mritnxfmcet6rnqrthhezaqacfhxd3qi6ddahzqa.arweave.net/Jb1P6HYB16ZFE23KwRJ-i2EZnOTIIAEU9x7gjwxgPmA/NOSKILLPEPE.jpg",
             "other": []
@@ -425,9 +424,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "28",
-          "name":  "PROJECTPEPE",
+        {
+          "edition": "28",
+          "name": "PROJECTPEPE",
           "images": {
             "primary": "https://ryhlrkgr4au4exzjorxjtckxfkgzuzfhp2ncevj6vwj75bnjp25q.arweave.net/jg64qNHgKcJfKXRumYlXKo2aZKd-miJVPq2T_oWpfrs/PROJECTEPE.jpg",
             "other": []
@@ -440,9 +439,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "29",
-          "name":  "FOCUSPEPE",
+        {
+          "edition": "29",
+          "name": "FOCUSPEPE",
           "images": {
             "primary": "https://3cskbmlwvui6jtxqe3lvekstqwntzzyolqb6oiqhpmxc3cfljjvq.arweave.net/2KSgsXatEeTO8CbXUipThZs85w5cA-ciB3suLYirSms/FOCUSPEPE.jpg",
             "other": []
@@ -455,9 +454,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "30",
-          "name":  "LIFTEDPEPE",
+        {
+          "edition": "30",
+          "name": "LIFTEDPEPE",
           "images": {
             "primary": "https://pdkebhnowbbyhqblqtw2vrnac5uudplqv4khauifecjemiozyyba.arweave.net/eNRAna6wQ4PAK4TtqsWgF2lBvXCvFHBRBSCSRiHZxgI/LIFTEDPEPE.jpg",
             "other": []
@@ -470,9 +469,9 @@
           ],
           "subassets": []
         },
-	{
-        "edition": "31",
-          "name":  "PINKPEPEROSE",
+        {
+          "edition": "31",
+          "name": "PINKPEPEROSE",
           "images": {
             "primary": "https://ck5vw4yqefqiquiouoz7q7rzhqwra4qxgfthu2ebbdim3c7j4wea.arweave.net/ErtbcxAhYIhRDqOz-H45PC0QchcxZnpogQjQzYvp5Yg/PINKPEPEROSE.jpg",
             "other": []
@@ -485,9 +484,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "32",
-          "name":  "THEOBEERPEPE",
+        {
+          "edition": "32",
+          "name": "THEOBEERPEPE",
           "images": {
             "primary": "https://hyjoffx6f6s4syva4lcdqojdjkxudwbzq7ugt5urqumllplj3oqq.arweave.net/PhLilv4vpclioOLEODkjSq9B2DmH6Gn2kYUYtb1p26E/THEOBEERPEPE.jpg",
             "other": []
@@ -500,9 +499,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "33",
-          "name":  "PEPEYELLOW",
+        {
+          "edition": "33",
+          "name": "PEPEYELLOW",
           "images": {
             "primary": "https://emweceoagsjqokwea2ucjt6ymqxbmru2htpm2ipjyeq54lzqkqcq.arweave.net/IyxBEcA0kwcqxAaoJM_YZC4WRpo83s0h6cEh3i8wVAU/PEPEYELLOW.jpg",
             "other": []
@@ -515,9 +514,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "34",
-          "name":  "SENDUTAJESUS",
+        {
+          "edition": "34",
+          "name": "SENDUTAJESUS",
           "images": {
             "primary": "https://ttif6vw6fkz54z2bv3fqrecra4mlygau6hmbdmorkseyokxnkqra.arweave.net/nNBfVt4qs95nQa7LCJBRBxi8GBTx2BGx0VSJhyrtVCI/SENDUTAJESUS.jpg",
             "other": []
@@ -530,9 +529,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "35",
-          "name":  "ORDERAPEPE",
+        {
+          "edition": "35",
+          "name": "ORDERAPEPE",
           "images": {
             "primary": "https://6z3uamo3navpqx2qjk546hgif45qsk4q3my3cl2mgcapixas42wa.arweave.net/9ndAMdtoKvhfUEq7zxzILzsJK5DbMbEvTDCA9FwS5qw/ORDERAPEPE.jpg",
             "other": []
@@ -545,9 +544,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "36",
-          "name":  "PEPELAMP",
+        {
+          "edition": "36",
+          "name": "PEPELAMP",
           "images": {
             "primary": "https://crriackdcfi2cihp42qdd6fjq7rblxiyyjuicf4sl7dxg7sgyp7q.arweave.net/FGKACUMRUaEg7-agMfiph-IV3RjCaIEXkl_Hc35Gw_8/PEPELAMP.jpg",
             "other": []
@@ -560,9 +559,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "37",
-          "name":  "BONJOURYALL",
+        {
+          "edition": "37",
+          "name": "BONJOURYALL",
           "images": {
             "primary": "https://2mnv3xsgqei3frku67gbhap75fldroptv3mbla6da6e7xdvwqz2q.arweave.net/0xtd3kaBEbLFVPfME4H_6VY4ufOu2BWDwweJ-462hnU/BONJOURYALL.jpg",
             "other": []
@@ -575,9 +574,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "38",
-          "name":  "MAGNIFIQUE",
+        {
+          "edition": "38",
+          "name": "MAGNIFIQUE",
           "images": {
             "primary": "https://cur2t243dc5l6jnxhsxierg66wcxvpr3pnk7ymjgls76ascgi74q.arweave.net/FSOp65sYur8ltzyugkTe9YV6vjt7VfwxJly_4EhGR_k/MAGNIFIQUE.jpg",
             "other": []
@@ -590,9 +589,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "39",
-          "name":  "NOTANARTIST",
+        {
+          "edition": "39",
+          "name": "NOTANARTIST",
           "images": {
             "primary": "https://5wjtj7or6j7yr3yzcrwf7gk52l4oh6naompeop2r3f6wkokddbaa.arweave.net/7ZM0_dHyf4jvGRRsX5ld0vjj-aBzHkc_Udl9ZTlDGEA/NOTANARTIST.jpg",
             "other": []
@@ -605,9 +604,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "40",
-          "name":  "FAKEPEPEISH",
+        {
+          "edition": "40",
+          "name": "FAKEPEPEISH",
           "images": {
             "primary": "https://73zixjh2dq73zd55jg3n5r2rgf4du5p3ycclrpoxpqaos4k3wo4a.arweave.net/_vKLpPocP7yPvUm23sdRMXg6dfvAhLi913wA6XFbs7g/FAKEPEPEISH.jpg",
             "other": []
@@ -620,9 +619,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "41",
-          "name":  "PEPEPOSE",
+        {
+          "edition": "41",
+          "name": "PEPEPOSE",
           "images": {
             "primary": "https://6pxb7ccqsagwtp7kmrk73c2alc34j34nauy5m5mcgokelzcbnbuq.arweave.net/8-4fiFCQDWm_6mRV_YtAWLfE740FMdZ1gjOUReRBaGk/PEPEPOSE.jpg",
             "other": []
@@ -635,9 +634,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "42",
-          "name":  "PEPESTAMPED",
+        {
+          "edition": "42",
+          "name": "PEPESTAMPED",
           "images": {
             "primary": "https://lg7nrjzrgwfa4kp5pzpthkpyqanddaoozuo4ljpygghgntee4lpa.arweave.net/Wb7YpzE1ig4p_X5fM6n4gBoxgc7NHcWl-DGOZsyE4t4/PEPESTAMPED.jpg",
             "other": []
@@ -650,9 +649,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "43",
-          "name":  "SHITPEPECARD",
+        {
+          "edition": "43",
+          "name": "SHITPEPECARD",
           "images": {
             "primary": "https://2jlohmqn53blwugigo52vdflfxugh2jxhfdueqdye45wdblecxwq.arweave.net/0lbjsg3uwrtQyDO7qoyrLehj6Tc5R0JAeCc7YYVkFe0/SHITPEPECARD.jpg",
             "other": []
@@ -665,9 +664,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "44",
-          "name":  "PEPEWOJACQUE",
+        {
+          "edition": "44",
+          "name": "PEPEWOJACQUE",
           "images": {
             "primary": "https://e3wyo2cl3722agb65uoog5gytoqivuwjrkxpt53ar5n5n7aq5naa.arweave.net/Ju2HaEvf9aAYPu0c43TYm6CK0smKrvn3YI9b1vwQ60A/PEPEWOJACQUE.jpg",
             "other": []
@@ -680,9 +679,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "45",
-          "name":  "PARISAIRBNB",
+        {
+          "edition": "45",
+          "name": "PARISAIRBNB",
           "images": {
             "primary": "https://2jdq36tqarkga3hn764wykinwbtovg3zz6im4ys5fo5sl2hbx2ya.arweave.net/0kcN-nAEVGBs7f-5bCkNsGbqm3nPkM5iXSu7JejhvrA/PARISAIRBNB.jpg",
             "other": []
@@ -695,9 +694,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "46",
-          "name":  "PEPESNAIL",
+        {
+          "edition": "46",
+          "name": "PEPESNAIL",
           "images": {
             "primary": "https://4dyl4526w6apwxt6mq2esoncx46cxtyte7skhrzw3sp3sxnfilxa.arweave.net/4PC-d163gPtefmQ0STmivzwrzxMn5KPHNtyfuV2lQu4/PEPESNAIL.jpg",
             "other": []
@@ -710,9 +709,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "47",
-          "name":  "PEPEFROMAGE",
+        {
+          "edition": "47",
+          "name": "PEPEFROMAGE",
           "images": {
             "primary": "https://7ny5ordb2jionylzw5weoxqgv2rjl2r6546uy4pow6bt5bt75sna.arweave.net/-3HXRGHSUObhebdsR14GrqKV6j7vPUxx7reDPoZ_7Jo/PEPEFROMAGE.jpg",
             "other": []
@@ -725,9 +724,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "48",
-          "name":  "A12405764456997387506",
+        {
+          "edition": "48",
+          "name": "A12405764456997387506",
           "images": {
             "primary": "https://53npctkftdeyrx4zpszzehd4p6tsfxpe5baj56nzg3yria2u4npq.arweave.net/7trxTUWYyYjfmXyzkhx8f6ci3eToQJ75uTbxFANU418/A12405764456997387506.jpg",
             "other": []
@@ -740,9 +739,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "49",
-          "name":  "PPEE",
+        {
+          "edition": "49",
+          "name": "PPEE",
           "images": {
             "primary": "https://ilolvqk7kg2o2xenvfqdgp4foki4umulukgma3mj6nzulr6m7tea.arweave.net/Qty6wV9RtO1cjalgMz-FcpHKMouijMBtifNzRcfM_Mg/PPEE.jpg",
             "other": []
@@ -755,9 +754,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "50",
-          "name":  "FIRSTBIDPEPE",
+        {
+          "edition": "50",
+          "name": "FIRSTBIDPEPE",
           "images": {
             "primary": "https://2in6ezrsdneo73sl2l4577n2g5ygnpwjlpf25pz7ifn365czq5ka.arweave.net/0hviZjIbSO_uS9L53_26N3Bmvslby66_P0Fbv3RZh1Q/FIRSTBIDPEPE.jpg",
             "other": []
@@ -770,9 +769,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "51",
-          "name":  "PARISINPEPE",
+        {
+          "edition": "51",
+          "name": "PARISINPEPE",
           "images": {
             "primary": "https://oycxppmye7yz6pt2dabcbagok5vlrxqekb75dcs2ciuwmyzbz2za.arweave.net/dgV3vZgn8Z8-ehgCIIDOV2q43gRQf9GKWhIpZmMhzrI/PARISINPEPE.jpg",
             "other": []
@@ -785,9 +784,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "52",
-          "name":  "PEPENOPARIS",
+        {
+          "edition": "52",
+          "name": "PEPENOPARIS",
           "images": {
             "primary": "https://uved4oousfgqsc2jpwxpvdhbyhdkzs6kzj5n6zl7c5jgzyrdpr2a.arweave.net/pUg-OdSRTQkLSX2u-ozhwcasy8rKet9lfxdSbOIjfHQ/PEPENOPARIS.jpg",
             "other": []
@@ -800,9 +799,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "53",
-          "name":  "FORALLDAPEPE",
+        {
+          "edition": "53",
+          "name": "FORALLDAPEPE",
           "images": {
             "primary": "https://2crdgo52czpgs3so4tmp6gbd4rfr7luqxhdmozmen6v447uzdnqq.arweave.net/0KIzO7oWXmluTuTY_xgj5EsfrpC5xsdlhG-rzn6ZG2E/FORALLDAPEPE.jpg",
             "other": []
@@ -815,9 +814,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "54",
-          "name":  "WORKSHOPEPE",
+        {
+          "edition": "54",
+          "name": "WORKSHOPEPE",
           "images": {
             "primary": "https://ctlkc22ed2jxrwb6o76grxpgkgbqx2ratflsbopdxw4bgplipigq.arweave.net/FNaha0Qek3jYPnf8aN3mUYML6iCZVyC54724Ez1oeg0/WORKSHOPEPE.jpg",
             "other": []
@@ -830,9 +829,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "55",
-          "name":  "PEPEWORKSHOP",
+        {
+          "edition": "55",
+          "name": "PEPEWORKSHOP",
           "images": {
             "primary": "https://satme3y2u5yr2ovmgdkd3n5dtx3n4jpxb4gigdkiwzbtiki3kgqa.arweave.net/kCbCbxqncR06rDDUPbejnfbeJfcPDIMNSLZDNCkbUaA/PEPEWORKSHOP.jpg",
             "other": []
@@ -845,9 +844,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "56",
-          "name":  "DARKDANKPEPE",
+        {
+          "edition": "56",
+          "name": "DARKDANKPEPE",
           "images": {
             "primary": "https://icz5uscopd23v3dixjpjpets6qqcoluzem6v3yahvyvih6oqvv7a.arweave.net/QLPaSE549brsaLpel5Jy9CAnLpkjPV3gB64qg_nQrX4/DARKDANKPEPE.jpg",
             "other": []
@@ -860,9 +859,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "57",
-          "name":  "PEPETHEBLEU",
+        {
+          "edition": "57",
+          "name": "PEPETHEBLEU",
           "images": {
             "primary": "https://jh32otj5wwkomryi7y3efenccee4jfu5mnx6zuj5ufrrgg7gx3cq.arweave.net/SfenTT21lOZHCP42QpGiEQnElp1jb-zRPaFjExvmvsU/PEPETHEBLEU.jpg",
             "other": []
@@ -875,9 +874,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "58",
-          "name":  "POSTMINTPEPE",
+        {
+          "edition": "58",
+          "name": "POSTMINTPEPE",
           "images": {
             "primary": "https://djznn7cmpfwfenzgndjbrblcvuespgthi2bv3ebeu5iumrapmvdq.arweave.net/GnLW_Ex5bFI3JmjSGIVirQknmmdGg12QJKdRRkQPZUc/POSTMINTPEPE.jpg",
             "other": []
@@ -890,9 +889,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "59",
-          "name":  "INFOCUSPEPE",
+        {
+          "edition": "59",
+          "name": "INFOCUSPEPE",
           "images": {
             "primary": "https://363hubzuy67sndnqzfqkujj6cunwtuq6ak73miqiwr3w4wdax2tq.arweave.net/37Z6BzTHvyaNsMlgqiU-FRtp0h4Cv7YiCLR3blhgvqc/INFOCUSPEPE.jpg",
             "other": []
@@ -905,9 +904,9 @@
           ],
           "subassets": []
         },
-{
-        "edition": "60",
-          "name":  "GIGAMULLET",
+        {
+          "edition": "60",
+          "name": "GIGAMULLET",
           "images": {
             "primary": "https://rzj4mgzwquv5ifg76oypzlgtbuo64o22wximdsjhgbruh7h3qmma.arweave.net/jlPGGzaFK9QU3_Ow_KzTDR3uO1q10MHJJzBjQ_z7gxg/GIGAMULLET.jpg",
             "other": []
@@ -921,6 +920,6 @@
           "subassets": []
         }
       ]
-     }
-    ] 
-   } 
+    }
+  ]
+}
