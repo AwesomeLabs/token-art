@@ -1,0 +1,1116 @@
+{
+    "chain": "counterparty",
+    "name": "Modern Relics",
+    "images": {
+        "avatar": "https://uxfkd27j6mkoi4ytbe6qomy4mxh5rcq2etjmo5goklfw5cba2jda.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+        "banner": ""
+    },
+    "description": "Modern Relics is a collection of tokens that were born in 2014 on Dogeparty and in 2015 on Counterparty. They have remained frozen in their original state…until now. We have awakened them from their slumber and have given them a new opportunity to shine in the modern age of crypto collectibles. This project aims to breathe new life into this collection of ancient tokens by making them more appealing and tradeable, with desirable characteristics. Today’s collector specifically favors a low issuance of a non-divisible asset with an image attached. These relics have all had a divisibility reset and issuance updated to reflect the modern preference.The final enhancement will be the attachment of a newly created piece of art to each token. Modern Relics will give everyone in the crypto art community a chance to contribute their talent and a fortunate few will have the opportunity to have their art permanently attached to these unique tokens!",
+    "externalLinks": {
+        "website": "https://modernrelics.io/",
+        "twitter": "https://twitter.com/ModernRelics_io"
+    },
+    "sets": [
+        {
+            "name": "Modern Relilcs",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "April 2023",
+                    "name": "COLLECTOR",
+                    "images": {
+                        "primary": "https://modernrelics.io/card/COLLECTOR-cp.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "",
+                            "link": ""
+                        }
+                    ],
+                    "subassets": [
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.areyoumissingsomething",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_7qmFn.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Egido Val",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.COLLECTOR",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_U5D3e.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Rey",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_MY8gS.GIF",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "D. Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.FROGINAJAR",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_c0x16.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "papeto",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.FROGJUICE",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_ayML5.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "PrivateKey",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.Hand_of_Pepe",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_cerpK.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.Introducing_Pepe",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_FWQCq.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.KING",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_joZVM.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tizar Berandalan",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.mother",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_5feWu.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Dany",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.not_a_hoarder",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_4326N.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "KimbrowAF",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.OOSEVEN",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_rvKNu.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "YONI",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.PEPECOLLECTOR",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_KkDts.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Robenira",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.pepefc",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_FNeAC.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Bbleiztz",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "COLLECTOR.QUEEN",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_NVhag.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tizar Berandalan",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "15",
+                            "name": "COLLECTOR.The_Collector",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_dlreF.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "16",
+                            "name": "COLLECTOR.The_Counterparty_Collection",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_zv5Dr.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "17",
+                            "name": "COLLECTOR.TheCollector",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/COLLECTOR_fjCmY.jpeg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "LittleShibe",
+                                    "link": ""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "edition": "May 2023",
+                    "name": "FAIRY",
+                    "images": {
+                        "primary": "https://modernrelics.io/card/FAIRY.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OoakosiMo",
+                            "link": ""
+                        }
+                    ],
+                    "subassets": [
+                        {
+                            "edition": "",
+                            "name": "FAIRY.ANDPEPE",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_iTPbt.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "AdeKrypto",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.elvinia",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_wRhWb.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "AbysVora",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.MAGIC",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_PwSWF.GIF",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.PEPE",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_odBdq.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "FAIRYPEPE",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.The_Pepe_Fairy",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_LAHAm.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.Tooth_Fairy",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_lJMVX.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "FAIRY.TWISTED",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/FAIRY_mwSkn.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "papeto",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.MAMMON",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_ygMYP.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "AdeKrypto",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.Monopepe",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_5C5GF.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.PEPE",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_r7Vfg.JPG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.PORTALS",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_dMdLd.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "OoakosiMo",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.PRECIOUS",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_jX8Yv.GIF",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Shorty",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "",
+                            "name": "GREED.WANT",
+                            "images": {
+                                "primary": "https://modernrelics.io/cards/GREED_wg1H2.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Lycosfreak",
+                                    "link": ""
+                                }
+                            ]
+                        },
+                        {
+                            "edition": "July 2023",
+                            "name": "PSYCHO",
+                            "images": {
+                                "primary": "https://modernrelics.io/card/PSYCHO.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Robenira",
+                                    "link": ""
+                                }
+                            ],
+                            "subassets": [
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.CYBERPUNK",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_H7tNU.png",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "OoakosiMo",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.DALIESQUE",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_Efbtr.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Lycosfreak",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.GENSLER",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_U8pwX.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Lycosfreak",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.IMHOME",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_A6NTt.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Lycosfreak",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.KILLER",
+                                    "images": {
+                                        "primary": "https://arweave.net/-vDqy158vqQsQ_8dVrB6d3rUMCqn95k59VEaU7lBy2o/pcm69g_image.jpg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Papeto",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.KRUEGER",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_A3q7G.JPG",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Shorty",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.MASKOFF",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_aslNL.GIF",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "Shorty",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.OG",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_gzQbx.png",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "AbysVora",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "",
+                                    "name": "PSYCHO.PEPE",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/cards/PSYCHO_8tUqZ.jpeg",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "AdeKrypto",
+                                            "link": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "edition": "August 2023",
+                                    "name": "VIPER",
+                                    "images": {
+                                        "primary": "https://modernrelics.io/card/VIPER.png",
+                                        "other": []
+                                    },
+                                    "artists": [
+                                        {
+                                            "name": "AbysVora",
+                                            "link": ""
+                                        }
+                                    ],
+                                    "subassets": [
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.BRO",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_xVwq0.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "papeto",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.FINAL_BITCOIN",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_xqJRw.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.MRVIPERPEPE",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_OHWEM.gif",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Robenira",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.PEPE",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_stAPY.GIF",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Shorty",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.SELFID",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_1PEjE.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.SELFSERVICE",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_eanVt.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "papeto",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.THELOVER",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_lm55P.png",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "AbysVora",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.UH_OH",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_1QzxA.jpg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "Lycosfreak",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.VENOMNIGHT",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_AmvZV.png",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "AbysVora",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "",
+                                            "name": "VIPER.VYPER",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/cards/VIPER_YqcVt.jpeg",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "AdeKrypto",
+                                                    "link": ""
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "edition": "September 2023",
+                                            "name": "GOAT",
+                                            "images": {
+                                                "primary": "https://modernrelics.io/card/GOAT.png",
+                                                "other": []
+                                            },
+                                            "artists": [
+                                                {
+                                                    "name": "AbysVora",
+                                                    "link": ""
+                                                }
+                                            ],
+                                            "subassets": [
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.COWPIE",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_fKdBI.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.DEVILSGOAT",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_AXCi1.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AbysVora",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.ERNEST",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_HCLB8.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.illumigoat",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_7OFTu.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "AbysVora",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.Jeez",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_Nryyv.gif",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Yoni",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.JORDAN",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_jz2OF.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Shorty",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.MJGOAT",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_upB7C.gif",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Robby Low",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.THE27CLUB",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_73WNk.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "",
+                                                    "name": "GOAT.WILLIEPEPENELSON",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/cards/GOAT_qQhUW.png",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "ROCCO",
+                                                            "link": ""
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "edition": "October 2023",
+                                                    "name": "COBRA",
+                                                    "images": {
+                                                        "primary": "https://modernrelics.io/card/COBRA.jpg",
+                                                        "other": []
+                                                    },
+                                                    "artists": [
+                                                        {
+                                                            "name": "Lycosfreak",
+                                                            "link": ""
+                                                        }
+                                                    ],
+                                                    "subassets": [
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.ALMANAC2024",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_z3KGo.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.CADUCEUS",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_9O6IK.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "AdeKrypto",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.CrimsonQueen",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_K6N4q.png",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "AbysVora",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.hauntedserpent",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_xAkUE.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "AbysVora",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.HERCULPEPES",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_oikX1.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Robenira",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.hypnotized",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_XLxmb.png",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "PitooPi",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.PEPE_BEER",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_9JSpl.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.QUEEN",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_SY3wz.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "papeto",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.STALLONE",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_LdbPz.JPG",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Shorty",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.STRIKE",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_S0KZg.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.TATE",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/cards/COBRA_qtsVg.jpg",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Lycosfreak",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "",
+                                                            "name": "COBRA.TINFOILHAT",
+                                                            "images": {
+                                                                "primary": "https://xchain.io/asset/COBRA.TINFOILHAT",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "OoakosiMo",
+                                                                    "link": ""
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "edition": "November 2023",
+                                                            "name": "CRAB",
+                                                            "images": {
+                                                                "primary": "https://modernrelics.io/card/CRAB.gif",
+                                                                "other": []
+                                                            },
+                                                            "artists": [
+                                                                {
+                                                                    "name": "Shorty",
+                                                                    "link": ""
+                                                                }
+                                                            ],
+                                                            "subassets": []
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
