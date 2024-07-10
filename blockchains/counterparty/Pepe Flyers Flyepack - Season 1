@@ -1,0 +1,435 @@
+{
+    "chain": "counterparty",
+    "name": "Pepe Flyers",
+    "images": {
+        "avatar": "https://i.imgur.com/T8aIJSS.png",
+        "banner": ""
+    },
+    "description": "Pepe Flyers Flyepack",
+    "externalLinks": {
+        "website": "https://pepeflyers.com/",
+        "twitter": "https://x.com/pepeflyers"
+    },
+    "sets": [
+        {
+            "name": "Season 1",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "1",
+                    "name": "RAREJORDAN",
+                    "images": {
+                        "primary": "https://e5u54yomp5tvo4un2hvazxvbl4wmqapdong77xqwzwzaor7lrtma.arweave.net/J2neYcx_Z1dyjdHqDN6hXyzIAeNzTf_eFs2yB0frjNg/01 - RAREJORDAN.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "2",
+                    "name": "SMOLBOGUES",
+                    "images": {
+                        "primary": "https://rnlhau4j33llow66b4pxxyytv2ppealg7k4raskxucwmeyod3vwq.arweave.net/i1ZwU4ne1rdb3g8fe-MTrp7yAWb6uRBJV6CswmHD3W0/02 - SMOLBOGUES.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "3",
+                    "name": "DARKPILLMLNE",
+                    "images": {
+                        "primary": "https://7cgv3ifb5il6iv6bgsvcvlxyysud4vqrt7qlfgvp62zw6kxtybwa.arweave.net/-I1doKHqF-RXwTSqKq74xKg-VhGf4LKar_azbyrzwGw/03 - DARKPILLMLNE.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "4",
+                    "name": "DJIVERSON",
+                    "images": {
+                        "primary": "https://spr46rtat4byjvapyqrrvcewyrxnfwwbyzkb5mx5fcfegawfscwa.arweave.net/k-PPRmCfA4TUD8QjGoiWxG7S2sHGVB6y_SiKQwLFkKw/04 - DJIVERSON.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "5",
+                    "name": "MAGPIESHAYES",
+                    "images": {
+                        "primary": "https://wehe775fwtmfavarsosbngjpljb6fmw3pmldqodrwwhcu7vttnuq.arweave.net/sQ5P_6W02FBUEZOkFpkvWkPistt7Fjg4cbWOKn6zm2k/05 - MAGPIESHAYES.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                           "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "6",
+                    "name": "SHADILAYKIDD",
+                    "images": {
+                        "primary": "https://kp67esjmwidlhbr3zh2nbv3n3gtpamk7v6sywra6rx2ft7ktxgyq.arweave.net/U_3ySSyyBrOGO8n00Ndt2abwMV-vpYtEHo30Wf1TubE/06 - SHADILAYKIDD.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "7",
+                    "name": "LORDKEKERVNG",
+                    "images": {
+                        "primary": "https://mq3ublwptwvncuvfojnexg56iwdqjf5x7kiwkv4xb7vuk4ocd4sq.arweave.net/ZDdArs-dqtFSpXJaS5u-RYcEl7f6kWVXlw_rRXHCHyU/07 - LORDKEKERVNG.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "8",
+                    "name": "TRUMPMARAVCH",
+                    "images": {
+                        "primary": "https://6dxz2rlndasiuyfyxuzidggudcr2umc4vunemx3stytetseaojpa.arweave.net/8O-dRW0YJIpguL0ygZjUGKOqMFytGkZfcp4mSciAcl4/08 - TRUMPMARAVCH.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "9",
+                    "name": "PEPECASHBRNT",
+                    "images": {
+                        "primary": "https://tsqtazvusb4zeqlwnwbn2yswmjg3onlm7lgn5b64h7fwnoy26gbq.arweave.net/nKEwZrSQeZJBdm2C3WJWYk23NWz6zN6H3D_LZrsa8YM/09 - PEPECASHBRNT.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "10",
+                    "name": "OLDCASHPETIT",
+                    "images": {
+                        "primary": "https://lpg2aoji2viyeznsdviylsm5b7kfoatu2ezcyf23fmsgpluwk5ma.arweave.net/W82gOSjVUYJlsh1RhcmdD9RXAnTRMiwXWyskZ66WV1g/10 - OLDCASHPETIT.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "11",
+                    "name": "FAKARODMAN",
+                    "images": {
+                        "primary": "https://ln3vwo7txp2xuxsdcce52kqw3l5p6w43uwwp5cnf5f3uottwvunq.arweave.net/W3dbO_O79XpeQxCJ3SoW2vr_W5ulrP6Jpel3R052rRs/11 - FAKARODMAN.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "12",
+                    "name": "BITCOINSMING",
+                    "images": {
+                        "primary": "https://p6ocqpbtjtblqi7775muoffz7iz4pkkr5yipqs75ucvc2dyrfkqq.arweave.net/f5woPDNMwrgj__9ZRxS5-jPHqVHuEPhL_aCqLQ8RKqE/12 - BITCOINSMING.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "13",
+                    "name": "BANEHOWARD",
+                    "images": {
+                        "primary": "https://a6x6qypei5qtdfr3dhyfstnqmut4l3czp6c5cmuggocxwfrcyf4q.arweave.net/B6_oYeRHYTGWOxnwWU2wZSfF7Fl_hdEyhjOFexYiwXk/13 - BANEHOWARD.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "14",
+                    "name": "HAIRHARDEN",
+                    "images": {
+                        "primary": "https://zi4clfwgx55c6rwadlcvutfeddnhquywjizf5e23lguycymckvkq.arweave.net/yjgllsa_ei9GwBrFWkykGNp4UxZKMl6TW1mpgWGCVVU/14 - HAIRHARDEN.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "15",
+                    "name": "OSCRLOONYBIN",
+                    "images": {
+                        "primary": "https://vowi5eevig5lu2v6aldsroeuvdvt74gw33fa5lggcxdc624tiwua.arweave.net/q6yOkJVBurpqvgLHKLiUqOs_8Nbeyg6sxhXGL2uTRag/15 - OSCRLOONYBIN.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "16",
+                    "name": "HOMERCARTER",
+                    "images": {
+                        "primary": "https://k35qeytjdandm3oxbxnto3fgslkvlwuxvdvdqwtkynjl5o4t5liq.arweave.net/VvsCYmkYGjZt1w3bN2ymktVV2peo6jhaasNSvruT6tE/16 - HOMERCARTER.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "17",
+                    "name": "BARRYGASOL",
+                    "images": {
+                        "primary": "https://w7fdwvmtbuodily54n2wg6nidqcj7gtprhoflevwlunlpy2nykpa.arweave.net/t8o7VZMNHDQvHeN1Y3moHASfmm-J3FWStl0at-NNwp4/17 - BARRYGASOL.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "18",
+                    "name": "HILLARYHVLCK",
+                    "images": {
+                        "primary": "https://6mh6z25tcnrlxboavg4bdg4567bwqsbafbugwrnb6jexf24zmrna.arweave.net/8w_s67MTYruFwKm4EZud98NoSCAoaGtFofJJcuuZZFo/18 - HILLARYHVLCK.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "19",
+                    "name": "ROTHKOJACKSN",
+                    "images": {
+                        "primary": "https://4mc5wt6pgdhu5k2ijgdcmadjjzaypcoh6dc4il2by4w6ov2444uq.arweave.net/4wXbT88wz06rSEmGJgBpTkGHicfwxcQvQcct51dc5yk/19 - ROTHKOJACKSN.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "20",
+                    "name": "MELNCHOLIARD",
+                    "images": {
+                        "primary": "https://hmeb4jei2ua24zpquhzyvumqalau4373hvftpdf2f3cvkqypkuea.arweave.net/OwgeJIjVAa5l8KHzitGQAsFOb_s9SzeMui7FVUMPVQg/20 - MELNCHOLIARD.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "21",
+                    "name": "DANKPAYTON",
+                    "images": {
+                        "primary": "https://kye56n7yysfhgmrd6hewxmoajovozaypvljoebkc7jq2vuz2yagq.arweave.net/VgnfN_jEinMyI_HJa7HAS6rsgw-q0uIFQvphqtM6wA0/21 - DANKPAYTON.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "22",
+                    "name": "UNLCKYWILKNS",
+                    "images": {
+                        "primary": "https://ksdl7mdvpo4fc6hychgvwacrcoaejddmc2erhxycy7ogmn7sqleq.arweave.net/VIa_sHV7uFF4-BHNWwBRE4BEjGwWiRPfAsfcZjfygsk/22 - UNLCKYWILKNS.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "23",
+                    "name": "CLYDEALASSAD",
+                    "images": {
+                        "primary": "https://2hwqysncsdubwrqxddhhwe4dh36ncnxbosbu32dgrh3yb6ysicwa.arweave.net/0e0MSaKQ6BtGFxjOexODPvzRNuF0g03oZon3gPsSQKw/23 - CLYDEALASSAD.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                }
+            ]
+        },
+        {
+            "name": "Proof of Purchase",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "PoP",
+                    "name": "FLYEPACKONE",
+                    "images": {
+                        "primary": "https://gzsnlrbi4rnxu7ywv6b5vcts3bkvunz4g7jm3iephngqurrcajda.arweave.net/NmTVxCjkW3p_Fq-D2opy2FVaNzw30s2gjztNCkYiAkY/00 - FLYEPACKONE.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                }
+            ]
+        },
+        {
+            "name": "Chase Cards",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "CC1",
+                    "name": "BRIANWILKENS",
+                    "images": {
+                        "primary": "https://lmphkvjgmnsdhla6r4vnircam4dhekw5l462edbzfrhwciza7rfa.arweave.net/Wx51VSZjZDOsHo8q1ERAZwZyKt1fPaIMOSxPYSMg_Eo/CC1 - BRIANWILKENS.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                           "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                },
+                {
+                    "edition": "CC2",
+                    "name": "PEPEFLYERS.V2",
+                    "images": {
+                        "primary": "https://vn73ftpnfmt24xu5wsum4qdjkuszxj5kxcxjjf7ubwjwhe4kvk7q.arweave.net/q3-yze0rJ65enbSozkBpVSWbp6q4rpSX9A2TY5OKqr8/CC2 - PEPEFLYERS.V2.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Flyers",
+                            "link": "https://x.com/pepeflyers"
+                        }
+                    ],
+                    "subassets": []
+                }
+            ]
+        }
+    ]
+}
