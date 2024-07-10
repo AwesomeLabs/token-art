@@ -375,7 +375,7 @@
             "description": "",
             "assets": [
                 {
-                    "edition": "PoP",
+                    "edition": "PoP1",
                     "name": "FLYEPACKONE",
                     "images": {
                         "primary": "https://gzsnlrbi4rnxu7ywv6b5vcts3bkvunz4g7jm3iephngqurrcajda.arweave.net/NmTVxCjkW3p_Fq-D2opy2FVaNzw30s2gjztNCkYiAkY/00 - FLYEPACKONE.png",
@@ -392,7 +392,7 @@
             ]
         },
         {
-            "name": "Chase Cards",
+            "name": "Especially Rare and Dank Cards",
             "images": {
                 "avatar": "",
                 "banner": ""
@@ -400,7 +400,7 @@
             "description": "",
             "assets": [
                 {
-                    "edition": "CC1",
+                    "edition": "ERDC1",
                     "name": "BRIANWILKENS",
                     "images": {
                         "primary": "https://lmphkvjgmnsdhla6r4vnircam4dhekw5l462edbzfrhwciza7rfa.arweave.net/Wx51VSZjZDOsHo8q1ERAZwZyKt1fPaIMOSxPYSMg_Eo/CC1 - BRIANWILKENS.png",
@@ -415,7 +415,7 @@
                     "subassets": []
                 },
                 {
-                    "edition": "CC2",
+                    "edition": "ERDC2",
                     "name": "PEPEFLYERS.V2",
                     "images": {
                         "primary": "https://vn73ftpnfmt24xu5wsum4qdjkuszxj5kxcxjjf7ubwjwhe4kvk7q.arweave.net/q3-yze0rJ65enbSozkBpVSWbp6q4rpSX9A2TY5OKqr8/CC2 - PEPEFLYERS.V2.png",
