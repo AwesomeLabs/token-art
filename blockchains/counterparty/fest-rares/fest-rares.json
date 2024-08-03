@@ -918,6 +918,66 @@
             }
           ],
           "subassets": []
+          },
+        {
+          "edition": "61",
+          "name": "RARESTPARTY",
+          "images": {
+            "primary": "https://bafybeic32knwkdjypo7fz6bvzkkqykpr5gpip73fzhgg6feapx7x5oewi4.ipfs.nftstorage.link/?filename=image.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Le Hues",
+              "link": "https://twitter.com/Le__Hues"
+            }
+          ],
+          "subassets": []
+           },
+        {
+          "edition": "62",
+          "name": "MRPEPEHANSEL",
+          "images": {
+            "primary": "https://h36twvfpp5tslnuwuoor5zne5zujplpxpo3td77yybd57uo42gwa.arweave.net/Pv07VK9_ZyW2lqOdHuWk7miXrfd7tzH_-MBH39Hc0aw/bu8nqr_image.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Zed",
+              "link": "https://twitter.com/Zederwan"
+            }
+          ],
+          "subassets": []
+           },
+        {
+          "edition": "63",
+          "name": "SIGNEDLOONEY",
+          "images": {
+            "primary": "https://bafybeihqfolttoeugzlg4abrztgmfhb4zvlczectdd7mar7eakwynmvyxu.ipfs.nftstorage.link/?filename=image.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Marek",
+              "link": "https://twitter.com/richboyy_joseph"
+            }
+          ],
+          "subassets": []
+           },
+        {
+          "edition": "64",
+          "name": "MISSINGPEPE",
+          "images": {
+            "primary": "https://so7ha5hph6gfw2ate32bcudihdhi4y6hovm4zjiml2dkddtgjgtq.arweave.net/k75wdO8_jFtoEyb0EVBoOM6OY8d1WcylDF6GoY5mSac/MISSINGPEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Arwyn",
+              "link": "https://twitter.com/mrarwyn"
+            }
+          ],
+          "subassets": []
         }
       ]
     }
