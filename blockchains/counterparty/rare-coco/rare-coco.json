@@ -1,0 +1,3221 @@
+{
+    "chain": "counterparty",
+    "name": "Rare Coco",
+    "images": {
+        "avatar": "https://opsi655s45ifj6kpa4aamc3znoiuwmgqos3bx6lcqxrskxeeeqpq.arweave.net/c-SPd7LnUFT5TwcABgt5a5FLMNB0thv5YoXjJVyEJB8",
+        "banner": ""
+    },
+    "description": "",
+    "externalLinks": {
+        "website": "https://rarecoco.wtf/",
+        "twitter": "https://x.com/RARECOCO_XCP",
+        "discord": "",
+        "telegram": "https://t.me/OFFICIALRARECOCO"
+    },
+    "sets": [
+        {
+            "name": "Series 1",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "1",
+                    "name": "RARECOCO",
+                    "images": {
+                        "primary": "https://jrq4t35fib7e3jrlmits6i2axfg2jxhxca3tbfk2vrvi2m4ngwjq.arweave.net/TGHJ76VAfk2mK2InLyNAuU2k3PcQNzCVWqxqjTONNZM/h0hr5n_image.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kero",
+                            "link": "https://x.com/KeroNFTs"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "2",
+                    "name": "MEMECOINCARD",
+                    "images": {
+                        "primary": "https://uerjraxwapdwlnvxvjfefyd252mwv646xjbg3qvfbt23th6zlrtq.arweave.net/oSKYgvYDx2W2t6pKQuB67plq-566Qm3CpQz1uZ_ZXGc/xef7e1_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Y8R4",
+                            "link": "https://x.com/NowVersusN0W"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "3",
+                    "name": "COCOGREEN",
+                    "images": {
+                        "primary": "https://bafybeifghfyb4scairqlwq55rgucx23bieqn5kpwix76kd3le5cc5flvbu.ipfs.nftstorage.link/",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Chrome Void",
+                            "link": "https://x.com/chrome_void"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "4",
+                    "name": "COBEK",
+                    "images": {
+                        "primary": "https://tvbtn2ht2w4gym7fnc7e46iomk6tj7nqfzksho4nwr2xhue43i6q.arweave.net/nUM26PPVuGwz5Wi-TnkOYr00_bAuVSO7jbR1c9Cc2j0/1.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Regan",
+                            "link": "https://x.com/dankfroglet"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "5",
+                    "name": "COCOBASQUIAT",
+                    "images": {
+                        "primary": "https://qixhluidp4fztbfd52zrv44lq4jodletsbnmbwkj6zw5zjdqe7ta.arweave.net/gi510QN_C5mEo-6zGvOLhxLhrJOQWsDZSfZt3KRwJ-Y/cocobasquiat.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Al",
+                            "link": "https://x.com/al_fernandz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "6",
+                    "name": "LOVECOCO",
+                    "images": {
+                        "primary": "https://bafybeic3phtbjgomi7jtbooytsn4ozshflkaj4jjgf3j7m7hzd3sbrihci.ipfs.nftstorage.link/LOVECOCO.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "dTNG",
+                            "link": "https://x.com/NamedTNG"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "7",
+                    "name": "COCOKEKO",
+                    "images": {
+                        "primary": "https://bafybeieuycslvrotgd6imxuuwgsawgmyjtohp5tdydcj3gcfvm5r5ofrvu.ipfs.nftstorage.link/COCOKEKO.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "COCO FREN",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "8",
+                    "name": "STEPBROS",
+                    "images": {
+                        "primary": "https://buyiajx44qdrui7zb6vhcwmphhl2dyfnledhnzix5flsm7eh7kzq.arweave.net/DTCAJvzkBxoj-Q-qcVmPOdeh4K1ZBnblF-lXJnyH-rM/m5ku2n_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "HNFT Pepe",
+                            "link": "https://x.com/HnftPepe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "9",
+                    "name": "VANCOCOGH",
+                    "images": {
+                        "primary": "https://qyyvfyzxze7luz62f4umfrbzuyjylsuanng2qrkjyendwp2n7rqq.arweave.net/hjFS4zfJPrpn2i8owsQ5phOFyoBrTahFScEaOz9N_GE/vancocogh.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "rarejay",
+                            "link": "https://x.com/rarejay_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "10",
+                    "name": "COCOSTE",
+                    "images": {
+                        "primary": "https://cmngwas7m7clltanmqchnxlu445nwxbsidzmqil2ziefv2shr2ka.arweave.net/ExprAl9nxLXMDWQEdt105zrbXDJA8sghesoIWupHjpQ/jk65vs_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "brocciu",
+                            "link": "https://x.com/brocciuz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "11",
+                    "name": "COCOSCREAM",
+                    "images": {
+                        "primary": "https://nrl2osvrfsh5swbmycbdvbqb2uivzvxfgduwupeprwqjalz2krcq.arweave.net/bFenSrEsj9lYLMCCOoYB1RFc1uUw6Wo8j42gkC86VEU/cocoscream.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EM",
+                            "link": "https://x.com/emb_ananda"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "12",
+                    "name": "COCOPAINT",
+                    "images": {
+                        "primary": "https://d4taqshegrrwrzbkkapydqsah7uxqxrnikji3c37e42shjh7d5ta.arweave.net/HyYISOQ0Y2jkKlAfgcJAP-l4Xi1Cko2Lfyc1I6T_H2Y/cocopaint.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MORT",
+                            "link": "https://x.com/motionmort"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "13",
+                    "name": "HAIRCOCO",
+                    "images": {
+                        "primary": "https://jllrdwuh26ntzff5qkilwxdblnoj3tzgkgxx2drzsxo2xpspvu5q.arweave.net/StcR2ofXmzyUvYKQu1xhW1ydzyZRr30OOZXdq75PrTs/haircoco.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Majoni",
+                            "link": "https://x.com/maxherbertwest"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "14",
+                    "name": "RORSCHACOCO",
+                    "images": {
+                        "primary": "https://7xylnotbotzx5c2odlrv4idxu2beu5fpe3b2eq6gi6hrzdn4q5za.arweave.net/_fC2umF0836LThrjXiB3poJKdK8mw6JDxkePHI28h3I/rorschacoco.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "frau",
+                            "link": "https://x.com/FrauShitcoinz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "15",
+                    "name": "COCOCOCO",
+                    "images": {
+                        "primary": "https://xbseza2rtnhrci5fs57vkugibh6tidkwcfwsf7o6uyzxtgweggwa.arweave.net/uGRMg1GbTxEjpZd_VVDICf00DVYRbSL93qYzeZrEMaw/uy3l02_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Bbleiztz",
+                            "link": "https://x.com/bbleiztz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "16",
+                    "name": "COCOUROBOROS",
+                    "images": {
+                        "primary": "https://in7brxupc5i3el7uk6zbau366ze4inouuy77a2nqhiaattym3lqq.arweave.net/Q34Y3o8XUbIv9FeyEFN-9knENdSmP_BpsDoACc8M2uE/cocouroboros.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SASHA CHUDO",
+                            "link": "https://x.com/ChudoSasshha"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "17",
+                    "name": "COCOJUDGEMNT",
+                    "images": {
+                        "primary": "https://5gqh4issqsgtlqk2jr3p3dbkxc2c6orsbp6xybvaibvvuaxwyt5q.arweave.net/6aB-IlKEjTXBWkx2_YwquLQvOjIL_XwGoEBrWgL2xPs/j91w2h_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "REMSTER",
+                            "link": "https://x.com/remster333"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "18",
+                    "name": "MULLETCOCO",
+                    "images": {
+                        "primary": "https://kc6ozofqfljnm7dwmna5ouvveedersht2qvk2xxpa5s34tziv3vq.arweave.net/ULzsuLAq0tZ8dmNB11K1IQZIyPPUKq1e7wdlvk8orus/p5ap01_image.JPG",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Le Hues",
+                            "link": "https://x.com/Le__Hues"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "19",
+                    "name": "COCOMEL",
+                    "images": {
+                        "primary": "https://ohp2lavk5mxrysqxuq7f43wes2c5e34iv5eqrqtyy3mxgyohxmjq.arweave.net/cd-lgqrrLxxKF6Q-Xm7EloXSb4ivSQjCeMbZc2HHuxM/h16oqu_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "br1dge",
+                            "link": "https://x.com/br1dge_eth"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "20",
+                    "name": "CHECOCOVARA",
+                    "images": {
+                        "primary": "https://sd6y6mweyrg3qmcnbjrc5q5alien4ezq4sfbuhsrh42pkqd6rhvq.arweave.net/kP2PMsTETbgwTQpiLsOgWgjeEzDkihoeUT809UB-ies/pnay7c_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Snowkid",
+                            "link": "https://x.com/snowkidind"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "21",
+                    "name": "THORCOCO",
+                    "images": {
+                        "primary": "https://zoim52dlsoot4p4jiewmwagbmljw7zqlnvh42qvn7hxn4ftpxbba.arweave.net/y5DO6GuTnT4_iUEsywDBYtNv5gttT81Crfnu3hZvuEI/u85zjb_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "UNO8",
+                            "link": "https://x.com/uno8grx"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "22",
+                    "name": "NOTDERIVCOCO",
+                    "images": {
+                        "primary": "https://5rucxq4sdmluxpqckhnhuwe6fk4e5zaylptu6nrlapozof7q5jfq.arweave.net/7Ggrw5IbF0u-AlHaelieKrhO5Bhb5082KwPdlxfw6ks/2g43mp_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Lenny",
+                            "link": "https://x.com/fakelenny4"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "23",
+                    "name": "COCACOCO",
+                    "images": {
+                        "primary": "https://a5kuho24klimzzgjhebkzgqhwcp5ohybvxk2z6t36dxha42nsg2a.arweave.net/B1VDu1xS0MzkyTkCrJoHsJ_XHwGt1az6e_DucHNNkbQ/06ln3l_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "m0nti",
+                            "link": "https://x.com/TheMontiCrypto"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "24",
+                    "name": "COCOREVE",
+                    "images": {
+                        "primary": "https://wlxityp7iaf4gpekmyxx52cxwjwomp26qdb3zxzw6h77chdkhafa.arweave.net/su6J4f9AC8M8imYvfuhXsmzmP16Aw7zfNvH_8RxqOAo/cocoreve.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Aishyrine",
+                            "link": "https://x.com/aishyrine"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "25",
+                    "name": "COCOSBALLOON",
+                    "images": {
+                        "primary": "https://irk2qijmsztsevklbsoaadoe53nvuqu2vza33k5zimr2zvulu4mq.arweave.net/RFWoISyWZyJVSwycAA3E7ttaQpquQb2ruUMjrNaLpxk/abd31h_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hilman",
+                            "link": "https://x.com/crypto4twit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "26",
+                    "name": "ONELINECOCO",
+                    "images": {
+                        "primary": "https://w2ftxegchdfebsvzihd7lnfvh7bmln55fqsxbrvwavzyoxdml7sq.arweave.net/tos7kMI4ykDKuUHH9bS1P8LFt70sJXDGtgVzh1xsX-U/8j6oyh_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nimzobit",
+                            "link": "https://x.com/Nimzobit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "27",
+                    "name": "COCOLOUIS",
+                    "images": {
+                        "primary": "https://4vkj6b7v4vkz7qdj7xfuq6mqg533iy3rck2fqob3qahzz3wpnooq.arweave.net/5VSfB_XlVZ_Aaf3LSHmQN3e0Y3EStFg4O4APnO7Pa50/pmqg7i_image.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zoku",
+                            "link": "https://x.com/zoku_nft"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "28",
+                    "name": "MELONCOCO",
+                    "images": {
+                        "primary": "https://ipfs.io/ipfs/QmRuuEAqgBzTQZxgVmXanu3LHcEqPFQs1tT5V7A8rEEAKD/image_large.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "davesta",
+                            "link": "https://x.com/davesta_xcp"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "29",
+                    "name": "STAMPCOCO",
+                    "images": {
+                        "primary": "https://jwh5ldaiqa3cmehjf3mpmllank2yfo6qo3d7hfhdymzxypvmxwma.arweave.net/TY_VjAiANiYQ6S7Y9i1garWCu9B2x_OU48MzfD6svZg/sicpp7_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pifu",
+                            "link": "https://x.com/Pifu7"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "30",
+                    "name": "LILCOCO",
+                    "images": {
+                        "primary": "https://uco3hpjikdoqixdnouubp6dliyycjkpth2giddujj2bk3pi55lxq.arweave.net/oJ2zvShQ3QRcbXUoF_hrRjAkqfM-jIGOiU6Crb0d6u8/je36gq_image.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "degen_x",
+                            "link": "https://x.com/DeGen_X"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "31",
+                    "name": "THECOCOMELON",
+                    "images": {
+                        "primary": "https://7vjjackwmltdw3umkhgx6uikeredl3tnrluewv7onaxun24f2c3a.arweave.net/_VKQCVZi5jtujFHNf1EKJEg17m2K6EtX7mgvRuuF0LY/pzxjrn_image.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NIIIX",
+                            "link": "https://x.com/niiix_____"
+                        },
+                        {
+                            "edition": "32",
+                            "name": "BITCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/POWfQsP4DBuZmFLWv7oM2PGnnHh0tiKq4rU8HZ2-HJk/6nWZp1_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Falkor",
+                                    "link": "https://x.com/FalkorNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "33",
+                            "name": "CARAMELCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/vGBF7R72hAORCptBSsmocv1HooRgyJkeUimSgwO4GDo/tHTZXj_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Xelix",
+                                    "link": "https://x.com/XelixNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "34",
+                            "name": "HONEYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/UGtCE-jGGakLksToZGkHpRJJGB2AW2h-P5oeQ5Z3GFA/tAfmXG_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nacht",
+                                    "link": "https://x.com/NachtNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "35",
+                            "name": "TROPICOCO",
+                            "images": {
+                                "primary": "https://arweave.net/ksogYsoMcmJjUHG5VO9DiWoGxPmh5xOMTqDYomzF7II/IVjlA4_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Syrah",
+                                    "link": "https://x.com/SyrahNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "36",
+                            "name": "COCOSMOKE",
+                            "images": {
+                                "primary": "https://arweave.net/10G0kF4Rrw2iFCLDHOfs3OfH3js1N7DTR4X7Miv4RVA/htF8wZ_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Alba",
+                                    "link": "https://x.com/AlbaNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "37",
+                            "name": "CHOCOLATECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/4HVxGy7g5LHFRCAYlybeKBEk69Tk4FdnCFPq4ptQ1k4/d1mo7J_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Astra",
+                                    "link": "https://x.com/AstraNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "38",
+                            "name": "NEONCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/sBgZPB2Eul9oHV5XqBFEoNcCptjD0WuqvN0T6LM6GsA/DVYl9K_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Luna",
+                                    "link": "https://x.com/LunaNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "39",
+                            "name": "LAVACOCO",
+                            "images": {
+                                "primary": "https://arweave.net/POIGUBn6Wr07VheTGk2aTy_N7M8gIabfRXzE5IerBfs/KZKX1X_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Rogue",
+                                    "link": "https://x.com/RogueNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "40",
+                            "name": "STARGLOWCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/3xIYdeGe6MELPDCIXgAeJw8D2r3Il02Ht2xLkwd0L2I/6XLVoJ_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Celeste",
+                                    "link": "https://x.com/CelesteNFT"
+                                }
+                            ],
+                            "subAssets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Series 2",
+                    "images": {
+                        "avatar": "",
+                        "banner": ""
+                    },
+                    "description": "",
+                    "assets": [
+                        {
+                            "edition": "Card 1",
+                            "name": "COCOMBIA",
+                            "images": {
+                                "primary": "https://arweave.net/a_FbyFMkUsvhwGULp7x03c3sCl2KNTHYPa8VAfrv5vw/654hjs_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "m0nti",
+                                    "link": "https://x.com/TheMontiCrypto"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 2",
+                            "name": "COCOLEGEND",
+                            "images": {
+                                "primary": "https://arweave.net/AinoAg4Wz6zmH-pdi46A922eZvnwuMehmVwxemNrx04/se3wye_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "FWD",
+                                    "link": "https://x.com/fabooowy"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 3",
+                            "name": "COCOPIZZA",
+                            "images": {
+                                "primary": "https://arweave.net/r4wZ6lV6b09ScHgDv5FgZ9F_-z9dpN-BBZAryDlbt3U/uwjuw2_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "KAWABANGGA_F",
+                                    "link": "https://x.com/https://twitter.com/kawabangga_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 4",
+                            "name": "COCOHARING",
+                            "images": {
+                                "primary": "https://arweave.net/RCB5ZewdtG0Yz2hKkGsj91wKFz7iRcCE629on3OwOWQ/5ylhh7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZED",
+                                    "link": "https://x.com/zederwan"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 5",
+                            "name": "GEOCOCOTORN",
+                            "images": {
+                                "primary": "https://arweave.net/t5Ti6bNfbaj_GFpFkjojd3T6ExcBRaQJ3XEs5EMhBF4/m8so63_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sulfie",
+                                    "link": "https://x.com/sulfie_eth"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 6",
+                            "name": "MODERNCOCO",
+                            "images": {
+                                "primary": "https://oh4i47aom6zlupkbxohn2q3t2u2vkteabqmbaqcpse45jotm3pda.arweave.net/cfiOfA5nsro9QbuO3UNz1TVVTIAMGBBAT5E51Lps28Y",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Al",
+                                    "link": "https://x.com/al_fernandz"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 7",
+                            "name": "LORDSOBEK",
+                            "images": {
+                                "primary": "https://arweave.net/LzE1YwxY61OP5z13fZ_NUIjyGEl5u0gWTRSwImIAm90/sw4n0l_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Kero",
+                                    "link": "https://x.com/KeroNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 8",
+                            "name": "COCOJOY",
+                            "images": {
+                                "primary": "https://n4n4ksvy46rp74oa3qvs2exljkk6lqkku5a46ytgs7zhy3nr4xya.arweave.net/bxvFSrjnov_xwNwrLRLrSpXlwUqnQc9iZpfyfG2x5fA",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Robenira",
+                                    "link": "https://x.com/Robenirart"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 9",
+                            "name": "SATOSHICOCO",
+                            "images": {
+                                "primary": "https://arweave.net/_BhNTcyYio1L5l9Re6UnbdpKr4VciPmnrJZmYdhry6E/b92us0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "CMYK",
+                                    "link": "https://x.com/https://twitter.com/CMYKRevolution"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 10",
+                            "name": "DJCOCOJAMBO",
+                            "images": {
+                                "primary": "https://3ojxjs5vfkfk7j6e4sfg7xczfa4kuqfgvfgjs4vvhdlo4gwoiola.arweave.net/25N0y7Uqiq-nxOSKb9xZKDiqQKapTJlytTjW7hrOQ5Y",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 11",
+                            "name": "THECROCSONS",
+                            "images": {
+                                "primary": "https://arweave.net/q9pNEtKA-ZIZ-SKJjpoWnMBoD1-mHRwgNc29OkwAYp8/0p1kfo_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mighty Shroom",
+                                    "link": "https://x.com/mighty_shroom"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 12",
+                            "name": "SNAPPYDEAL",
+                            "images": {
+                                "primary": "https://arweave.net/tSo6AQ1KjhWqq0nItM0IP9YPSZLE7oB-XJNxUZFLhZI/2lp4k5_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BitcoinJake09",
+                                    "link": "https://x.com/GithubJake09"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 13",
+                            "name": "DARKPOOLCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/RDstRFm-JdH3LDo-Rpm5cg3q-4DlVvqaT93O2b7BfBg/m2r10k_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "JB",
+                                    "link": "https://x.com/JPegKillah"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 14",
+                            "name": "BANECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/2cwX7GxNufxQnil5R64VNgj3qaykX-0WWewIVE-DXFs/ki2s4w_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Regan",
+                                    "link": "https://x.com/DankFroglet"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 15",
+                            "name": "COCORNHOLIO",
+                            "images": {
+                                "primary": "https://arweave.net/rmO4ic3fSIImBIGHS-S6710ANXj7cd7JtlUKXFSdqPQ/ii7iny_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "degen_x",
+                                    "link": "https://x.com/degen_x_420"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 16",
+                            "name": "PABLOCOCOBAR",
+                            "images": {
+                                "primary": "https://arweave.net/EBmBj5Rf7wXIaCyn9CAEbl4yWedseIS9qUwVAHixveY/3d1639_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "arctefact",
+                                    "link": "https://x.com/arctefact_NFT"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 17",
+                            "name": "CROCOS",
+                            "images": {
+                                "primary": "https://arweave.net/06iqw6UU5a3JXR0wMYJSP9gzwY_krn_xhFNVc41Ocp0/20sh8w_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "NIIIX",
+                                    "link": "https://x.com/niiix_____"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 18",
+                            "name": "COCOKEVIN",
+                            "images": {
+                                "primary": "https://arweave.net/oY1PwodejkR0iaKq6gdvdcA2Cw81jtO9iMQ4horGECA/u5cz1a_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sam M",
+                                    "link": "https://x.com/CryptoIranian"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 19",
+                            "name": "COCONANFREN",
+                            "images": {
+                                "primary": "https://arweave.net/IgQBCFd60HbTK93I1mezZ89LVxHN6XDWsl30lV77cPc/c4tlq0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "UNO8",
+                                    "link": "https://x.com/Uno8grx"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 20",
+                            "name": "COCOSAMEKI",
+                            "images": {
+                                "primary": "https://arweave.net/AYzHXuOL1X8F5TzA9XQBxYCg4HUzWywCRuljyEtsKSg/svo361_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sameki",
+                                    "link": "https://x.com/https://twitter.com/StampedNinja"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 21",
+                            "name": "RARECOCOMOTO",
+                            "images": {
+                                "primary": "https://arweave.net/yW3EJ9njsoBcdKDzNAO0Elnw2MwpmnNoyLLztSUxSvo/a6yd6n_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "coriot",
+                                    "link": "https://x.com/coriotcg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 22",
+                            "name": "COCOSQUIAT",
+                            "images": {
+                                "primary": "https://th5soejjnil6wduqn47fdsbcd5ofbu5w65gkwzie5grdsqh6yl4a.arweave.net/mfsnESlqF-sOkG8-UcgiH1xQ07b3TKtlBOmiOUD-wvg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mayari_Mun",
+                                    "link": "https://x.com/mayari_mun"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 23",
+                            "name": "COJAK",
+                            "images": {
+                                "primary": "https://arweave.net/F5QWZfqcxmqup4Yy8h8x4wogIMyiSb5yg1nn4-aA8Ys/gjurod_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "KIN KINETIC",
+                                    "link": "https://x.com/KinKinetic"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 24",
+                            "name": "DRAFTCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/Il3GCtvE1jegCVPbtq8sxf1csalSf8HhO7d5SCX_CrU/ohi23d_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "EASYSTYLE",
+                                    "link": "https://x.com/eazystyler"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 25",
+                            "name": "COCOTWITTER",
+                            "images": {
+                                "primary": "https://arweave.net/UMibJsUCKNbtS7pSnYuQrqbZWEOR67y0t_R23MXDiHU/qb3fei_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "DR. ARTIST",
+                                    "link": "https://x.com/DRArtist9"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 26",
+                            "name": "COCOMOJI",
+                            "images": {
+                                "primary": "https://arweave.net/ocG3dzAdxjv4x1_ytb17_efLJ9ZMhF3cxI1c10NNI_Q/jmfhxb_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BillyNFTees",
+                                    "link": "https://x.com/BillyNFTees"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 27",
+                            "name": "THECOCOS",
+                            "images": {
+                                "primary": "https://arweave.net/ytYWRfUPao5gDOpQDPNX5pHmiA-Jwg5rtxY2y2JRh9s/pbn0vg_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "HNFT Pepe",
+                                    "link": "https://x.com/HnftPepe"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 28",
+                            "name": "XCOCOX",
+                            "images": {
+                                "primary": "https://vyvjdulvp6usdqftppgjpr3zgqouaoq5fmqjw2cs6ohacb7rqbca.arweave.net/riqR0XV_qSHAs3vMl8d5NB1AOh0rIJtoUvOOAQfxgEQ",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "RARE SCRILLA",
+                                    "link": "https://x.com/ScrillaVentura"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 29",
+                            "name": "NOTKACOCO",
+                            "images": {
+                                "primary": "https://arweave.net/gNcwgr9A6x8DwBjEyj73jiCr_eyfc6toAWIbIMVQHqc/dhy82s_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "NORMANCOMICS",
+                                    "link": "https://x.com/KEKBONDS"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 30",
+                            "name": "COMEATMEBRO",
+                            "images": {
+                                "primary": "https://arweave.net/RvILFdj5ywL0UzNQlR8fKu4ppsSzHMXsGatR7Js3GiM/pb4fu7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "tonnyturbo",
+                                    "link": "https://x.com/tonnyturbo"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 31",
+                            "name": "EASYC",
+                            "images": {
+                                "primary": "https://arweave.net/AOlNtdSX_GyDiI_FFpr3rSlsEORkCZdelNF3v5Gc6vM/7wsmh0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 32",
+                            "name": "VICECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/Zwajuz0jArmepg9K4gSNvLUYHsWvCbtNXPdvNmkH5Gw/ynnfd4_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Arwyn",
+                                    "link": "https://x.com/mrarwyn"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 33",
+                            "name": "COCOKACHU",
+                            "images": {
+                                "primary": "https://arweave.net/7taEt1HRYgOdzIyTAs71FFcAqiWq7eanpULbPFF1nds/ty0qnu_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Y8R4",
+                                    "link": "https://x.com/NowVersusN0W"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 34",
+                            "name": "THECOCOTRIX",
+                            "images": {
+                                "primary": "https://arweave.net/UUlsDVaM6GWotFSeSXwc7DT0h0YSl-FxymoRAtEDkkE/hqk80r_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "IGNATEV INK",
+                                    "link": "https://x.com/ignatev_ink"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 35",
+                            "name": "COCOPOP",
+                            "images": {
+                                "primary": "https://arweave.net/ejdJ8M22oRNQk4jd9dzunXkBwEogUdL7lkKSvZTogRo/1adbad_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "OLLIESBLOG",
+                                    "link": "https://x.com/olliesblog"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 36",
+                            "name": "RAREROCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/4LBndrqjXuUV9-Dkb6OzUA9YnFNdQmnSgfTRTSqoqNk/k7d8ql_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "DALEK",
+                                    "link": "https://x.com/DALEKSPACEMONKY"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 37",
+                            "name": "COCOANDME",
+                            "images": {
+                                "primary": "https://arweave.net/uqto0kwbUhasRm46tSEGlMlLKEQRwKfXJr_eBJ24c58/52bd03_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Hafftka",
+                                    "link": "https://x.com/hafftka"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 38",
+                            "name": "COCOBUCKS",
+                            "images": {
+                                "primary": "https://re4up7b2sczpfnndhhwigqis3ozuvfegizhszfnl47ohpde5in3q.arweave.net/iTlH_DqQsvK1oznsg0ES27NKlIZGTyyVq-fcd4ydQ3c",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Kero",
+                                    "link": "https://x.com/KeroNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 39",
+                            "name": "WOODCOCOBBE",
+                            "images": {
+                                "primary": "https://arweave.net/oeJpVbFWaaCuQw3C_nXU-L77I7wbMD7_rifU6YZNKtY/n37s3b_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "morlacos",
+                                    "link": "https://x.com/losmorlacos"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 40",
+                            "name": "FEELSCOCO",
+                            "images": {
+                                "primary": "https://bafybeidpqk2srrjgp4ovxzb4jd5blflrnzqxiattvmluct7zv2vnz4nfxi.ipfs.nftstorage.link/coco2_400.JPG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Pepenardo",
+                                    "link": "https://x.com/PepenardoStudio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 41",
+                            "name": "COCODEMER",
+                            "images": {
+                                "primary": "https://bafybeic227maccoarmnjstfqrohqh6vnn76t34gdnmoxbj2gdaaolc2spm.ipfs.nftstorage.link/CocodeMer_LR.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Fake Annie",
+                                    "link": "https://x.com/fakefakeannie"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 42",
+                            "name": "MEMEISBORN",
+                            "images": {
+                                "primary": "https://arweave.net/BEH3y2BHLkUmQFTpVnGF-oac9Jj-TKplnBJCl5ezeuQ/6nctxf_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "EmblematiX",
+                                    "link": "https://x.com/EmblematiXart"
+                                }
+                            ],
+                            "subAssets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Series 3",
+                    "images": {
+                        "avatar": "",
+                        "banner": ""
+                    },
+                    "description": "",
+                    "assets": [
+                        {
+                            "edition": "Card 1",
+                            "name": "BESTHOMIES",
+                            "images": {
+                                "primary": "https://arweave.net/7tCuj6WfhqvRzugo3VC6K_6teeWJIXrHeoXKgS5ctWU/tf9q9g_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mighty Shroom",
+                                    "link": "https://x.com/mighty_shroom"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 2",
+                            "name": "COCONDOMS",
+                            "images": {
+                                "primary": "https://o4kqrw66ur4llilpcvw27vbzfwjsw5mvrlmrexcwomaqz525xgqa.arweave.net/dxUI296keLWhbxVtr9Q5LZMrdZWK2RJcVnMBDPdduaA",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 3",
+                            "name": "COCOWRESTLER",
+                            "images": {
+                                "primary": "https://arweave.net/fb_bVIpsY_khar8vM-3-QiWsA1yod1JptK2uCZ5p5bM/6801jo_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "EASYSTYLE",
+                                    "link": "https://x.com/eazystyler"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 4",
+                            "name": "COCOSBFF",
+                            "images": {
+                                "primary": "https://arweave.net/bRq-h1FUVmd3n39e_lftDvS0kd32ztFTyR4lf0mi_qY/n7qx4l_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "subterranean",
+                                    "link": "https://x.com/subterranean_1"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 5",
+                            "name": "COCOTAGTEAM",
+                            "images": {
+                                "primary": "https://arweave.net/awLSFCpBceRKVVFwgVpy8oxq6nBnj7sqhlWcqY4vJ3c/tk82k1_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Pifu",
+                                    "link": "https://x.com/PiFu7"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 6",
+                            "name": "SUPERPECOCO",
+                            "images": {
+                                "primary": "https://r3attrzwzzpgdbv4lienb3grjzqzbvurj3ehlkueu5gcb3jp4ena.arweave.net/jsE5xzbOXmGGvFoI0OzRTmGQ1pFOyHWqhKdMIO0v4Ro",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Robenira",
+                                    "link": "https://x.com/Robenirart"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 7",
+                            "name": "GEOBFFS",
+                            "images": {
+                                "primary": "https://arweave.net/sR_P-YbT6jVulmYQkvvFBkNCw0cvQIYm90qAFTAJqro/lgv6ao_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sulfie",
+                                    "link": "https://x.com/sulfie_eth"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 8",
+                            "name": "PEPEBESTIE",
+                            "images": {
+                                "primary": "https://arweave.net/RHcPcqN0lW5uKzy61lAq3k597jywYCD_jRCpTDkq4SU/5ruewb_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "KAWABANGGA_F",
+                                    "link": "https://x.com/kawabangga_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 9",
+                            "name": "LOOKATCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/AVrwFI1GCRM9hyWPUtTxi7I0xMusVtskMjAtirNb-RY/lofgmu_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Viva La Vandal",
+                                    "link": "https://x.com/viva_la_vandal"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 10",
+                            "name": "BOYZNDASWAMP",
+                            "images": {
+                                "primary": "https://lenz5othzoeazg64tuwdne66oywq4aiqmzdoxqyqru2ly4nzze4q.arweave.net/WRueumfLiAyb3J0sNpPedi0OARBmRuvDEI00vHG5yTk",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "degen_x",
+                                    "link": "https://x.com/degen_x_420"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 11",
+                            "name": "COCOBEARISH",
+                            "images": {
+                                "primary": "https://arweave.net/NSEY-2zFeaiYpG8O1M3XqnwwZ2XQ4tblZ4RXOSHUYcw/wy5y9w_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "drazestan",
+                                    "link": "https://x.com/drazestan"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 12",
+                            "name": "OLDFRIENDS",
+                            "images": {
+                                "primary": "https://arweave.net/V8x4CgCp-Z-mDnSYrnQtpInUkwor3wjj7NF5Qku7sJU/sl7981_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "psyfrogger",
+                                    "link": "https://x.com/psyfrogger"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 13",
+                            "name": "MEMERYCARD",
+                            "images": {
+                                "primary": "https://ipfs.io/ipfs/QmS1EgiLaAkUSWxtqvEPxgXXxxZXKQGvUKh1xyw7GivE2D/image_large.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Jimmy",
+                                    "link": ""
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 14",
+                            "name": "COCOBALL",
+                            "images": {
+                                "primary": "https://ipfs.io/ipfs/QmUwQn4QqvAWeFznJipLdu2Z67APEpk881rDYqowdVfpa2/image_large.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 15",
+                            "name": "TOPBUDZ",
+                            "images": {
+                                "primary": "https://arweave.net/13nznn2TBFUkxkIwGTkHbKQxHJLXlqgDa5kvT0yElFI/4i36jo_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sam M",
+                                    "link": "https://x.com/CryptoIranian"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 16",
+                            "name": "RIDEWTIHFREN",
+                            "images": {
+                                "primary": "https://arweave.net/4oc3lOsC65U6HK9neDxn_Zw0woGQfXb_AWGS8iUQ9zw/ya4d9p_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Hilman & Anto",
+                                    "link": "https://x.com/crypto4twit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 17",
+                            "name": "TWOOFCOBBEE",
+                            "images": {
+                                "primary": "https://arweave.net/DcVY8oRig4ddO7AUg9QJvHQu-4VOwKvdYg_hFBQuLJc/kaypng_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Alth0tas",
+                                    "link": "https://x.com/alth0tas"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 18",
+                            "name": "GHOSTFRIENDS",
+                            "images": {
+                                "primary": "https://tcr7qo7upxcmxydfzfosix3ny7z4yzgd2vxb3badaulhdqd3eqga.arweave.net/mKP4O_R9xMvgZcldJF9tx_PMZMPVbh2EAwUWccB7JAw",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "MonkQ",
+                                    "link": "https://x.com/MonkQiew"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 19",
+                            "name": "COCOSURF",
+                            "images": {
+                                "primary": "https://arweave.net/9ukO6FvXXarXLhwZUpbh_LLzpnSSL4uHKGQDYMYAyWU/t8w7ke_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "FWD",
+                                    "link": "https://x.com/fabooowy"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 20",
+                            "name": "BTCSWORDS",
+                            "images": {
+                                "primary": "https://arweave.net/K60lrwc0iGjeB_OYfgWiGaMxcAW_XrwttEwXDy5L4rw/okeryt_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "HNFT Pepe",
+                                    "link": "https://x.com/HnftPepe"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 21",
+                            "name": "PHANTOMCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/NA-qimzIfhE5nr4ftGNTxf9r3AriZECA7G-ouYGf3XM/fzcui7_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nikolina Petolas",
+                                    "link": "https://x.com/NikolinaPetolas"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 22",
+                            "name": "PEPECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/LpoPBu5yDH5FQWP-DLqWGDpwdDRPDhq8YHDhiYsgcyI/hfcv88_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "admodum",
+                                    "link": "https://x.com/A_D_M_O_D_U_M"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 23",
+                            "name": "SCOPEYNIGHT",
+                            "images": {
+                                "primary": "https://bafybeifossbwbw62dnpcbuugrilbdxc57eqkttxi5ss32hpnb626xt3iv4.ipfs.nftstorage.link",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "rarejay",
+                                    "link": "https://x.com/rarejay_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 24",
+                            "name": "PECODANCE",
+                            "images": {
+                                "primary": "https://arweave.net/Q4AXerVP6U3tSghAM5JbIO_8V-imOlt6DvKoTreLizI/v6ot9b_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "rarejay",
+                                    "link": "https://x.com/rarejay_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 25",
+                            "name": "COCOFAM",
+                            "images": {
+                                "primary": "https://arweave.net/MksbDSM7Tr3r3ZARKNKukwpeHXjvSLB3BtefZdNoKzA/k4yqpt_image.jpeg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Kero",
+                                    "link": "https://x.com/KeroNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 26",
+                            "name": "COCANOSTRA",
+                            "images": {
+                                "primary": "https://arweave.net/cE3At9YTgcEGHJp2AM0nepfZ_6Ic99tk7HpB_h4Bmnc/3hul4g_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Y8R4",
+                                    "link": "https://x.com/NowVersusN0W"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 27",
+                            "name": "SWINGINGCOPE",
+                            "images": {
+                                "primary": "https://arweave.net/o_kIBax-WOB9rGGNHZN-z01Ylk-pjm2HdFwRROFIRdQ/t0rlxa_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Chaotic",
+                                    "link": "https://x.com/chaotic_crypto"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 28",
+                            "name": "PECO",
+                            "images": {
+                                "primary": "https://arweave.net/bh7g7X2zYlevJv2zWvGdgMVUnlsf47ketEhDiMZv3uM/da21do_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "m0nti",
+                                    "link": "https://x.com/TheMontiCrypto"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 29",
+                            "name": "BROTHERSCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/lW0BOkvrq0JZOMN9IToQ1wZVXcFsXMaaKfh1xi3SV48/ee78f5_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "PurpleDrank",
+                                    "link": "https://x.com/purpledrank7855"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 30",
+                            "name": "XCPMAG",
+                            "images": {
+                                "primary": "https://arweave.net/_lNpuBn5Og-VQ-UyWNKTlXB96ZCTbZ5CHozTSEkkwBk/xvmtqk_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZeroG",
+                                    "link": "https://x.com/g0barry"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 31",
+                            "name": "COCOKEK",
+                            "images": {
+                                "primary": "https://vnq3kbbsdazhmwxcekyw2scevfpr4loeodpdhlm5i2gb2phxdbwa.arweave.net/q2G1BDIYMnZa4iKxbUhEqV8eLcRw3jOtnUaMHTz3GGw",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "MORT",
+                                    "link": "https://x.com/motionmort"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 32",
+                            "name": "COPEBREAK",
+                            "images": {
+                                "primary": "https://arweave.net/9SpoZuMWBcfeKVsBV28EQFcAP-Dc9T171B1uXfsdJKc/a2j055_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Ndhoz",
+                                    "link": "https://x.com/Ndhoz_dotule"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 33",
+                            "name": "TRADLOVECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/noGGYjH_P4PUbwRc156majllkjF6AxRJOGhgniLwV7E/slli9m_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 34",
+                            "name": "SCOCOPYFREN",
+                            "images": {
+                                "primary": "https://arweave.net/oeJhOkTIjmx3dW4oOq56An4BdoZDp9RZBFYUBhb7Sq8/p6pkco_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "coriot",
+                                    "link": "https://x.com/coriotcg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 35",
+                            "name": "LARESISTANCE",
+                            "images": {
+                                "primary": "https://u4cycrf3qampcjdz4emqr2emdyub5yu26izhg3hqcw6zu7bwlqwq.arweave.net/pwWBRLuAGPEkeeEZCOiMHige4pryMnNs8BW9mnw2XC0/5roijn_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Al",
+                                    "link": "https://x.com/al_fernandz"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 36",
+                            "name": "DANKPUB",
+                            "images": {
+                                "primary": "https://arweave.net/ogJmKDXfYV3U12vn-sLxyXhU8olatIul-th5MzUuC30/8wc2tq_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mandarinemarie",
+                                    "link": "https://x.com/Mandarinemarie_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 37",
+                            "name": "COCOBEEPLE",
+                            "images": {
+                                "primary": "https://arweave.net/Og_h-gcH8zYj9TLMh4NKjR9K2ov_Sokau6EeaWY0u_Y/rzo4mj_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ditacrypto",
+                                    "link": "https://x.com/ditacrypto"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 38",
+                            "name": "RARESTFRENS",
+                            "images": {
+                                "primary": "https://arweave.net/T_C0vYM1Lg-6W_4gRw3WWIgCAaiEH3dccKBqKuoh3gM/4reiem_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Le Hues",
+                                    "link": "https://x.com/Le__Hues"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 39",
+                            "name": "WATERCOCO",
+                            "images": {
+                                "primary": "https://ipfs.io/ipfs/QmYAr2rsaBkwPsBPeBL3gFonvMchQcTTetVSvMnoXQaP8o/image_large.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 40",
+                            "name": "COCOPUZZLE",
+                            "images": {
+                                "primary": "https://arweave.net/zHi6ZSz0XD1jqkL7PFc3Ofugx4tKNQD2auaRQbAUG14/7dn0ri_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Filthy Trikks",
+                                    "link": "https://x.com/FilthyTrikksEth"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 41",
+                            "name": "COCOSFLIGHT",
+                            "images": {
+                                "primary": "https://arweave.net/ec8mkl9eSnUt2f5aCulOXFH6Ux_Ub5G1OfEf9FoiMQA/mu7e3m_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "VSTRVL",
+                                    "link": "https://x.com/VSTRVL_FFF"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 42",
+                            "name": "COCORANDEVU",
+                            "images": {
+                                "primary": "https://arweave.net/KSzHY7e0yV_c-6EelXbs5bT8E_6FDSEufMSYs217qSE/awfj3a_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Filthy Trikks",
+                                    "link": "https://x.com/FilthyTrikksEth"
+                                }
+                            ],
+                            "subAssets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Series 4",
+                    "images": {
+                        "avatar": "",
+                        "banner": ""
+                    },
+                    "description": "",
+                    "assets": [
+                        {
+                            "edition": "Card 1",
+                            "name": "COCOTRUMP",
+                            "images": {
+                                "primary": "https://arweave.net/1LscPv1FigTry6ZqswMxkuq9Q5j0GovBvGOqlAlbfO0/fw805z_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Hilman",
+                                    "link": "https://x.com/crypto4twit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 2",
+                            "name": "UFOCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/LznatOUR1GG_qHYuGIm3flaFkgd4jdgQghLnLVpc1-M/vxxln8_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "admodum",
+                                    "link": "https://x.com/A_D_M_O_D_U_M"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 3",
+                            "name": "COCOLOCO",
+                            "images": {
+                                "primary": "https://arweave.net/AFmyHwIbr8JgM29NhqzJWocGpzx3FZ8ojht-9pmqnfs/8h4xxf_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "mellow.",
+                                    "link": "https://x.com/strategy512"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 4",
+                            "name": "MIROCOCO",
+                            "images": {
+                                "primary": "https://uyxoo7amzijayexrubil6ycqtkdhfm5ivqzteyywccaluqwxwdwa.arweave.net/pi7nfAzKEgwS8aBQv2BQmoZys6isMzJjFhCAukLXsOw",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Al",
+                                    "link": "https://x.com/al_fernandz"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 5",
+                            "name": "COCODUNDEE",
+                            "images": {
+                                "primary": "https://arweave.net/7sZP5EpiJ9EPkhR0TVMU2x9oB_6BwqKY9tOOG3hcaPo/y9w6g0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "HNFT Pepe",
+                                    "link": "https://x.com/HnftPepe"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 6",
+                            "name": "KINGCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/0g5g2btfIYsGuFf8AieNr-5ptVVoOG_KTRz_EDECKVY/gqy905_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "psyfrogger",
+                                    "link": "https://x.com/psyfrogger"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 7",
+                            "name": "COCOSQUIRREL",
+                            "images": {
+                                "primary": "https://arweave.net/pUU8EDovIAOE9aG4JVTeoyaC3n78xB71VmZvCmJh-Mo/b9iezs_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "degen_x & Don Filthy Trikks",
+                                    "link": "https://x.com/FilthyTrikksEth"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 8",
+                            "name": "COCOCAINE",
+                            "images": {
+                                "primary": "https://arweave.net/Ku20g6EWmKSWmd5ryv2LTp-8B9JKI6PTod2HvLr8hCg/h8z9nl_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 9",
+                            "name": "COCOBANKSY",
+                            "images": {
+                                "primary": "https://xllmllrvq5cxyvliyce6der2a5ettezo7kw6pdjdb4ce7esege2q.arweave.net/utbFrjWHRXxVaMCJ4ZI6B0k5ky76reeNIw8ET5JEMTU",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mumbling Bearded Freak",
+                                    "link": "https://x.com/Mblingbrdfrk"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 10",
+                            "name": "COCOMAFIA",
+                            "images": {
+                                "primary": "https://arweave.net/Qf8KhtGbZydP-D9XJPxVnHDE2w_c62Q32BIC-MxO8Eg/s5glk9_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BLISSFULMORG",
+                                    "link": "https://x.com/BlissfulMorg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 11",
+                            "name": "GRINDCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/lJFApXOvUEDkrMnfJ9YEvrzJPxdHf3_sza5s0ky6S1E/6c4fy8_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "REMSTER",
+                                    "link": "https://x.com/remster333"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 12",
+                            "name": "TRIPPYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/41Q2kCyNW2F5y9B-A7Jc_E4uhacZBk-US1No9aZU2hw/2rh7gb_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mighty Shroom",
+                                    "link": "https://x.com/mighty_shroom"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 13",
+                            "name": "CHANELCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/Oi_6cI6fm0tM3kAtgaT1_8IRq-gGdfCBnhqWfTv4w48/yaihqr_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 14",
+                            "name": "POWEROFCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/-6JZ88YQWSb0U75__3zOibyhnXlE-e3qXZWP_c_rcd0/gal63n_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "chrisgranneberg",
+                                    "link": "https://x.com/chrisgranneberg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 15",
+                            "name": "COCOGENA",
+                            "images": {
+                                "primary": "https://arweave.net/YcghK5JFFe-YzaA3_nLevDyDFGB6aSv7Ruu96qDwBwM/st83x7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "LvsD",
+                                    "link": "https://x.com/Zbyku"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 16",
+                            "name": "COCOTWODOPE",
+                            "images": {
+                                "primary": "https://arweave.net/m9B2A68qDFlVdq45DU3kvzrjVwONf4RwdJdeDGrvDKs/rytm12_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZeroG",
+                                    "link": "https://x.com/g0barry"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 17",
+                            "name": "COCOWARRIOR",
+                            "images": {
+                                "primary": "https://arweave.net/8hAnoDOX4qv-Tnowx4qlZB-frGK5dX7v_1UmwQMd07w/bpesrh_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 18",
+                            "name": "GARYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/LgtJdIa2P1-47N5jsco9hk4DUDcwuXYaHgSSyO9Jiv8/dyu2xt_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "UNO8",
+                                    "link": "https://x.com/Uno8grx"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 19",
+                            "name": "COCOROLLA",
+                            "images": {
+                                "primary": "https://arweave.net/4EM7eanRzBEc7MjI0BYaKdroVrSILbRqqqA9hi8DWvQ/1rtpnb_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Paper Ape",
+                                    "link": "https://x.com/paper_ape"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 20",
+                            "name": "COCODIMAGGIO",
+                            "images": {
+                                "primary": "https://arweave.net/PZRWyOMb4uJHKVK5FGxkIfAhdjjbjSROxylO5L1HkzU/ylo1nt_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Le Hues",
+                                    "link": "https://x.com/Le__Hues"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 21",
+                            "name": "REPTILESONE",
+                            "images": {
+                                "primary": "https://arweave.net/-NDMUYqNd9vzhyYsJCwdMJgOSgvTv1pwrouVIC-YEv0/o8a7o7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 22",
+                            "name": "REPTILESTWO",
+                            "images": {
+                                "primary": "https://arweave.net/CLaLWNA3SH_vMb8BVI8FLEan2x_PXH1Q44c-Z60L1mI/91szbl_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 23",
+                            "name": "COCOCHMELL",
+                            "images": {
+                                "primary": "https://arweave.net/iDuyhO4OBOPiayMWWt26bfhysvcsf2bnedsVWRvbXgs/2gtv3i_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Neutron",
+                                    "link": "https://x.com/neutrrron"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 24",
+                            "name": "COCOGENERAL",
+                            "images": {
+                                "primary": "https://bafybeid4cwgsucxffdl2cbw6byx7iole2qvqjqklrljrhlrw2d5bbtrsuu.ipfs.nftstorage.link/",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "rarejay",
+                                    "link": "https://x.com/rarejay_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 25",
+                            "name": "COCOPEN",
+                            "images": {
+                                "primary": "https://arweave.net/BFgDDc0b2THBh8SfOyQK5vFfKX1YixP392kqtqMoOE8/ih3sv0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 26",
+                            "name": "COCODAMOL",
+                            "images": {
+                                "primary": "https://arweave.net/G-WoPJpcr16N8pOaH1nWEY2XlNf3rxY_cLxxpaaNC7M/49aqym_image.GIF",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 27",
+                            "name": "COCOBULL",
+                            "images": {
+                                "primary": "https://arweave.net/b-L2J-DrJG_z_G4eQ9F-SfitE5i7PgZ2-Pp2EbVAiH4/tc65tg_hires.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "blake",
+                                    "link": "https://x.com/_blake69"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 28",
+                            "name": "COCOPURE",
+                            "images": {
+                                "primary": "https://yschdpkdg7372ofs22hse5c4zxme36gdkpujva4ovf2nbthy4mna.arweave.net/xIRxvUM39_04staPInRczdhN-MNT6JqDjql00Mz44xo",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Theo Goodman",
+                                    "link": "https://x.com/theog__"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 29",
+                            "name": "SCHNAPPEN",
+                            "images": {
+                                "primary": "https://arweave.net/_gqXlT4BO61BM6SNaXfDfTqJD_k2wIkWXBsr-kOg-F0/0qvxnk_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "AkisNFTs",
+                                    "link": "https://x.com/Akis_NFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 30",
+                            "name": "THECOCOKING",
+                            "images": {
+                                "primary": "https://arweave.net/eDvo_ujygJw4ZrIIKWnVczDwHXrF3Mb3v8ETLOugaRA/0qnp6c_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Pepecapitol",
+                                    "link": "https://x.com/Pepecapitol"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 31",
+                            "name": "COPYCATCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/3vHIYUtyASkwgrG37jwO2WtT66qK_iMsNZelKBg5FXc/dj4pfv_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 32",
+                            "name": "COCOZILLA",
+                            "images": {
+                                "primary": "https://arweave.net/8-e67CoM5itFOwbUBeeOoznm-y12vmM0nSjmoVN-bqk/mgpc83_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Darky",
+                                    "link": "https://x.com/Dark_inc_Studio"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 33",
+                            "name": "SADCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/wOo-kM-Y_iHWPVATfTslV9P9UxHZXgS7p6D7Yyafnk0/ufny3g_image.PNG",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BillyNFTees",
+                                    "link": "https://x.com/BillyNFTees"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 34",
+                            "name": "FEELSSNAPBRO",
+                            "images": {
+                                "primary": "https://arweave.net/zcCLKH0h1gPvtUweTx4QojOM1BUJrKGSW-rwCd0fTvA/wueeiy_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "UNO8",
+                                    "link": "https://x.com/Uno8grx"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 35",
+                            "name": "COKCOPUNK",
+                            "images": {
+                                "primary": "https://dbe6gz63kspqcbnkg2nahwf27s5ozmekkvodaugtgxc6qxdp3jsq.arweave.net/GEnjZ9tUnwEFqjaaA9i6_LrssIpVXDBQ0zXF6Fxv2mU",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BLISSFULMORG",
+                                    "link": "https://x.com/BlissfulMorg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 36",
+                            "name": "COCOHAMEHA",
+                            "images": {
+                                "primary": "https://arweave.net/4Mffrzd6YjG05U6XvW63_yKzGvXi0jCUxogKi4d_XF0/lfrecf_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "coriot",
+                                    "link": "https://x.com/coriotcg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 37",
+                            "name": "COCOMONA",
+                            "images": {
+                                "primary": "https://arweave.net/4DyVQFBUJ4IGqg8ngOuO8-XAbgYB35PZ8XiRID-qx4w/8r0il2_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "DEGENNA",
+                                    "link": "https://x.com/DeGenna_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 38",
+                            "name": "COMMONCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/9jRB2tscTbQqc_j9yBo8KUiro26iVMUVhazYEtdt07A/6sxwx3_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "subterranean",
+                                    "link": "https://x.com/subterranean_1"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 39",
+                            "name": "PAPECO",
+                            "images": {
+                                "primary": "https://etpycgaaxgi75ykkxxis3qaxd2tk5l6wek2a46uhexbr2kabw6qq.arweave.net/JN-BGAC5kf7hSr3RLcAXHqaur9YitA56hyXDHSgBt6E",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "papeto",
+                                    "link": "https://x.com/papeto2"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 40",
+                            "name": "PLUSHYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/k9gRU3hDPfy1tZEY7Blc6in-BtIZZmRH_IY088Gg-UA/apo6op_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Kero",
+                                    "link": "https://x.com/KeroNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 41",
+                            "name": "COCOPLOMO",
+                            "images": {
+                                "primary": "https://arweave.net/Wd1DIuqiTTi_m8YwyceYiSgaJgi1EuS5VyRuLroVZDQ/zlgcll_image.png",
+                                "other": []
+                            },
+                            "artists": [],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 42",
+                            "name": "BABYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/8BwRvCCNwlLiMOSaJb6-y9AXnRTCak0Zk5xoiOx8m8E/594mgc_image.png",
+                                "other": []
+                            },
+                            "artists": [],
+                            "subAssets": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Series 5",
+                    "images": {
+                        "avatar": "",
+                        "banner": ""
+                    },
+                    "description": "",
+                    "assets": [
+                        {
+                            "edition": "Card 1",
+                            "name": "COCONOIR",
+                            "images": {
+                                "primary": "https://arweave.net/9G95REZLuCPjaGK__ExdtKik4F9ZByWqujAv5tBnI6c/9v91ki_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZeroG",
+                                    "link": "https://x.com/g0barry"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 2",
+                            "name": "LASTSNAP",
+                            "images": {
+                                "primary": "https://arweave.net/fhcjfeww60oyi-H_5iiBJcgI0w4r16r7lnLh2LU5NUI/gbuugz_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sam M",
+                                    "link": "https://x.com/CryptoIranian"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 3",
+                            "name": "COCOBACK",
+                            "images": {
+                                "primary": "https://ipfs.io/ipfs/QmWsPmG1FyBxt9aiw3vD5Tqur1XYpMcjrWE5qZGnbQVcpi/image_large.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 4",
+                            "name": "CHATGTC",
+                            "images": {
+                                "primary": "https://arweave.net/J2kPED4jzawtEvOHr4lVA6fa-lUORn0HJFjs2FUMI9Y/3x0827_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "HNFT Pepe",
+                                    "link": "https://x.com/HnftPepe"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 5",
+                            "name": "COCOKAKEJIKU",
+                            "images": {
+                                "primary": "https://arweave.net/x01kP2UYdKcDKljeDF49Nmtl6ZFFsv_dHJMeoF_kb40/z7nej6_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tomopen",
+                                    "link": "https://x.com/kouteipenpen_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 6",
+                            "name": "FEELINGCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/inKGE7CO_t1w8TFx3Wjc8co7_d-VY4mxD-eKoU_3Ycc/pwefgi_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "NomNomDay",
+                                    "link": "https://x.com/nomnomdayy"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 7",
+                            "name": "STEREOCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/s5uy1f40cay1RDCUZonlcJxNGUivF5ffDidlODhdOtI/gooqxu_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "psyfrogger",
+                                    "link": "https://x.com/psyfrogger"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 8",
+                            "name": "COCODRAGON",
+                            "images": {
+                                "primary": "https://arweave.net/9JpsZTEGJyqwIJXgWUqybDzUHKZgvp6CT_7LQRWX4L4/lziel7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "REMSTER",
+                                    "link": "https://x.com/remster333"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 9",
+                            "name": "GAMESOFCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/jl3L6XVEy-yt8qfH2CWe4mmEFg_V1VZq_AoFd343eRs/676cmz_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "GabDevs",
+                                    "link": "https://x.com/twitter.com/GabDevs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 10",
+                            "name": "SNAPSNAP",
+                            "images": {
+                                "primary": "https://arweave.net/B9jzZOn-9JQTwJ-RcnM7fKSbnBhunB2V7t41zTKFwok/989vk0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 11",
+                            "name": "COCOPUNK",
+                            "images": {
+                                "primary": "https://arweave.net/Z3MVjEOwtIUNw8RtmOjqBsJwCYzzo4XmkQ80rzcHeTc/ladivz_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Mandarinemarie",
+                                    "link": "https://x.com/Mandarinemarie_"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 12",
+                            "name": "IALLYOURSNAP",
+                            "images": {
+                                "primary": "https://arweave.net/vyD6dHaVhjgQg_FpXyKLcNYOBO0seLC_bbkqG9E70z4/42cwjq_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "AkisNFTs",
+                                    "link": "https://x.com/AkisNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 13",
+                            "name": "COCOVFEFE",
+                            "images": {
+                                "primary": "https://arweave.net/og7Xhat5fMmxIa-ffgQ211HDLN6feoSx-i8OQNuf4xw/mrmsqj_image.GIF",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "GMONEY",
+                                    "link": "https://x.com/GMONEYPEPE"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 14",
+                            "name": "COCOSAMURAI",
+                            "images": {
+                                "primary": "https://arweave.net/CCev6asLJvqUINzT_4M2OZ2cx5cnRyGDU5DQE__86KA/zypt6g_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tomopen",
+                                    "link": "https://x.com/kouteipenpen_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 15",
+                            "name": "CUTECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/0JyvRtSUyIOdjBDt297Wl6YxV3tVkiXJrOdAEtUbm_M/qkfq8k_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Coriot",
+                                    "link": "https://x.com/coriotcg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 16",
+                            "name": "COCOFINNEY",
+                            "images": {
+                                "primary": "https://arweave.net/20MV6SNWxA0898MWrf0kIStHn2tz_uafEV4L7xWw3fQ/1dgj6x_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 17",
+                            "name": "SPRINGCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/hL9KA-oPkwefBq5n2VIESUi1wm7kfOZN16di4YQwyU8/oi9heu_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "blake",
+                                    "link": "https://x.com/_blake69"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 18",
+                            "name": "COCORAMEN",
+                            "images": {
+                                "primary": "https://arweave.net/7PeJyFdLoXt57VlbSALnsaplcAnqEJUVfN8_gFvUguA/jb45bk_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tomopen",
+                                    "link": "https://x.com/kouteipenpen_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 19",
+                            "name": "ROCOCOCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/C5VtnJP-7scAgfooCUB_RDU0Qr9Ly14kXyOIkc4VVxw/ccira5_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Chrome Void",
+                                    "link": "https://x.com/chrome_void"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 20",
+                            "name": "FINALCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/cf9kwtQ5WstbQazuzoj7TeKd8kfX3El6kyrD6BnjwM4/sidrnv_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZeroG",
+                                    "link": "https://x.com/g0barry"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 21",
+                            "name": "DISAPPRCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/7C0znHHYBti-dTn-S84YcFTi7SasTnD59ISJSRSbWwQ/0gzvff_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Snowkid",
+                                    "link": "https://x.com/snowkidind"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 22",
+                            "name": "COCJOYZ",
+                            "images": {
+                                "primary": "https://arweave.net/eh38UkNnUZERUWasBON9Vo97asTV_vbiqBHFDksBTUA/oj5vc0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "BLISSFULMORG",
+                                    "link": "https://x.com/BlissfulMorg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 23",
+                            "name": "COCODEX",
+                            "images": {
+                                "primary": "https://arweave.net/2XNr0zwG_hfVM5JUtv19-Itf1BLSUeFbICWm7BdWCIU/1jxz6j_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 24",
+                            "name": "COCOSCHIELE",
+                            "images": {
+                                "primary": "https://arweave.net/LhfOsM0XhzDSy7FjGAoueQHf5fWEQ5A86oMLH8qe82I/bssal3_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Nimzobit",
+                                    "link": "https://x.com/NimzoBit"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 25",
+                            "name": "ISACOCO",
+                            "images": {
+                                "primary": "https://arweave.net/HUKdF5pRW1iJrV1piN9tWnI99Xryi47RT6vwYMDPbWE/qhwunu_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Isaac O",
+                                    "link": "https://x.com/Artist_IsaacO"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 26",
+                            "name": "DIVORCECOCO",
+                            "images": {
+                                "primary": "https://arweave.net/B2zvcms99MV9aYjljZrifZqwbPNsDtzaiemkupzaiQo/hw5mk0_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Isaac O",
+                                    "link": "https://x.com/Artist_IsaacO"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 27",
+                            "name": "NICECOBBEE",
+                            "images": {
+                                "primary": "https://arweave.net/75EUcIo4mgx7JC5FhSxk97Q_Dni1FdFvZymlXhqJncM/m20xon_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "OLLIESBLOG",
+                                    "link": "https://x.com/olliesblog"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 28",
+                            "name": "COCOCYCLE",
+                            "images": {
+                                "primary": "https://arweave.net/oRzmQMdRbatvpfhw5qpkiEB_63MeCp3aXfsBdmYMhcc/r691sr_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Skife",
+                                    "link": "https://x.com/skifeham"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 29",
+                            "name": "DJCOCO",
+                            "images": {
+                                "primary": "https://bafybeibowekrai4vtpaw2c5hltab55sgugrzizvrzk6tfxtxmrno6vr75q.ipfs.nftstorage.link/",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "RARE SCRILLA",
+                                    "link": "https://x.com/ScrillaVentura"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 30",
+                            "name": "COCODREAMBIG",
+                            "images": {
+                                "primary": "https://arweave.net/_ZXU9tz78nP-XyU-X2xu4pvoxbGGwfevp1Dlj5o2nis/6kecxo_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Y8R4",
+                                    "link": "https://x.com/NowVersusN0W"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 31",
+                            "name": "FOUROFCOBBEE",
+                            "images": {
+                                "primary": "https://arweave.net/gX9S5J81UKKL1UZODW6bZo_Igg0wozfpa8o6rA47Jnw/0zrrl7_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Alth0tas",
+                                    "link": "https://x.com/alth0tas"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 32",
+                            "name": "COCOPEWPEW",
+                            "images": {
+                                "primary": "https://arweave.net/e7TVdUjOCLwDh01D8dNlcvvMTNyh62JYV2PuGN4P03k/vqixxq_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "frau",
+                                    "link": "https://x.com/FrauShitcoinz"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 33",
+                            "name": "COCODOLL",
+                            "images": {
+                                "primary": "https://arweave.net/uboniNrkZNQv-Lk88NETW2xVNV5CQ9K5WhfZzb0wxSY/k6tlmc_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 34",
+                            "name": "COCOSONG",
+                            "images": {
+                                "primary": "https://arweave.net/ljzkqRfGJ_4SqT7yHGmV8CfWui3rxcKs3BuyAG4IU6s/dlw207_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "SASHA CHUDO",
+                                    "link": "https://x.com/ChudoSasshha"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 35",
+                            "name": "OUTOFSNAP",
+                            "images": {
+                                "primary": "https://arweave.net/o2E_6z-Y6GadQYbMYYv3yo39BuApoISnoA1YJ2cz-Zw/g1yqqq_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Kero",
+                                    "link": "https://x.com/KeroNFTs"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 36",
+                            "name": "COCOPLANNER",
+                            "images": {
+                                "primary": "https://arweave.net/esvwB3LJUyz0ARGRLVFiftLo8W_N2_GtZo2JkpQswbM/r8cdd6_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "swallja",
+                                    "link": "https://x.com/swallja"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 37",
+                            "name": "COCOPITFALL",
+                            "images": {
+                                "primary": "https://arweave.net/6hgZix0pktCM_71nr8vC8gsmgUDIG-Vu3PfNGelSMug/svko3h_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "swallja",
+                                    "link": "https://x.com/swallja"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 38",
+                            "name": "COCOCOW",
+                            "images": {
+                                "primary": "https://arweave.net/aVT_HJ4l7nrLhnnCnAeXulljt6sVIvF_nbhm8qlmej0/m3ty43_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "swallja",
+                                    "link": "https://x.com/swallja"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 39",
+                            "name": "FAKEDJCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/1Ifdlr3eGk59dW3V7wFDswaOO8ECZoeh-2qq8RxrMbg/map6c6_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Sam M",
+                                    "link": "https://x.com/CryptoIranian"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 40",
+                            "name": "THATSALLCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/wYwLSbUMTsYwk9EmxOJdA0c5NXXTEGZWCH8z5itMW-I/iutyok_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "coriot",
+                                    "link": "https://x.com/coriotcg"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 41",
+                            "name": "HOWDYCOCO",
+                            "images": {
+                                "primary": "https://arweave.net/nyCAbp0QalNyyUR6Gft-NcKFSzP1frRpR7N6Zmx87ho/avorba_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Harvest",
+                                    "link": "https://x.com/wakefulharvest"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 42",
+                            "name": "COCOPUNKY",
+                            "images": {
+                                "primary": "https://arweave.net/DTEMhiuHNuF2SIRS39ohxdGprNenvr4yE3uug5Lzxp0/hg5ra9_image.png",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "ZED",
+                                    "link": "https://x.com/Zederwan"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 43",
+                            "name": "COCOMAN",
+                            "images": {
+                                "primary": "https://arweave.net/AILs3kZIBQp-60-Nbkg-oIu7t8z2cGihdODbmpef4JU/h3icgv_image.jpg",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "EverydayEarth x RarePepeNews",
+                                    "link": "https://x.com/EverydayEarth"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 44",
+                            "name": "COCOSUSHI",
+                            "images": {
+                                "primary": "https://arweave.net/8Q6wNBTNxiD38c4fijVxvHgnM2UWOZpgUCl3pcMmv5s/yhweay_image.gif",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tomopen",
+                                    "link": "https://x.com/kouteipenpen_f"
+                                }
+                            ],
+                            "subAssets": []
+                        },
+                        {
+                            "edition": "Card 45",
+                            "name": "HARDCORECOCO",
+                            "images": {
+                                "primary": "https://auiipzvsopq52xmrblkqr3idolxppjeldej6yitpipwrahc4eu4q.arweave.net/BRCH5rJz4d1dkQrVCO0Dcu73pIsZE-wib0PtEBxcJTk",
+                                "other": []
+                            },
+                            "artists": [
+                                {
+                                    "name": "Tommy Marcheschi",
+                                    "link": "https://x.com/YungGucciT"
+                                }
+                            ],
+                            "subAssets": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
