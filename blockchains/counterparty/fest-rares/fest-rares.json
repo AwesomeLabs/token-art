@@ -1216,6 +1216,21 @@
                 },
                 {
                     "edition": "Card 20",
+                    "name": "PEPEAFRAME",
+                    "images": {
+                        "primary": "https://xkslma3rkqvhjggcilfugtxn6epmz7n4l4vtpegq2f7drfeonkaq.arweave.net/uqS2A3FUKnSYwkLLQ07t8R7M_bxfKzeQ0NF-OJSOaoE/pepeaframe.jpg",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Davesta",
+                            "link": "https://x.com/davesta_xcp"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
                     "name": "BIGAPPLEPEPE",
                     "images": {
                         "primary": "https://alh5tmh4revryaljp3audn2xuxxl4x2ry3awjjyd6k643ld77fwq.arweave.net/As_ZsPyJKxwBaX7BQbdXpe6-X1HGwWSnA_K9zax_-W0/bigapplepepe.jpg",
