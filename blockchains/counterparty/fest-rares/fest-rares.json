@@ -12,7 +12,7 @@
   },
   "sets": [
     {
-      "name": "Paris 2023",
+      "name": "Series 1 (Paris 2023)",
       "images": {
         "avatar": "",
         "banner": ""
@@ -918,57 +918,292 @@
             }
           ],
           "subassets": []
-        },
+        }
+      ]
+    },
+    {
+      "name": "Series 2 (New York 2024)",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
         {
-          "edition": "61",
-          "name": "RARESTPARTY",
+          "edition": "Card 1",
+          "name": "COLABCOUPLE",
           "images": {
-            "primary": "https://bafybeic32knwkdjypo7fz6bvzkkqykpr5gpip73fzhgg6feapx7x5oewi4.ipfs.nftstorage.link/?filename=image.png",
+            "primary": "https://irbbuvv55rv7yyg2k7geofpxe3jpufpoflocwoabty7oqw4zpv2a.arweave.net/REIaVr3sa_xg2lfMRxX3JtL6Fe4q3Cs4AZ4-6FuZfXQ/colabcouple.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "Le Hues",
-              "link": "https://twitter.com/Le__Hues"
+              "name": "DITACRYPTO",
+              "link": "https://twitter.com/ditacrypto"
             }
           ],
-          "subassets": []
+          "subAssets": []
         },
         {
-          "edition": "62",
-          "name": "MRPEPEHANSEL",
+          "edition": "Card 2",
+          "name": "PEEPINGPEPE",
           "images": {
-            "primary": "https://h36twvfpp5tslnuwuoor5zne5zujplpxpo3td77yybd57uo42gwa.arweave.net/Pv07VK9_ZyW2lqOdHuWk7miXrfd7tzH_-MBH39Hc0aw/bu8nqr_image.png",
+            "primary": "https://yohqxgszsh25duxgzlue2wyf4xeqmcfj7ffiiqxiwtdnmcdhjaia.arweave.net/w48LmlmR9dHS5sroTVsF5ckGCKn5SoRC6LTG1ghnSBA/peepingpepe.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "Zed",
-              "link": "https://twitter.com/Zederwan"
+              "name": "fresa",
+              "link": "https://twitter.com/gardenfresa"
             }
           ],
-          "subassets": []
+          "subAssets": []
         },
         {
-          "edition": "63",
-          "name": "SIGNEDLOONEY",
+          "edition": "Card 3",
+          "name": "FAKESMOWL",
           "images": {
-            "primary": "https://bafybeihqfolttoeugzlg4abrztgmfhb4zvlczectdd7mar7eakwynmvyxu.ipfs.nftstorage.link/?filename=image.jpg",
+            "primary": "https://h6ag7dwo64o4cjks4ybh5tdsm6rnqavqjlg65mheno5addxlslra.arweave.net/P4Bvjs73HcElUuYCfsxyZ6LYArBKze6w5Gu6AY7rkuI/fckyeapepe.jpg",
             "other": []
           },
           "artists": [
             {
-              "name": "Marek",
-              "link": "https://twitter.com/richboyy_joseph"
+              "name": "Auger",
+              "link": "https://twitter.com/austingray"
             }
           ],
-          "subassets": []
+          "subAssets": []
         },
         {
-          "edition": "64",
-          "name": "MISSINGPEPE",
+          "edition": "Card 4",
+          "name": "FCKYEAPEPE",
           "images": {
-            "primary": "https://so7ha5hph6gfw2ate32bcudihdhi4y6hovm4zjiml2dkddtgjgtq.arweave.net/k75wdO8_jFtoEyb0EVBoOM6OY8d1WcylDF6GoY5mSac/MISSINGPEPE.jpg",
+            "primary": "https://4xeqhj4ertr3banigzshoqr2vpyqhsf63pjyt6hpzuyaiwkhkuyq.arweave.net/5ckDp4SM47CBqDZkd0I6q_EDyL7b04n4780wBFlHVTE/fckyeapepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Gabe",
+              "link": "https://twitter.com/f_ckyea_"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "DOUCIT",
+          "images": {
+            "primary": "https://bbwzgphm6rvhkiecinbimbxvxv4q5z2i3zzqu5vfbqmltd5uudqq.arweave.net/CG2TPOz0anUggkNChgb1vXkO50jecwp2pQwYuY-0oOE/doucit.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Barbie",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "WIFPEPE",
+          "images": {
+            "primary": "https://a5xguuwmvqo6fckvw2bk2ndtmnt2siapnsvcwxg6zvfs7u6kcu3q.arweave.net/B25qUsysHeKJVbaCrTRzY2epIA9sqitc3s1LL9PKFTc/wifpepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "OUTLINEPEPE",
+          "images": {
+            "primary": "https://ujz7fvsxfagb47eyvqipv7nw5jsbvzmllt6sdo3nbthjzzkvatqq.arweave.net/onPy1lcoDB58mKwQ-v226mQa5Ytc_SG7bQzOnOVVBOE/outlinepepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Stew",
+              "link": "https://twitter.com/BeefwithStew"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "NUEVAYORK",
+          "images": {
+            "primary": "https://tlvqwzcwn3d4hq643ptnqb7i7pj3lphqndm2nmwcoc47qhwoydjq.arweave.net/musLZFZux8PD3Nvm2Afo-9O1vPBo2aaywnC5-B7OwNM/nuevayork.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Al Fernandez",
+              "link": "https://twitter.com/al_fernandz"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 9",
+          "name": "IAMTHEBOMB",
+          "images": {
+            "primary": "https://idin3udmjsrdszfwaxmigksohdruzpxaowdtfg66b6v5tmamfxta.arweave.net/QNDd0GxMojlktgXYgypOOONMvuB1hzKb3g-r2bAMLeY/iamthebomb.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Sascha & Lucy",
+              "link": "https://twitter.com/Saschabailey"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 10",
+          "name": "QUESTIONPEPE",
+          "images": {
+            "primary": "https://ye6uixgqkijnmbcbkitlb42ak5k6peal6bqv7hleqs3ih47nh3ka.arweave.net/wT1EXNBSEtYEQVImsPNAV1XnkAvwYV-dZIS2g_PtPtQ/questionpepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Justkeys",
+              "link": "https://twitter.com/Justkeys2"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 11",
+          "name": "WALLPLUGNFT",
+          "images": {
+            "primary": "https://fjik6pr6imjmrwdn7q6sbfxkbgaghwnsbepqh4ae2xjonjieoonq.arweave.net/KlCvPj5DEsjYbfw9IJbqCYBj2bIJHwPwBNXS5qUEc5s/wallplugnft.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Wallplug",
+              "link": "https://twitter.com/Wallplugnft"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 12",
+          "name": "DAYMONG",
+          "images": {
+            "primary": "https://g2ezoukolsdnncr3ipbyi2t2dobnej7krdc733hajvifap6646wq.arweave.net/NomXUU5chtaKO0PDhGp6G4LSJ-qIxf3s4E1QUD_e560/daymong.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Nightman",
+              "link": "https://twitter.com/nightmancrypto"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 13",
+          "name": "RAINYNYCPEPE",
+          "images": {
+            "primary": "https://pi75xpgel6uxzt6s2tjs2h4imwhkainyj242nntymtbnek3u3x7q.arweave.net/ej_bvMRfqXzP0tTTLR-IZY6gIbhOuaa2eGTC0it03f8/rainynycpepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "subterranean",
+              "link": "https://twitter.com/Subterranean_1"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 14",
+          "name": "PETRIDISHPEP",
+          "images": {
+            "primary": "https://n5me4ph4kba77ixrtexsjyywrim6ko6pa6slesxqbbzlobnuq6ca.arweave.net/b1hOPPxQQf-i8ZkvJOMWihnlO88HpLJK8AhytwW0h4Q/petridishpep.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Empress Trash",
+              "link": "https://twitter.com/Empresstrash"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 15",
+          "name": "PEPEERAS",
+          "images": {
+            "primary": "https://nmxr2b7jsgdii7523x73bqex76k2openntbuj3zor2d6lgqmaxya.arweave.net/ay8dB-mRhoR_ut3_sMCX_5WnPI1sw0TvLo6H5ZoMBfA/pepeeras.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "JULIAGULIA",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 16",
+          "name": "RAREPEPEZERO",
+          "images": {
+            "primary": "https://isf5bmltq4jnbpfkj74i64xagzxc4nfqfskpqnpis47xbmkdi2ca.arweave.net/RIvQsXOHEtC8qk_4j3LgNm4uNLAslPg16Jc_cLFDRoQ/rarepepezero.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Adam McBride",
+              "link": "https://twitter.com/adamamcbride"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 17",
+          "name": "SHERBINSKISP",
+          "images": {
+            "primary": "https://d242uh4lvfuzyes4zomk6d3wg3uqjfna2xjm57w67t2yihn3utlq.arweave.net/HrmqH4upaZwSXMuYrw92NukElaDV0s7-3vz1hB27pNc/sherbinskisp.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "J B",
+              "link": "https://twitter.com/JPegKillah"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 18",
+          "name": "WILDPEPENYC",
+          "images": {
+            "primary": "https://5wut6witrerjkmozqcng7t3kkc7eluogjw26iupkywp7tl3i3crq.arweave.net/7ak_WROJIpUx2YCab89qUL5F0cZNteRR6sWf-a9o2KM/wildpepenyc.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "maarmapa",
+              "link": "https://twitter.com/maarmapa"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 19",
+          "name": "NYCCOMMON",
+          "images": {
+            "primary": "https://at5xjfxgnzelzs5jyduqsyz6yse4qhz5lvlvsubau3q5ui6oyrrq.arweave.net/BPt0luZuSLzLqcDpCWM-xInIHz1dV1lQIKbh2iPOxGM/nyccommon.jpg",
             "other": []
           },
           "artists": [
@@ -977,7 +1212,992 @@
               "link": "https://twitter.com/mrarwyn"
             }
           ],
-          "subassets": []
+          "subAssets": []
+        },
+        {
+          "edition": "Card 20",
+          "name": "PEPEAFRAME",
+          "images": {
+            "primary": "https://xkslma3rkqvhjggcilfugtxn6epmz7n4l4vtpegq2f7drfeonkaq.arweave.net/uqS2A3FUKnSYwkLLQ07t8R7M_bxfKzeQ0NF-OJSOaoE/pepeaframe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Davesta",
+              "link": "https://x.com/davesta_xcp"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 21",
+          "name": "BIGAPPLEPEPE",
+          "images": {
+            "primary": "https://alh5tmh4revryaljp3audn2xuxxl4x2ry3awjjyd6k643ld77fwq.arweave.net/As_ZsPyJKxwBaX7BQbdXpe6-X1HGwWSnA_K9zax_-W0/bigapplepepe.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shawn Leary",
+              "link": "https://twitter.com/shawnleary"
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    },
+    {
+      "name": "Series 3 (South Carolina 2024)",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "PEPEONMARS",
+          "images": {
+            "primary": "https://7lrvxmp47bu35n2mnwmqd2wec5fiz7br4ycknmbujnsnppqisjta.arweave.net/-uNbsfz4ab63TG2ZAerEF0qM_DHmBKawNEtk174IkmY/pepeonmars.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Obama Yo Mama",
+              "link": "https://x.com/Techversetrends"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 2",
+          "name": "PEPEMIGOS",
+          "images": {
+            "primary": "https://vh5p47a3bhaqatailiu3ks2eyljcyuxxzrlt7sfgpulrf33x3qda.arweave.net/qfr-fBsJwQBMCFoptUtEwtIsUvfMVz_Ipn0XEu933AY/pepemigos.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Xinglu Lin",
+              "link": "https://x.com/linxinglu"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 3",
+          "name": "PEPEFESTXW",
+          "images": {
+            "primary": "https://ocm2haukh7rxyvmfj3lyxjij3x2ogrvzdvsmfyljmed3gcklg5la.arweave.net/cJmjgoo_43xVhU7Xi6UJ3fTjRrkdZMLhaWEHswlLN1Y/pepefestxw.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "XWAVE",
+              "link": "https://x.com/XWAVEart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 4",
+          "name": "CASIOEPEPE",
+          "images": {
+            "primary": "https://5lzzvqxkcwbdarjyimvla7uk234u23xpsw7pb2gqf7khtqhe5m6q.arweave.net/6vOawuoVgjBFOEMqsH6K1vlNbu-VvvDo0C_UecDk6z0/casioepepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Forest",
+              "link": "https://x.com/forestanderson"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "GRNDELUSN",
+          "images": {
+            "primary": "https://tblfokqh4m4jyo66zbkjguvrzj2jyefwcskpda6yzcpiny6n3jfq.arweave.net/mFZXKgfjOJw73shUk1KxynScELYUlPGD2MiehuPN2ks/grndelusn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Uttam Grandhi",
+              "link": "https://x.com/uttamg911"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "PEPEDRAWING",
+          "images": {
+            "primary": "https://2pdsgfamqr6cnfeqenkixdi34qd2irq4pxrocuhiqciucgdyipqq.arweave.net/08cjFAyEfCaUkCNUi40b5AekRhx94uFQ6ICRQRh4Q-E/pepedrawing.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "gmm",
+              "link": "https://x.com/gmmoneyeth"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "BLINKINGPEPE",
+          "images": {
+            "primary": "https://sww5c3ztv7jjqkz5ewgo4s2epmawe6ajjbd6bxjkco55pngbnf3q.arweave.net/la3RbzOv0pgrPSWM7ktEewFieAlIR-DdKhO717TBaXc/blinkingpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Andrea Guth",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "GRNENFUEGO",
+          "images": {
+            "primary": "https://qxqzmodmbzcanaoa5oxmkdzxodyzk45hlup7wigvz2kv4cqvscra.arweave.net/heGWOGwORAaBwOuuxQ83cPGVc6ddH_sg1c6VXgoVkKI/grnenfuego.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Nickitast",
+              "link": "https://x.com/Nickitast"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 9",
+          "name": "KRYPTOPEPE",
+          "images": {
+            "primary": "https://jekkwiu5jfy427hozxycgneydpeqfvqsdxxurzb7rcema3ot45oq.arweave.net/SRSrIp1Jcc187s3wIzSYG8kC1hId70jkP4iIwG3T510/kryptopepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "KRYPTO2009",
+              "link": "https://x.com/Krypto2009"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 10",
+          "name": "MIQUEPEPE",
+          "images": {
+            "primary": "https://n5vvetjcsb63bozygoznao7id2x3dgamaqv5jsyucda42tuebvia.arweave.net/b2tSTSKQfbC7ODOy0DvoHq-xmAwEK9TLFBDBzU6EDVA/miquepepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Mario Figueroa",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 11",
+          "name": "PEPEPROBLEM",
+          "images": {
+            "primary": "https://vd4vzogeifdycabs623gsmpbnqjgxwedwirc4hwqf3nnz4jtmrwq.arweave.net/qPlcuMRBR4EAMva2aTHhbBJr2IOyIi4e0C7a3PEzZG0/pepeproblem.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 12",
+          "name": "RIBBITING",
+          "images": {
+            "primary": "https://jyvvjn4nimbbdbheplezsuyvr7arivyhea4nriwg2bsek6xjp5uq.arweave.net/TitUt41DAhGE5HrJmVMVj8EUVwcgONiixtBkRXrpf2k/ribbiting.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Jeb",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 13",
+          "name": "DARTHPEPEE",
+          "images": {
+            "primary": "https://puegrxtpwjp3irg3p7sgtw7xnfsvkh4vtjvj352a52aucl4kuega.arweave.net/fQho3m-yX7RE23_kadv3aWVVH5Waap33QO6BQS-KoQw/darthpepee.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Topshot",
+              "link": "https://x.com/Topshot"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 14",
+          "name": "DIAGRAMMATIC",
+          "images": {
+            "primary": "https://e2l4owee4ze5gowewgezluezox7panad32t6tq6egwbclej2ij5a.arweave.net/JpfHWITmSdM6xLGJldCZdf7wNAPep-nDxDWCJZE6Qno/diagrammatic.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AppoloDoge",
+              "link": "https://x.com/Apollodoge"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 15",
+          "name": "CHARLESTON",
+          "images": {
+            "primary": "https://yqqrkr6wlpb6kypp2k4wwej3gcvyrd7gq24lrghutkruc4qfny5a.arweave.net/xCEVR9Zbw-Vh79K5axE7MKuIj-aGuLiY9JqjQXIFbjo/charleston.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Mr. & Mrs. Dita",
+              "link": "https://x.com/Ditacrypto"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 16",
+          "name": "PEPETHEPEEN",
+          "images": {
+            "primary": "https://73zxowhwvdchdbycddap6uc2mmkwuwyebbwqpy2aj7bzqeb4wxvq.arweave.net/_vN3WPaoxHGHAhjA_1BaYxVqWwQIbQfjQE_DmBA8tes/pepethepeen.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Alejandro Ackermann",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 17",
+          "name": "TRIPEPEPE",
+          "images": {
+            "primary": "https://474ctxlvblkx4ekjcjgvxvapcozvngbcqgjz3lrdrxffc7uzjipq.arweave.net/5_gp3XUK1X4RSRJNW9QPE7NWmCKBk52uI43KUX6ZSh8/tripepepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lc",
+              "link": "https://x.com/Liindsaycalzini"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 18",
+          "name": "PORKPEPEFORK",
+          "images": {
+            "primary": "https://l42cauw7phq2sax7hpqnpdffm7oqh6x2jnarcfunhtvhrvomrlwa.arweave.net/XzQgUt954akC_zvg14ylZ90D-vpLQREWjTzqeNXMiuw/porkpepefork.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "whirlygirl",
+              "link": "https://x.com/DegenWearables"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 19",
+          "name": "BEEPLESTUDIO",
+          "images": {
+            "primary": "https://z537gqnqm422emv6ixjr5h3z4bbws54vwc43grhwyxsme7pbmbaq.arweave.net/z3fzQbBnNaIyvkXTHp954ENpd5WwubNE9sXkwn3hYEE/beeplestudio.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 20",
+          "name": "TOASTYPEPE",
+          "images": {
+            "primary": "https://jt3fpq5epkuvnouvcqe5kdwe5ap3tutcrnuvkngqboz6snubycgq.arweave.net/TPZXw6R6qVa6lRQJ1Q7E6B-50mKLaVU00Auz6TaBwI0/toastypepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Remi",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 21",
+          "name": "DUDELADY",
+          "images": {
+            "primary": "https://bzfgvtjhdowwg36f5rc6jx2dvbzzw2vprjopymtkdvqsloxgkweq.arweave.net/DkpqzScbrWNvxexF5N9DqHObaq-KXPwyah1hJbrmVYk/dudelady.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Allison",
+              "link": "https://x.com/Asprocket_nft"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 22",
+          "name": "MPGA",
+          "images": {
+            "primary": "https://4yd4rdz2l2f4z4ldvb4urydwz7sd6kfik4hgsclnnx7lqq5u67sa.arweave.net/5gfIjzpei8zxY6h5SOB2z-Q_KKhXDmkJbW3-uEO09-Q/mpga.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dita Crypto",
+              "link": "https://x.com/ditacrypto"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 23",
+          "name": "LORDOFTIDES",
+          "images": {
+            "primary": "https://c57g3tfmfhedafdrlc3fgpol7b3fky6d2zj5k77hk2dabrevtmrq.arweave.net/F35tzKwpyDAUcVi2Uz3L-HZVY8PWU9V_51aGAMSVmyM/lordoftides.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "iggynore",
+              "link": "https://x.com/Iggynore"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 24",
+          "name": "PEDEBBY",
+          "images": {
+            "primary": "https://chkkfhogow5megmu2emr76lmgqtjtxjisuqc6nh5ttvz4nmxilyq.arweave.net/EdSincZ1usIZlNEZH_lsNCaZ3SiVIC80_ZzrnjWXQvE/pedebby.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "COMPUTERBLOOD",
+              "link": "https://x.com/c0mputerbl00d"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 25",
+          "name": "DAPEPEVERSE",
+          "images": {
+            "primary": "https://nzior5dx2k3yqoeutjvhbvohcc3mwb4x5ptq7jbymifwcqjkp3jq.arweave.net/blDo9HfSt4g4lJpqcNXHELbLB5fr5w-kOGILYUEqftM/dapepeverse.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Sebastian Figueredo",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 26",
+          "name": "STARPP",
+          "images": {
+            "primary": "https://ans4ra3kvxtnj67yavfncbadkpce6r5xj6vkaewzlpy7wg5ngb4q.arweave.net/A2XIg2qt5tT7-AVK0QQDU8RPR7dPqqAS2Vvx-xutMHk/starpp.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Laura Perez",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 27",
+          "name": "TRIPIT",
+          "images": {
+            "primary": "https://h3mrkgrhb5kbnac4lae7ycrphz7cb3yjqe3mfjpacod5lyezufpq.arweave.net/PtkVGicPVBaAXFgJ_AovPn4g7wmBNsKl4BOH1eCZoV8/tripit.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Sunnydayz",
+              "link": "https://x.com/Sunnydayzsoon"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 28",
+          "name": "BEFESTICQ",
+          "images": {
+            "primary": "https://56yjo5qfn7qwyu3cje54wkkxdyofom6upjtj6vel6gpzqxk7aa6q.arweave.net/77CXdgVv4WxTYkk7yylXHhxXM9R6Zp9Ui_GfmF1fAD0/beefsticq.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "ICQPEPE",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 29",
+          "name": "PEPEWALDOS",
+          "images": {
+            "primary": "https://gbox57sx2vmrpeytmneaag56e2v4n3wxy6rfpmmmpmbk3lcqvuza.arweave.net/MF1-_lfVWReTE2NIABu-JqvG7tfHolexjHsCraxQrTI/pepewaldos.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Avida Waldos",
+              "link": "https://x.com/Groundzero_eth"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 30",
+          "name": "WEALLRSTARS",
+          "images": {
+            "primary": "https://wuy3s53grh2tww2fuftdwdqyzwbaqv3mnmh6eksnacdhlfxigukq.arweave.net/tTG5d2aJ9TtbRaFmOw4YzYIIV2xrD-IqTQCGdZboNRU/weallrstars.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Joe Figlerski ~ Vampyre Ink",
+              "link": "https://x.com/Vampyreink"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 31",
+          "name": "CLOSEUPPPEPE",
+          "images": {
+            "primary": "https://5w3ayhh2iq6xlrj3ecamgu7tj23rhrltfmxg3aorzs6pbfemge7a.arweave.net/7bYMHPpEPXXFOyCAw1PzTrcTxXMrLm2B0cy88JSMMT4/closeupppepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Jonny Vendetta",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 32",
+          "name": "CROSSTHELINE",
+          "images": {
+            "primary": "https://ljqukbemd4hiz5ojikviipcmbf7jtg7w3c2aipzev67xs4xvaijq.arweave.net/WmFFBIwfDoz1yUKqhDxMCX6Zm_bYtAQ_JK-_eXL1AhM/crosstheline.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "illezo",
+              "link": "https://x.com/illezoETH"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 33",
+          "name": "PEPICHAD",
+          "images": {
+            "primary": "https://sbwbxn4rx5tqvlnukci3sse3dfj2yo65ntwi6kgculsweybjrfdq.arweave.net/kGwbt5G_ZwqttFCRuUibGVOsO91s7I8owqLlYmApiUc/pepichad.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Degenun",
+              "link": "https://x.com/Alecpaints"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 34",
+          "name": "BBQPEPES",
+          "images": {
+            "primary": "https://ahocaxho7x2dmegwg2dbb2cr5ivwthhofctbafqgvyylu74c3tqq.arweave.net/AdwgXO799DYQ1jaGEOhR6itpnO4ophAWBq4wun-C3OE/bbqpepes.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Richard Perez",
+              "link": "https://x.com/Realrichperez"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 35",
+          "name": "PUKEPEPE",
+          "images": {
+            "primary": "https://xivzjs6ur5cy3b5faordi3btrxhzkzjrqvhltp2ytb4ox5quviha.arweave.net/uiuUy9SPRY2HpQOiNGwzjc-VZTGFTrm_WJh46_YUqg4/pukepepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Alex Solis",
+              "link": "https://x.com/Alexmdc"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 36",
+          "name": "JEFFPEPSTEIN",
+          "images": {
+            "primary": "https://mclcu43in7h6ortohv4nw27izod6sefnnaothi7e6s4y2gh4rq5q.arweave.net/YJYqc2hvz-dGbj1422voy4fpEK1oHTOj5PS5jRj8jDs/jeffpepstein.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 37",
+          "name": "BUNJEEJUMPEP",
+          "images": {
+            "primary": "https://45uiowtaeszwmpzizucqc2xsozppdhl4iolu7yc67c4intxsbywa.arweave.net/52iHWmAks2Y_KM0FAWrydl7xnXxDl0_gXvi4hs7yDiw/bunjeejumpep.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Maxwell",
+              "link": "https://x.com/maxkarlan"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 38",
+          "name": "BENZPEPE",
+          "images": {
+            "primary": "https://7hliibd3qqmzgrd4ifnd3nit2fiuastafkohvzenz3xuir7y6dwq.arweave.net/-daEBHuEGZNEfEFaPbUT0VFASmAqnHrkjc7vREf48O0/benzpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Matt Waller",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 39",
+          "name": "PEPEBALLOONS",
+          "images": {
+            "primary": "https://gqhzmbbrhc33k3gqqvm7m3dljfvvznurobjj7fuk7clqgmaw4xyq.arweave.net/NA-WBDE4t7Vs0IVZ9mxrSWtctpFwUp-WiviXAzAW5fE/pepeballoons.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Comfort Creatures",
+              "link": "https://x.com/ComfortCreature"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 40",
+          "name": "GCPEPE",
+          "images": {
+            "primary": "https://yjxixt6qtrkq3rfinfzp6qpmgsmmrj7fcznx5z56pqfyhiazpeqq.arweave.net/wm6Lz9CcVQ3EqGly_0HsNJjIp-UWW37nvnwLg6AZeSE/gcpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dabb3r",
+              "link": "https://x.com/Dabbersdelights"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 41",
+          "name": "TRENPEPE",
+          "images": {
+            "primary": "https://qo6q7jvkckec6ma66xfbxysrj7e5wmo33xl44z55yk47aecqldpq.arweave.net/g70PpqoSiC8wHvXKG-JRT8nbMdvd185nvcK58BBQWN8/trenpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "RU4REAL",
+              "link": "https://x.com/RU4REALim"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 42",
+          "name": "SEVENMINPEPE",
+          "images": {
+            "primary": "https://6lyo62e66sxvwnumunonfc3t4phik42kgdgl2rgp6cs55qkjy3yq.arweave.net/8vDvaJ70r1s2jKNc0otz486Fc0owzL1Ez_Cl3sFJxvE/sevenminpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "threepanelcrimes",
+              "link": "https://x.com/3panelcrimes"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 43",
+          "name": "NOTREAL",
+          "images": {
+            "primary": "https://m3fzyulcyrvnpzxivwffvdd5nykozjpmwwnyt2mryqtuoj7v4f7q.arweave.net/ZsucUWLEatfm6K2KWox9bhTspey1m4npkcQnRyf14X8/notreal.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Jekerman",
+              "link": "https://x.com/Jekerman21"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 44",
+          "name": "RETURNTOFROG",
+          "images": {
+            "primary": "https://kktee7mvrcw6je7vhv3dqobpixhgep6u6ocz6oqokbvrsdn4tera.arweave.net/UqZCfZWIreST9T12ODgvRc5iP9TzhZ86DlBrGQ28mSI/returntofrog.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Patty Amercani",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 45",
+          "name": "CUMPEPE",
+          "images": {
+            "primary": "https://5py5xrcxptvvqm4ftgn73xzdw3grxagf5qkagr4giyymvxthldgq.arweave.net/6_HbxFd861gzhZmb_d8jts0bgMXsFANHhkYwyt5nWM0/cumpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Dr. Greedy",
+              "link": "https://x.com/Thedrgreedy"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 46",
+          "name": "LOWCOUNTRY",
+          "images": {
+            "primary": "https://a6rx5o5jvxs2zgoquu63qxrewfyuc7qghr4ytp5iw3ocl3djlnuq.arweave.net/B6N-u6mt5ayZ0KU9uF4ksXFBfgY8eYm_qLbcJexpW2k/lowcountry.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "LilyRose",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 47",
+          "name": "PEPETERNITY",
+          "images": {
+            "primary": "https://f24stoqzr5hif4h27zs3ykuduspx36a7q67dr252rnxeut3umr4a.arweave.net/LrkpuhmPToLw-v5lvCqDpJ99-B-HvjjruotuSk90ZHg/pepeternity.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Mr. Gloob",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 48",
+          "name": "PEPEANDSALT",
+          "images": {
+            "primary": "https://iu44u4hgojnry6prmkrjefhsz6lx3jtfsmifrpqgjfuz2h2nzhza.arweave.net/RTnKcOZyWxx58WKikhTyz5d9pmWTEFi-BklpnR9NyfI/pepeandsalt.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Volker",
+              "link": "https://x.com/yawnfree"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 49",
+          "name": "MOISTNESS",
+          "images": {
+            "primary": "https://u362lttus6ejvubqvbr7zdeobjgm3xin3zewehndlkgp5k5ulqsq.arweave.net/pv2lznSXiJrQMKhj_IyOCkzN3Q3eSWIdo1qM_qu0XCU/moistness.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 50",
+          "name": "CHONKY",
+          "images": {
+            "primary": "https://acyg2lgnei3rbtwxckn7fssztbtmo4fzx6e2z2draaoc3e5puqda.arweave.net/ALBtLM0iNxDO1xKb8spZmGbHcLm_iazocQAcLZOvpAY/chonky.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "DenX",
+              "link": "https://x.com/Denx_Sol"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 51",
+          "name": "BREAKFASTT",
+          "images": {
+            "primary": "https://c3mucts6hvk77xfwyeytxktk5ktmanhhzkeushxtzjyf5jomllua.arweave.net/FtlBTl49Vf_ctsExO6pq6qbANOfKiUke88pwXqXMWug/breakfastt.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Nye Ariel",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 52",
+          "name": "PEPEMCDONALD",
+          "images": {
+            "primary": "https://4oh33q6crybuaumjuedrv4exj77mp2gklgw3iaeslac4v2icr6bq.arweave.net/44-9w8KOA0BRiaEHGvCXT_7H6MpZrbQAklgFyukCj4M/pepemcdonald.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Pixelartfighterofficial",
+              "link": "https://x.com/Pixelartfighterofficial"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 53",
+          "name": "KAWAIICAT",
+          "images": {
+            "primary": "https://vusx653z5nxrq7vwjyvtcit2kox5raecn2t6zydh222zxhkgmsgq.arweave.net/rSV_d3nrbxh-tk4rMSJ6U6_YgIJup-zgZ9a1m51GZI0/kawaiicat.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Scarlett",
+              "link": "https://x.com/Denx_Sol"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 54",
+          "name": "BORASPEPE",
+          "images": {
+            "primary": "https://kwdj4ssepe5zsvoqbd7qd2ak45jlktkefcl6wpa33hxotlf7jerq.arweave.net/VYaeSkR5O5lV0Aj_AegK51K1TUQol-s8G9nu6ay_SSM/boraspepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "",
+              "link": ""
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 55",
+          "name": "OHIOPEPE",
+          "images": {
+            "primary": "https://w6z2ughm6hj37fuxlrdrcjpuccpqimnkl77vcwaqppfat2cmyn4a.arweave.net/t7OqGOzx07-Wl1xHESX0EJ8EMapf_1FYEHvKCehMw3g/ohiopepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Crier",
+              "link": "https://x.com/Crypto_crier"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 56",
+          "name": "BLCKHOLEPEPE",
+          "images": {
+            "primary": "https://7gntfdwl7rwzgofaixgcvoj6vlt75qp2dw7rsejzjfizit23cwba.arweave.net/-Zsyjsv8bZM4oEXMKrk-quf-wfodvxkROUlRlE9bFYI/blckholepepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Uttam Grandhi",
+              "link": "https://x.com/uttamg911"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 57",
+          "name": "MFERISHPEPE",
+          "images": {
+            "primary": "https://fpa6jytevdxlw3nqxue2otmokgely6kguuqq4xpqle3ubi2whbmq.arweave.net/K8Hk4mSo7rttsL0Jp02OUYi8eUalIQ5d8Fk3QKNWOFk/mferishpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "undertow",
+              "link": "https://x.com/undertow_tez"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 58",
+          "name": "DIGIMEDICI",
+          "images": {
+            "primary": "https://dhe4wnxjubilfrhg6ba4j5quchw4s6wz6w7sfe5z66fpi2s5r23q.arweave.net/GcnLNumgULLE5vBBxPYUEe3Jetn1vyKTufeK9Gpdjrc/digimedici.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Pepe de' Medici",
+              "link": "https://x.com/pepemedici"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 59",
+          "name": "PLANTPEPE",
+          "images": {
+            "primary": "https://5tzg64reebhdz2llyt7ugaupkzegkjo3fhjbepyf5wbxejnhqkzq.arweave.net/7PJvciQgTjzpa8T_QwKPVkhlJdsp0hI_Be2DciWngrM/plantpepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "MeatMan_Inc",
+              "link": "https://x.com/MeatMan_Inc"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 60",
+          "name": "CGVWZQ",
+          "images": {
+            "primary": "https://ja7vqeuk7xtg3jgwcclitxtppw4pkcl4bknvzottbmw3egk2zilq.arweave.net/SD9YEor95m2k1hCWid5vfbj1CXwKm1y6cwstshlayhc/CGVWZQ.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Snepsid",
+              "link": "https://x.com/resnepsid"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 61",
+          "name": "A1839474188055443647",
+          "images": {
+            "primary": "https://dwfwysogtjyndealkwmknwxwlvoubbenmezpn6262vz6innhuuaq.arweave.net/HYtsScaacNGQC1WYptr2XV1AhI1hMvb7XtVz5DWnpQE/A1839474188055443647.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "gfloof",
+              "link": "https://x.com/gflooff"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 62",
+          "name": "PEPELLAMA",
+          "images": {
+            "primary": "https://yrnfxkpi4vfukdtyfvmrxfwsb7se3xl2jbr4yb4tknib22ofqbva.arweave.net/xFpbqejlS0UOeC1ZG5bSD-RN3XpIY8wHk1NQHWnFgGo/pepellama.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Gmarz",
+              "link": "https://x.com/Gmarz010"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 63",
+          "name": "OLYMPICP",
+          "images": {
+            "primary": "https://gbcw3ldmun4x3cvcvt3y6zktnmqd5ffex425lluhlhnzyhuk5lta.arweave.net/MEVtrGyjeX2Koqz3j2VTayA-lKS_NdWuh1nbnB6K6uY/olympicp.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Renee",
+              "link": "https://x.com/hash_producer"
+            }
+          ],
+          "subAssets": []
         }
       ]
     }
