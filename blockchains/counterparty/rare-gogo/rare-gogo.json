@@ -1,0 +1,415 @@
+{
+    "chain": "counterparty",
+    "name": "Rare Gogo",
+    "images": {
+        "avatar": "https://fppmqqvucqjyysgm4lbuqbtg4glsbea67dd4pyn6h565bnhgiivq.arweave.net/K97IQrQUE4xIzOLDSAZm4ZcgkB74x8fhvj990LTmQis/logo.png",
+        "banner": ""
+    },
+    "description": "",
+    "externalLinks": {
+        "website": "https://raregogo.wtf/",
+        "twitter": "https://x.com/RareGogo"
+    },
+    "sets": [
+        {
+            "name": "Series 1",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "RAREGOGO",
+                    "images": {
+                        "primary": "https://2pv5pvojaq6cp4ygtikx5mjhauwglm5g6eqd7e2jw7c2nwytutda.arweave.net/0-vX1ckEPCfzBpoVfrEnBSxls6bxID-TSbfFptsTpMY/raregogo.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darky",
+                            "link": "https://twitter.com/Dark_inc_Studios"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "OLGOAT",
+                    "images": {
+                        "primary": "https://jqdr7fhf3vgn6zrc6g3pkl5loauivtzexdnfgyo6q6n2stibxkoq.arweave.net/TAcflOXdTN9mIvG29S-rcCiKzyS42lNh3oebqU0Bup0/olgoat.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mr. Hansel",
+                            "link": "https://twitter.com/bettidlomas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "GOGAI",
+                    "images": {
+                        "primary": "https://2fmaeb3mvehdoychdp4rviunerybxyxwqtbqkopzym4cvz4bcupq.arweave.net/0VgCB2ypDjdgRxv5GqKNJHAb4vaEwwU5-cM4KueBFR8/gogai.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FWD",
+                            "link": "https://twitter.com/fabooowy"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "HOODGOAT",
+                    "images": {
+                        "primary": "https://2z2qhzcf5sfhgh3xds3fwmxtiexgho6bt53uh3tblb5uyhauapva.arweave.net/1nUD5EXsinMfdxy2WzLzQS5ju8Gfd0PuYVh7TBwUA-o/hoodgoat.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "subterranean",
+                            "link": "https://twitter.com/subterranean_1"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "RUBINKHNUM",
+                    "images": {
+                        "primary": "https://ikca6wi7htewbnv6pphbjrcip6mt6eeixlvvur2dzm7kowhlhbcq.arweave.net/QoQPWR88yWC2vnvOFMRIf5k_EIi661pHQ8s-p1jrOEU/rubinkhnum.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "indelible",
+                            "link": "https://x.com/SuperRareRares"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "LFGOGO",
+                    "images": {
+                        "primary": "https://wezuxt62dxxtjdupcffazkwj3a5dc7xgrrafyh6ocrfhdnv74lga.arweave.net/sTNLz9od7zSOjxFKDKrJ2DoxfuaMQFwfzhRKcba_4sw/lfgogo.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nimzobit",
+                            "link": "https://twitter.com/Nimzobit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "KINGGOGO",
+                    "images": {
+                        "primary": "https://x44mc33pzerqxiazo6z4d2rtmkm7k274brksrqjnxcgqjqtj7mca.arweave.net/vzjBb2_JIwugGXezweozYpn1a_wMVSjBLbiNBMJp-wQ/kinggogo.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "VSTRVL",
+                            "link": "https://twitter.com/VSTRVL_FFF"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "DANIELVISION",
+                    "images": {
+                        "primary": "https://qowbfwfkuowwzu2os5bmqz6jpqtpr3nnym4btnp3v3yphfetswsa.arweave.net/g6wS2KqjrWzTTpdCyGfJfCb47a3DOBm1-67w85STlaQ/danielvision.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "davesta",
+                            "link": "https://twitter.com/davesta_xcp"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "VVDGOGO",
+                    "images": {
+                        "primary": "https://auyz2khjs4kmsxexcdg2cnrdc7sa5m5c53674y6fn7ymbnvbkxra.arweave.net/BTGdKOmXFMlclxDNoTYjF-QOs6Lu_f5jxW_wwLahVeI/vvdgogo.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "LOVEBEING",
+                            "link": "https://twitter.com/LOVEBEINGWORLD"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "BARKLEYGOAT",
+                    "images": {
+                        "primary": "https://2ooslxaufdjyshojuyzvmavilxadhwp6glcluhy6pvalr5o46dca.arweave.net/050l3BQo04kdyaYzVgKoXcAz2f4yxLofHn1AuPXc8MQ/barkleygoat.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "T. Wade",
+                            "link": "https://twitter.com/TWadeArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "VANGOAT",
+                    "images": {
+                        "primary": "https://clmqa43zmekuzfolzydgd4c2ldrhiipoafmntqemnt5jwjmvk2aq.arweave.net/EtkAc3lhFUyVy84GYfBaWOJ0Ie4BWNnAjGz6myWVVoE/vangoat.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SASHA CHUDO",
+                            "link": "https://twitter.com/ChudoSasshha"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "GOATLAVANDAL",
+                    "images": {
+                        "primary": "https://l63carqapvx2v7cb44ea7imyscp5lrtyganjlfsqzv576kqavr5a.arweave.net/X7YgRgB9b6r8QecID6GYkJ_VxngwGpWWUM17_yoArHo/goatlavandal.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Viva La Vandal",
+                            "link": "https://twitter.com/viva_la_vandal"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "GOATMILK",
+                    "images": {
+                        "primary": "https://kbrp243p2zf3ivuca76ae746tivd3shd3b7jflgfjqsjvmnt75sq.arweave.net/UGL9c2_WS7RWggf8An-emio9yOPYfpKsxUwkmrGz_2U/goatmilk.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ZETRA",
+                            "link": "https://twitter.com/zetra_art"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "GOGOGOCH",
+                    "images": {
+                        "primary": "https://qe55ig4ddqgdbzubqdbyx2yvw6ysexn5dogyhjebtwpdounrslya.arweave.net/gTvUG4McDDDmgYDDi-sVt7EiXb0bjYOkgZ2eN1GxkvA/gogogoch.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mr. Arwyn",
+                            "link": "https://twitter.com/mrarwyn"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "GOOOAT",
+                    "images": {
+                        "primary": "https://bkeepu3yn3ikrs57iemofnedgzh257fwkal62h3nknar6disoy5q.arweave.net/CohH03hu0KjLv0EY4rSDNk-u_LZQF-0fbVNBHw0Sdjs/goooat",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "RYR",
+                            "link": "https://twitter.com/ryrartist"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "FUCKINGGOGO",
+                    "images": {
+                        "primary": "https://ainxxgtnmng2wpfom2uoyo3llyttv4whhlkueboixnjlkabij3lq.arweave.net/Aht7mm1jTas8rmao7DtrXic68sc61UIFyLtStQAoTtc/fuckinggogo.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "COSTA JPEG",
+                            "link": "https://twitter.com/costajpeg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "GOATVANITY",
+                    "images": {
+                        "primary": "https://cy43z7tadurun2rk7dud46mesv2jgyv5btaanbnjw354zpnplakq.arweave.net/Fjm8_mAdI0bqKvjoPnmElXSTYr0MwAaFqbb7zL2vWBU/goatvanity.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zed Erwan",
+                            "link": "https://twitter.com/zederwan"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "GOATMARKET",
+                    "images": {
+                        "primary": "https://dtq23sxyirfdltbo5greob6ud23slg77xyonovafow34gbfif5oa.arweave.net/HOGtyvhESjXMLumiRwfUHrclm_--HNdUBXW3wwSoL1w/goatmarket.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NAPLES",
+                            "link": "https://x.com/MichaelNaples"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "GOATGOD",
+                    "images": {
+                        "primary": "https://zooiefmjozndnmar2vsfvezmnbzyvuszlegzspclqfmuvq5umnta.arweave.net/y5yCFYl2WjawEdVkWpMsaHOK0llZDZk8S4FZSsO0Y2Y/goatgod.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "J-Dog",
+                            "link": "https://twitter.com/jdogresorg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "GOATSEASON",
+                    "images": {
+                        "primary": "https://556kwpu67ia6u3r6qh2c33q7apva6gd62rttkl5eelc4yfr7nzma.arweave.net/73yrPp76AepuPoH0Le4fA-oPGH7UZzUvpCLFzBY_blg/goatseason.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Al",
+                            "link": "https://x.com/al_fernandz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "GOATFACE",
+                    "images": {
+                        "primary": "https://xkbhcaffirjwblnvlv2yp64ayb6jl6iweug6d4gxq4dlarhsljqq.arweave.net/uoJxAKVEU2CttV11h_uAwHyV-RYlDeHw14cGsETyWmE/goatface.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "RARE SCRILLA",
+                            "link": "https://x.com/ScrillaVentura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "RAREIBEX",
+                    "images": {
+                        "primary": "https://ws32njdj6gqbr5rd4qukrbwsduqlrnnsbs7lmcp5paiityj2jtoa.arweave.net/tLempGnxoBj2I-QoqIbSHSC4tbIMvrYJ_XgQieE6TNw/rareibex.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "mellow.",
+                            "link": "https://x.com/strategy512"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "BTCGOATGRUFF",
+                    "images": {
+                        "primary": "https://iwib4fsfzqmn2qea6lbr6pzpvajhibqykxom3dnzprd5xokocj7q.arweave.net/RZAeFkXMGN1AgPLDHz8vqBJ0BhhV3M2NuXxH27lOEn8/btcgoatgruff.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CRYPTONATI",
+                            "link": "https://x.com/RareOrdinals"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "GOGOHORN",
+                    "images": {
+                        "primary": "https://xrx25zc5ky7trpq4d22dcxxpkfouim4zxjg62cv6vullqlnqh7qq.arweave.net/vG-u5F1WPzi-HB60MV7vUV1EM5m6Te0Kvq0WuC2wP-E/gogohorn.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "REMSTER",
+                            "link": "https://x.com/remster333"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "CCGOGO",
+                    "images": {
+                        "primary": "https://thrm4f244muusx6sns3pcdtuq3hyccxmaij7jsjtjqeuwbzzrpxa.arweave.net/meLOF1zjKUlf0my28Q50hs-BCuwCE_TJM0wJSwc5i-4/ccgogo.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "seelawrie",
+                            "link": "https://twitter.com/seelawrie"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "GOGOWOMAN",
+                    "images": {
+                        "primary": "https://nzd2xp5vqfy52tbzad3ihj2aoimi5hnoguyn2ldmkbfx7q2jpeoa.arweave.net/bkerv7WBcd1MOQD2g6dAchiOna41MN0sbFBLf8NJeRw/gogowoman.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "WOMAN",
+                            "link": "https://twitter.com/WOMANNFT"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        }
+    ]
+}
