@@ -1,0 +1,4574 @@
+{
+    "chain": "counterparty",
+    "name": "The Wojak Way",
+    "images": {
+        "avatar": "https://arweave.net/svniNB1ofUZztH2xHbiz4xJXoyvHUcb5-NOaL41dIzw/logo.png",
+        "banner": ""
+    },
+    "description": "",
+    "externalLinks": {
+        "website": "https://thewojakway.com/"
+    },
+    "sets": [
+        {
+            "name": "Series 1",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "RAREWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/5TZ88JtDeEIczLtZaD6Z-XblCnEKzpnIl98vGtXrluk/rarewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Abstract Mirror",
+                            "link": "https://x.com/AbstractMirror"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "WOJACKBLOCK",
+                    "images": {
+                        "primary": "https://arweave.net/23FgbYIqHpjfcdUlm8ooPpqjS1inUCGZh_mn7RLQmy8/wojackblock.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CRYPSI",
+                            "link": "https://x.com/CrypsiArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "WOJABSTRAKT",
+                    "images": {
+                        "primary": "https://arweave.net/yLxnp1n8NZMXSIXAUQaTz622sokD6lD9PVBtQz9qGkY/wojabstrakt.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zima Blue",
+                            "link": "https://x.com/ZimaBlueArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "WOJAKCOPY",
+                    "images": {
+                        "primary": "https://arweave.net/CSumCPASmmT-sfiLAe6R53-6yWqGdoRsc3w3v2xRqtU/wojakcopy.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "PIFU",
+                            "link": "https://x.com/PiFu7"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "CMYKWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/8qEIGv7oWNtoQlF5g0G1yD_SPoXYgPh1zJmDQUhAWyU/cmykwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "TKY",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "WOJAKDANIELS",
+                    "images": {
+                        "primary": "https://arweave.net/mlBY-FHcgMkQM1x2T7KnFmhYvSUzlS78f_BkijqYm8I/wojakdaniels.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Method23",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "WOJAKO",
+                    "images": {
+                        "primary": "https://arweave.net/s-4SpQTR8kSBWR7qpn7zn3GCvHhcLWOQcP2KNQm0F9E/wojako.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FWD",
+                            "link": "https://x.com/fabooowy"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "WOJAKTHEFOOL",
+                    "images": {
+                        "primary": "https://arweave.net/v0cIC-UDHweP_jRs2BMKS_vFJklZYCsF8AO4j97tp9E/wojakthefool.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Worm",
+                            "link": "https://dankset.io/by/worm"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "WOSOCHILL",
+                    "images": {
+                        "primary": "https://arweave.net/HmF_yGI4Tdz4IBZD54v2DqPh4Ub4Ns8gv--6alM_saA/wosochill.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "D00MSDRE",
+                            "link": "https://x.com/D00MSDRE"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "WOJAKSONS",
+                    "images": {
+                        "primary": "https://arweave.net/P_FBHXcWB5aVKEZQ250ughlRZb66mCb8LLskcWgDqpQ/wojaksons.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jose Burrito",
+                            "link": "https://x.com/Jose_Burrito_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "WOJAKA",
+                    "images": {
+                        "primary": "https://arweave.net/K8FdShOKy6-jYwLxmckUKc785YDkVXuc-JiaKmlNSkc/wojaka.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OKIDO",
+                            "link": "https://x.com/okitalky"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "CIPHERWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/CYiRftLiOzHGfGa9gh8ZzhFjmVLTvDmWn0Pl0C3eI_E/cipherwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "HaMMad",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "WODESIGN",
+                    "images": {
+                        "primary": "https://arweave.net/FXdVXw8ZqzbgR9FWITHJUjiMOafWApvqI2dFXkaA76M/wodesign.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MAD.GTX",
+                            "link": "https://x.com/MAD_GTX"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "WOJAKERMINE",
+                    "images": {
+                        "primary": "https://arweave.net/yf3aaR44fSyxxbe2z6eKjBRUVtY_3dJMIa3gjnGMNnM/wojakermine.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ejay",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "WOJAKPAINT",
+                    "images": {
+                        "primary": "https://arweave.net/QQWTY6r96ELqKbi2ODHo5pVVUEfC0lc-EnmNKLSxCy4/wojakpaint.fig",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MOTION_MORT",
+                            "link": "https://x.com/motionmort"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "XXXWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/HWxX-WOofbccdpCVQHZ10Tzkme4vSOSxTT3EW9EhXXE/xxxwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Terhnt",
+                            "link": "https://x.com/Zer0xbyte"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "WOJAKLISA",
+                    "images": {
+                        "primary": "https://arweave.net/1IRslybInrSjipp1IDu_LzeeLKiQ4UKRJ868eDIgc-A/wojaklisa.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Inside",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "BITCOINISDED",
+                    "images": {
+                        "primary": "https://arweave.net/I-JTH47SSb3SkJJDGCytVqufwpp-XZ2RZScC1FggMOc/bitcoinsided.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MODEDEBO",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "WOJAKPIGGY",
+                    "images": {
+                        "primary": "https://arweave.net/8TK81ARCO00NaNQwoxU_WD_9xxGYwpFAcu7Z9mO6Rm0/wojakpiggy.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CEFFIE",
+                            "link": "https://x.com/ceffieceffie"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "POWELLWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/6BCqjU1JuroSEapsyyxxWhs2NFlXIy-pwjQ4Q0XMnug/powellwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "klhUnd",
+                            "link": "https://x.com/mar45712252"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "SILKROADS",
+                    "images": {
+                        "primary": "https://arweave.net/-OHfwpylbbCLnhConBs3EAtRcCsdGZH9VMXAk-3bcoY/silkroads.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Abstract Mirror",
+                            "link": "https://x.com/AbstractMirror"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "WOJAKWII",
+                    "images": {
+                        "primary": "https://arweave.net/NbUfvVF3uc02uoQ1F-SbpkUJxV6F5QGj_SoJdCukc34/wojakwii.fig",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Whoisit",
+                            "link": "https://x.com/sureitsnothing"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "WOJAKSQUIAT",
+                    "images": {
+                        "primary": "https://arweave.net/4VcFVn7S55f5h9YEuhlQWL0CBea5foWm6YwdL1L593c/wojaksquiat.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mayari Mun",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "WOJAKARMY",
+                    "images": {
+                        "primary": "https://arweave.net/QaLPJ2Z9Wi1jJreAsffEYI3Hi53w5Aiyr4ChFWxKLbs/wojakarmy.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hilman",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "NOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/13kA-YrHX5CsQpEuCrw-i2Crq-LRwYdVfGxgOwvqsVk/nojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Carsonated",
+                            "link": "https://x.com/Carsonated"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "REDPILLWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/cEYY0d4ViH4W80DSby1SDX4iXOwhPhNZv9XYnzHarMo/redpillwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Chris Storm",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "WOJAKTARIST",
+                    "images": {
+                        "primary": "https://arweave.net/d1Zy3YzasSUa0Me7gaAJdHeg0941BwRwQCxI5uojCDI/wojaktarist.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CyptoHunks",
+                            "link": "https://x.com/CryptooHunks"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "WOJAKFORMULA",
+                    "images": {
+                        "primary": "https://arweave.net/TFjkKpgdyaKQTC0oc960o10CSAzdYapcPYrh_WKbM0g/wojakformula.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MONDAY MOTION",
+                            "link": "https://x.com/MondayMotion_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "FEELSBRIEF",
+                    "images": {
+                        "primary": "https://arweave.net/rM1JIPPUEvHL1c0L6qS4jjUOujJUbKk0UTJ_sttphZg/feelsbrief.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nathan Sonic",
+                            "link": "https://x.com/nathansonic"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "WOJAKFAKE",
+                    "images": {
+                        "primary": "https://arweave.net/Bf7mSsiQDP60FB4zkYmBaUBS19svB0H_l9TllyDPUzs/wojakfake.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "drazestan",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "WOCUP",
+                    "images": {
+                        "primary": "https://arweave.net/gduEk2Nagy0EPEbQh3mtKdMCfS4q5YNEKJEebIaLQMA/wocup.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "RIZKI GONI",
+                            "link": "https://x.com/rizkigoni1"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "WOJAKSCREAM",
+                    "images": {
+                        "primary": "https://arweave.net/I8OaW8mjehxsYnw0Fu8MOKSWyOSy2YmXUWskgQpU38k/wojakscream.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Inside",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "MARKETWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/zMAYrwlyESzfw9slIgOi39qbrZlUzjr7HQKlXhOg_6I/marketwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "AnonAnan",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "NPCWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/pY8Nyx8H__mfJ1_4MYE7G8cz7iVuhvKJ8Dod_1vhb4g/npcwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Lenny",
+                            "link": "https://x.com/fakelenny4"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "MODERNWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/zEIbnShtOY1FXzUh_n4tP_rxL82Km_qR2r1fpe41bcE/modernwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Worm",
+                            "link": "https://dankset.io/by/worm"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "DJWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/_7hPGNc8fO-C-zCMd_kiqT9yGpTQa1NuNt8aA-PTtio/djowjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rare Scrilla",
+                            "link": "https://x.com/scrillaventura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "WOJAKKISAKI",
+                    "images": {
+                        "primary": "https://arweave.net/_Q34dNv9-mB0P3H2voTQKxWsfxxbu6rK0oszMkb-bqw/wojakkisaki.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Tasha",
+                            "link": "https://x.com/NataljaMoon"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "SAILORWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/1-H-Zy5O2QGE5MQBBwRdKnXFqn9lQAdJZSgnSIba_2I/sailorwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ROCHIGG",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "DARKWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Mpy6Vbg-wXTGiFyhY2JcG27a4oepLQZNKGFVCg4Hm4E/darkwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepenardo",
+                            "link": "https://x.com/PepenardoStudio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "WOJTOTER",
+                    "images": {
+                        "primary": "https://arweave.net/6c269N69z3SoMy_YYROsFiaIp-bENptMMNu7LVJ40VA/wojtoter.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "T. Wade",
+                            "link": "https://x.com/TWadeArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "WOJAKRARE",
+                    "images": {
+                        "primary": "https://arweave.net/8lvVl_JU3gisauIPXPcZvFirNnrqOM2O8MCuW7ooJ5w/wojakrare.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Steve Weave",
+                            "link": "https://x.com/SteveWeave_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "METAVERSED",
+                    "images": {
+                        "primary": "https://arweave.net/DyXOhrZKSh0qfDnFmGaxa9MjmKKq1wrSAbDg8juX_6E/metaversed.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FutureMeme",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "WOJAKPARTY",
+                    "images": {
+                        "primary": "https://arweave.net/XXZiW2TC8RQ_au214IKmUNIAIuTRZsnFWSggCr372wM/wojakparty.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CEFFIE",
+                            "link": "https://x.com/ceffieceffie"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "WOJAKBLAINE",
+                    "images": {
+                        "primary": "https://arweave.net/RNZKD6ev9w1GvNxorQfJu4lur1VWHOazoHjCrfGES1s/wojakblaine.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CHAILATTE",
+                            "link": "https://x.com/ChaiLatte2000"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "WOJAQUELINE",
+                    "images": {
+                        "primary": "https://arweave.net/Ah0BRaXLMF3tq-Bjz4M0Gl13O4tdh8mEPD38uq38siI/wojaqueline.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Gian",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "WOJAKFALLON",
+                    "images": {
+                        "primary": "https://arweave.net/fcuSDYPBrC2ic0UToCS_9ToZn6EinhGa3lnaEVqpIEA/wojakfallon.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Alth0tas",
+                            "link": "https://x.com/alth0tas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "WOJAKSAD",
+                    "images": {
+                        "primary": "https://arweave.net/yW3R9jquwUHF0vrlbNO2yV0IqY_aLP0wURIFTxxcl6E/wojaksad.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KAWABANGGA_F",
+                            "link": "https://x.com/kawabangga_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "PEONTRUST",
+                    "images": {
+                        "primary": "https://arweave.net/GEFBIp0-iSVLEtCsMjMMx_-n7u7D6PyGtMOQxXZ84Ps/peontrust.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "pepedust",
+                            "link": "https://x.com/dustpepe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "WOJAKBLAK",
+                    "images": {
+                        "primary": "https://arweave.net/WoROJfp2cnGBAtbnTpklsh8tyniDQDZS_R4HjfOmub4/wojakblak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BIGTOX",
+                            "link": "https://x.com/BIGT0X"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "WOJAKTHEONE",
+                    "images": {
+                        "primary": "https://arweave.net/_XU5rrQNdCVp-CdulP04PJttsR_gOYFTxhwrXo-gKVI/wojaktheone.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ruffian Studios",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Series 2",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "PEJAK",
+                    "images": {
+                        "primary": "https://arweave.net/VJ5QBeoTq7lXR6ppevkaUJAXeZErouCT7VvM13GA6u8/pejak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Sovanvirak",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "UNKNOWNWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/uMlDvNFeho4RZx4UuKYoV9JPOX6uhOnf7nvYLLRczgc/unknownwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darkfarms",
+                            "link": "https://x.com/Darkfarms1"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "WOJAKINABOX",
+                    "images": {
+                        "primary": "https://arweave.net/axmCUh4AXKxufD6BcoWf5DKB4Fmp7tL4X4C2ezn54Vw/wojakinabox.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dim",
+                            "link": "https://dankset.io/by/dim"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "WOJILLVILLE",
+                    "images": {
+                        "primary": "https://arweave.net/xd-I0X7VMILbEgk1Dq0rRmHrO-N5LNaFKppuYcwgpsw/wojillville.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Whoisit",
+                            "link": "https://x.com/Sureitsnothing"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "IAMSELLING",
+                    "images": {
+                        "primary": "https://arweave.net/Ehs3q70HFPiWjZt_8KwbjzVVjdFoi-H1_Nu_nBU3uSI/iamselling.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "tomopen",
+                            "link": "https://x.com/kouteipenpen_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "WOJAKNOID",
+                    "images": {
+                        "primary": "https://arweave.net/ePFJfyS2xOJqloYtXfEUi4s5D-Ly40J3RIXiq4E-hOI/wojaknoid.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rare Scrilla",
+                            "link": "https://x.com/scrillaventura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "SLOWJAK",
+                    "images": {
+                        "primary": "https://arweave.net/yFassY_Tc0mVX4x88z9jcs5mx7MFv6K481MV7AhTRf8/slowjak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Looney",
+                            "link": "https://x.com/wasthatawolf"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "WOAHWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/QaSqlMPqOoxUtiYL88DfLa3Lv3jSZqHelMGvZueKi6s/woahwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NeowMeow",
+                            "link": "https://x.com/RelativelyN"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "WORRYONETTE",
+                    "images": {
+                        "primary": "https://arweave.net/YQkKmak_n4c7v6vS2NgJTOaoTev1njWP_a7QF5S3WCs/worryonette.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BLUEMONK",
+                            "link": "https://x.com/BluemonkOdyssey"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "WOJAKVERMEER",
+                    "images": {
+                        "primary": "https://arweave.net/KSoAugH-lpDw2ZNGavvrzKn5WsT0IAc1wKnNwXfqde0/wojakvermeer.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "REMSTER",
+                            "link": "https://x.com/remster333"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "MEMESTREET",
+                    "images": {
+                        "primary": "https://arweave.net/c_lNeGY1c7r1PSqmWQsMwAdPzy6sAglyy9TqMCiP7bE/memestreet.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "klhUnd",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "NEWTONSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/t_TE3gsg6x9VZl0pCLWI6Jfc7TNjm_5xUUmUiUjxKAs/newtonswojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "papeto",
+                            "link": "https://x.com/papeto2"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "WOJAKBARTO",
+                    "images": {
+                        "primary": "https://arweave.net/-pztIF9n2G2ADPK4Ku43lns224aQKMFQO0WteJ7UO44/wojakbarto.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ELHelloWorld",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "WISSILE",
+                    "images": {
+                        "primary": "https://arweave.net/K88GjDBk7fx0SQN1sTNa8bRr8i8UZdbfaoo_Oy3uQTE/wissile.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Goto",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "VANWOJAKGOGH",
+                    "images": {
+                        "primary": "https://arweave.net/JFI1JYehF4IN2mORU3HHWLMjeCdV__K5M-V-UHJaoaw/vanwojakgogh.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ruffian Studios",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "WOJAKWHALE",
+                    "images": {
+                        "primary": "https://arweave.net/Ha8xOUkLFDfo5J6_5OTmGxPfDI9Vmos1tP-SVUw5OKo/wojakwhale.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Abstract Mirror",
+                            "link": "https://x.com/AbstractMirror"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "WOJCHARLOTTE",
+                    "images": {
+                        "primary": "https://arweave.net/p2Zp9f-nyRvV9LKTB4jyLUQKEcwH-mWe3lcl9rtPBRc/wojcharlotte.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Em",
+                            "link": "https://x.com/emb_ananda"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "WOJAKPAIN",
+                    "images": {
+                        "primary": "https://arweave.net/YaG7MtZgdJaoZNel0vQgHP-rjxWXF104WGw8tCABZKc/wojakpain.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "m3thod23",
+                            "link": "https://x.com/m3thod23"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "WOJAKUNGSTEN",
+                    "images": {
+                        "primary": "https://arweave.net/ZjLWoFxmIfrvIaO7cd9JL7E9k5EV--y217yn5ZnFZQc/wojakungsten.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kaph Resh & PandaGod",
+                            "link": "https://x.com/kaphresh"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "TOUPEEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Du1gdmj5SZr7qBxm-LZslJa56LSyTchFBNAj6MP6sf8/toupeewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NFTMANC",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "WOJAKBANKSY",
+                    "images": {
+                        "primary": "https://arweave.net/fESGZsfArZP47fBIVDm1Uo5S2dELuxkk9zDRI6gPVWk/wojakbansky.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mumbling Bearded Freak",
+                            "link": "https://x.com/kaphresh"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "WOJAKCHU",
+                    "images": {
+                        "primary": "https://arweave.net/TXZ8oCqP7-V5kvSvyP7-akQK4B-PO7FNlmqFR5bP5Hw/wojakchu.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "PIFU",
+                            "link": "https://x.com/PiFu7"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "GRIMJAK",
+                    "images": {
+                        "primary": "https://arweave.net/OuQFsy4lZoKpe174jvwKk-apgaWDfb053BLZQjs7av0/grimjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Voltaire",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "BOBWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/DuJpSt80TW5zDjPPGQFYOXgF4Yooi3neG0vxFLo-x9g/bobwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Tizar Berandalan",
+                            "link": "https://x.com/Tizarrr"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "WOJAKSLAP",
+                    "images": {
+                        "primary": "https://arweave.net/4eO3x7udk2io24crGbKNyJjTyGdjJwPSuni5kke7JYc/wojakslap.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BTCBlaze",
+                            "link": "https://x.com/BTCBlazeHD"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "WOILLUSIONS",
+                    "images": {
+                        "primary": "https://arweave.net/MES_RTkPvUIGNfTJ6p9-Vy8bWfZz9-AtvYjMKxBI-gA/woillusions.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ndhoz",
+                            "link": "https://x.com/Ndhoz_dotule"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "CUBISMWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/sEqYHNmVyWyg6ba31RIBi72ttr21OmqCMdc72--k6ik/cubismwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "TKY",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "JANVANWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/GJeGq810uPNqdEDg7iFkvsueLzymLuv27-YQ2e52Sxw/janvanwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kevo-B",
+                            "link": "https://x.com/kevob1980"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "WOJAKCHAMPNS",
+                    "images": {
+                        "primary": "https://arweave.net/FMvXvdSU-zpipyYmalB_X4UQchyb4mJV8_xdacTH2Gc/wojakchampns.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NomNomDay",
+                            "link": "https://nomnomday.com/"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "WOJAKSSUPPER",
+                    "images": {
+                        "primary": "https://arweave.net/CsKg3-x_4zXyeC6H-q91_f5s_dQqn4edArn4JUsDEh8/wojakssupper.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Inside",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "ZZZORDON",
+                    "images": {
+                        "primary": "https://arweave.net/v2rFMICejggT15mjpiPtrkCURN-KVGKvUapM3pmjVe0/zzzordon.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EXPLOSHIVA",
+                            "link": "https://x.com/exploshiva"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "OPENMIND",
+                    "images": {
+                        "primary": "https://arweave.net/eJLV2S5sAG1bgkV9cWrCWcbsCi4cDqi3xG80vsNd8u4/openmind.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OKIDO",
+                            "link": "https://x.com/okitalky"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "WOJAKMINER",
+                    "images": {
+                        "primary": "https://arweave.net/QrHARekI_IEBiKPHT2mXIDq4lKqw6TW9btLuPZyMtyM/wojakminer.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "qqMarro",
+                            "link": "https://x.com/qqMarro"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "WOJAKANANA",
+                    "images": {
+                        "primary": "https://arweave.net/trkTM5RMvG8RfVr-8au4sMue3qYphd1--txIv-LU5tA/wojakanana.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FWD",
+                            "link": "https://x.com/fabooowy"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "NIETZSCHEWOJ",
+                    "images": {
+                        "primary": "https://arweave.net/ytiSVVaHhZNwcOePJonxzQvA8co_IBJb-8zCr1krDrY/nietzschewoj.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Robenira",
+                            "link": "https://x.com/Robenirart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "WOJOKER",
+                    "images": {
+                        "primary": "https://arweave.net/Tma2JNKKUDadh2KwiALlJF-ryCxfYdbgSaOPeoA0xVo/wojoker.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SBVRT",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "WOJAKASS",
+                    "images": {
+                        "primary": "https://arweave.net/0v-M3Q7JpolylbIm0AM6xa4n3MzG71RiaHaDsQp_Mmo/wojakass.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CRYPSI",
+                            "link": "https://x.com/CrypsiArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "WOJAKSENSHI",
+                    "images": {
+                        "primary": "https://arweave.net/Ftx7fL__TmyiL73p8-oPnrC3XN3-hknxrKYmIyRMqMk/wojaksenshi.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Tasha",
+                            "link": "https://x.com/NataljaMoon"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "WOJAKLOPEZ",
+                    "images": {
+                        "primary": "https://arweave.net/8Hr38uU4QxTH_DuwlCKNgVnqvQLWhDGlDk_RspD8OzU/wojakllopez.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OLLIESBLOG",
+                            "link": "https://x.com/olliesblog"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "CRUNKWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/G2-PLD44w8n_6N7ZWjsOVrswHOoQAgAxxkUG5kzNsM8/crunkwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kim K51",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "WOJAKWIZARD",
+                    "images": {
+                        "primary": "https://arweave.net/y4Z3wISzZZikRAnd3RkRZZ6FPHA02EP-oUnNT32IZSw/wojakwizard.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "whatsinaname",
+                            "link": "https://x.com/cosmic__reality"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "THESIMJAK",
+                    "images": {
+                        "primary": "https://arweave.net/lK_JOAA7x4yZct1Nv_A_Uhr9SvB5-k7u9GR0ocBddoQ/thesimjak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CEFFIE",
+                            "link": "https://x.com/ceffieceffie"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "WOLITAXPRESS",
+                    "images": {
+                        "primary": "https://arweave.net/d-q-EibLy1EHDbDhA1-9rwqik6JVjuCPvhcau1_KcmE/wolitaxpress.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "realPepstein",
+                            "link": "https://x.com/realPepstein"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "SMOLWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Pen3MTpBj1Tj7ZlgfEv2RepYRi76wHl-lcEEb4mGdYk/smolwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Terhnt",
+                            "link": "https://x.com/Zer0xbyte"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "EDWARDJAK",
+                    "images": {
+                        "primary": "https://arweave.net/XL6UgXy-dA12qGkToxl5GMco3kfXpeQByKtH8Fj1vUM/edwardjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MAD.GTX",
+                            "link": "https://x.com/MAD_GTX"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "WOJAKALIEN",
+                    "images": {
+                        "primary": "https://arweave.net/W2pUsPzI6l_D6I1jFFrn7iboIZqON0qHbzeqXfa_iw0/wojakalien.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dany",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "WOLATTE",
+                    "images": {
+                        "primary": "https://arweave.net/CtMNhmxGfMUhKhh4eMfnob7QP80aQVeSudsPQvBrEV4/wolatte.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MR Roy",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "HECTICWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/bfrerI0MVbEc7miU0us3KR01MLhXkAQ2hoWI8q4e64U/hecticwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BUGCHASER",
+                            "link": "https://x.com/_BugChaser_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "WOJAKCASSO",
+                    "images": {
+                        "primary": "https://arweave.net/QLJd1d9hJXpRQpw5D_lWl3LFlQR-bqnTAIk1e9NGOeE/wojakcasso.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Al",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "WOJAKLOVERS",
+                    "images": {
+                        "primary": "https://arweave.net/QJkO_iGDp3FxYUreWiaOkUcPBf8cODbIY6QlxBsyf9g/wojaklovers.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "JOANART",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Series 3",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "HAWT",
+                    "images": {
+                        "primary": "https://arweave.net/WnkdugDstSDsq4vosdugv2ssQWb9NMmsbGuFIG1cPuc/hawt.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "One For All",
+                            "link": "https://x.com/DesignOneforall"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "WOBLOBFISH",
+                    "images": {
+                        "primary": "https://arweave.net/v0faSxUCYEON_HJ3zDRTgDcpdsFRzN4fZyjJXgTh0Nc/woblobfish.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Delz_F",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "WOJAKGOTHIC",
+                    "images": {
+                        "primary": "https://arweave.net/znrnaDIVBjp-dfPJcdwkY5rZqSOxRfd06RlaQmki4kI/wojakgothic.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dark Knight",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "WOHEALING",
+                    "images": {
+                        "primary": "https://arweave.net/x7zNoN1XK7puOLjhupXCPhG-Qc1WL5ymxb9-yHhllE0/wohealing.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BoysClubx",
+                            "link": "https://x.com/boys_clubx"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "WOJAKWORLDART",
+                    "images": {
+                        "primary": "https://arweave.net/VMeQbkfB3x2yD8YCRWlyVwvCbg4Yaao6M7-VbJuZTLw/wojakwordart.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepe Peddler",
+                            "link": "https://x.com/PepePeddler"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "WOJAKANGEL",
+                    "images": {
+                        "primary": "https://arweave.net/n7WVXrifgV__q5lOrpJMgMi3bRnFTPBqPRIAXUJCTm4/wojakangel.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BasqKek",
+                            "link": "https://x.com/BasqKek"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "SHOWJAK",
+                    "images": {
+                        "primary": "https://arweave.net/He4G9oE27aoXk_w3QofVZNzmny9NGBl0SsfyIQ2ENbE/showjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Danthenman",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "VITRUVIANWOJ",
+                    "images": {
+                        "primary": "https://arweave.net/XVaoldu1dkXkQ446MLNrDsBBAkvxwbX8MrbfqbdUA1U/vitruvianwoj.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "AnonAnan",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "NATTOPENPEN",
+                    "images": {
+                        "primary": "https://arweave.net/jEXLLMfvAXB9o_mH0a0xP7cuteYMqtW-daG8mRM7-PE/nattopenpen.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "tomopen",
+                            "link": "https://x.com/kouteipenpen_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "WOJAKARENHUT",
+                    "images": {
+                        "primary": "https://arweave.net/DyLM-evO7pTwiol8FEPdpo7lHdYCihXthUsuBcQxlUE/wojakarenhunt.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mitchi",
+                            "link": "https://x.com/Mitchi0_o"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "SATOSHIJAK",
+                    "images": {
+                        "primary": "https://arweave.net/gY0irfahHFNDQlBJnQMORwH_fvKIqaPuf9AYN6U7kN0/satoshijak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "PIFU",
+                            "link": "https://x.com/PiFu7"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "YGGWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/zcyEnJJ4c1K9dAHekH7dSD3ItowYWjBxinbyrIOqE0I/yggwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MONDAY MOTION",
+                            "link": "https://x.com/MondayMotion_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "WOJAKARAMBE",
+                    "images": {
+                        "primary": "https://arweave.net/iWDo5cZpHRfB2mgM_338FyXZTFXgFbY1vbmqwXHyDLM/wojakarambe.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Harold Harambe",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "RICHWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/STz7ufmxYTWsvbA8PZ12CRnmrB7AkXEaI5bL-8qlDhM/richwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Steve Weave",
+                            "link": "https://x.com/SteveWeave_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "WOJAKHAREM",
+                    "images": {
+                        "primary": "https://arweave.net/jVlhelLaY1is7wclWgtQ4zr91jUsyBm1y80-v13Vb8U/wojakharem.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MOTION_MORT",
+                            "link": "https://x.com/motionmort"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "WOJAKFUTURE",
+                    "images": {
+                        "primary": "https://arweave.net/FACOvjSSi36pxS2b4QbsOHYSSrhOaX5-3WYNjcbbzCk/wojakfuture.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Butty",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "WOJAKNDOWSKI",
+                    "images": {
+                        "primary": "https://arweave.net/dnSG17VK3fOrlqKUfOujAiTQO2SmQvREdqtx_qbxTLQ/wojakndowski.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BIGTOX",
+                            "link": "https://x.com/BIGT0X"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "WOJAKZILLA",
+                    "images": {
+                        "primary": "https://arweave.net/JNpiPAYfixdBQd33EbJk4x2ULndtZSqHIvU-LDt3qXc/wojakzilla.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "drazestan",
+                            "link": "https://x.com/drazestan"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "WOJAKTRADING",
+                    "images": {
+                        "primary": "https://arweave.net/xDAes4vFU0Hb8s6qspCxIiJ2KuQq-q7XLJMBxvXoW7o/wojaktrading.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jonny Johnsonson",
+                            "link": "https://x.com/jono61145535"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "WOJHALEN",
+                    "images": {
+                        "primary": "https://arweave.net/J_xJXt80YJfKyfq8_7SBqOBsuh31pthROim2OfxAA1U/wojahalen.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "T. Wade",
+                            "link": "https://x.com/TWadeArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "PICASSOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/B5Jta6F_Cg88vla0ry55NtNhjcYiQrvLn_D7Me_v8PQ/picassojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mandarinemarie",
+                            "link": "https://x.com/Mandarinemarie_"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "WOJAKLORD",
+                    "images": {
+                        "primary": "https://arweave.net/qAxRcNMIhidzJdcYc3-y43JpFNwdKUeQ6UBNDzFcfZY/wojaklord.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Haengbok",
+                            "link": "https://x.com/Haengbok2022"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "VALAKWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/LxMRusM_qoJe_oM6HTiEZNvf48WD0IpQ54JbDcMO254/valakwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "kapirasong.dayami",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "RAMJAK",
+                    "images": {
+                        "primary": "https://arweave.net/x-uzYrdEGXRogu_7kjkJoIIYV2Da7yspw-TSjTJ6WxU/ramjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Goto",
+                            "link": "https://x.com/Gotojett"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "WOJAKISFINE",
+                    "images": {
+                        "primary": "https://arweave.net/S-o7OfIfaoC5WZmdAgdqpF9Gu0pDFXE7b_Rcn2i5SGw/wojakisfine.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "DANKDARMS",
+                            "link": "https://x.com/dankfarms1"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "DREJAK",
+                    "images": {
+                        "primary": "https://arweave.net/pFiW6mvOqVZm6sgGZ5ozsaRxC6QWdXL1K2EalFj2aGY/drejak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MR Roy",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "WOJAKPANIC",
+                    "images": {
+                        "primary": "https://arweave.net/mpc4MPZrZ6mt-yNdiLx0C-FESRA7bdHUWpcRysBYEOo/wojakpanic.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "DAVE (DAVEARTNFT)",
+                            "link": "https://x.com/daveartnft"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "WOJAKPIXEL",
+                    "images": {
+                        "primary": "https://arweave.net/ESaItBuOJ2sjiGuDXQpZtPi2wj0Wae8BreQ9bU9OrXg/wojakpixel.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KAWABANGGA_F",
+                            "link": "https://x.com/kawabangga_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "TRENDING",
+                    "images": {
+                        "primary": "https://arweave.net/MgOHu8dd4pnVNhXav24HlYpEONZnSgcBcWQDsFVmy8Y/trending.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "D00MSDRE",
+                            "link": "https://x.com/D00MSDRE"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "WOJHODL",
+                    "images": {
+                        "primary": "https://arweave.net/cho43EsprO35ue-pTeyxSS3NO6XO8a0W9qbjnbFevYE/wojhodl.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dany",
+                            "link": "https://x.com/danyimanr"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "WOJAKINJAPAN",
+                    "images": {
+                        "primary": "https://arweave.net/gcYkA3aHfJ_rJh8MHp-KgHd6FTB-Y-Faa5J2vKifquM/wojakinjapan.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ruffian Studios",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "WOJAKBOOM",
+                    "images": {
+                        "primary": "https://arweave.net/GdV2WcuWs5cYT5_4rGdpbcBM2YQrBjjgIPRaVh5d914/wojakboom.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "CRYPSI",
+                            "link": "https://x.com/crypsiart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "TWINWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/yheORrc5r1JVeCEpUVb85evdYFDMlYLQwRpUoSHTDXU/twinwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Sovanvirak",
+                            "link": "https://x.com/sovanvirak"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "BADWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/O7iljEevaXIwHnMC2eSjglNlgMjnDcF4onJOE_fCNiE/badwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SiV",
+                            "link": "https://x.com/XULIK2610"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "BOUNCINOGGIN",
+                    "images": {
+                        "primary": "https://arweave.net/q-UP__AdvjjRhZD6e08sz1Q0yjBxTJYWi7HjBLippYY/bouncinoggin.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "rogerecho0alpha",
+                            "link": "https://x.com/rogerecho0alpha"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "WOJAKLAND",
+                    "images": {
+                        "primary": "https://arweave.net/pVieowWdYbIfqtiyWB7AyBBt0icHucZC0_s4i_R5vvA/wojakland.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Whoisit",
+                            "link": "https://x.com/sureitsnothing"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "GAMESOFWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/tRBD_XWZw0-iFTpYVzv1n8IllJthjWl50FO6w8Oo2M4/gamesofwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ELHelloWorld",
+                            "link": "https://x.com/sureitsnothing"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "JAKATOM",
+                    "images": {
+                        "primary": "https://arweave.net/PPpD3yzNki1Pd26p9DtCF9cyKE9m2ncgn-tjZaXRowk/jakatom.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "RANDYBRIGS",
+                            "link": "https://x.com/randybrigs"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "WOJAKGASBOB",
+                    "images": {
+                        "primary": "https://arweave.net/q1XxiusgKhYZ1_X_sB6Mfo9707uUYRur_txRq1CBa3Q/wojakgasbob.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "TESTIIPROD and Mandarinemarie",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "FIGHTNIGHT",
+                    "images": {
+                        "primary": "https://arweave.net/Jgdim4wMTB6XV397ua16xY8UK9OZ3xyrEpUiH0TauBE/fightnight.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ROCHIGG",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "WOJAKOMET",
+                    "images": {
+                        "primary": "https://arweave.net/wCsPp7LLF-87tCB21xglmYanVAJa428lPsHSM42v078/wojakomet.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Alth0tas",
+                            "link": "https://x.com/Alth0tas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "JAKSPARROW",
+                    "images": {
+                        "primary": "https://arweave.net/h_Szc2NtHbj5l1KCPxok16HaFd-PLTn73entWrD2jAc/jaksparrow.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SiLK",
+                            "link": "https://x.com/OelaKar"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "DAWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/sgD3PDFu_d-pgXXFElivsT9jQQ1TVWaaFDV8OKzw0Oc/dawojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EMBLEMATIX",
+                            "link": "https://x.com/emblematixart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "WOJINK",
+                    "images": {
+                        "primary": "https://arweave.net/fJcNXN9ltw6cyzrIRlnW0rgtrn2XuNrgkuxP5sHyBQg/wojinx.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Sovanvirak",
+                            "link": "https://x.com/sovanvirak"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "WOJAKWAYBETS",
+                    "images": {
+                        "primary": "https://arweave.net/NqAbVD4-V3CjrgfhRNESeASlwKloz81PArOq3H1hR74/wojakwaybets.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Terhnt",
+                            "link": "https://x.com/zer0xbyte"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "PETTHEDOG",
+                    "images": {
+                        "primary": "https://arweave.net/orVRnr8bPY-FRDUMhUxGMdChwQqjz3g6YEwCbS45DmI/pepethedog.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "tomopen",
+                            "link": "https://x.com/kouteipenpen_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "WOJAKCRASH",
+                    "images": {
+                        "primary": "https://arweave.net/qhrdF4Cz2Ia4FplK12y72dWQy8rz0HuJObUSKjOglHk/wojakcrash.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shorty",
+                            "link": "https://x.com/DShorty81"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "THEGRIND",
+                    "images": {
+                        "primary": "https://arweave.net/6QPHL4cPxwPqMGwWdY33TBEsckjaURvPCbHYq_OcTG8/thegrind.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "REGAN",
+                            "link": "https://x.com/dankfroglet"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "WOJAKSTAR",
+                    "images": {
+                        "primary": "https://arweave.net/hahdr4BlBYIzo7kknMEsucrL4qDeYfcmH-_rz1I6qd4/wojakstar.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jahair",
+                            "link": "https://x.com/robo4046serie23"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "PROOFOFWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/D4OxjpErzzlnkrtUnuWuftPCTY38E1G3sA2lAY2MQfw/proofofwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Our Everyday Earth",
+                            "link": "https://x.com/EverydayEarth"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Series 4",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "DESPERATRAGE",
+                    "images": {
+                        "primary": "https://arweave.net/nHA9TVlDinPkY-LZ5yQVdNUAqKFhSN76CkSqCQtN8YI/desperatrage.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Herckeim",
+                            "link": "https://x.com/DucosGuillaume"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "PHANTOMWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/mX5EY9qJWKnGu-FnqYDWa6wt4NFGC3Zpzn1OnC6oapc/phantomwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BitcoinCartoons",
+                            "link": "https://x.com/BitcoinCartoons"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "JAKANDWOKO",
+                    "images": {
+                        "primary": "https://arweave.net/ZhpzT5rggPYBHAEMT-z8A6i0sbb1dqNhUW3pqdnL_B8/jakandwoko.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "sattvicsats",
+                            "link": "https://x.com/sattvicsats159"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "SWOLEJAK",
+                    "images": {
+                        "primary": "https://arweave.net/gzqj-WDTF0O8N1234qZtlDJr0aWxMve2cq7KZgMrSBc/swolejak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Easy B",
+                            "link": "https://x.com/Easy_to_the_b"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "THATFEELWHEN",
+                    "images": {
+                        "primary": "https://arweave.net/aj0ILx-6HACjch2J5ISMScedsROp8e-tUzRMKgotS3Q/thatfeelwhen.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Abstract Mirror",
+                            "link": "https://x.com/AbstractMirror"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "PROJAK",
+                    "images": {
+                        "primary": "https://arweave.net/JtVdIgwfcwKuLd2zgZicFACLzxWatCmjCl4TgE0veh4/projak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Fake Annie",
+                            "link": "https://x.com/fakefakeannie"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "WOJAKSABBATH",
+                    "images": {
+                        "primary": "https://arweave.net/vggsBtlkpLKmORkE_R3ipiHPB8-FXmnsvr5TCzW2zAU/wojaksabbath.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "VSTRVL",
+                            "link": "https://x.com/VSTRVL_FFF"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "WOJAKWAT",
+                    "images": {
+                        "primary": "https://arweave.net/FzOW-2oTcT28HtPRbjLyhyBKhyljBQc2cHKwK5HiqHk/wojakwat.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "J.W.Kek",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "WOJAKREBIS",
+                    "images": {
+                        "primary": "https://arweave.net/k24WgNbik6_BJ3Iwg9nbNJrBGK1VZ5N-NUNTXfBup3c/wojakrebis.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "morlacos",
+                            "link": "https://x.com/losmorlacos"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "NPCNAKAMOTO",
+                    "images": {
+                        "primary": "https://arweave.net/C8f7atKSy2C3OW9mCJNQcTqOa-NvQrtcjd8oYfRKHOo/npcnakamoto.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ruse",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "WOJAKPINK",
+                    "images": {
+                        "primary": "https://arweave.net/SX2Tr2p0XLddC3IQrs1tYMrwalBdyVOYkFdTjT-ITfg/wojakpink.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kero",
+                            "link": "https://x.com/KeroNFTs"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "SHITCOINJACK",
+                    "images": {
+                        "primary": "https://arweave.net/Cyq0pTWJjE2J-2CKxRuS9IBsrbURgJtbHnhDOVUj33U/shitcoinjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepenardo",
+                            "link": "https://x.com/PepenardoStudio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "DOWNBADWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/wnLYcNkZP0_AafvOpqKnXNT2-XUMULtEalDhAiZUgBg/downbadwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Elispri",
+                            "link": "https://x.com/Elisprii"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "HITTHEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/4JEsMuG4iVORXNxuMga6isHRsMrRrjtkR2esNKqh7y0/hitthewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Theo Goodman",
+                            "link": "https://x.com/theog__"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "WOJAKDREAM",
+                    "images": {
+                        "primary": "https://arweave.net/V8hs9DE4y2Jm0tyuszTgXs6lnbni-7sjGj_VTsOteaA/wojakdream.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Crimson Rider",
+                            "link": "https://x.com/Crims0nRIdeR"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "ELECTRICEYE",
+                    "images": {
+                        "primary": "https://arweave.net/KQw9kBNc0K8uhFst2ajqgzMnkMV8F9K2dFpJwPCthc8/electriceye.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Johnny Dollar",
+                            "link": "https://x.com/JohnnyDollarArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "WOJAKCHAMPNS",
+                    "images": {
+                        "primary": "https://arweave.net/F5rCwwzdQSnBU9SzYKsKpXBSMk1tcq2Y4aTVbz9aXu4/wojakchamp.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shawn Leary",
+                            "link": "https://x.com/shawnleary"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "MYFRIEND",
+                    "images": {
+                        "primary": "https://arweave.net/SQ-pI4T5c9MCzuhVgkUklr7H_aQF3QJxtUhWAnBuSiU/myfriend.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "tomopen",
+                            "link": "https://x.com/kouteipenpen_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "BEARWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/R6_nO7Z_Agp7s_kPqIEXkpKMErwlOU2XNl-qQk3L_AU/bearwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "AERA ONE",
+                            "link": "https://x.com/aeraone"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "LONELYWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Jq1jNAQ8Dm6NcTiHSWem5WppYhSjEttID0qhRKMgVwM/lonelywojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "pinkthingsco",
+                            "link": "https://x.com/pinkthingsco"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "WOJACKSON",
+                    "images": {
+                        "primary": "https://arweave.net/JxeRuEFDy_PipBSGETlZXVgjoEZs3cnZdUL2ThkUDv0/wojakson.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "JB",
+                            "link": "https://x.com/jpegkillah"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "DONWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/UQL7dh_3qB9LI9abdBWSsNU_AOJveAw3oSZVC98atf0/donwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KIN KINETIC",
+                            "link": "https://x.com/KinKinetic"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "WOJAKBALLON",
+                    "images": {
+                        "primary": "https://arweave.net/cLLvX0rHV9os-uZhcu_VF4o3P3wi5zPPXSfNI_ytiFE/wojakballoon.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shorty",
+                            "link": "https://x.com/DShorty81"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "THROWBAKWOJA",
+                    "images": {
+                        "primary": "https://arweave.net/EUPUjDxHLPasiStNr5l6Tb8vewI33WRDaIQP3IELBJQ/throwbakwoja.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MikeyCortez",
+                            "link": "https://x.com/yungmikeycortez"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "DIWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/-ZtaiJfTnLv3WCm7pWns54Q1-fhSpjWS-6syCojxsVA/diwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Crypto Hunks",
+                            "link": "https://x.com/CryptooHunks"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "MCMUSK",
+                    "images": {
+                        "primary": "https://arweave.net/of-hCrjIrqowhowfIzTLhqpxty3PPwyMtjpEqr2FKP4/mcmusk.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "klhUnd",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "BIGBRAINJAK",
+                    "images": {
+                        "primary": "https://arweave.net/jqWvkRaiErdES8SxQOuqlzq3lFQvuASfCPPZBTfdiO0/bigbrainjak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "deKoons",
+                            "link": "https://x.com/de_Koons"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "WOJAKDREAR",
+                    "images": {
+                        "primary": "https://arweave.net/Ajm8K1eVC-LRCMcowm-__badeBOr4wsxiW3xB-1Q-ZU/wojakdrear.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KAWABANGGA_F",
+                            "link": "https://x.com/kawabangga_f"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "BUFFWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/PoAspiVAVLtUAjWqAfTAxbapTG8vfueec24H3g_3jAk/buffwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "madethispepe",
+                            "link": "https://x.com/madethispepe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "INVESTORWOJA",
+                    "images": {
+                        "primary": "https://arweave.net/zCnysq_A-B8YGy8_z4kzrJS_m6f2SAr9TY1JaOFyM8I/investorwoja.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BB",
+                            "link": "https://x.com/MetaBB_eth"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "BLUEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/NHsUT6OBYVXK96F-xN0Md9Ao3Tu_i_0pD6y9du0b86M/bluewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zima Blue",
+                            "link": "https://x.com/ZimaBlueArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "FEELSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/133yaaV1G_dhSQmHl12TM5JpyxFp28G7a53unLJBESM/feelswojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shorty",
+                            "link": "https://x.com/DShorty81"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "THEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/RMV3WO-xztwHv9Rj4KbF7nNmDa9QIwkP2fNygKBtpig/thewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Alth0tas",
+                            "link": "https://x.com/Alth0tas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "WOJAKSQUIGG",
+                    "images": {
+                        "primary": "https://arweave.net/AtyAUOhoqSVe8AulPPEbePav-7p1Q85rKvSQ-coJ3dU/wojaksquigg.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Luis Simo",
+                            "link": "https://x.com/simo_eth"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "JAKOLANTERN",
+                    "images": {
+                        "primary": "https://arweave.net/wzGI88CziLwoBtMxXThIbBiNRV9qTeuYI3IweTx8V_c/jakolantern.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "D00MSDRE",
+                            "link": "https://x.com/D00MSDRE"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "TRADWIFE",
+                    "images": {
+                        "primary": "https://arweave.net/B-9TOtviNmWsqmYf-7f-3cxjCe9XVjB9CWHCXNd5ncI/tradwife.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "pepechinchin",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "ZALTSPEAKS",
+                    "images": {
+                        "primary": "https://arweave.net/CC4N-1SRsEzwNcUkaRG4n_mRJbfvZBa6_6w3wFCGEo4/zaltspeaks.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zoku",
+                            "link": "https://x.com/zoku_nft"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "HASCIIWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/sejqt2Q6rhr4C3y64SmmZSOgbUqNlQN-2wEo5m3BfLI/hasciiwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Theo Goodman",
+                            "link": "https://x.com/theog__"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "RAGEOFWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/xXh6atVLA51LgnRX41HfVwSXlVUQGtAFTMk5gm8XgYg/rageofwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darky",
+                            "link": "https://x.com/Dark_inc_Studio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "FTXREKT",
+                    "images": {
+                        "primary": "https://arweave.net/RbE8XYuyQ2dwLKOtSmbc5BsSDkPNmLwnHPhDb_bnJm8/ftxrekt.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Bryan Micon",
+                            "link": "https://x.com/BryanMicon"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "CHADZ",
+                    "images": {
+                        "primary": "https://arweave.net/ghV7AvlOIOwmDnJY2FzhcEtUO1N8r8DaQwe867pbJ8o/chadz.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Cryptonati",
+                            "link": "https://pepe.wtf/artists/Cryptonati"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "WALTERWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/qJONWVFBnB1MsC5JmpEaAgntW6eX_QQe8gO5YaHjdK4/walterwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Johny Johnsonson",
+                            "link": "https://x.com/jono61145535"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "PIPEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/m0qv3CmRYnGkAM7wbwu9KnycfwmfCqfRDbRKB4z4rU8/pipewojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "AnonAnan",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "BORNSLIPPY",
+                    "images": {
+                        "primary": "https://arweave.net/axNxD1yTHhz2I4aiaBkxa5ZTMEBnZBA5HkBIN6L7JKw/bornslippy.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "EMBLEMATIX",
+                            "link": "https://x.com/EmblematiXart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "EMCEEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/i-zDnNmt0aHNTDT-YhfF_2Mfm6B0RuWikBiwhOQgpEo/emceewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "UzGee",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "CLAYWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/mjSDXmd4SDGiJmuANg1NbXKSCD9A0sY1UHxgcIvoiYk/claywojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "mekabu",
+                            "link": "https://x.com/monolag"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "WHERESWALJAK",
+                    "images": {
+                        "primary": "https://arweave.net/ZsLDPVzmdlst2ifbO4YCHPDiwcZMf0WIL0UH8oZOTtc/whereswaljak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Patriots In Progress",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "WARJAK",
+                    "images": {
+                        "primary": "https://arweave.net/xwZA3ONNBIwKRmD3K5YS3dyKdbTZpls6rS4DbFDVifk/warjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Tommy Marcheschi",
+                            "link": "https://x.com/YungGucciT"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "WORLDCUBWOJ",
+                    "images": {
+                        "primary": "https://arweave.net/Ps1_LL4jw-bqLmrQj0KoZvkQEyXIzZ641QZh0iPKMhU/worldcupwoj.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Naeem",
+                            "link": "https://x.com/naeem2626"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "SEEYOUSOON",
+                    "images": {
+                        "primary": "https://arweave.net/l1iZGMwfXg47jTLMYVzmcXvrkkRV5jEW-CpR7uW6rUY/seeyousoon.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ChessArt",
+                            "link": "https://x.com/ChessArtt"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Series 5",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "WOMMUNITY",
+                    "images": {
+                        "primary": "https://arweave.net/hl_k_fspMlwkmkHOxYAn18xAysfEBt_62U_oZAnDRUo/wommunity.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Community Created",
+                            "link": "https://x.com/thewojakway"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "WOJAKBLUES",
+                    "images": {
+                        "primary": "https://arweave.net/tDVA1FCb42uKfkGuPCzzvHhbeXNm2f6R_-7wy3HPAmo/wojakblues.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hafftka",
+                            "link": "https://x.com/hafftka"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "CUBOWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/1MpSQ6Wy4hRal8MQSExecB-lDISYLFESy9I_W7qlRao/cubowojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Melih Polat",
+                            "link": "https://x.com/mpmelihpolat"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "WOJAKSOUP",
+                    "images": {
+                        "primary": "https://arweave.net/aAGtyzw2kcfG3XCW6ndJALc__wQMUtFbOmTn6lIIV8Q/wojaksoup.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zed",
+                            "link": "https://x.com/zederwan"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "WOJAKWUTANG",
+                    "images": {
+                        "primary": "https://arweave.net/DQLn9hIzGHhn1iZj9VzDKTjZegi98zYuEOFEMHnR1-Y/wojakwutang.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NAPLES",
+                            "link": "https://x.com/MichaelNaples"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "WOJACCEPT",
+                    "images": {
+                        "primary": "https://arweave.net/djjPTV8cBzYh4RRhZF0-sfTQxn1fZYE8eaobvYBcc4c/thirdeyejak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OKIDO",
+                            "link": "https://x.com/okitalky"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "THIRDEYEJAK",
+                    "images": {
+                        "primary": "https://arweave.net/9ytX8C_4aP3078RcSUL6_nF_m6kSvg03h8Ts58QTJEg/wojaccept.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Skincube",
+                            "link": "https://x.com/skincube"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "WOJEKYLL",
+                    "images": {
+                        "primary": "https://arweave.net/XqlJd-CPgHi6h5EYCNmABzKl7yL1dvuanhHrmRnBf4M/wojekyll.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Johnny Dollar",
+                            "link": "https://x.com/johnnydollarart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "WOWJAKWAY",
+                    "images": {
+                        "primary": "https://arweave.net/tKlKEjRyIh3jl0r9DmiIp1tKLzEtdGnl9flvwmfFgwo/wowjakway.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "El Cholo Pepe",
+                            "link": "https://x.com/ElCholoPepe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "WIZARDWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/bxj4fACgZxrnQe0vuaLANGQq3nL3J0omGxRJy34OOAA/wizardwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "StragoffStoner",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "STONERWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Afizb0fyenby4XHeW3KkO_F8DHrVBT3FYPIH5jCVNHM/stonerwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darky",
+                            "link": "https://x.com/Dark_inc_Studio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "MANOFFEEL",
+                    "images": {
+                        "primary": "https://arweave.net/BT6UimTREPnjSerkKdG9MmvtFMFFsAS0T0c8Un0NJr8/manoffeel.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hilman",
+                            "link": "https://x.com/crypto4twit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "SMUGSOYJAK",
+                    "images": {
+                        "primary": "https://arweave.net/SZU3EFo1_l2CNK_bXrFgQA52HJkYCSeD9k5mPmTC3oM/smugsoyjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Meam DeLa",
+                            "link": "https://www.etsy.com/uk/shop/MeamDeLa"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "WOGE",
+                    "images": {
+                        "primary": "https://arweave.net/zqHRMxbVKyAQxjYs8CeO5IIbE_7ahMVjcWNHak1HFqU/woge.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nathan Sonic",
+                            "link": "https://x.com/nathansonic"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "MONALISAJAK",
+                    "images": {
+                        "primary": "https://arweave.net/uO5BhO5STALfYBzKwVaX_hJPVYt7j32u2qvjfz6gIec/monalisajak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MOTION_MORT",
+                            "link": "https://x.com/motionmort"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "WOJAKGRINPIS",
+                    "images": {
+                        "primary": "https://arweave.net/ZjhHqDTtSUu8eW0Crq8Iy6VFYgH81wq04uwMC2S7Yqk/wojakgrinpis.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Dany",
+                            "link": "https://x.com/Danyimanr"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "CTFIGHTER",
+                    "images": {
+                        "primary": "https://arweave.net/O-M3-Tf9lXyQpcMuhuVOCM3EtzTf8HuzAybVC9MNL_E/ctfighter.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jonny Johnsonson",
+                            "link": "https://x.com/jono61145535"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "WOJAKTATE",
+                    "images": {
+                        "primary": "https://arweave.net/8wD8DV09XEeRhR10UvSx13w0gwJ-bUw5LMNX-4V157g/wojaktate.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FRENSIDE",
+                            "link": "https://dankset.io/at/13FQ3ZJVZbxw3qnhEwmNhkv4pnLAFfpZKt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "WOJAKMARLEY",
+                    "images": {
+                        "primary": "https://arweave.net/BFX3OkW9QG7PIML1sNYUqfmKflCwvxo_iupvFE06K0g/wojakmarley.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MightyShroom",
+                            "link": "https://x.com/mighty_shroom"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "NEXUSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/wUIQ4cPMK-INp34YMmpL5HZ4xXTBYxoOYKHIYftFqNs/nexuswojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Alth0tas",
+                            "link": "https://x.com/alth0tas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "WOJACKED",
+                    "images": {
+                        "primary": "https://arweave.net/7Iz4tqKFBa-bgm7ScrFCvFl5nio4IYS-mFkVCNnJLKM/wojacked.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jona Carbi",
+                            "link": "https://x.com/jonacarbi"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "WOGRITTE",
+                    "images": {
+                        "primary": "https://arweave.net/RYdwCgEfmPR3Elz3GFhOpDy5OBwXNMbzNuWRxZEynI4/wogritte.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "BBLEIZTZ",
+                            "link": "https://x.com/bbleiztz"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "JANETTROLLEN",
+                    "images": {
+                        "primary": "https://arweave.net/T5Y9s-dHl-SNJlfXA9EOxn2wvMge0Vt7PfZ9L2SiyT8/janettrollen.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Street Cyber Art",
+                            "link": "https://x.com/streetcyber_art"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "WAYOFFEELS",
+                    "images": {
+                        "primary": "https://arweave.net/CdlUem28yfpxKn-0AnEF34SGEeFavovObaFsd6YHYs4/wayoffells.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Andre U",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "LIBERTYWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/x-fQA39yElHYfRVIPjV0zR0pH9krxhe_rJk43iBclCs/libertywojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Abstract Mirror",
+                            "link": "https://x.com/AbstractMirror"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "JAKCHAD",
+                    "images": {
+                        "primary": "https://arweave.net/Lac7VfZXYEeFBA0_emMxOfww95LqjdUx4tKTqsjgtEY/jakchad.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "denshyr",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "WOJACKFACES",
+                    "images": {
+                        "primary": "https://arweave.net/nK9O2OeIGHUKT80m3h13lpL8xYxUtHP5526O_eVXyHk/wojackfaces.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nimzobit",
+                            "link": "https://x.com/NimzoBit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "A4657262672172080712",
+                    "images": {
+                        "primary": "https://arweave.net/lmZlskwXDkMkLLbQnTs1JIbSsiFMUur-iXF--rOvLKA/a4657262672172080712.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "FWD",
+                            "link": "https://x.com/fabooowy"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "BROJAK",
+                    "images": {
+                        "primary": "https://arweave.net/alsMAs349Wo0oeAuj4Fl0-8L5ztJb8b9T-iU07EO8Es/brojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "admodum",
+                            "link": "https://x.com/a_d_m_o_d_u_m"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "WOJACKWVGHST",
+                    "images": {
+                        "primary": "https://arweave.net/NF1vG7PJIJXj_mRqcZ3GOlOnl8FZIiUb3BbAlqQtm1w/wojackwvghst.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "threepanelcrimes",
+                            "link": "https://x.com/fak3panelcrimes"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "WOJAKISWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Xx3KwsDMILRzYFUjiEn2rtVuw5DFqVfgYF4YTlpeLd0/wojakiswojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Saed",
+                            "link": "https://x.com/SaedKh8"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "BLADEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/o2dgNZjbE3RS61CH4URAkecj8oQmVIcSbVojKQksHeo/bladewojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Sekiro66",
+                            "link": "https://x.com/pokamolodoi66"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "WENDETTA",
+                    "images": {
+                        "primary": "https://arweave.net/Va59fAB73DsxAJXiuCrnWIAsChhI8weQM00Jp8wR2v4/windetta.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "LINNET",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "SIGHWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/ihDEmlb8tDa0ul98P6Ywgbzm5nNy3IWHj_QA3s5DfVQ/sighwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NIIIX",
+                            "link": "https://x.com/niiix_____"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "WOJUKCARD",
+                    "images": {
+                        "primary": "https://arweave.net/zF10EaepeoCLUS_zG6w6zgAn1YBeFW6EVr4FLHIwSG8/wojukcard.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NORMANCOMICS",
+                            "link": "https://x.com/normancomics"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "SHERLOCKJAK",
+                    "images": {
+                        "primary": "https://arweave.net/QKqfw_R-v9_ikVOMQbRFpoJmjCi7P0f1dWcMDTlfj1k/sherlockjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MAD.GTX",
+                            "link": "https://x.com/mad_gtx"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "CRYPTOWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/FYcfKwh_yBwCBSUMSGkZW4BE2KmRWNPB1RrvmPW5ZSw/cryptowojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zed",
+                            "link": "https://x.com/Zederwan"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "BONDOFJAKONE",
+                    "images": {
+                        "primary": "https://arweave.net/YrrjkMWFTDzgvyiaWu43Kpy_UxjT7gNBXOJ0TAn9fQ0/bondofjakone.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SASHA CHUDO",
+                            "link": "https://x.com/ChudoSasshha"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "BONDOFKAKTWO",
+                    "images": {
+                        "primary": "https://arweave.net/QCT7-j7NgYNlzFTdCZZSNwTMs_zuc9oYvrbdT637dos/bondofjaktwo.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "SASHA CHUDO",
+                            "link": "https://x.com/ChudoSasshha"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "FEELSMUSEUM",
+                    "images": {
+                        "primary": "https://arweave.net/Ifr6C6aOAg9doeO_cFOUpcg3w8LNX3KdZ4NwepeqmGo/feelsmuseum.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KIN KINETIC",
+                            "link": "https://x.com/KinKinetic"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "WOJAKMAXI",
+                    "images": {
+                        "primary": "https://arweave.net/349DF6gP8BTw2Ucq-HkjDE35fuZPywx1WAP6C9T5Wgc/wojakmaxi.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MaxisClub",
+                            "link": "https://x.com/MaxisClub"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "WOJAKREID",
+                    "images": {
+                        "primary": "https://arweave.net/sPT_gkyt7Yw4B180taLCkandZgu5IC0EnfqXR6BYVic/wojakreid.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hitomi Matsui",
+                            "link": "https://x.com/hitomi_matsui"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "GUNSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/FPHe5qMerWULVs8UJb2mMEoGHQV09qgF3UGx5YfCYZc/gunswojack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "glen",
+                            "link": "https://x.com/glenlopes0"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "WOJAKHUNTER",
+                    "images": {
+                        "primary": "https://arweave.net/cL_LfbNCamDw3s_lZcslwEouYfpC-o3QbuTZYgMraMk/wojakhunger.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MOTION_MORT",
+                            "link": "https://x.com/motionmort"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "CHADSMIND",
+                    "images": {
+                        "primary": "https://arweave.net/wgbFK8_WqtcNu1a6h0847_TCFljltWESW5-cqIxVrRE/chadsmind.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shorty",
+                            "link": "https://x.com/DShorty81"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "WOJUNKS",
+                    "images": {
+                        "primary": "https://arweave.net/eJsQ5AhbEBymNd2UeZhutlZuKsr_FRBsIvzk-ah9u0s/wojunks.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Easy B",
+                            "link": "https://x.com/Easy_to_the_b"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "PEACEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/yIcUOOSuet5oqZd1uJ-xNtN4fG1m59QtUZhTfzqJXgs/peacewojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Skincube",
+                            "link": "https://x.com/skincube"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "TRADEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/vAMbSd9jQnxjhBZ2nRFeEhlB4RTvpSqpNlAs0uK1n5Y/tradewowjack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "glen",
+                            "link": "https://x.com/glenlopes0"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "WOJAKLONDON",
+                    "images": {
+                        "primary": "https://arweave.net/r2CLNttTM1rjZHlbAuDK7XAfS-YJBeS8fiIX4B0O8x4/wojaklondon.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Rare Scrilla",
+                            "link": "https://x.com/ScrillaVentura"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "WELCOMEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/8xe2PVvwkwvmlsQX1M4QKeiMcEemXFsel-w03IvsV0I/welcomewojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "JAMEX",
+                            "link": "https://x.com/jamex_art"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        },
+        {
+            "name": "Series 6",
+            "images": {
+                "avatar": "",
+                "banner": ""
+            },
+            "description": "",
+            "assets": [
+                {
+                    "edition": "Card 1",
+                    "name": "ROJAKEMPIRE",
+                    "images": {
+                        "primary": "https://arweave.net/KDMKb_7GGaQfKbojVTTnOUNH3xF6hNeQz7yh9ndY-xs/rojakempire.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepenardo",
+                            "link": "https://x.com/PepenardoStudio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 2",
+                    "name": "WHISKEYWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/gAmtOzBAVurh6moLeUIqjS94KPEn5QB4elDmI2yj7M0/whiskeywojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "NAPLES",
+                            "link": "https://x.com/MichaelNaples"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 3",
+                    "name": "WHATTHEFRENS",
+                    "images": {
+                        "primary": "https://arweave.net/yEPZc2SnUxweI_qK8WAUwpoXqfIqDIjr9hvd0QlM_Fg/whatthefrens.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OKIDO",
+                            "link": "https://x.com/okitalky"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 4",
+                    "name": "WOJAKNPC",
+                    "images": {
+                        "primary": "https://arweave.net/KqKNz8y3VcId9g1b5WnyB9UiI3akCJdOq7K00wQuwPI/wojaknpc.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zoku",
+                            "link": "https://x.com/zoku_nft"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 5",
+                    "name": "WOJAKNEXUS",
+                    "images": {
+                        "primary": "https://arweave.net/d2NFmaMNmLxwE25d-VpxKGS0az-aArnN97-OjZJcdIg/wojaknexus.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Isaac O",
+                            "link": "https://x.com/Artist_IsaacO"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 6",
+                    "name": "FEELSFRENS",
+                    "images": {
+                        "primary": "https://arweave.net/UToYdfSymK8HnGDxro6mH9kwhhPohHwiCAAtwWQy_BI/feelsfrens.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mr. Hansel",
+                            "link": "https://x.com/bettidlomas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 7",
+                    "name": "WOJAKFOCUS",
+                    "images": {
+                        "primary": "https://arweave.net/yxaUfCA0Vm3aF_DadA7plTTy5TVRHnc3pT3CHYBhBJE/wojakfocus.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MemeKingArt",
+                            "link": "https://x.com/memekingart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 8",
+                    "name": "BITCOINMAXIS",
+                    "images": {
+                        "primary": "https://arweave.net/kT7qUR5AoWa5Ahv6OXXn-mj6BLmmI9HtRierrpxH3yc/bitcoinmaxis.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MODEDEBO",
+                            "link": "https://x.com/modedebo"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 9",
+                    "name": "ORANJAK",
+                    "images": {
+                        "primary": "https://arweave.net/bEEd3JstCTKCKdSQeTL5_IDj5KQ-JI_EhtlWT2VRTt0/oranjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Filthy Trikks",
+                            "link": "https://x.com/FilthyTrikksEth"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 10",
+                    "name": "WOJAKESCHER",
+                    "images": {
+                        "primary": "https://arweave.net/HDunGv4gmpFAlRs5gelBHoqlBkq5XiFZAFKSWmECR6M/wojakescher.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Alth0tas",
+                            "link": "https://x.com/alth0tas"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 11",
+                    "name": "NOTORIOUSJAK",
+                    "images": {
+                        "primary": "https://arweave.net/-x2RfVDj4zzfefiCJsXrBqhRFLgsAPyI9ldXrakGhIc/notoriousjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "UNO8",
+                            "link": "https://x.com/UNO8grx"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 12",
+                    "name": "LEWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/8CMGkPydxi84dAG6ZW39PYQ18bqlWd2o8_rmulye0dk/lewojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Coriot",
+                            "link": "https://x.com/coriotcg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 13",
+                    "name": "WOJAKTWODOPE",
+                    "images": {
+                        "primary": "https://arweave.net/BH7Ky3a-1ra8Zyx5MpeFy0IyFYtp9W4pEQNmOLV3YEk/wojaktwodope.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "ZeroG",
+                            "link": "https://x.com/g0barry"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 14",
+                    "name": "TWOTW",
+                    "images": {
+                        "primary": "https://arweave.net/rLw0ZSNfiIqqSi4aCe11EhMUc8UgDM1lEviYz59qvzg/twotw.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Toker Village",
+                            "link": "https://x.com/TokerVillage"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 15",
+                    "name": "WOJTOMAS",
+                    "images": {
+                        "primary": "https://arweave.net/E_wcca1VNOmMvCu40pGAX_uyP5KHtqF9N6GQQ6lEIeA/wojtomas.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "psyfrogger",
+                            "link": "https://x.com/psyfrogger"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 16",
+                    "name": "THROWJACK",
+                    "images": {
+                        "primary": "https://arweave.net/Z8q99kCSrtpIgSsS_7xIsNoQhLea8D6BCuL8fOo4jSw/throwjack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Le Hues",
+                            "link": "https://x.com/PepeLeHues"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 17",
+                    "name": "WOSCHIELE",
+                    "images": {
+                        "primary": "https://arweave.net/aPYy19EpjOY6miJTxeIUYEQTDidCXI-ymLyU1nKefW0/woschiele.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nimzobit",
+                            "link": "https://x.com/NimzoBit/"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 18",
+                    "name": "FEELSHUNGRY",
+                    "images": {
+                        "primary": "https://arweave.net/bsL4B9y-C2KPJOa4iGSN_HhY2UvBkx55-fiWFg4Fw2U/feelshungry.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "KIN KINETIC",
+                            "link": "https://x.com/kinkinetic"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 19",
+                    "name": "WOJAKISCRACK",
+                    "images": {
+                        "primary": "https://arweave.net/-armQlPmu5gKNtXQAwrhi-PMfZYCjF_djjsQz3IK_1E/wojakiscrack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darky",
+                            "link": "https://x.com/Dark_inc_Studio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 20",
+                    "name": "WOJAKFIGHT",
+                    "images": {
+                        "primary": "https://arweave.net/LmxhWQ4jOfoA6N1VMsbjgH8qsxJpbWo-b5tfMTCzsME/wojakfight.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Crypto Ali",
+                            "link": "https://x.com/CrypsiArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 21",
+                    "name": "ZIPEPOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/K2AMVFRm9T46fyE3Ibjvf6PSJF2X1iEktyY8w-lKclo/zipepojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "gfloof",
+                            "link": "https://x.com/gflooff"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 22",
+                    "name": "WOJAKPOPUP",
+                    "images": {
+                        "primary": "https://arweave.net/ENGCsYBk8_lvlzAU54CFDQfBBcLQIUqVRo-_Vxe_1NQ/wojakpopup.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Harold Harambe",
+                            "link": "https://x.com/haroldharambe"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 23",
+                    "name": "FEELXMAS",
+                    "images": {
+                        "primary": "https://arweave.net/QglgEctlOkisIq742RVB_r8fVd7U8OXUqFW4KI27K6M/feelxmas.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Filthy Trikks",
+                            "link": "https://x.com/FilthyTrikksEth"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 24",
+                    "name": "SAYWHATAGAIN",
+                    "images": {
+                        "primary": "https://arweave.net/7wZyHPhajAtlu_Z-Y4nGuS8sKPMwGPn4QjTJzQtD6mQ/saywhatagain.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Shorty",
+                            "link": "https://x.com/DShorty81"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 25",
+                    "name": "ONLYONECHAD",
+                    "images": {
+                        "primary": "https://arweave.net/j8QXToU3XaLmoIpCWvLf3lib3JZI0CVXfdZHIyAXTWc/onlyonechad.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Nimzobit",
+                            "link": "https://x.com/NimzoBit"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 26",
+                    "name": "BOSSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/m6rAyhXmkPUMQ1GknX2hFIuhKG6KvUfFVR4QYz4uJgg/bosswojack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "glen",
+                            "link": "https://x.com/glenlopes0"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 27",
+                    "name": "FETUSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/ABkMuz3xcQOfC-WD1l5gGv_toCmYKge04gVZYseaj5U/fetuswojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Coriot",
+                            "link": "https://x.com/coriotcg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 28",
+                    "name": "WOTRASH",
+                    "images": {
+                        "primary": "https://arweave.net/W-wYLb1xf5gFYCEsPg0Yy_lsstOUACmTScx7Y3eZ2oQ/wotrash.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Crypsi",
+                            "link": "https://x.com/CrypsiArt"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 29",
+                    "name": "WLANKWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/eERHxKt2iMGjIs3W77wg8BR0MqCFEACiYgH6xbmNqzE/blankwojak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "TESTIIPROD",
+                            "link": "https://x.com/TESTIIPROD"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 30",
+                    "name": "ELATEDWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/H20IJ2elLsRoL_BN7lbVuCHkDC9MKg4Ng8Pr_FZArRk/elatedwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "RAHVO",
+                            "link": "https://x.com/RahvOart"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 31",
+                    "name": "SUPERJAK",
+                    "images": {
+                        "primary": "https://arweave.net/eUy9BEPO89dP7fzETq5Px_GGleiZbpdnFYnGKf4jx90/superjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Hammad",
+                            "link": "https://x.com/Hammadbtc"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 32",
+                    "name": "BITCOINSPITE",
+                    "images": {
+                        "primary": "https://arweave.net/-IVlbDyZjyoPAtmiKNai7DHNuIcUESPfDwXu0E_2WAU/bitcoinspite.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "MODEDEBO",
+                            "link": "https://x.com/modedebo"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 33",
+                    "name": "WOJAKMOON",
+                    "images": {
+                        "primary": "https://arweave.net/IZEY_RXHSplGyFdt8Q8FyhXhTbblOdV23Y_eYjNV31Q/wojakmoon.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "glen",
+                            "link": "https://x.com/glenlopes0"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 34",
+                    "name": "SIGNINGTDK",
+                    "images": {
+                        "primary": "https://arweave.net/CUnNlqtCxuw9hdWoq4m5o5u0Q99fVuCyEBtCzy6oTCA/signingtdk.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Memeticx",
+                            "link": "https://x.com/MemeticX"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 35",
+                    "name": "SIGNINGTFW",
+                    "images": {
+                        "primary": "https://arweave.net/UkwCeyGqE37EeVVC8sNN8Xi_5hyzzBR8LA7DIadahcE/signingtfw.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Memeticx",
+                            "link": "https://x.com/MemeticX"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 36",
+                    "name": "CANDLEJAK",
+                    "images": {
+                        "primary": "https://arweave.net/BiwNuznwI_tOpwsOVHLlscT1Av5zTgFR4wPFBqP5CT8/candlejak.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "arctefact",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 37",
+                    "name": "WOJAKPLANNER",
+                    "images": {
+                        "primary": "https://arweave.net/GphwI70Jz6RcNgN9ur_hy22TD0zc3iWrnMJEQaGWdMk/wojakplanner.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "swallja",
+                            "link": "https://x.com/swallja"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 38",
+                    "name": "WOJIRL",
+                    "images": {
+                        "primary": "https://arweave.net/ZmJMnjsBS_HLCoZ_YyZo2k0uH1kCqahg8P3xRV_BUus/wojirl.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Ditacrypto",
+                            "link": "https://x.com/ditacrypto"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 39",
+                    "name": "SMOLJAKCARD",
+                    "images": {
+                        "primary": "https://arweave.net/tPVIgJGUpfnS0ZH-Dp9TWsOXE_Jp2B0rPGEuLwZcMew/smoljakcard.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Zed",
+                            "link": "https://x.com/zederwan"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 40",
+                    "name": "SOYJAK",
+                    "images": {
+                        "primary": "https://arweave.net/Pfm8CFKIVKaIY0DHcwpt0IoQcO-rB7FPoaiZcmRj_6Q/soyjak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "halluciphile",
+                            "link": "https://x.com/halluciphile"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 41",
+                    "name": "XIWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/X4DO0NP9H_8p3g5__fzlhPfou8ERM1_OwVR9vZlX0rY/xiwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pifu",
+                            "link": "https://x.com/PiFu7"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 42",
+                    "name": "NOFEEL",
+                    "images": {
+                        "primary": "https://arweave.net/oWnqNC8AHkflvfmv3nZyQnUugTGH-qSiqIZWiYALsA0/nofeel.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Skincube",
+                            "link": "https://x.com/skincube"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 43",
+                    "name": "TRADWIFEWOJA",
+                    "images": {
+                        "primary": "https://arweave.net/r85HKl48SXsHxLouxlzRViYryXBN0BEvEMBern_Yhr4/tradwifewoja.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Skife",
+                            "link": "https://x.com/skifeham"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 44",
+                    "name": "BOJACK",
+                    "images": {
+                        "primary": "https://arweave.net/rj_mUXMWYyQnrLOrgaOrLeQyp0X7PwULIJ2XhIOfvPY/bojack.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Le Hues",
+                            "link": "https://x.com/PepeLeHues"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 45",
+                    "name": "WOJAKNOCK",
+                    "images": {
+                        "primary": "https://arweave.net/UzejzsFCEDrbPTkXWhO_dw2aLebTCXiyKPI1lcCbacI/wojaknock.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "OKIDO",
+                            "link": "https://x.com/okitalky"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 46",
+                    "name": "WOJAKWHAT",
+                    "images": {
+                        "primary": "https://arweave.net/kQqSYejHCB7_n8aL4l9sU1rT4s9zKuA5ElCOpyUgfaE/wojakwhat.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Cornholio the Great",
+                            "link": "https://x.com/c0rnh0li0"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 47",
+                    "name": "WWWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/hQiFW8IYVt2lFjdqU9Zm7n74R1_Hpl6KFrtKKe2Sfyc/wwwojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "halluciphile",
+                            "link": "https://x.com/halluciphile"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 48",
+                    "name": "LEWOJAKSEVR",
+                    "images": {
+                        "primary": "https://arweave.net/5RrwhGd1If2L9dJsGgVJaGtGQCQuQyR2RT_nBK56fas/lewojaksevr.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Coriot",
+                            "link": "https://x.com/coriotcg"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 49",
+                    "name": "JESUSWOJAK",
+                    "images": {
+                        "primary": "https://arweave.net/EAv81jLFRJ26BK8JjTmJwzyBeX3WYp6baesxJnZVonA/jesuswojak.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Pepenardo",
+                            "link": "https://x.com/PepenardoStudio"
+                        }
+                    ],
+                    "subAssets": []
+                },
+                {
+                    "edition": "Card 50",
+                    "name": "WOJAKS",
+                    "images": {
+                        "primary": "https://arweave.net/ppsBzCp3QQmzwyRSMZSRUMq2HW4DMCVbN9a7eTzOhfo/wojaks.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Wojak",
+                            "link": "https://x.com/TheWojakWay"
+                        }
+                    ],
+                    "subAssets": []
+                }
+            ]
+        }
+    ]
+}
