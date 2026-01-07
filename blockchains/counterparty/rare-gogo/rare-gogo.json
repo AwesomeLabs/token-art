@@ -408,6 +408,81 @@
                         }
                     ],
                     "subAssets": []
+                     },
+                {
+                    "edition": "Card 27",
+                    "name": "GOGODANCER",
+                    "images": {
+                        "primary": "https://arweave.net/XBBOUXuGRlZJSnY8AlqEvYkTJenjtU10YQtwvQGAUVg/7vz3po_image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "PEPSI KOALA",
+                            "link": "https://twitter.com/PEPSI_KOALA"
+                        }
+                    ],
+                    "subAssets": []
+                     },
+                {
+                    "edition": "Card 28",
+                    "name": "DASGOAT",
+                    "images": {
+                        "primary": "https://www.arweave.net/HPA5r4B8DNc-RKjw55hLJK_dMphcxmFrJiz2QX4I4ps/DASGOAT.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Kane Mayfield",
+                            "link": "https://twitter.com/KANEMAYFIELD"
+                        }
+                    ],
+                    "subAssets": []
+                     },
+                {
+                    "edition": "Card 29",
+                    "name": "RAREPEP",
+                    "images": {
+                        "primary": "https://www.arweave.net/e688PlU-7G5YsRpRm5rIi77eIUC1h-Sh01OpR5V1MHA/RAREPEP.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "COIT",
+                            "link": "https://twitter.com/coit133"
+                        }
+                    ],
+                    "subAssets": []
+                     },
+                {
+                    "edition": "Card 30",
+                    "name": "CAPRA",
+                    "images": {
+                        "primary": "https://arweave.net/m2IVBx2f3sE-0mSoW_pjHuwVf_LsY2FE2xXexMTGjzU/7rjmpe_image.gif",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "HNFT Pepe",
+                            "link": "https://twitter.com/HnftPepe"
+                        }
+                    ],
+                    "subAssets": []
+                     },
+                {
+                    "edition": "Card 31",
+                    "name": "SUPREMEGOAT",
+                    "images": {
+                        "primary": "https://arweave.net/IlvwkNwNs1I2YyuJSZV7DRVGwd-Jj07zgTroBsqkGd8/22rl2s_image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Mighty Shroom",
+                            "link": "https://twitter.com/mighty_shroom"
+                        }
+                    ],
+                    "subAssets": []
                 }
             ]
         }
