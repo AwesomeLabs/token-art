@@ -1358,6 +1358,96 @@
                         }
                     ],
                     "subAssets": []
+                    },
+                {
+                    "edition": "Card 5",
+                    "name": "COCOCONNECTA",
+                    "images": {
+                        "primary": "https://www.arweave.net/f0vtrIariAcLABTbjJS17j6JTAjyG42xQS6ABPjvIi4/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "seelawrie",
+                            "link": "https://x.com/seelawrie"
+                        }
+                    ],
+                    "subAssets": []
+                    },
+                {
+                    "edition": "Card 6",
+                    "name": "COCODILE",
+                    "images": {
+                        "primary": "https://www.arweave.net/TZwWZLt6_2EvHh6n5xELUaz9Hce8AT3r8Od20WcanEw/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "codythecampbell",
+                            "link": "https://x.com/CodyCampbe16881"
+                        }
+                    ],
+                    "subAssets": []
+                    },
+                {
+                    "edition": "Card 7",
+                    "name": "COCOTHECLOWN",
+                    "images": {
+                        "primary": "https://www.arweave.net/A0OSae7CfQb5Yt6gAEc4j5EYmXjjM_2S4ucavwn2tng/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Darky",
+                            "link": "https://x.com/Dark_inc_Studio"
+                        }
+                    ],
+                    "subAssets": []
+                    },
+                {
+                    "edition": "Card 8",
+                    "name": "HOTCOCO",
+                    "images": {
+                        "primary": "https://www.arweave.net/XxHyvDmzcB41OeDdMM5GYKmrXlHmcvi_YKb2i0LE78w/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "pinocchio",
+                            "link": "https://x.com/TrustyPinocchio"
+                        }
+                    ],
+                    "subAssets": []
+                    },
+                {
+                    "edition": "Card 9",
+                    "name": "COCOSURFPRTY",
+                    "images": {
+                        "primary": "https://www.arweave.net/fFzq3gQGfaUSxuBATXWR9LUW1lE6e08HDwhl6cIVAxU/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Sea is Medicine",
+                            "link": "https://x.com/SEAisMEDICINE"
+                        }
+                    ],
+                    "subAssets": []
+                    },
+                {
+                    "edition": "Card 10",
+                    "name": "COCOADDICT",
+                    "images": {
+                        "primary": "https://www.arweave.net/rXoDI2QsNNKBO_5ivf6LmV1qxjK8Vuq_8G-3UbTEqh4/image.png",
+                        "other": []
+                    },
+                    "artists": [
+                        {
+                            "name": "Jimmy",
+                            "link": ""
+                        }
+                    ],
+                    "subAssets": []
                 }
             ]
         }
