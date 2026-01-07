@@ -1,2268 +1,2226 @@
 {
-    "chain": "Counterparty",
-    "name": "Modern Relics",
-    "images": {
-        "avatar": "https://www.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+  "chain": "Counterparty",
+  "name": "Modern Relics",
+  "images": {
+    "avatar": "https://www.arweave.net/pcqh6-nzFORzEwk9BzMcZc_Yihok0sd0zlLLbogg0kY/logo.png",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "https://modernrelics.io/"
+  },
+  "sets": [
+    {
+      "name": "April 2023",
+      "images": {
+        "avatar": "",
         "banner": ""
-    },
-    "description": "",
-    "externalLinks": {
-        "website": "https://modernrelics.io/"
-    },
-    "sets": [
+      },
+      "description": "",
+      "assets": [
         {
-            "name": "April 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "1",
-                    "name": "COLLECTOR",
-                    "images": {
-                        "primary": "https://www.arweave.net/50DNAfbJjwnPODM-zd1Y5KrMpL8lGV6VuJmn36mwZcQ/COLLECTOR.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Shorty",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "1a",
-                            "name": "COLLECTOR.areyoumissingsomething",
-                            "images": {
-                                "primary": "https://www.arweave.net/AECrpQQUjcSTho8CSbNTcJBeN2OHz4Q1nxn3hnt2wqE/COLLECTOR.areyoumissingsomething.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Egido Val",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1b",
-                            "name": "COLLECTOR.COLLECTOR",
-                            "images": {
-                                "primary": "https://www.arweave.net/4id1v2cKZxH9lE1OzgtxXDduJUt4Ajnae6ArBga79Ms/COLLECTOR.COLLECTOR.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Rey",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1c",
-                            "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
-                            "images": {
-                                "primary": "https://www.arweave.net/kNH1VxOoUvQni4zduK8PeZQ4NI-f2lX_OM1T94NgrVw/COLLECTOR.COLLECTOR_COUNTERPARTY.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "D. Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1d",
-                            "name": "COLLECTOR.FROGINAJAR",
-                            "images": {
-                                "primary": "https://www.arweave.net/BRojfWMdQnk7sWW_iOZIc2V3c3wmX2-05fx3SyrcWqE/COLLECTOR.FROGINAJAR.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1e",
-                            "name": "COLLECTOR.FROGJUICE",
-                            "images": {
-                                "primary": "https://www.arweave.net/7XlkLVXH1cMIcaa14157yhhv-ZTTtUwuCwWw3KYUnIk/COLLECTOR.FROGJUICE.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "PrivateKey",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1f",
-                            "name": "COLLECTOR.Hand_of_Pepe",
-                            "images": {
-                                "primary": "https://www.arweave.net/7-aboaipJEvXmiX_QOWnYUaWodRdO7_dx2n4DjeSkJ0/COLLECTOR.Hand_of_Pepe.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1g",
-                            "name": "COLLECTOR.Introducing_Pepe",
-                            "images": {
-                                "primary": "https://www.arweave.net/_XY9dDxHdv-m1rJ8OfKEGPpwVw3qcKm-ex2xamNlA5k/COLLECTOR.Introducint_Pepe.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1h",
-                            "name": "COLLECTOR.KING",
-                            "images": {
-                                "primary": "https://www.arweave.net/JrWwIUVsjaBREaK6GqPW8y3V6kVl1NAPflFnhRFCJKI/COLLECTOR.KING.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Tizar Berandalan",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1i",
-                            "name": "COLLECTOR.mint",
-                            "images": {
-                                "primary": "https://www.arweave.net/edN-DPiCII0AFoAeHwrPFlUyRMOydbv_yGwObxuPYTs/COLLECTOR.mint.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "P彼此: PitooPi",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1j",
-                            "name": "COLLECTOR.mother",
-                            "images": {
-                                "primary": "https://www.arweave.net/hO_0WWlVH9x1ioFMRluf57dTmr_BcARqnQRA5gM0c1o/COLLECTOR.mother.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Danny",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1k",
-                            "name": "COLLECTOR.not_a_hoarder",
-                            "images": {
-                                "primary": "https://www.arweave.net/-46dzNEqVopvZv6so-dvNpN02WxJxJO4ZXDX-7yk4_w/COLLECTOR.not_a_hoarder.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "KimbrowAF",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1l",
-                            "name": "COLLECTOR.OOSEVEN",
-                            "images": {
-                                "primary": "https://www.arweave.net/rm5yKlcwmXwgGgJ9vDfEGEUrmG9ktlyKsTdJolBzsJk/COLLECTOR.OOSEVEN.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "YONI",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1m",
-                            "name": "COLLECTOR.PEPECOLLECTOR",
-                            "images": {
-                                "primary": "https://www.arweave.net/kRABCOFQIlYJSOHOuVmrr01FqR7s-priKsKEWO8szQ4/COLLECTOR.PEPECOLLECTOR.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1n",
-                            "name": "COLLECTOR.pepefc",
-                            "images": {
-                                "primary": "https://www.arweave.net/EBASDE5IApHcMTHcv88mQF3lghHlH8dCsxNG915Rt14/COLLECTOR.pepefc.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Bbleiztz",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1o",
-                            "name": "COLLECTOR.QUEEN",
-                            "images": {
-                                "primary": "https://www.arweave.net/9K7JYz0J5iPRz6qqO1piK8YEEjd02qGFqtG0iCXCdlU/COLLECTOR.QUEEN.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Tizar Berandalan",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1p",
-                            "name": "COLLECTOR.The_Collector",
-                            "images": {
-                                "primary": "https://www.arweave.net/NxUlkc08meqiP1phm6Y5aQJkHtuSQURvrSKeWX6h7FI/COLLECTOR.The_Collector.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1q",
-                            "name": "COLLECTOR.The_Counterparty_Collection",
-                            "images": {
-                                "primary": "https://www.arweave.net/AkksTqn6RWcgSIB5YgIHkmzzCm07KIlGOy1bfx4jwXw/COLLECTOR.The_Counterparty_Collection.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "1r",
-                            "name": "COLLECTOR.TheCollector",
-                            "images": {
-                                "primary": "https://www.arweave.net/O893rogUKRHfm4d2bUCk5SbZwXjLxNHG86YN3ifbFKo/COLLECTOR.TheCollector.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "LittleShibe",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1",
+          "name": "COLLECTOR",
+          "images": {
+            "primary": "https://www.arweave.net/50DNAfbJjwnPODM-zd1Y5KrMpL8lGV6VuJmn36mwZcQ/COLLECTOR.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "May 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "2",
-                    "name": "FAIRY",
-                    "images": {
-                        "primary": "https://www.arweave.net/lRlX6ajxq8-jBWH5XSSVG6oFjO6MoFKr7Dq80V3monQ/Fairy.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "OoakosiMo",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "2a",
-                            "name": "FAIRY.ANDPEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/dBt-PP_uBNv4prkHwnAMmjolZi9nxf2X66DaeBJ2fTI/FAIRY.ANDPEPE.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AdeKrypto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2b",
-                            "name": "FAIRY.elvina",
-                            "images": {
-                                "primary": "https://www.arweave.net/9nW7gYg5jwxQTQdFYnBEnC-RvGjgNeQT0ONotyI_uJY/FAIRY.ELVINIA.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2c",
-                            "name": "FAIRY.MAGIC",
-                            "images": {
-                                "primary": "https://www.arweave.net/b9lce6kWBMlbQtWPxCti6F3-Id7UFZaWpFl4QCFf-H0/FAIRY.MAGIC.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2d",
-                            "name": "FAIRY.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/MAA_qe65GY5O0gbPPydahtng2fiwua_2jm70TV7F_SA/FAIRY.PEPE.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2e",
-                            "name": "FAIRY.The_Pepe_Fairy",
-                            "images": {
-                                "primary": "https://www.arweave.net/L2IlPnLmgmF0jtpxbRfVjPlilwkA7KyXDKQPsx6YmdM/FAIRY.THE_PEPE_FAIRY.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2f",
-                            "name": "FAIRY.Tooth_Fairy",
-                            "images": {
-                                "primary": "https://www.arweave.net/PaqXU-b8Zuj4PS8MaEQcguRRweX1b-yg9W_UVOxm88w/FAIRY.TOOTH_FAIRY.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "2g",
-                            "name": "FAIRY.TWISTED",
-                            "images": {
-                                "primary": "https://www.arweave.net/CM2Tg7R1PHVlbMD48TiiduKjI9yGLJtM0bNZh01IqE0/FAIRY.TWISTED.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1a",
+          "name": "COLLECTOR.areyoumissingsomething",
+          "images": {
+            "primary": "https://www.arweave.net/AECrpQQUjcSTho8CSbNTcJBeN2OHz4Q1nxn3hnt2wqE/COLLECTOR.areyoumissingsomething.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Egido Val",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "June 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "3",
-                    "name": "GREED",
-                    "images": {
-                        "primary": "https://www.arweave.net/46G-QkFMASAVYrep-55_6jVwJA7KE8d5HsiwhtmHybs/Greed.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "3a",
-                            "name": "GREED.GREEDMACDUCK",
-                            "images": {
-                                "primary": "https://www.arweave.net/A9k8_2H5zyRrLCrW8CFD9XvIlN26nGU7vQb_hSuM52A/GREED.GREEDMACDUCK.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3b",
-                            "name": "GREED.ISGOOD",
-                            "images": {
-                                "primary": "https://www.arweave.net/kOlQCuE2yUpB5Q-3ZIkj5vw2B5YkXdRDUYmVjpQA9fk/GREED.ISGOOD.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3c",
-                            "name": "GREED.MAMMON",
-                            "images": {
-                                "primary": "https://www.arweave.net/NnKHgDbz-ZpWFX-yFD2qqBvhp76Zxyamw4kHuG-hNng/GREED.MAMMON.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AdeKrypto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3d",
-                            "name": "GREED.Monopepe",
-                            "images": {
-                                "primary": "https://www.arweave.net/A8AIUkXTcjRILyoTLsYbj0NYWZqISVHBvPvMHR3VyZs/GREED.MONOPEPE.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3e",
-                            "name": "GREED.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/IFxjIfr04vwGjKX-VHhpi5WieA7RQGqZ4vid4izY574/GREED.PEPE.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3f",
-                            "name": "GREED.PORTALS",
-                            "images": {
-                                "primary": "https://www.arweave.net/qSctKgpbwHIFGTVuJVxT9wcvORmVsMmNaVAPXM-NN40/GREED.PORTALS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "OoakosiMo",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3g",
-                            "name": "GREED.PRECIOUS",
-                            "images": {
-                                "primary": "https://www.arweave.net/wtXcTqb2usb3iHMfm3RcjrWRKDISQ8zXSuSe5OeIza4/GREED.PRECIOUS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "3h",
-                            "name": "GREED.WANT",
-                            "images": {
-                                "primary": "https://www.arweave.net/uYw0h3RaBN0qO-E__DXwsPCu9MUCEiiIa8gVEaE5dUg/GREED.WANT.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1b",
+          "name": "COLLECTOR.COLLECTOR",
+          "images": {
+            "primary": "https://www.arweave.net/4id1v2cKZxH9lE1OzgtxXDduJUt4Ajnae6ArBga79Ms/COLLECTOR.COLLECTOR.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Rey",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "July 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "4",
-                    "name": "PSYCHO",
-                    "images": {
-                        "primary": "https://www.arweave.net/vzdhzoKgjm7R_WiZONDZeApdvtDReEOVOlclFZX-S_M/PSYCHO.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "4a",
-                            "name": "PSYCHO.CYBERPUNK",
-                            "images": {
-                                "primary": "https://www.arweave.net/dhZ3LB_LeW-H5sXjm8vGeq2dXI0hqJ6q14VoaW8ukes/PSYCHO.CYBERPUNK.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "OoakosiMo",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4b",
-                            "name": "PSYCHO.DALIESQUE",
-                            "images": {
-                                "primary": "https://www.arweave.net/QK5FBL6vHS2SxDlz1aTXunyIhoaAm0icFOlIohPZMqc/PSYCHO.DALIESQUE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4c",
-                            "name": "PSYCHO.GENSLER",
-                            "images": {
-                                "primary": "https://www.arweave.net/pfShRujTn0kQphrDamB-thCRfTgleKE_bpAN02yzXmo/PSYCHO.GENSLER.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4d",
-                            "name": "PSYCHO.IMHOME",
-                            "images": {
-                                "primary": "https://www.arweave.net/rb4P7brl8JR-5iBv0fAiIphslvAtGCmO6z0MLHe5N-Q/PSYCHO.IMHOME.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4e",
-                            "name": "PSYCHO.KILLER",
-                            "images": {
-                                "primary": "https://www.arweave.net/Npc5izMvDiIrcYhfRvCEoJ5x7f3RuBQ2U4Dya3x9Kr4/PSYCHO.KILLER.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4f",
-                            "name": "PSYCHO.KRUEGER",
-                            "images": {
-                                "primary": "https://www.arweave.net/PqEsXihsDBxUPtoda5Are2J5v_sa4CqZfApc0i_bVEE/PSYCHO.IMHOME.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4g",
-                            "name": "PSYCHO.MASKOFF",
-                            "images": {
-                                "primary": "https://www.arweave.net/zzlSVFXKgGcBL9z86uNR1AjNbUfTbTjZI4lGLjpmzvA/PSYCHO.MASKOFF.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4h",
-                            "name": "PSYCHO.OG",
-                            "images": {
-                                "primary": "https://www.arweave.net/4NC2tx7hln96M3TpLlp1NhfTkVOmkwTJk3CQt6S4C2I/PSYCHO.OG.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "4i",
-                            "name": "PSYCHO.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/4-WB1xBLkj-g5BjN_FUoR1VSlO9RD8YnUGCyo2tGRe8/PSYCHO.PEPE.jpeg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AdeKrypto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1c",
+          "name": "COLLECTOR.COLLECTOR_COUNTERPARTY",
+          "images": {
+            "primary": "https://www.arweave.net/kNH1VxOoUvQni4zduK8PeZQ4NI-f2lX_OM1T94NgrVw/COLLECTOR.COLLECTOR_COUNTERPARTY.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "D. Shorty",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "August 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "5",
-                    "name": "VIPER",
-                    "images": {
-                        "primary": "https://www.arweave.net/5HP74KpM11f4O_23pfa5XYB8D0N_Z2U4uHR22oMD7gU/VIPER.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "AbysVora",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "5a",
-                            "name": "VIPER.BRO",
-                            "images": {
-                                "primary": "https://www.arweave.net/eTnT6cwDz1X82zjHyOEQxNayUC7oIFkvcA-agSfN6DQ/VIPER.BRO.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5b",
-                            "name": "VIPER.FINAL_BITCOIN",
-                            "images": {
-                                "primary": "https://www.arweave.net/Uu9IpE0_t3_TfYiExULBmeDMWkxH_8os7Zj7Tw_tExc/VIPER.FINAL_BITCOIN.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5c",
-                            "name": "VIPER.MRVIPERPEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/olADRFlqk6Wg9-3fONRvli5rYgtQ2KPFVtw8xC1uAQw/VIPER.MRVIPERPEPE.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5d",
-                            "name": "VIPER.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/LPgt6QDf7fWoSq62R2rr2Em3v1GncO77EFgGkvWDz8I/VIPER.PEPE.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5e",
-                            "name": "VIPER.SELFID",
-                            "images": {
-                                "primary": "https://www.arweave.net/udMNQCen25e-DZJZ7VHVVbyinRoauBwmjC5J8h9pgNo/VIPER.SELFID.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5f",
-                            "name": "VIPER.SELFSERVICE",
-                            "images": {
-                                "primary": "https://www.arweave.net/8Pa-PAMFrG4OTniGV04xbo_vRelielVYNpqvWEKcdfA/VIPER.SELFSERVICE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5g",
-                            "name": "VIPER.THELOVER",
-                            "images": {
-                                "primary": "https://www.arweave.net/f2byxGShr7o2avAr-29si6exY0gpE21pWq_euzwDlEo/VIPER.THELOVER.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5h",
-                            "name": "VIPER.UH_OH",
-                            "images": {
-                                "primary": "https://www.arweave.net/HwPx7Nrz5GzfR7qLogJvWK8Ig5ygFdTPM-TA9R1WYaw/VIPER.UH_OH.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5i",
-                            "name": "VIPER.VENOMNIGHT",
-                            "images": {
-                                "primary": "https://www.arweave.net/EI3mp7m-uffw5METMGCrYb3cVrYfqjo2YctRnSvis2Q/VIPER.VENOMNIGHT.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "5j",
-                            "name": "VIPER.VYPER",
-                            "images": {
-                                "primary": "https://www.arweave.net/564dJBYEBdIOcD9dJTHJFwqQd9SOANXWSlvO5bANz7M/VIPER.VYPER.jpeg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AdeKrypto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1d",
+          "name": "COLLECTOR.FROGINAJAR",
+          "images": {
+            "primary": "https://www.arweave.net/BRojfWMdQnk7sWW_iOZIc2V3c3wmX2-05fx3SyrcWqE/COLLECTOR.FROGINAJAR.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "September 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "6",
-                    "name": "GOAT",
-                    "images": {
-                        "primary": "https://www.arweave.net/HD_Vth9m2IKrgcF7froklM_WIvgnQq_THivHeBJeNEE/GOAT.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "AbysVora",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "6a",
-                            "name": "GOAT.COWPEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/sNpJWSklKxfGtzeaEJdE60DJJUGTl68BCDY9WmebqXw/GOAT.COWPEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6b",
-                            "name": "GOAT.DEVILSGOAT",
-                            "images": {
-                                "primary": "https://www.arweave.net/-m4sR10JRa46CMxVdMD_01YvTmc7o-6EeB8cStl2m_M/GOAT.DEVILSGOAT.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6c",
-                            "name": "GOAT.ERNEST",
-                            "images": {
-                                "primary": "https://www.arweave.net/6WTci-Q7RPShwrCvEjhSFTDyzirAwID3EzWUtxJbaug/GOAT.ERNEST.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6d",
-                            "name": "GOAT.Illumigoat",
-                            "images": {
-                                "primary": "https://www.arweave.net/p0T-OZAPh4_BVVEcK0T1YouLHkwvBqGg_sjToq-Vuc0/GOAT.Illumigoat.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6e",
-                            "name": "GOAT.Jeez",
-                            "images": {
-                                "primary": "https://www.arweave.net/ch5G2vbpDj6Z3kalS4qk43gWu8G0VF9Wdgeh5WPQEi8/GOAT.Jeez.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "YONI",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6f",
-                            "name": "GOAT.JORDAN",
-                            "images": {
-                                "primary": "https://www.arweave.net/Lhfk--Y24BDutXCCIHorT4A4QWsXY71Q7z9F4NoNnwwA/GOAT.JORDAN.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6g",
-                            "name": "GOAT.MJGOAT",
-                            "images": {
-                                "primary": "https://www.arweave.net/5DtBbB4LrP2OfHw1vQxsNr-albgdpxZj_srAoxUVbPc/GOAT.MJGOAT.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robby Low",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6h",
-                            "name": "GOAT.THE27CLUB",
-                            "images": {
-                                "primary": "https://www.arweave.net/-HCrcsTC_ve6ahDtcQbMo1EsKcV8xclh_9hDbIEtnSs/GOAT.THE27CLUB.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "6i",
-                            "name": "GOAT.WILLIEPEPENELSON",
-                            "images": {
-                                "primary": "https://www.arweave.net/IYeihxm99UuuNqAH8lhsUb-1BSodpuMzPGtRQcw_MZg/GOAT.WILLIEPEPENELSON.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "ROCCO",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1e",
+          "name": "COLLECTOR.FROGJUICE",
+          "images": {
+            "primary": "https://www.arweave.net/7XlkLVXH1cMIcaa14157yhhv-ZTTtUwuCwWw3KYUnIk/COLLECTOR.FROGJUICE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "PrivateKey",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "October 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "7",
-                    "name": "COBRA",
-                    "images": {
-                        "primary": "https://www.arweave.net/kReAltTlYjk14JO0024BdeKsiO4M_YsmKwSeYeCz_PQ/COBRA.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "7a",
-                            "name": "COBRA.ALMANAC2024",
-                            "images": {
-                                "primary": "https://www.arweave.net/sBkdXemBy44Bx63a6er5Q3ogzqlxiN4XxhL6oV6KMf0/COBRA.ALMANAC2024.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7b",
-                            "name": "COBRA.CADUCEUS",
-                            "images": {
-                                "primary": "https://www.arweave.net/SYDMZvfNZD2q4VZaRjH7HYjms93AtxOrCzgXPQIGa3c/COBRA.CADUCEUS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AdeKrypto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7c",
-                            "name": "COBRA.CrimsonQueen",
-                            "images": {
-                                "primary": "https://www.arweave.net/COBRA.CrimsonQueen.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7d",
-                            "name": "COBRA.hauntedserpent",
-                            "images": {
-                                "primary": "https://www.arweave.net/efA4g8K64B8iDQNjwn0ToYogvctYsz7sNLNJG0YYNOs/COBRA.hauntedserpent.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7e",
-                            "name": "COBRA.HERCULPEPES",
-                            "images": {
-                                "primary": "https://www.arweave.net/dTXs7VNLx_PPvLpF1qKIXKDYqX03TGCq_nsjo9h_GuY/COBRA.HERCULPEPES.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7f",
-                            "name": "COBRA.hypnotized",
-                            "images": {
-                                "primary": "https://www.arweave.net/ZtwfKELu_RXXv27dxI0kZU3tPWJZ87mXQN_JdPCffKw/COBRA.hypnotized.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "PitooPi",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7g",
-                            "name": "COBRA.PEPE_BEER",
-                            "images": {
-                                "primary": "https://www.arweave.net/sZ9Vb3XCSdff4orfL3sik5bPv-bi_muDqF_AjuAoNbc/COBRA.PEPE_BEER.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7h",
-                            "name": "COBRA.QUEEN",
-                            "images": {
-                                "primary": "https://www.arweave.net/g_tmmpmMb0H9WZ3E6-tVIPre0f6mJlleTmmVAL2daXQ/COBRA.QUEEN.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7i",
-                            "name": "COBRA.STALLONE",
-                            "images": {
-                                "primary": "https://www.arweave.net/DwqpTHr247Iy67XfW_rg-0Bqr-ohkkjsoIBBTnwi6o0/COBRA.STALLONE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7j",
-                            "name": "COBRA.STRIKE",
-                            "images": {
-                                "primary": "https://www.arweave.net/n13JYZMRgQW1LMgcjzg-8q0iod1O4VKlJQ-uz2sSIw4/COBRA.STRIKE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7k",
-                            "name": "COBRA.TATE",
-                            "images": {
-                                "primary": "https://www.arweave.net/eVh8NZNY2CPMS1LtF_jQErUexqyU5QFO1xziUQTRI7s/COBRA.TATE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "7l",
-                            "name": "COBRA.TINFOILHAT",
-                            "images": {
-                                "primary": "https://www.arweave.net/pUT_F7OtLSeFJCkOkctOGry98S4cvxj1buV9mgF3hbw/COBRA.TINFOILHAT.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "OoakosiMo",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1f",
+          "name": "COLLECTOR.Hand_of_Pepe",
+          "images": {
+            "primary": "https://www.arweave.net/7-aboaipJEvXmiX_QOWnYUaWodRdO7_dx2n4DjeSkJ0/COLLECTOR.Hand_of_Pepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "November 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "8",
-                    "name": "CRAB",
-                    "images": {
-                        "primary": "https://www.arweave.net/v7JLKkmVJ2HPyZVn6ifFlLC3HUtwFYEj3r_BhEpA2a4/CRAB.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Shorty",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "8a",
-                            "name": "CRAB.BAND",
-                            "images": {
-                                "primary": "https://www.arweave.net/GiTEvPQ2f5TYQNKYsatNrWTWLfJ8aIWwP_43pK3p2kg/CRAB.BAND.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8b",
-                            "name": "CRAB.CRABMR",
-                            "images": {
-                                "primary": "https://www.arweave.net/nfxPGVAzjDvQCGUGvR3KQsk1bUhnulRx8VrZbEyqdrc/CRAB.CRABMR.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Memekingart",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8c",
-                            "name": "CRAB.HELP",
-                            "images": {
-                                "primary": "https://www.arweave.net/9zBUZKyfgUmy7nsNDQVXaXXkfPtXCqtThIri1RT1eSI/CRAB.HELP.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8d",
-                            "name": "CRAB.INVADER",
-                            "images": {
-                                "primary": "https://www.arweave.net/VOTkEHpOpUeWzKjdEdK8gpy5kLia_ZF7sQbFdT9I7-I/CRAB.INVADER.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "OoakosiMo",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8e",
-                            "name": "CRAB.SHINY",
-                            "images": {
-                                "primary": "https://www.arweave.net/3Hu8MEszKl9IgcrwgEpG84mlFc94oK9pfHtrDK4cKE0/CRAB.SHINY.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8f",
-                            "name": "CRAB.Tramp",
-                            "images": {
-                                "primary": "https://www.arweave.net/AE5Bf-8NSJOVQjpNom3gN9_-ksCQbuiyvrh-Pkz7qbw/CRAB.Tramp.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "8g",
-                            "name": "CRAB.xcp",
-                            "images": {
-                                "primary": "https://www.arweave.net/OoCOXfqGUfGrtv1uvYqhK8LcjpTP-28NK1xwJkbMrXY/CRAB.xcp.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "PitooPi",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1g",
+          "name": "COLLECTOR.Introducing_Pepe",
+          "images": {
+            "primary": "https://www.arweave.net/_XY9dDxHdv-m1rJ8OfKEGPpwVw3qcKm-ex2xamNlA5k/COLLECTOR.Introducint_Pepe.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "December 2023",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "9",
-                    "name": "MERMAID",
-                    "images": {
-                        "primary": "https://www.arweave.net/JidhRWYmKQ3AoGHm-mcmuAy96BSqjM0P6eKT8hSaqso/MERMAID.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "AbysVora",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "9a",
-                            "name": "MERMAID.BIKINIBOTTOM",
-                            "images": {
-                                "primary": "https://www.arweave.net/4hWrBey_1Xmaksvzzwo8PSTl8sStS1T4A8RRHyboVzU/MERMAID.BIKINIBOTTOM.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "9b",
-                            "name": "MERMAID.BLOCKCHAIN",
-                            "images": {
-                                "primary": "https://www.arweave.net/mO9vOFlK4msqtCOZ4Kmg4Ue-WdUGWetyBAUrGIqTTEU/MERMAID.BLOCKCHAIN.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "9c",
-                            "name": "MERMAID.BOOBS",
-                            "images": {
-                                "primary": "https://www.arweave.net/PKTW4w7oM43gfh8PDvZwd576rrpUZh73dZp9DSVQXdQ/MERMAID.BOOBS.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "9d",
-                            "name": "MERMAID.FART",
-                            "images": {
-                                "primary": "https://www.arweave.net/tbyNMMKIo_-mkQtIuVT0siS9MHXLxlNkxpaZQiTaiWY/MERMAID.FART.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "9e",
-                            "name": "MERMAID.FROG_PRINCE",
-                            "images": {
-                                "primary": "https://www.arweave.net/7w62gF43-YK7o1GNtYsip8lF6fPcZMAYXPwQ0jyiCWA/MERMAID.FROG_PRINCE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1h",
+          "name": "COLLECTOR.KING",
+          "images": {
+            "primary": "https://www.arweave.net/JrWwIUVsjaBREaK6GqPW8y3V6kVl1NAPflFnhRFCJKI/COLLECTOR.KING.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Tizar Berandalan",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "January 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "10",
-                    "name": "GODS",
-                    "images": {
-                        "primary": "https://www.arweave.net/vFkef6nOFrfGbk7qW8nAlbCmYDH7-jwQ10IKeWuDQX0/GODS.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "AbysVora",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "10a",
-                            "name": "GODS.LOVESYALL",
-                            "images": {
-                                "primary": "https://www.arweave.net/8dzTxxfiKRkEzpqqty4tykcSv6fDaA74m-jjy0glfi4/GODS.LOVESYALL.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "10b",
-                            "name": "GODS.OFCHAIN",
-                            "images": {
-                                "primary": "https://www.arweave.net/BG_1wSrVUQOCZZcgyktHvM1CCThHmkWnHM25IV-5Oas/GODS.OFCHAIN.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "10c",
-                            "name": "GODS.PEPE_IS_GOD",
-                            "images": {
-                                "primary": "https://www.arweave.net/15tpV5mbceHv5i9I-M1-ljToe41mUKuD7D951Iu4wj0/GODS.PEPE_IS_GOD.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "10d",
-                            "name": "GODS.THATFAILED",
-                            "images": {
-                                "primary": "https://www.arweave.net/f21n6tcOs0rwscL4nyp4gD0PssfyRf6iMpodxSoBGmA/GODS.THATFAILED.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1i",
+          "name": "COLLECTOR.mint",
+          "images": {
+            "primary": "https://www.arweave.net/edN-DPiCII0AFoAeHwrPFlUyRMOydbv_yGwObxuPYTs/COLLECTOR.mint.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "P彼此: PitooPi",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "February 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "11",
-                    "name": "GARGOYLE",
-                    "images": {
-                        "primary": "https://www.arweave.net/buJEHb2wshX6FdNgq0sYuT0y4toeX1N1SKKQczr7G9E/GARGOYLE.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "11a",
-                            "name": "GARGOYLE.AWAKENS",
-                            "images": {
-                                "primary": "https://www.arweave.net/tGH92Cf8BHVriJo6MOxqWRk02S_uOgmPYMsXmEZ0FB0/GARGOYLE.AWAKENS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "11b",
-                            "name": "GARGOYLE.Gothic_Guardian",
-                            "images": {
-                                "primary": "https://www.arweave.net/-6rS6gvc5esbmZgs94jdce06tydpoM1m54DlD5oAYPg/GARGOYLE.Gothic_Guardian.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "11c",
-                            "name": "GARGOYLE.HUNCH",
-                            "images": {
-                                "primary": "https://www.arweave.net/3d7Wxida-SmOVmivxIAX0oYmKj-zPKv8WAu_yBYjD5g/GARGOYLE.HUNCH.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "11d",
-                            "name": "GARGOYLE.INFAMOUS_PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/TOxnn6olV7QHl3yo5thMmHXwyHZsi-Udt7u8R4tkA2Y/GARGOYLE.INFAMOUS_PEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "11e",
-                            "name": "GARGOYLE.Mecha_Gargoyle_Enigma",
-                            "images": {
-                                "primary": "https://www.arweave.net/yMw9-Pm0QEzlK5Vle98oIWUR7EGw0DWZ0r12PAfBsO0/GARGOYLE.Mecha_Gargoyle_Enigma.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "AbysVora",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "11f",
-                            "name": "GARGOYLE.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/v5A13NnhIn0Nwm4COxLXuZtSNRl35Jgo9oGlckwlJ_s/GARGOYLE.PEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1j",
+          "name": "COLLECTOR.mother",
+          "images": {
+            "primary": "https://www.arweave.net/hO_0WWlVH9x1ioFMRluf57dTmr_BcARqnQRA5gM0c1o/COLLECTOR.mother.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Danny",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "March 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "12",
-                    "name": "WASP",
-                    "images": {
-                        "primary": "https://www.arweave.net/ZK-2-tkHFSCXwoxKd1Mg3yCpGeMK6aAcvZ0yH5wyrnM/WASP.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "12a",
-                            "name": "WASP.WASPHEAD",
-                            "images": {
-                                "primary": "https://www.arweave.net/ke3pogHO7S0gsOs0F9g_WEuAF81aq_sPhTeuKsHyFNU/WASP.WASPHEAD.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "12b",
-                            "name": "WASP.WASPPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/ApBinYEj88gSus14uwO6CBJzWO_pWywCyN072fmalm8/WASP.WASPPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1k",
+          "name": "COLLECTOR.not_a_hoarder",
+          "images": {
+            "primary": "https://www.arweave.net/-46dzNEqVopvZv6so-dvNpN02WxJxJO4ZXDX-7yk4_w/COLLECTOR.not_a_hoarder.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "KimbrowAF",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "April 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "13",
-                    "name": "FURY",
-                    "images": {
-                        "primary": "https://www.arweave.net/Qk4G3GUo31t_ljMOyNHf9r9x3gpBzRkMZHXLVzXCH4U/FURY.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "13a",
-                            "name": "FURY.NF",
-                            "images": {
-                                "primary": "https://www.arweave.net/oZtkY4PaMxJii_tUh6p_Rk87gvL9_aTTmXWhi0sVfks/FURY.NF.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "13b",
-                            "name": "FURY.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/agFWf6dJT3EQdoNu-tbCf6u7pSzP99NIPtE-SRjyhiQ/FURY.PEPE.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "13c",
-                            "name": "FURY.TEMPEST",
-                            "images": {
-                                "primary": "https://www.arweave.net/YHAr7cV_K9FgOt0ODo4b1i9jMpc6r5z_fZfyL5Z5Boc/FURY.TEMPEST.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1l",
+          "name": "COLLECTOR.OOSEVEN",
+          "images": {
+            "primary": "https://www.arweave.net/rm5yKlcwmXwgGgJ9vDfEGEUrmG9ktlyKsTdJolBzsJk/COLLECTOR.OOSEVEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "YONI",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "May 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "14",
-                    "name": "LUCIFER",
-                    "images": {
-                        "primary": "https://www.arweave.net/K5GZy0opAnf6naXyz8cW8cHV6AgbruRPNE05WkYaPj0/LUCIFER.png",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "papeto",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "14a",
-                            "name": "LUCIFER.LUCIFUN",
-                            "images": {
-                                "primary": "https://www.arweave.net/slYL_LmUrcvKBVC_JW3wUslK_z5btQWOd17t_yzYWtY/LUCIFER.LUCIFUN.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "14b",
-                            "name": "LUCIFER.WHOISGENSLER",
-                            "images": {
-                                "primary": "https://www.arweave.net/OXceVM-Qdju1JiJHAmID0SIhxiAvd21yvxXUW6aP258/LUCIFER.WHOISGENSLER.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1m",
+          "name": "COLLECTOR.PEPECOLLECTOR",
+          "images": {
+            "primary": "https://www.arweave.net/kRABCOFQIlYJSOHOuVmrr01FqR7s-priKsKEWO8szQ4/COLLECTOR.PEPECOLLECTOR.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "June 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "15",
-                    "name": "LORD",
-                    "images": {
-                        "primary": "https://www.arweave.net/hc8uYlv97FWUbti_v0xXe50l6OhcRGKxtglsRRpRJFI/LORD.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "papeto",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "15a",
-                            "name": "LORD.NAKAMOTO",
-                            "images": {
-                                "primary": "https://www.arweave.net/bw815yoPkLABUFbN8dDRogm-f5zK6uKIPmMcxCsS5fY/LORD.NAKAMOTO.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "15b",
-                            "name": "LORD.OFMEMES",
-                            "images": {
-                                "primary": "https://www.arweave.net/3I7Z6Do6Wmm-mgtWGDx4x8k3BvjqNsvdLETepliLRgc/LORD.OFMEMES.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "15c",
-                            "name": "LORD.OFTHERINGS",
-                            "images": {
-                                "primary": "https://www.arweave.net/wEvZNOLi7S58Se0-ld8jnhTL9Xm-QwEMa5wn3cJUaDs/LORD.OFTHERINGS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1n",
+          "name": "COLLECTOR.pepefc",
+          "images": {
+            "primary": "https://www.arweave.net/EBASDE5IApHcMTHcv88mQF3lghHlH8dCsxNG915Rt14/COLLECTOR.pepefc.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Bbleiztz",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "July 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "16",
-                    "name": "EYES",
-                    "images": {
-                        "primary": "https://www.arweave.net/NxeTt2uWVcw3jh32JFGJQcHIVKdwcZ_lNY5WD5-CMVs/EYES.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "papeto",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "16a",
-                            "name": "EYES.HYPNOTIZE",
-                            "images": {
-                                "primary": "https://www.arweave.net/qLQ7-Dyp90ZaC5AGKSelte0GKFLUNisS8wy-jfbeCag/EYES.HYPNOTIZE.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "16b",
-                            "name": "EYES.LASER",
-                            "images": {
-                                "primary": "https://www.arweave.net/PiEXpMgfCxak9mY-Hx6VF0bXdaO6dYq8hKLusVSVt1Q/EYES.LASER.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "16c",
-                            "name": "EYES.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/H-DDFTCkIFlwtuscEf19sZp5cNyglpiNlq0Ue70SvdE/EYES.PEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1o",
+          "name": "COLLECTOR.QUEEN",
+          "images": {
+            "primary": "https://www.arweave.net/9K7JYz0J5iPRz6qqO1piK8YEEjd02qGFqtG0iCXCdlU/COLLECTOR.QUEEN.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Tizar Berandalan",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "August 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "17",
-                    "name": "GHOUL",
-                    "images": {
-                        "primary": "https://www.arweave.net/VnOYnuwOJjivnvrpP8EDKoQ6sZAvLpaS6foXS1weTiI/GHOUL.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Shorty",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "17a",
-                            "name": "GHOUL.ATTACK",
-                            "images": {
-                                "primary": "https://www.arweave.net/mEWi9_Wg2rn6Qh-2IydZnRfseKVgdV7eoWoh63A6_kY/GHOUL.ATTACK.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "17b",
-                            "name": "GHOUL.HIGH",
-                            "images": {
-                                "primary": "https://www.arweave.net/-MgH9WH1pzakAkZh0_Ylrl8qqtMxrhZn4mZ9H4w_dTI/GHOUL.HIGH.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "17c",
-                            "name": "GHOUL.PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/d4JXCyWNIIR7953XYaIXz4rYMLLdAHkSBghpELEs_5I/GHOUL.PEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1p",
+          "name": "COLLECTOR.The_Collector",
+          "images": {
+            "primary": "https://www.arweave.net/NxUlkc08meqiP1phm6Y5aQJkHtuSQURvrSKeWX6h7FI/COLLECTOR.The_Collector.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "September 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "18",
-                    "name": "DEMON",
-                    "images": {
-                        "primary": "https://www.arweave.net/h3brnALRXe2OplInoNE0ehYyqgxKooBIaDvFywNBQg0/DEMON.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "18a",
-                            "name": "DEMON.FEARLESS",
-                            "images": {
-                                "primary": "https://www.arweave.net/lM__Ld0Y6_hH3pwgPcPJRo493icFf375BOfam5vwpKM/DEMON.FEARLESS.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "18b",
-                            "name": "DEMON.LAVA_PEPE",
-                            "images": {
-                                "primary": "https://www.arweave.net/wIObd07Tqn806sCDnSDwxHymoqJzHLLjPDPsLojk6LE/DEMON.LAVA_PEPE.jpg",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "18c",
-                            "name": "DEMON.scream",
-                            "images": {
-                                "primary": "https://www.arweave.net/I1OpREIjP2P3qoFNLzXph_yWe2n2_KlWPMCXcGIeKbw/DEMON.scream.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "PitooPi",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1q",
+          "name": "COLLECTOR.The_Counterparty_Collection",
+          "images": {
+            "primary": "https://www.arweave.net/AkksTqn6RWcgSIB5YgIHkmzzCm07KIlGOy1bfx4jwXw/COLLECTOR.The_Counterparty_Collection.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
         },
         {
-            "name": "October 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "19",
-                    "name": "INSOMNIA",
-                    "images": {
-                        "primary": "https://www.arweave.net/uT7da-rfHZzgvFXuk4RFLd7mfN3a8c3Rsz0tjd0dQZw/INSOMNIA.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "19a",
-                            "name": "INSOMNIA.CANTSLEEP",
-                            "images": {
-                                "primary": "https://www.arweave.net/btyJzgpOL3rCBR_0-jbz2GBM02V-1y94jZivgXYS9JA/INSOMNIA.CANTSLEEP.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "19b",
-                            "name": "INSOMNIA.FIGHT",
-                            "images": {
-                                "primary": "https://www.arweave.net/xuwpgEoFQAX_M3wfj_lniwQoceGn_VBHl9FJD3rvTnY/INSOMNIA.FIGHT.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "19c",
-                            "name": "INSOMNIA.LETMEDREAM",
-                            "images": {
-                                "primary": "https://www.arweave.net/-E0ks5pxoWL9s3D0rRD0oG1BHi7W-TQ4Qnoi43twA1I/INSOMNIA.LETMEDREAM.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "November 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "20",
-                    "name": "SUMO",
-                    "images": {
-                        "primary": "https://www.arweave.net/4EjmI0-eIIOHiTxRfYrQ2lGwSNXNVAF37lUxE73Ohbw/SUMO.gif",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Lycosfreak",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "20a",
-                            "name": "SUMO.BABY",
-                            "images": {
-                                "primary": "https://www.arweave.net/bq8DrOLSG3rBFaRjU4GsB208HzzgscwEBfCUr8Hj46s/SUMO.BABY.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "papeto",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "20b",
-                            "name": "SUMO.BIGINJAPAN",
-                            "images": {
-                                "primary": "https://www.arweave.net/ZoIsFpsGNbG9Hy3S7kfPRWtey0upNp0xoEFau5RzH5w/SUMO.BIGINJAPAN.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "20c",
-                            "name": "SUMO.FACEOFF",
-                            "images": {
-                                "primary": "https://www.arweave.net/tloqyTh1YRbPX4-PiCppNt-blB6yWx9g4Tn5myhxvHU/SUMO.FACEOFF.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Shorty",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "December 2024",
-            "images": {
-                "avatar": "",
-                "banner": ""
-            },
-            "description": "",
-            "assets": [
-                {
-                    "edition": "21",
-                    "name": "BARBARIAN",
-                    "images": {
-                        "primary": "https://www.arweave.net/M2i3NPZnPN9EV07vqqHRM6ymHFomeqMsXgS1rBtVqMY/BARBARIAN.jpg",
-                        "other": []
-                    },
-                    "artists": [
-                        {
-                            "name": "Robenira",
-                            "link": ""
-                        }
-                    ],
-                    "subassets": [
-                        {
-                            "edition": "21a",
-                            "name": "BARBARIAN.BLACK",
-                            "images": {
-                                "primary": "https://www.arweave.net/ktjh5LGpawTIhhjiEv3-P6c003JVwvXnswMJrY0zgyw/BARBARIAN.BLACK.png",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Lycosfreak",
-                                    "link": ""
-                                }
-                            ]
-                        },
-                        {
-                            "edition": "21b",
-                            "name": "BARBARIAN.MEAL",
-                            "images": {
-                                "primary": "https://www.arweave.net/zjZDy6YSk1ipAtv4y2UXQ61F_8bf82IzR5jQpGUEZSM/BARBARIAN.MEAL.gif",
-                                "other": []
-                            },
-                            "artists": [
-                                {
-                                    "name": "Robenira",
-                                    "link": ""
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+          "edition": "1r",
+          "name": "COLLECTOR.TheCollector",
+          "images": {
+            "primary": "https://www.arweave.net/O893rogUKRHfm4d2bUCk5SbZwXjLxNHG86YN3ifbFKo/COLLECTOR.TheCollector.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "LittleShibe",
+              "link": ""
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "name": "May 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "2",
+          "name": "FAIRY",
+          "images": {
+            "primary": "https://www.arweave.net/lRlX6ajxq8-jBWH5XSSVG6oFjO6MoFKr7Dq80V3monQ/Fairy.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "OoakosiMo",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2a",
+          "name": "FAIRY.ANDPEPE",
+          "images": {
+            "primary": "https://www.arweave.net/dBt-PP_uBNv4prkHwnAMmjolZi9nxf2X66DaeBJ2fTI/FAIRY.ANDPEPE.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2b",
+          "name": "FAIRY.elvina",
+          "images": {
+            "primary": "https://www.arweave.net/9nW7gYg5jwxQTQdFYnBEnC-RvGjgNeQT0ONotyI_uJY/FAIRY.ELVINIA.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2c",
+          "name": "FAIRY.MAGIC",
+          "images": {
+            "primary": "https://www.arweave.net/b9lce6kWBMlbQtWPxCti6F3-Id7UFZaWpFl4QCFf-H0/FAIRY.MAGIC.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2d",
+          "name": "FAIRY.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/MAA_qe65GY5O0gbPPydahtng2fiwua_2jm70TV7F_SA/FAIRY.PEPE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2e",
+          "name": "FAIRY.The_Pepe_Fairy",
+          "images": {
+            "primary": "https://www.arweave.net/L2IlPnLmgmF0jtpxbRfVjPlilwkA7KyXDKQPsx6YmdM/FAIRY.THE_PEPE_FAIRY.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2f",
+          "name": "FAIRY.Tooth_Fairy",
+          "images": {
+            "primary": "https://www.arweave.net/PaqXU-b8Zuj4PS8MaEQcguRRweX1b-yg9W_UVOxm88w/FAIRY.TOOTH_FAIRY.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "2g",
+          "name": "FAIRY.TWISTED",
+          "images": {
+            "primary": "https://www.arweave.net/CM2Tg7R1PHVlbMD48TiiduKjI9yGLJtM0bNZh01IqE0/FAIRY.TWISTED.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "June 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "3",
+          "name": "GREED",
+          "images": {
+            "primary": "https://www.arweave.net/46G-QkFMASAVYrep-55_6jVwJA7KE8d5HsiwhtmHybs/Greed.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3a",
+          "name": "GREED.GREEDMACDUCK",
+          "images": {
+            "primary": "https://www.arweave.net/A9k8_2H5zyRrLCrW8CFD9XvIlN26nGU7vQb_hSuM52A/GREED.GREEDMACDUCK.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3b",
+          "name": "GREED.ISGOOD",
+          "images": {
+            "primary": "https://www.arweave.net/kOlQCuE2yUpB5Q-3ZIkj5vw2B5YkXdRDUYmVjpQA9fk/GREED.ISGOOD.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3c",
+          "name": "GREED.MAMMON",
+          "images": {
+            "primary": "https://www.arweave.net/NnKHgDbz-ZpWFX-yFD2qqBvhp76Zxyamw4kHuG-hNng/GREED.MAMMON.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3d",
+          "name": "GREED.Monopepe",
+          "images": {
+            "primary": "https://www.arweave.net/A8AIUkXTcjRILyoTLsYbj0NYWZqISVHBvPvMHR3VyZs/GREED.MONOPEPE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3e",
+          "name": "GREED.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/IFxjIfr04vwGjKX-VHhpi5WieA7RQGqZ4vid4izY574/GREED.PEPE.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3f",
+          "name": "GREED.PORTALS",
+          "images": {
+            "primary": "https://www.arweave.net/qSctKgpbwHIFGTVuJVxT9wcvORmVsMmNaVAPXM-NN40/GREED.PORTALS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "OoakosiMo",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3g",
+          "name": "GREED.PRECIOUS",
+          "images": {
+            "primary": "https://www.arweave.net/wtXcTqb2usb3iHMfm3RcjrWRKDISQ8zXSuSe5OeIza4/GREED.PRECIOUS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "3h",
+          "name": "GREED.WANT",
+          "images": {
+            "primary": "https://www.arweave.net/uYw0h3RaBN0qO-E__DXwsPCu9MUCEiiIa8gVEaE5dUg/GREED.WANT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "July 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "4",
+          "name": "PSYCHO",
+          "images": {
+            "primary": "https://www.arweave.net/vzdhzoKgjm7R_WiZONDZeApdvtDReEOVOlclFZX-S_M/PSYCHO.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4a",
+          "name": "PSYCHO.CYBERPUNK",
+          "images": {
+            "primary": "https://www.arweave.net/dhZ3LB_LeW-H5sXjm8vGeq2dXI0hqJ6q14VoaW8ukes/PSYCHO.CYBERPUNK.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "OoakosiMo",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4b",
+          "name": "PSYCHO.DALIESQUE",
+          "images": {
+            "primary": "https://www.arweave.net/QK5FBL6vHS2SxDlz1aTXunyIhoaAm0icFOlIohPZMqc/PSYCHO.DALIESQUE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4c",
+          "name": "PSYCHO.GENSLER",
+          "images": {
+            "primary": "https://www.arweave.net/pfShRujTn0kQphrDamB-thCRfTgleKE_bpAN02yzXmo/PSYCHO.GENSLER.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4d",
+          "name": "PSYCHO.IMHOME",
+          "images": {
+            "primary": "https://www.arweave.net/rb4P7brl8JR-5iBv0fAiIphslvAtGCmO6z0MLHe5N-Q/PSYCHO.IMHOME.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4e",
+          "name": "PSYCHO.KILLER",
+          "images": {
+            "primary": "https://www.arweave.net/Npc5izMvDiIrcYhfRvCEoJ5x7f3RuBQ2U4Dya3x9Kr4/PSYCHO.KILLER.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4f",
+          "name": "PSYCHO.KRUEGER",
+          "images": {
+            "primary": "https://www.arweave.net/PqEsXihsDBxUPtoda5Are2J5v_sa4CqZfApc0i_bVEE/PSYCHO.IMHOME.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4g",
+          "name": "PSYCHO.MASKOFF",
+          "images": {
+            "primary": "https://www.arweave.net/zzlSVFXKgGcBL9z86uNR1AjNbUfTbTjZI4lGLjpmzvA/PSYCHO.MASKOFF.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4h",
+          "name": "PSYCHO.OG",
+          "images": {
+            "primary": "https://www.arweave.net/4NC2tx7hln96M3TpLlp1NhfTkVOmkwTJk3CQt6S4C2I/PSYCHO.OG.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "4i",
+          "name": "PSYCHO.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/4-WB1xBLkj-g5BjN_FUoR1VSlO9RD8YnUGCyo2tGRe8/PSYCHO.PEPE.jpeg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "August 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "5",
+          "name": "VIPER",
+          "images": {
+            "primary": "https://www.arweave.net/5HP74KpM11f4O_23pfa5XYB8D0N_Z2U4uHR22oMD7gU/VIPER.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5a",
+          "name": "VIPER.BRO",
+          "images": {
+            "primary": "https://www.arweave.net/eTnT6cwDz1X82zjHyOEQxNayUC7oIFkvcA-agSfN6DQ/VIPER.BRO.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5b",
+          "name": "VIPER.FINAL_BITCOIN",
+          "images": {
+            "primary": "https://www.arweave.net/Uu9IpE0_t3_TfYiExULBmeDMWkxH_8os7Zj7Tw_tExc/VIPER.FINAL_BITCOIN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5c",
+          "name": "VIPER.MRVIPERPEPE",
+          "images": {
+            "primary": "https://www.arweave.net/olADRFlqk6Wg9-3fONRvli5rYgtQ2KPFVtw8xC1uAQw/VIPER.MRVIPERPEPE.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5d",
+          "name": "VIPER.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/LPgt6QDf7fWoSq62R2rr2Em3v1GncO77EFgGkvWDz8I/VIPER.PEPE.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5e",
+          "name": "VIPER.SELFID",
+          "images": {
+            "primary": "https://www.arweave.net/udMNQCen25e-DZJZ7VHVVbyinRoauBwmjC5J8h9pgNo/VIPER.SELFID.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5f",
+          "name": "VIPER.SELFSERVICE",
+          "images": {
+            "primary": "https://www.arweave.net/8Pa-PAMFrG4OTniGV04xbo_vRelielVYNpqvWEKcdfA/VIPER.SELFSERVICE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5g",
+          "name": "VIPER.THELOVER",
+          "images": {
+            "primary": "https://www.arweave.net/f2byxGShr7o2avAr-29si6exY0gpE21pWq_euzwDlEo/VIPER.THELOVER.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5h",
+          "name": "VIPER.UH_OH",
+          "images": {
+            "primary": "https://www.arweave.net/HwPx7Nrz5GzfR7qLogJvWK8Ig5ygFdTPM-TA9R1WYaw/VIPER.UH_OH.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5i",
+          "name": "VIPER.VENOMNIGHT",
+          "images": {
+            "primary": "https://www.arweave.net/EI3mp7m-uffw5METMGCrYb3cVrYfqjo2YctRnSvis2Q/VIPER.VENOMNIGHT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "5j",
+          "name": "VIPER.VYPER",
+          "images": {
+            "primary": "https://www.arweave.net/564dJBYEBdIOcD9dJTHJFwqQd9SOANXWSlvO5bANz7M/VIPER.VYPER.jpeg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "September 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "6",
+          "name": "GOAT",
+          "images": {
+            "primary": "https://www.arweave.net/HD_Vth9m2IKrgcF7froklM_WIvgnQq_THivHeBJeNEE/GOAT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6a",
+          "name": "GOAT.COWPEPE",
+          "images": {
+            "primary": "https://www.arweave.net/sNpJWSklKxfGtzeaEJdE60DJJUGTl68BCDY9WmebqXw/GOAT.COWPEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6b",
+          "name": "GOAT.DEVILSGOAT",
+          "images": {
+            "primary": "https://www.arweave.net/-m4sR10JRa46CMxVdMD_01YvTmc7o-6EeB8cStl2m_M/GOAT.DEVILSGOAT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6c",
+          "name": "GOAT.ERNEST",
+          "images": {
+            "primary": "https://www.arweave.net/6WTci-Q7RPShwrCvEjhSFTDyzirAwID3EzWUtxJbaug/GOAT.ERNEST.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6d",
+          "name": "GOAT.Illumigoat",
+          "images": {
+            "primary": "https://www.arweave.net/p0T-OZAPh4_BVVEcK0T1YouLHkwvBqGg_sjToq-Vuc0/GOAT.Illumigoat.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6e",
+          "name": "GOAT.Jeez",
+          "images": {
+            "primary": "https://www.arweave.net/ch5G2vbpDj6Z3kalS4qk43gWu8G0VF9Wdgeh5WPQEi8/GOAT.Jeez.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "YONI",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6f",
+          "name": "GOAT.JORDAN",
+          "images": {
+            "primary": "https://www.arweave.net/Lhfk--Y24BDutXCCIHorT4A4QWsXY71Q7z9F4NoNnwwA/GOAT.JORDAN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6g",
+          "name": "GOAT.MJGOAT",
+          "images": {
+            "primary": "https://www.arweave.net/5DtBbB4LrP2OfHw1vQxsNr-albgdpxZj_srAoxUVbPc/GOAT.MJGOAT.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robby Low",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6h",
+          "name": "GOAT.THE27CLUB",
+          "images": {
+            "primary": "https://www.arweave.net/-HCrcsTC_ve6ahDtcQbMo1EsKcV8xclh_9hDbIEtnSs/GOAT.THE27CLUB.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "6i",
+          "name": "GOAT.WILLIEPEPENELSON",
+          "images": {
+            "primary": "https://www.arweave.net/IYeihxm99UuuNqAH8lhsUb-1BSodpuMzPGtRQcw_MZg/GOAT.WILLIEPEPENELSON.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "ROCCO",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "October 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "7",
+          "name": "COBRA",
+          "images": {
+            "primary": "https://www.arweave.net/kReAltTlYjk14JO0024BdeKsiO4M_YsmKwSeYeCz_PQ/COBRA.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7a",
+          "name": "COBRA.ALMANAC2024",
+          "images": {
+            "primary": "https://www.arweave.net/sBkdXemBy44Bx63a6er5Q3ogzqlxiN4XxhL6oV6KMf0/COBRA.ALMANAC2024.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7b",
+          "name": "COBRA.CADUCEUS",
+          "images": {
+            "primary": "https://www.arweave.net/SYDMZvfNZD2q4VZaRjH7HYjms93AtxOrCzgXPQIGa3c/COBRA.CADUCEUS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7c",
+          "name": "COBRA.CrimsonQueen",
+          "images": {
+            "primary": "https://www.arweave.net/COBRA.CrimsonQueen.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7d",
+          "name": "COBRA.hauntedserpent",
+          "images": {
+            "primary": "https://www.arweave.net/efA4g8K64B8iDQNjwn0ToYogvctYsz7sNLNJG0YYNOs/COBRA.hauntedserpent.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7e",
+          "name": "COBRA.HERCULPEPES",
+          "images": {
+            "primary": "https://www.arweave.net/dTXs7VNLx_PPvLpF1qKIXKDYqX03TGCq_nsjo9h_GuY/COBRA.HERCULPEPES.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7f",
+          "name": "COBRA.hypnotized",
+          "images": {
+            "primary": "https://www.arweave.net/ZtwfKELu_RXXv27dxI0kZU3tPWJZ87mXQN_JdPCffKw/COBRA.hypnotized.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "PitooPi",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7g",
+          "name": "COBRA.PEPE_BEER",
+          "images": {
+            "primary": "https://www.arweave.net/sZ9Vb3XCSdff4orfL3sik5bPv-bi_muDqF_AjuAoNbc/COBRA.PEPE_BEER.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7h",
+          "name": "COBRA.QUEEN",
+          "images": {
+            "primary": "https://www.arweave.net/g_tmmpmMb0H9WZ3E6-tVIPre0f6mJlleTmmVAL2daXQ/COBRA.QUEEN.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7i",
+          "name": "COBRA.STALLONE",
+          "images": {
+            "primary": "https://www.arweave.net/DwqpTHr247Iy67XfW_rg-0Bqr-ohkkjsoIBBTnwi6o0/COBRA.STALLONE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7j",
+          "name": "COBRA.STRIKE",
+          "images": {
+            "primary": "https://www.arweave.net/n13JYZMRgQW1LMgcjzg-8q0iod1O4VKlJQ-uz2sSIw4/COBRA.STRIKE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7k",
+          "name": "COBRA.TATE",
+          "images": {
+            "primary": "https://www.arweave.net/eVh8NZNY2CPMS1LtF_jQErUexqyU5QFO1xziUQTRI7s/COBRA.TATE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "7l",
+          "name": "COBRA.TINFOILHAT",
+          "images": {
+            "primary": "https://www.arweave.net/pUT_F7OtLSeFJCkOkctOGry98S4cvxj1buV9mgF3hbw/COBRA.TINFOILHAT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "OoakosiMo",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "November 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "8",
+          "name": "CRAB",
+          "images": {
+            "primary": "https://www.arweave.net/v7JLKkmVJ2HPyZVn6ifFlLC3HUtwFYEj3r_BhEpA2a4/CRAB.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8a",
+          "name": "CRAB.BAND",
+          "images": {
+            "primary": "https://www.arweave.net/GiTEvPQ2f5TYQNKYsatNrWTWLfJ8aIWwP_43pK3p2kg/CRAB.BAND.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8b",
+          "name": "CRAB.CRABMR",
+          "images": {
+            "primary": "https://www.arweave.net/nfxPGVAzjDvQCGUGvR3KQsk1bUhnulRx8VrZbEyqdrc/CRAB.CRABMR.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Memekingart",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8c",
+          "name": "CRAB.HELP",
+          "images": {
+            "primary": "https://www.arweave.net/9zBUZKyfgUmy7nsNDQVXaXXkfPtXCqtThIri1RT1eSI/CRAB.HELP.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8d",
+          "name": "CRAB.INVADER",
+          "images": {
+            "primary": "https://www.arweave.net/VOTkEHpOpUeWzKjdEdK8gpy5kLia_ZF7sQbFdT9I7-I/CRAB.INVADER.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "OoakosiMo",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8e",
+          "name": "CRAB.SHINY",
+          "images": {
+            "primary": "https://www.arweave.net/3Hu8MEszKl9IgcrwgEpG84mlFc94oK9pfHtrDK4cKE0/CRAB.SHINY.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8f",
+          "name": "CRAB.Tramp",
+          "images": {
+            "primary": "https://www.arweave.net/AE5Bf-8NSJOVQjpNom3gN9_-ksCQbuiyvrh-Pkz7qbw/CRAB.Tramp.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "8g",
+          "name": "CRAB.xcp",
+          "images": {
+            "primary": "https://www.arweave.net/OoCOXfqGUfGrtv1uvYqhK8LcjpTP-28NK1xwJkbMrXY/CRAB.xcp.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "PitooPi",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "December 2023",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "9",
+          "name": "MERMAID",
+          "images": {
+            "primary": "https://www.arweave.net/JidhRWYmKQ3AoGHm-mcmuAy96BSqjM0P6eKT8hSaqso/MERMAID.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "9a",
+          "name": "MERMAID.BIKINIBOTTOM",
+          "images": {
+            "primary": "https://www.arweave.net/4hWrBey_1Xmaksvzzwo8PSTl8sStS1T4A8RRHyboVzU/MERMAID.BIKINIBOTTOM.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "9b",
+          "name": "MERMAID.BLOCKCHAIN",
+          "images": {
+            "primary": "https://www.arweave.net/mO9vOFlK4msqtCOZ4Kmg4Ue-WdUGWetyBAUrGIqTTEU/MERMAID.BLOCKCHAIN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "9c",
+          "name": "MERMAID.BOOBS",
+          "images": {
+            "primary": "https://www.arweave.net/PKTW4w7oM43gfh8PDvZwd576rrpUZh73dZp9DSVQXdQ/MERMAID.BOOBS.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "9d",
+          "name": "MERMAID.FART",
+          "images": {
+            "primary": "https://www.arweave.net/tbyNMMKIo_-mkQtIuVT0siS9MHXLxlNkxpaZQiTaiWY/MERMAID.FART.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "9e",
+          "name": "MERMAID.FROG_PRINCE",
+          "images": {
+            "primary": "https://www.arweave.net/7w62gF43-YK7o1GNtYsip8lF6fPcZMAYXPwQ0jyiCWA/MERMAID.FROG_PRINCE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "January 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "10",
+          "name": "GODS",
+          "images": {
+            "primary": "https://www.arweave.net/vFkef6nOFrfGbk7qW8nAlbCmYDH7-jwQ10IKeWuDQX0/GODS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "10a",
+          "name": "GODS.LOVESYALL",
+          "images": {
+            "primary": "https://www.arweave.net/8dzTxxfiKRkEzpqqty4tykcSv6fDaA74m-jjy0glfi4/GODS.LOVESYALL.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "10b",
+          "name": "GODS.OFCHAIN",
+          "images": {
+            "primary": "https://www.arweave.net/BG_1wSrVUQOCZZcgyktHvM1CCThHmkWnHM25IV-5Oas/GODS.OFCHAIN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "10c",
+          "name": "GODS.PEPE_IS_GOD",
+          "images": {
+            "primary": "https://www.arweave.net/15tpV5mbceHv5i9I-M1-ljToe41mUKuD7D951Iu4wj0/GODS.PEPE_IS_GOD.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "10d",
+          "name": "GODS.THATFAILED",
+          "images": {
+            "primary": "https://www.arweave.net/f21n6tcOs0rwscL4nyp4gD0PssfyRf6iMpodxSoBGmA/GODS.THATFAILED.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "February 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "11",
+          "name": "GARGOYLE",
+          "images": {
+            "primary": "https://www.arweave.net/buJEHb2wshX6FdNgq0sYuT0y4toeX1N1SKKQczr7G9E/GARGOYLE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11a",
+          "name": "GARGOYLE.AWAKENS",
+          "images": {
+            "primary": "https://www.arweave.net/tGH92Cf8BHVriJo6MOxqWRk02S_uOgmPYMsXmEZ0FB0/GARGOYLE.AWAKENS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11b",
+          "name": "GARGOYLE.Gothic_Guardian",
+          "images": {
+            "primary": "https://www.arweave.net/-6rS6gvc5esbmZgs94jdce06tydpoM1m54DlD5oAYPg/GARGOYLE.Gothic_Guardian.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11c",
+          "name": "GARGOYLE.HUNCH",
+          "images": {
+            "primary": "https://www.arweave.net/3d7Wxida-SmOVmivxIAX0oYmKj-zPKv8WAu_yBYjD5g/GARGOYLE.HUNCH.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11d",
+          "name": "GARGOYLE.INFAMOUS_PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/TOxnn6olV7QHl3yo5thMmHXwyHZsi-Udt7u8R4tkA2Y/GARGOYLE.INFAMOUS_PEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11e",
+          "name": "GARGOYLE.Mecha_Gargoyle_Enigma",
+          "images": {
+            "primary": "https://www.arweave.net/yMw9-Pm0QEzlK5Vle98oIWUR7EGw0DWZ0r12PAfBsO0/GARGOYLE.Mecha_Gargoyle_Enigma.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "11f",
+          "name": "GARGOYLE.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/v5A13NnhIn0Nwm4COxLXuZtSNRl35Jgo9oGlckwlJ_s/GARGOYLE.PEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "March 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "12",
+          "name": "WASP",
+          "images": {
+            "primary": "https://www.arweave.net/ZK-2-tkHFSCXwoxKd1Mg3yCpGeMK6aAcvZ0yH5wyrnM/WASP.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "12a",
+          "name": "WASP.WASPHEAD",
+          "images": {
+            "primary": "https://www.arweave.net/ke3pogHO7S0gsOs0F9g_WEuAF81aq_sPhTeuKsHyFNU/WASP.WASPHEAD.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "12b",
+          "name": "WASP.WASPPE",
+          "images": {
+            "primary": "https://www.arweave.net/ApBinYEj88gSus14uwO6CBJzWO_pWywCyN072fmalm8/WASP.WASPPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "April 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "13",
+          "name": "FURY",
+          "images": {
+            "primary": "https://www.arweave.net/Qk4G3GUo31t_ljMOyNHf9r9x3gpBzRkMZHXLVzXCH4U/FURY.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "13a",
+          "name": "FURY.NF",
+          "images": {
+            "primary": "https://www.arweave.net/oZtkY4PaMxJii_tUh6p_Rk87gvL9_aTTmXWhi0sVfks/FURY.NF.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "13b",
+          "name": "FURY.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/agFWf6dJT3EQdoNu-tbCf6u7pSzP99NIPtE-SRjyhiQ/FURY.PEPE.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "13c",
+          "name": "FURY.TEMPEST",
+          "images": {
+            "primary": "https://www.arweave.net/YHAr7cV_K9FgOt0ODo4b1i9jMpc6r5z_fZfyL5Z5Boc/FURY.TEMPEST.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "May 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "14",
+          "name": "LUCIFER",
+          "images": {
+            "primary": "https://www.arweave.net/K5GZy0opAnf6naXyz8cW8cHV6AgbruRPNE05WkYaPj0/LUCIFER.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "14a",
+          "name": "LUCIFER.LUCIFUN",
+          "images": {
+            "primary": "https://www.arweave.net/slYL_LmUrcvKBVC_JW3wUslK_z5btQWOd17t_yzYWtY/LUCIFER.LUCIFUN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "14b",
+          "name": "LUCIFER.WHOISGENSLER",
+          "images": {
+            "primary": "https://www.arweave.net/OXceVM-Qdju1JiJHAmID0SIhxiAvd21yvxXUW6aP258/LUCIFER.WHOISGENSLER.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "June 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "15",
+          "name": "LORD",
+          "images": {
+            "primary": "https://www.arweave.net/hc8uYlv97FWUbti_v0xXe50l6OhcRGKxtglsRRpRJFI/LORD.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "15a",
+          "name": "LORD.NAKAMOTO",
+          "images": {
+            "primary": "https://www.arweave.net/bw815yoPkLABUFbN8dDRogm-f5zK6uKIPmMcxCsS5fY/LORD.NAKAMOTO.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "15b",
+          "name": "LORD.OFMEMES",
+          "images": {
+            "primary": "https://www.arweave.net/3I7Z6Do6Wmm-mgtWGDx4x8k3BvjqNsvdLETepliLRgc/LORD.OFMEMES.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "15c",
+          "name": "LORD.OFTHERINGS",
+          "images": {
+            "primary": "https://www.arweave.net/wEvZNOLi7S58Se0-ld8jnhTL9Xm-QwEMa5wn3cJUaDs/LORD.OFTHERINGS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "July 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "16",
+          "name": "EYES",
+          "images": {
+            "primary": "https://www.arweave.net/NxeTt2uWVcw3jh32JFGJQcHIVKdwcZ_lNY5WD5-CMVs/EYES.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "16a",
+          "name": "EYES.HYPNOTIZE",
+          "images": {
+            "primary": "https://www.arweave.net/qLQ7-Dyp90ZaC5AGKSelte0GKFLUNisS8wy-jfbeCag/EYES.HYPNOTIZE.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "16b",
+          "name": "EYES.LASER",
+          "images": {
+            "primary": "https://www.arweave.net/PiEXpMgfCxak9mY-Hx6VF0bXdaO6dYq8hKLusVSVt1Q/EYES.LASER.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "16c",
+          "name": "EYES.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/H-DDFTCkIFlwtuscEf19sZp5cNyglpiNlq0Ue70SvdE/EYES.PEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "August 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "17",
+          "name": "GHOUL",
+          "images": {
+            "primary": "https://www.arweave.net/VnOYnuwOJjivnvrpP8EDKoQ6sZAvLpaS6foXS1weTiI/GHOUL.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "17a",
+          "name": "GHOUL.ATTACK",
+          "images": {
+            "primary": "https://www.arweave.net/mEWi9_Wg2rn6Qh-2IydZnRfseKVgdV7eoWoh63A6_kY/GHOUL.ATTACK.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "17b",
+          "name": "GHOUL.HIGH",
+          "images": {
+            "primary": "https://www.arweave.net/-MgH9WH1pzakAkZh0_Ylrl8qqtMxrhZn4mZ9H4w_dTI/GHOUL.HIGH.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "17c",
+          "name": "GHOUL.PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/d4JXCyWNIIR7953XYaIXz4rYMLLdAHkSBghpELEs_5I/GHOUL.PEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "September 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "18",
+          "name": "DEMON",
+          "images": {
+            "primary": "https://www.arweave.net/h3brnALRXe2OplInoNE0ehYyqgxKooBIaDvFywNBQg0/DEMON.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "18a",
+          "name": "DEMON.FEARLESS",
+          "images": {
+            "primary": "https://www.arweave.net/lM__Ld0Y6_hH3pwgPcPJRo493icFf375BOfam5vwpKM/DEMON.FEARLESS.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "18b",
+          "name": "DEMON.LAVA_PEPE",
+          "images": {
+            "primary": "https://www.arweave.net/wIObd07Tqn806sCDnSDwxHymoqJzHLLjPDPsLojk6LE/DEMON.LAVA_PEPE.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "18c",
+          "name": "DEMON.scream",
+          "images": {
+            "primary": "https://www.arweave.net/I1OpREIjP2P3qoFNLzXph_yWe2n2_KlWPMCXcGIeKbw/DEMON.scream.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "PitooPi",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "October 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "19",
+          "name": "INSOMNIA",
+          "images": {
+            "primary": "https://www.arweave.net/uT7da-rfHZzgvFXuk4RFLd7mfN3a8c3Rsz0tjd0dQZw/INSOMNIA.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "19a",
+          "name": "INSOMNIA.CANTSLEEP",
+          "images": {
+            "primary": "https://www.arweave.net/btyJzgpOL3rCBR_0-jbz2GBM02V-1y94jZivgXYS9JA/INSOMNIA.CANTSLEEP.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "19b",
+          "name": "INSOMNIA.FIGHT",
+          "images": {
+            "primary": "https://www.arweave.net/xuwpgEoFQAX_M3wfj_lniwQoceGn_VBHl9FJD3rvTnY/INSOMNIA.FIGHT.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "19c",
+          "name": "INSOMNIA.LETMEDREAM",
+          "images": {
+            "primary": "https://www.arweave.net/-E0ks5pxoWL9s3D0rRD0oG1BHi7W-TQ4Qnoi43twA1I/INSOMNIA.LETMEDREAM.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "November 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "20",
+          "name": "SUMO",
+          "images": {
+            "primary": "https://www.arweave.net/4EjmI0-eIIOHiTxRfYrQ2lGwSNXNVAF37lUxE73Ohbw/SUMO.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "20a",
+          "name": "SUMO.BABY",
+          "images": {
+            "primary": "https://www.arweave.net/bq8DrOLSG3rBFaRjU4GsB208HzzgscwEBfCUr8Hj46s/SUMO.BABY.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "20b",
+          "name": "SUMO.BIGINJAPAN",
+          "images": {
+            "primary": "https://www.arweave.net/ZoIsFpsGNbG9Hy3S7kfPRWtey0upNp0xoEFau5RzH5w/SUMO.BIGINJAPAN.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "20c",
+          "name": "SUMO.FACEOFF",
+          "images": {
+            "primary": "https://www.arweave.net/tloqyTh1YRbPX4-PiCppNt-blB6yWx9g4Tn5myhxvHU/SUMO.FACEOFF.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Shorty",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "December 2024",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "21",
+          "name": "BARBARIAN",
+          "images": {
+            "primary": "https://www.arweave.net/M2i3NPZnPN9EV07vqqHRM6ymHFomeqMsXgS1rBtVqMY/BARBARIAN.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "21a",
+          "name": "BARBARIAN.BLACK",
+          "images": {
+            "primary": "https://www.arweave.net/ktjh5LGpawTIhhjiEv3-P6c003JVwvXnswMJrY0zgyw/BARBARIAN.BLACK.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Lycosfreak",
+              "link": ""
+            }
+          ]
+        },
+        {
+          "edition": "21b",
+          "name": "BARBARIAN.MEAL",
+          "images": {
+            "primary": "https://www.arweave.net/zjZDy6YSk1ipAtv4y2UXQ61F_8bf82IzR5jQpGUEZSM/BARBARIAN.MEAL.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
