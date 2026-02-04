@@ -1,0 +1,1305 @@
+{
+"chain": "counterparty",  
+"name": "LFG Collection",
+"images": {
+    "avatar": "https://arweave.net/3W0cSiS-rKvsaITf-6HRPnp_2FDUTpAMQJigiwW-fO8/lfg_logo.png",
+    "banner": ""
+  },
+ "description": "",
+  "externalLinks": {
+    "website": "https://lfgcrypto.art"
+  },
+  "sets": [
+    {
+      "name": "LFG1",
+      "images": {
+        "primary": "",
+        "other": []
+      },
+      "description": "",
+      "assets": [
+        {
+          "asset": "UNITECRYPTO",
+          "cardNumber": 0,
+          "cardName": "UNITECRYPTO",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/bcapNdnHiks-dvSmi7UJQcbaAq7pZLudBzsPcFFtuHE/unitecrypto.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGOPEPE",
+          "cardNumber": 1,
+          "cardName": "LFGOPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Us5dnEhXDwi8hTkN3OMA3f98iLm3OLh7BWIRbyeNj_A/lfgopepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGSUBMIT",
+          "cardNumber": 3,
+          "cardName": "LFGSUBMIT",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/couPTl8PWJXKvCmolzYKSTw1gx4bGbrq9EtKvtfk6G8/lfgsubmit.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGORBITAL",
+          "cardNumber": 4,
+          "cardName": "LFGORBITAL",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GdfXul4WiW_NnXSXTmYoGHI6c0VjxFy605wPesGP6JE/lfgorbital.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPETRUMPFGT",
+          "cardNumber": 8,
+          "cardName": "PEPETRUMPFGT",
+          "creatorName": "Hariram",
+          "creatorSocial": "https://x.com/HOchangco",
+          "image": "https://arweave.net/Et3zqt9TSvhVLARav_XVFjCXPZRwqPaQfcp_Qd-RtTY/pepetrumpfgt.jpg",
+          "link": ""
+        },
+        {
+          "asset": "TRUMPWOJAK",
+          "cardNumber": 9,
+          "cardName": "TRUMPWOJAK",
+          "creatorName": "Hariram",
+          "creatorSocial": "https://x.com/HOchangco",
+          "image": "https://arweave.net/aYYUPcgX1dwQhaF6XEv_coMbFg0O2nas2exPIr0e9eA/trumpwojak.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGFRIEND",
+          "cardNumber": 11,
+          "cardName": "LFGFRIEND",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/pOQERw4yJKDqfJ-BVSkl-k1Jlk0_vONMKlo7GVXto_s/lfgfriend.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGMARKET",
+          "cardNumber": 14,
+          "cardName": "LFGMARKET",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/Zv63-5_89xJ5KLqOvn6c76G92Bf2TDMRXUicpnAYKPo/lfgmarket.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGTENNIS",
+          "cardNumber": 20,
+          "cardName": "LFGTENNIS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/mJz4Z2mhGmK63t7LpjT0QYs4BoH7OzAnB7J46M5TxPg/lfgtennis.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGLUTNICK",
+          "cardNumber": 22,
+          "cardName": "LFGLUTNICK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/KAmwVX76ZhOtA9kic-S3c7jn_pPcL3mgAA7SYDlqEGk/lfglutnick.jpg",
+          "link": ""
+        },
+        {
+          "asset": "JUSTICELFG",
+          "cardNumber": 23,
+          "cardName": "JUSTICELFG",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/bK-jUp7mlIMDfo7C2zvQeZu5oft3crOAWNry1hLPXss/justicelfg.png",
+          "link": ""
+        },
+        {
+          "asset": "PAPETOLFG",
+          "cardNumber": 24,
+          "cardName": "PAPETOLFG",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/3hCpimIDmyhayMQzUFKl7PLPHfhzCwlmm-OjhqBTR-s/papetolfg.gif",
+          "link": ""
+        },
+        {
+          "asset": "LFGOFFICIAL",
+          "cardNumber": 25,
+          "cardName": "LFGOFFICIAL",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/BJwkr210bU_DwpmZz2YVAuu8ivcJER_I2yb5laVWMuk/lfgofficial.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGMATHS",
+          "cardNumber": 27,
+          "cardName": "LFGMATHS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/RGRYa7Y2QwNzcvI0CciiXKa_96NN3o-lx3lZuxvLXe4/lfgmaths.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEPATEL",
+          "cardNumber": 29,
+          "cardName": "PEPEPATEL",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/-dylmpxV8NY348ZPGVXDffXPSX9atFEvohZJlG5f4BY/pepepatel.jpg",
+          "link": ""
+        },
+        {
+          "asset": "TREASURYPEPE",
+          "cardNumber": 30,
+          "cardName": "TREASURYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/hPPCj0nvFUMei-NtrtZWqndNwXAAR2vffmvxz1Dtx2I/treasurypepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEJDOG",
+          "cardNumber": 31,
+          "cardName": "PEPEJDOG",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/_KwYu6GnzwdqStcIzrb8-maRRc3Wzkwez_okth-ORFI/pepejdog.jpg",
+          "link": ""
+        },
+        {
+          "asset": "GMPEPES",
+          "cardNumber": 32,
+          "cardName": "GMPEPES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/VWd1W_xZDRr4C9IgErXOWeSCUtsrrcEnE384cYKt6pw/gmpepes.jpg",
+          "link": ""
+        },
+        {
+          "asset": "BONDIPEPE",
+          "cardNumber": 33,
+          "cardName": "BONDIPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/38DUyFaoTLYTF8cPnfqM0Xk3UpRUZNvXVuWJzqyWrck/bondipepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "CRYPTOCZAR",
+          "cardNumber": 34,
+          "cardName": "CRYPTOCZAR",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/VbzLQDv5ZIr9IBelKZ3y74Z-4bC3wJ5ez_dOQcKWFiw/cryptoczar.jpg",
+          "link": ""
+        },
+        {
+          "asset": "ORANGEFIGHT",
+          "cardNumber": 35,
+          "cardName": "ORANGEFIGHT",
+          "creatorName": "GabDevs",
+          "creatorSocial": "https://twitter.com/GabDevs",
+          "image": "https://arweave.net/MgdmlCmI9S30l669QcFPX1VaXXQZ24zz5mhL9V56j3g/orangefight.png",
+          "link": ""
+        },
+        {
+          "asset": "PEPELUMMIS",
+          "cardNumber": 39,
+          "cardName": "PEPELUMMIS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Fk0MiYOPfXtjcHVaWMlqrgktE9BXxecJJbiPp0m3dlk/pepelummis.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGEVOLVE",
+          "cardNumber": 40,
+          "cardName": "LFGEVOLVE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/mjK1yYK6KyBkzHf8yfBfP_RDc96tRwdaIgf3Vjx4afQ/lfgevolve.jpg",
+          "link": ""
+        },
+        {
+          "asset": "FAKTELEPHONE",
+          "cardNumber": 41,
+          "cardName": "FAKTELEPHONE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/zeC4klw39-oEynLk-XdxbWBOSSJ2WNZizAvcTy0xH4s/faketelephone.png",
+          "link": ""
+        },
+        {
+          "asset": "PROJECTKNIFE",
+          "cardNumber": 44,
+          "cardName": "PROJECTKNIFE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/jllsl1AA-qCPSyf4RamyhUvW4mJvTk_qjqz8NEMq9Gg/projectknife.jpg",
+          "link": ""
+        },
+        {
+          "asset": "NRFTW",
+          "cardNumber": 45,
+          "cardName": "NRFTW",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/2NHJ1BcOerQovtTDqKWf0WWZriQwQXiz4OGr2KoTFNs/nrftw.mp4",
+          "link": ""
+        },
+        {
+          "asset": "MEETLENNY",
+          "cardNumber": 46,
+          "cardName": "MEETLENNY",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Au4oXkc2FEQsgIu18AuxmPJCQJTXon4nLPwdalPAz4U/meetlenny.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEINCOMMON",
+          "cardNumber": 47,
+          "cardName": "PEPEINCOMMON",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/9VRAKQuusfXv4p5PAOlMDMh-VG_BFPuUlvqVAN3rqeY/pepeincommon.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGBANANAS",
+          "cardNumber": 48,
+          "cardName": "LFGBANANAS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/HB31F8YCQYINZugJ6cUJJpZk1rokTDEGv6VTlXx2pVo/lfgbananas.jpg",
+          "link": ""
+        },
+        {
+          "asset": "CODYSAYSTHNX",
+          "cardNumber": 49,
+          "cardName": "CODYSAYSTHNX",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/D8Rx13JJP6Z2UIDLWRwLZm2PXUfVUSQ2nfEuJZ6sZco/codysaysthnx.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGROOM",
+          "cardNumber": 50,
+          "cardName": "LFGROOM",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/L5lut4UL_Y1DeQwed1vsJgZkdkxBLZlnui9baQHfCbY/lfgroom.jpg",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "LFG2",
+      "images": {
+        "primary": "",
+        "other": []
+      },
+      "description": "",
+      "assets": [
+        {
+          "asset": "PEPEPAUL",
+          "cardNumber": 1,
+          "cardName": "PEPEPAUL",
+          "creatorName": "subterranean",
+          "creatorSocial": "https://x.com/subterranean_1",
+          "image": "https://arweave.net/Ui-500QieyPa0tPwODJXCKmBbtllxCY5QjmOqA3RhZ0/pepepaul.gif",
+          "link": ""
+        },
+        {
+          "asset": "CHESSBOYS",
+          "cardNumber": 2,
+          "cardName": "CHESSBOYS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/DYMM1X5VrBI9D-c16RfvAeMkqFCtCfwV6pNzOl-fMqs/chessboys.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGOBSERVER",
+          "cardNumber": 3,
+          "cardName": "LFGOBSERVER",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/TIFOp9Wkf7zkO1IGI1Vfe7JfTznVX09_R_riBnJskXs/lfgobserver.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGAFRODITE",
+          "cardNumber": 5,
+          "cardName": "LFGAFRODITE",
+          "creatorName": "Robenira",
+          "creatorSocial": "https://x.com/Robenirart",
+          "image": "https://arweave.net/kWAiQ3Uiwu5JS2uDgCksj8ForGxHmE-3thbBmq-vdrQ/lfgafrodite.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGSPEAKER",
+          "cardNumber": 7,
+          "cardName": "LFGSPEAKER",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/jOhi8v2JLeZOHQr2dJW5zbndrsNedG5oGvsMOk6gGQc/lfgspeaker.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGCOLLECTOR",
+          "cardNumber": 8,
+          "cardName": "LFGCOLLECTOR",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/qZA791lfryjbkbKlXTCGaL5A7yOfk4EioESLZODFJJs/lfgcollector.jpg",
+          "link": ""
+        },
+        {
+          "asset": "EHOKAYPEPE",
+          "cardNumber": 9,
+          "cardName": "EHOKAYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Nd7KSKG6SXjAnaE-fkLuTdCltX30afncjG28OcwnNxo/ehokaypepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGCHEKPOINT",
+          "cardNumber": 10,
+          "cardName": "LFGCHEKPOINT",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/xVcvSQ91Ds9XKxF2mPobqzMCU8YJJCGkom7qEhP1xRQ/lfgchekpoint.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGPEPE",
+          "cardNumber": 11,
+          "cardName": "LFGPEPE",
+          "creatorName": "TIZAR BERANDALAN",
+          "creatorSocial": "https://x.com/Tizarrr",
+          "image": "https://arweave.net/uzU6pmOvz1trjdn7qVlDM261sCPwnt3MFpNCzgV96AU/lfgpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEPRESS",
+          "cardNumber": 13,
+          "cardName": "PEPEPRESS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/1RcuNoT1SKDDA9SoSUbUVgTw3thJInsESDH_MN5dlek/pepepress.jpg",
+          "link": ""
+        },
+        {
+          "asset": "SURFPEPE",
+          "cardNumber": 14,
+          "cardName": "SURFPEPE",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/fZDr5tBU44lzmOBUeo8vjvKHuIfUrhOB2DGJ6Kdyct8/surfpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "WAILINGWOJAK",
+          "cardNumber": 16,
+          "cardName": "WAILINGWOJAK",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/rEW628zhmKpCIqKXiLITaE3SoY3xn0pjpU89GsylP0M/wailingwojak.png",
+          "link": ""
+        },
+        {
+          "asset": "KEKBTCPHLUG",
+          "cardNumber": 17,
+          "cardName": "KEKBTCPHLUG",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/3rrk5djjtKjLD1UpQjxme8K_eI6fSxLnc-gNzWVRHGA/kekbtcphlug.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGKEK",
+          "cardNumber": 18,
+          "cardName": "LFGKEK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/btX1Fpw1peuKoWUy3b732WeaAxCyihrxX0Kudx9GAhM/lfgkek.jpg",
+          "link": ""
+        },
+        {
+          "asset": "NATUREBOY",
+          "cardNumber": 19,
+          "cardName": "NATUREBOY",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/GPEl5DP5D18GK0i6AHQA595Rqi6-r1uY_3Q6v5E_k6s/natureboy.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPENDOGE",
+          "cardNumber": 20,
+          "cardName": "PEPENDOGE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/lcMBMzm-xTSdfHirzopRoWTMjkvtzIiMryNnDOiAn_U/pependoge.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPESURE",
+          "cardNumber": 23,
+          "cardName": "PEPESURE",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/nCtyRcJk_JBjXh1mv3T4UyAZr8V8IE8kSVzAqblSM_A/pepesure.jpg",
+          "link": ""
+        },
+        {
+          "asset": "COPYPASTGOLD",
+          "cardNumber": 24,
+          "cardName": "COPYPASTGOLD",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/U5ggzHRlrRy-1ixCsE3XNfWzpHPs129quRUbW1AcWSo/copypastgold.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPELIKES",
+          "cardNumber": 25,
+          "cardName": "PEPELIKES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/WRJKuIrogLjGIETWSTwSWJ5OXEG_5xNixhVTIGD9j9o/pepelikes.jpg",
+          "link": ""
+        },
+        {
+          "asset": "DOHPEPE",
+          "cardNumber": 26,
+          "cardName": "DOHPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/tPZ_GQ1Zw-rAvkDeVKuKittSBAMEx_8HkY50MnVg3GU/dohpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "DUHPEPE",
+          "cardNumber": 27,
+          "cardName": "DUHPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/KYezj627d423w-XCxhD0lEVVR6yduxK0ORcQGS8h2_I/duhpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "FULLFUGGEM",
+          "cardNumber": 28,
+          "cardName": "FULLFUGGEM",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/tyLw12MdfOzBrCPKtkxqTsE1dwo4gImTl8wzHR05qBQ/fullfuggem.jpg",
+          "link": ""
+        },
+        {
+          "asset": "GASPPEPE",
+          "cardNumber": 29,
+          "cardName": "GASPPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GFHDwEaYKVZhHc7vVVzm8lAl-z21mqKPi12aEpUqyrc/gasppepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "INCOGNTOPEPE",
+          "cardNumber": 30,
+          "cardName": "INCOGNTOPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/4QncBdST-JFvfsxtLC9640yKcEgAW59U1KU7Uojdh7Q/incogntopepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGXCHAIN",
+          "cardNumber": 31,
+          "cardName": "LFGXCHAIN",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/K1vVTwOcqDFGWM03VaIXMrSr9yHXEaSwgSrNAEnyJ7I/lfgxchain.jpg",
+          "link": ""
+        },
+        {
+          "asset": "MELTFACES",
+          "cardNumber": 32,
+          "cardName": "MELTFACES",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Gn17wYjenUBAbm--LfXLelsigycP1nqwsQfvmARwIXs/meltfaces.jpg",
+          "link": ""
+        },
+        {
+          "asset": "MYSOUP",
+          "cardNumber": 33,
+          "cardName": "MYSOUP",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/3kdc9_6dJ-CfcwuWoouq06wF9T4odejUzubVA70VfRU/mysoup.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPELIKALOT",
+          "cardNumber": 34,
+          "cardName": "PEPELIKALOT",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/2wccXZtGmFdMFfkqQZ_PfYmQdNhFLzs-Kcw2srh7QEU/pepelikalot.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEMEH",
+          "cardNumber": 35,
+          "cardName": "PEPEMEH",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/NeqPLnJP1l3fMqYxl0AJcRPayPfNC-bzDFYU_X0H3-I/pepemeh.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPENOLIKE",
+          "cardNumber": 36,
+          "cardName": "PEPENOLIKE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/9LWoLUlKM98VFtA2x-eq2k8poNGoFC0Btw5w5YtmKL8/pepenolike.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPESMIRK",
+          "cardNumber": 37,
+          "cardName": "PEPESMIRK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/60WwmD9e8zAuz0IdW5WzOn5H0q-aADvh6cpsDRGENSM/pepesmirk.jpg",
+          "link": ""
+        },
+        {
+          "asset": "TOOFUNNYPEPE",
+          "cardNumber": 38,
+          "cardName": "TOOFUNNYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/plZztxHQ9rnQ8NYxb5cSILXoJgLfsfaH7YkwZDMcy1g/toofunnypepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "EGOROYALE",
+          "cardNumber": 39,
+          "cardName": "EGOROYALE",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/-mBODcESIE3YmGVaVAcGRXwYq7rAGhebHrHwwqwI71U/egoroyale.jpg",
+          "link": ""
+        },
+        {
+          "asset": "COATOFARMS",
+          "cardNumber": 41,
+          "cardName": "COATOFARMS",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/LLcr7H6uuiRvuzu4HAf5azJwhTy8aoSXAHlr5YZWmBg/coatofarms.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPECOCK",
+          "cardNumber": 42,
+          "cardName": "PEPECOCK",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/Budx69Lm2TsYjfig82j035jhD6POtIvqz3JYHG6QPbA/pepecock.jpg",
+          "link": ""
+        },
+        {
+          "asset": "MARKYMARK",
+          "cardNumber": 43,
+          "cardName": "MARKYMARK",
+          "creatorName": "Lycosfreak",
+          "creatorSocial": "https://x.com/mccrypto2011",
+          "image": "https://arweave.net/PlXpUm6gZyP2niuAUWXCkN6JHTA7ITVrj1arBqb_68E/markymark.jpg",
+          "link": ""
+        },
+        {
+          "asset": "JECKALISLAND",
+          "cardNumber": 44,
+          "cardName": "JECKALISLAND",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/GKhKxDQqVanss-8hBZ0-ef9cC2luAzQ5I_UmHEufsyc/jeckalisland.png",
+          "link": ""
+        },
+        {
+          "asset": "SIDEPEPE",
+          "cardNumber": 45,
+          "cardName": "SIDEPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/Ku11E3J-UvidIhnqUTv-6-Vz_Py3f46BA-RHAzZ8jRM/sidepepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGQUEEN",
+          "cardNumber": 46,
+          "cardName": "LFGQUEEN",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/qCIslbOxHcdfe3XggUkH4srCwbOz31mz-iqovtatwq4/lfgqueen.png",
+          "link": ""
+        },
+        {
+          "asset": "NAKAAFRICA",
+          "cardNumber": 47,
+          "cardName": "NAKAAFRICA",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/WmUVUONZc1qEw8RFp7yuDIWH0Abk-x5Q4hETbX9tc1c/nakaafrica.png",
+          "link": ""
+        },
+        {
+          "asset": "WINNERPEPE",
+          "cardNumber": 48,
+          "cardName": "WINNERPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/QQNjkU_O_MoXs2ZKYXbpIW29rJASGDOO32GLo-ocbXM/winnerpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEHOLDINGS",
+          "cardNumber": 49,
+          "cardName": "PEPEHOLDINGS",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/sJ8-olxriXeKUzDyhMbDQ4p3JvrfJvdytzweOu4r3wQ/pepeholdings.jpg",
+          "link": ""
+        },
+        {
+          "asset": "A9735376114921552403",
+          "cardNumber": 50,
+          "cardName": "A9735376114921552403",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/1KRn_6aCS8qy4Mw3XLIQZYGQKFnBSeHW9qNeHFaUJg0/A9735376114921552403.png",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "LFG3",
+      "images": {
+        "primary": "",
+        "other": []
+      },
+      "description": "",
+      "assets": [
+        {
+          "asset": "PROOFOFMIND",
+          "cardNumber": 2,
+          "cardName": "PROOFOFMIND",
+          "creatorName": "Robenira",
+          "creatorSocial": "https://x.com/Robenirart",
+          "image": "https://arweave.net/parq6Ob2IVhUMkezXfkYeUIhX1jIx8CVB39TFPQxcww/proofofmind.jpg",
+          "link": ""
+        },
+        {
+          "asset": "DOITPEPE",
+          "cardNumber": 4,
+          "cardName": "DOITPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/JBQZSL5oHitHnTAqBG5mJ5Q8SSDTuGDjZNnN8oOpHDo/doitpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LOWFEEKING",
+          "cardNumber": 5,
+          "cardName": "LOWFEEKING",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/aqF65aAsZCg-bATfeT2ZwbYDNQVG6l6CLgQhP5jCcIQ/lowfeeking.gif",
+          "link": ""
+        },
+        {
+          "asset": "PEPEPINUP",
+          "cardNumber": 6,
+          "cardName": "PEPEPINUP",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/ktMccTvWJn_TS4XejpGE9L_qkKy0wlisuH6bdaoJ3MM/pepepinup.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEAWAY",
+          "cardNumber": 7,
+          "cardName": "PEPEAWAY",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/4SvmfO3Ane5Rrh2Y3T194Pb9Q0ebsmhKTjpcBzgAGkg/pepeaway.jpg",
+          "link": ""
+        },
+        {
+          "asset": "MOVINGPEPE",
+          "cardNumber": 10,
+          "cardName": "MOVINGPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/bvzNWm7seazYCrcCOxtUVQfcGxSaUSOo__Nu42j5FeI/movingpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "JUNETHIRD",
+          "cardNumber": 11,
+          "cardName": "JUNETHIRD",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/YtiLcaVHV5-allZaiOhM5YPdeRuKUOPKN-fINOjkA1w/junethird.png",
+          "link": ""
+        },
+        {
+          "asset": "ONETWENTYK",
+          "cardNumber": 12,
+          "cardName": "ONETWENTYK",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/sYlPSXe-RLOBMkHUqtyWcQR5pKFYGi8My8x5nciOTX0/onetwentyk.jpg",
+          "link": ""
+        },
+        {
+          "asset": "ITSCOMMING",
+          "cardNumber": 13,
+          "cardName": "ITSCOMMING",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/kQD7KNXiK1ioN8DrVvTwl_aIyRoZdbnjrGF5VxyOCv0/itscomming.png",
+          "link": ""
+        },
+        {
+          "asset": "PEPEBUNDANCE",
+          "cardNumber": 14,
+          "cardName": "PEPEBUNDANCE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/NovKz__q7wJydw7yjvkjUlW12ThIT1Xo5KJNpQvR_vU/pepebundance.jpg",
+          "link": ""
+        },
+        {
+          "asset": "WEALTHYPEPE",
+          "cardNumber": 15,
+          "cardName": "WEALTHYPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/huWwdSiYAzZdpJRLIXeRxi9bia-LX90vyZVRkST0apg/wealthypepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "KONTORONBTC",
+          "cardNumber": 16,
+          "cardName": "KONTORONBTC",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/xF0lPqVHPLaNG3q7PalHRw3g0ZwX6lgLJ3itgacOktM/kontoronbtc.png",
+          "link": ""
+        },
+        {
+          "asset": "BEDAYPEPE",
+          "cardNumber": 17,
+          "cardName": "BEDAYPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/ZHtxsy9JckLI1ysmPeblcXMxxXZazVZk-i0dLaknO1Y/bedaypepe.png",
+          "link": ""
+        },
+        {
+          "asset": "CHIAROSCURO",
+          "cardNumber": 18,
+          "cardName": "CHIAROSCURO",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/QhvB1YwQ8JLJa7posYp9ZmiRmQN9qFHzVRx412I5BCY/chiaroscuro.jpg",
+          "link": ""
+        },
+        {
+          "asset": "HOPEINPEPE",
+          "cardNumber": 19,
+          "cardName": "HOPEINPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/_f3575NiViOG72-Z1g7CE6pXTs8R6kB-rIBAs9vtmDQ/hopeinpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "FAKEOLDFROG",
+          "cardNumber": 20,
+          "cardName": "FAKEOLDFROG",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/VgZ9PEGrZQjedpW4MUDyW61td2fKiafrmSKlZzP5U0A/fakeoldfrog.png",
+          "link": ""
+        },
+        {
+          "asset": "GENERALMEME",
+          "cardNumber": 21,
+          "cardName": "GENERALMEME",
+          "creatorName": "Kane Mayfield",
+          "creatorSocial": "https://x.com/KaneMayfield",
+          "image": "https://arweave.net/ijvLEH_CZ6p2jq17hIzF6bBtC2EPlgP3iyOONtS2WuM/generalmeme.jpg",
+          "link": ""
+        },
+        {
+          "asset": "MANONFIRE",
+          "cardNumber": 22,
+          "cardName": "MANONFIRE",
+          "creatorName": "Kane Mayfield",
+          "creatorSocial": "https://x.com/KaneMayfield",
+          "image": "https://arweave.net/KUt2UmYPFGb-9yy6OWRX47E0QepF3eCAlQvQwljgYqA/manonfire.jpg",
+          "link": ""
+        },
+        {
+          "asset": "XCPWARRIOR",
+          "cardNumber": 23,
+          "cardName": "XCPWARRIOR",
+          "creatorName": "Kane Mayfield",
+          "creatorSocial": "https://x.com/KaneMayfield",
+          "image": "https://arweave.net/cCPi_dc5mPtMaUEx7EplJ7X4RW3bOzEPAIaamAHChmA/xcpwarrior.jpg",
+          "link": ""
+        },
+        {
+          "asset": "TERMPEPELFG",
+          "cardNumber": 24,
+          "cardName": "TERMPEPELFG",
+          "creatorName": "abysvora",
+          "creatorSocial": "https://twitter.com/abysvora",
+          "image": "https://arweave.net/TJ8Szo0tHh2QqihSUfKS-hAqqz_za3zdSwo94OS1me4/termpepelfg",
+          "link": ""
+        },
+        {
+          "asset": "FRIENDLYFIRE",
+          "cardNumber": 25,
+          "cardName": "FRIENDLYFIRE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/L9hXFx_MQjyjhdBTzpx3aJ48jq9nTe9f2cXJeDN-UrI/friendlyfire.png",
+          "link": ""
+        },
+        {
+          "asset": "CODYSIMPSON",
+          "cardNumber": 26,
+          "cardName": "CODYSIMPSON",
+          "creatorName": "Simon Morris",
+          "creatorSocial": "https://x.com/Simondmorris",
+          "image": "https://arweave.net/ffz0guHmWIKUogzHBt_2AUyv7wiCTjZzuDvcGXJbliA/codysimpson.png",
+          "link": ""
+        },
+        {
+          "asset": "RAREERIC",
+          "cardNumber": 27,
+          "cardName": "RAREERIC",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/IjDzCXroutt-KmjXpLv6oM6GRxtwUJ3fnsu7s1Ng5Ao/rareeric.png",
+          "link": ""
+        },
+        {
+          "asset": "RAREKEKXMAS",
+          "cardNumber": 28,
+          "cardName": "RAREKEKXMAS",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/0QYkczaTNAs4pSV31g03_COew5l8dosjaBNU2fcS01E/rarekekxmas.png",
+          "link": ""
+        },
+        {
+          "asset": "YESSSSPEPE",
+          "cardNumber": 29,
+          "cardName": "YESSSSPEPE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/dH5jGhCrHhCYj97lRkI72fdqOUUCkF3G-2Rehr8Ozc0/yesssspepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "PEPEISBLISS",
+          "cardNumber": 30,
+          "cardName": "PEPEISBLISS",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/CodyCampbe16881",
+          "image": "https://arweave.net/PBvV_q_L6-nxImjkLuZ_lipVA0j6KWYAqMlI16bmWvM/pepeisbliss.jpg",
+          "link": ""
+        },
+        {
+          "asset": "FROGPROPHET",
+          "cardNumber": 31,
+          "cardName": "FROGPROPHET",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/xceS5VcBKoe71X2FZlMgrXxRJB1ziFSh2BbCMiSQj8o/frogprophet.png",
+          "link": ""
+        },
+        {
+          "asset": "PEPEFIESTA",
+          "cardNumber": 32,
+          "cardName": "PEPEFIESTA",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/HIYaX2HM9mYJUuoXguFTH5H2JscW91B4GfPoS3I6tqA/pepefiesta.jpg",
+          "link": ""
+        },
+        {
+          "asset": "KEKLOSOPHY",
+          "cardNumber": 33,
+          "cardName": "KEKLOSOPHY",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/GayGYNWR-c-Tiw8_Q0-rmP4h8KY0tQbh1OBugu1urD8/keklosophy.jpg",
+          "link": ""
+        },
+        {
+          "asset": "GARDENPEPE",
+          "cardNumber": 34,
+          "cardName": "GARDENPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/YS9UJ3-vNZP9nFsOVTKKYkxw49iNU7nmJPWMIWrjXiA/gardenpepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "BEMINEPEPE",
+          "cardNumber": 35,
+          "cardName": "BEMINEPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/bzUxmAajy9pVGylH8HkIvA3op-irzoRMEQeQKcOrXNI/beminepepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "KNOTSKAMOTO",
+          "cardNumber": 36,
+          "cardName": "KNOTSKAMOTO",
+          "creatorName": "Bbleiztz",
+          "creatorSocial": "https://x.com/bbleiztz",
+          "image": "https://arweave.net/XFymQvzjv9BQZY0frEa5VyzaYFi-GJiZn57wGNRtBiU/knotskamoto.png",
+          "link": ""
+        },
+        {
+          "asset": "CHASINGPEPE",
+          "cardNumber": 37,
+          "cardName": "CHASINGPEPE",
+          "creatorName": "Bbleiztz",
+          "creatorSocial": "https://x.com/bbleiztz",
+          "image": "https://arweave.net/9EBmuQllBhyRv0azcASBf5-SGJU7QzOMuhnN1wHYjzE/chasingpepe.gif",
+          "link": ""
+        },
+        {
+          "asset": "SATASHI",
+          "cardNumber": 38,
+          "cardName": "SATASHI",
+          "creatorName": "Bbleiztz",
+          "creatorSocial": "https://x.com/bbleiztz",
+          "image": "https://arweave.net/GCsMprXKmmOJfeZUHiKuGgnWmiyHi70Azi7ZQUkO7os/satashi.png",
+          "link": ""
+        },
+        {
+          "asset": "THEMYSTICPEP",
+          "cardNumber": 39,
+          "cardName": "THEMYSTICPEP",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/PhHIfB0kGy26cPbXcXmV9YxBsYIgKR5yDmJc0fNl-p4/themysticpep.jpg",
+          "link": ""
+        },
+        {
+          "asset": "FROGNATION",
+          "cardNumber": 40,
+          "cardName": "FROGNATION",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/8zFwyWYopndY6fACuadsVPrFtBPt9IWKjPm_Brb1K64/frognation.png",
+          "link": ""
+        },
+        {
+          "asset": "FROGSLAVERY",
+          "cardNumber": 41,
+          "cardName": "FROGSLAVERY",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/M36CHkg5EqfYZR9kFN2fWfr1zPwehRhXtnl_RKoYvN8/frogslavery.png",
+          "link": ""
+        },
+        {
+          "asset": "MERRIPEPE",
+          "cardNumber": 42,
+          "cardName": "MERRIPEPE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/7NaxEzSqjeC6iN2rKgAXUxSOc2WbFwrzLV8K67LH1ow/merripepe.jpg",
+          "link": ""
+        },
+        {
+          "asset": "RARESNAPLAPS",
+          "cardNumber": 43,
+          "cardName": "RARESNAPLAPS",
+          "creatorName": "ChopSaVVS",
+          "creatorSocial": "https://x.com/ChopSaVVs",
+          "image": "https://arweave.net/bi0uXlEVCXVIEn5hX1qc8IvyiSUbPVRjjsgKt6zWVGI/raresnaplaps.gif",
+          "link": ""
+        },
+        {
+          "asset": "NAKAXMASSLFG",
+          "cardNumber": 44,
+          "cardName": "NAKAXMASSLFG",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/lqmPfFbhVmbyJ2-V44pyHBqw2PrPgw8I5_QGOxF6Po0/nakaxmasslfg.gif",
+          "link": ""
+        },
+        {
+          "asset": "XLFGUNBOUND",
+          "cardNumber": 45,
+          "cardName": "XLFGUNBOUND",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/cyTMb0k2x577TiBtXEGuWLek1VdUpGREGLV3t9qDFf0/xlfgunbound.png",
+          "link": ""
+        },
+        {
+          "asset": "RAREBABYSWAN",
+          "cardNumber": 46,
+          "cardName": "RAREBABYSWAN",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/AepR1MEPPW-K9nLFfjhRcx7wtUSsVij_nYijByUyutM/rarebabyswan.png",
+          "link": ""
+        },
+        {
+          "asset": "JACKDESIGNER",
+          "cardNumber": 47,
+          "cardName": "JACKDESIGNER",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/NC7EbZXphUjdXMqo4aiOy2xPa0O1f9_T3WHOTujBxdA/jackdesigner.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGHOPEALIVE",
+          "cardNumber": 48,
+          "cardName": "LFGHOPEALIVE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/OXqkSeigxXOeseY2ZXArNjpRmot4BaR-9SOFbiTod2s/lfghopealive.png",
+          "link": ""
+        },
+        {
+          "asset": "XLFGSCOUTER",
+          "cardNumber": 49,
+          "cardName": "XLFGSCOUTER",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/wrPz_ayhmQwcmkxVWAvnNK7vx9CEtnq3ZOcYSwE0Rls/xlfgscouter.png",
+          "link": ""
+        },
+        {
+          "asset": "PEPEFLARE",
+          "cardNumber": 50,
+          "cardName": "PEPEFLARE",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/LFGCTC",
+          "image": "https://arweave.net/9n_pO6TEQuifmPIyTiLN0UNIm3FOFrEjbMmXexbGgO0/pepeflare.png",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "name": "LFG4",
+      "images": {
+        "primary": "",
+        "other": []
+      },
+      "description": "",
+      "assets": [
+        {
+          "asset": "FAKEPROPHECY",
+          "cardNumber": 1,
+          "cardName": "FAKEPROPHECY",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/PBV85BKemyM-9KlMIF65fFlNd3qGNHjm-7nnOhjzyc4/fakeprophecy.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGPARTY",
+          "cardNumber": 2,
+          "cardName": "LFGPARTY",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/GC2H0HY1j6x_vL3musKYpPIloik4l3Ymwx-wRkw8M_s/lfgparty.png",
+          "link": ""
+        },
+        {
+          "asset": "RAREANGLE",
+          "cardNumber": 3,
+          "cardName": "RAREANGLE",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/NhWF5xD9B61Xt277B8h0Gtiff9tMg29F1kHFSb2tDmQ/rareangle.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGFOUR",
+          "cardNumber": 4,
+          "cardName": "LFGFOUR",
+          "creatorName": "Cody the Campbell",
+          "creatorSocial": "https://x.com/LFGCTC",
+          "image": "https://arweave.net/0l47H8Co5_zThObWr9muRxrTWQC-erMYq1-1G4f9CTo/lfgfour.jpg",
+          "link": ""
+        },
+        {
+          "asset": "KEKWARRANT",
+          "cardNumber": 5,
+          "cardName": "KEKWARRANT",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/fUhMmChBbZYvgmQngfswmfrkomnl9TJxuOoWEV2u3QM/kekwarrant.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGPROPHECY",
+          "cardNumber": 6,
+          "cardName": "LFGPROPHECY",
+          "creatorName": "Robenira",
+          "creatorSocial": "https://x.com/Robenirart",
+          "image": "https://arweave.net/ZLOpMpYS8rAgjEaODhaW5UP3hmubY42tYOKvJy1mR5I/lfgprophecy.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGAWAKEN",
+          "cardNumber": 7,
+          "cardName": "LFGAWAKEN",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/QLQ6pRzNIJkEJIuTz3yH_nDggP3HkoY26Vm53SMKawo/lfgawaken.gif",
+          "link": ""
+        },
+        {
+          "asset": "XCHAINREBIRT",
+          "cardNumber": 8,
+          "cardName": "XCHAINREBIRT",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/GDEhbOOJP3GH2LeymVJilenoC8H5A7ougqZURPXPzGA/xchainrebirt.png",
+          "link": ""
+        },
+        {
+          "asset": "RICHPRESIDDO",
+          "cardNumber": 9,
+          "cardName": "RICHPRESIDDO",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/Pu-hMTeU4tVPkjdSnteEh7mVhix-0Kf6gRTAvlo0k94/richpresiddo.png",
+          "link": ""
+        },
+        {
+          "asset": "YOUANDMELFG",
+          "cardNumber": 10,
+          "cardName": "YOUANDMELFG",
+          "creatorName": "papeto",
+          "creatorSocial": "https://x.com/papeto2",
+          "image": "https://arweave.net/e9G1-unK4qvZQcFeUCue6hiRJOTN30uauhPjqBeE8sg/youandmelfg.gif",
+          "link": ""
+        },
+        {
+          "asset": "LFGFOUNDER",
+          "cardNumber": 11,
+          "cardName": "LFGFOUNDER",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/5tx0oKlFkIcM4H6Djw-rSrn1NM4l6Et4D3ey7IozbFE/lfgfounder.png",
+          "link": ""
+        },
+        {
+          "asset": "THESEEKERLFG",
+          "cardNumber": 12,
+          "cardName": "THESEEKERLFG",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/qdDzoOGm_iE5GVdC4htNh0ZjfUndu26WhlTbswiI69M/theseekerlfg.jpg",
+          "link": ""
+        },
+        {
+          "asset": "DARKPROPHECY",
+          "cardNumber": 13,
+          "cardName": "DARKPROPHECY",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/JMHuTJG9zcpw17XfqHMA7aTcLgJZBIieayfw7Kw-xQA/darkprophecy.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGSWARM",
+          "cardNumber": 14,
+          "cardName": "LFGSWARM",
+          "creatorName": "Yurii",
+          "creatorSocial": "https://x.com/yorlov8",
+          "image": "https://arweave.net/FkhM9Jsd652GXGUR06DRHZLcguJ62XR5MAq4kKb3TcQ/lfgswarm.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGPEPEFAKER",
+          "cardNumber": 15,
+          "cardName": "LFGPEPEFAKER",
+          "creatorName": "Hues",
+          "creatorSocial": "https://twitter.com/H_U_E_S_",
+          "image": "https://arweave.net/Tt8vhMFZkRTQpvr7-0tMlsI0P0axwqE-lA0dZjAhgDs/lfgpepefaker.jpg",
+          "link": ""
+        },
+        {
+          "asset": "LFGACE",
+          "cardNumber": 16,
+          "cardName": "LFGACE",
+          "creatorName": "Emperor Western",
+          "creatorSocial": "https://x.com/EmperorWestern7",
+          "image": "https://arweave.net/xKaG_y7M2ISlv9wC_aSBJfS4xgogpkw05k3_J1bXM3I/lfgace.jpg",
+          "link": ""
+        },
+        {
+          "asset": "SMILINGJACK",
+          "cardNumber": 17,
+          "cardName": "SMILINGJACK",
+          "creatorName": "RAHVO",
+          "creatorSocial": "https://x.com/RahvOart",
+          "image": "https://arweave.net/yrzFL6B5wMtorI8bSH5c0JTAWdm-YufPGKPRzDw-Gew/smilingjack.png",
+          "link": ""
+        },
+        {
+          "asset": "LFGASF",
+          "cardNumber": 18,
+          "cardName": "LFGASF",
+          "creatorName": "BLISSFULMORG",
+          "creatorSocial": "https://x.com/BlissfulMorg",
+          "image": "https://arweave.net/dlXfZWQp-JBnrtKgy3GG6aeZD8ClYwr2O227YAhKqG0/lfgasf.png",
+          "link": ""
+        },
+        {
+          "asset": "PEPEFOSHUR",
+          "cardNumber": 19,
+          "cardName": "PEPEFOSHUR",
+          "creatorName": "Bbleiztz",
+          "creatorSocial": "https://x.com/bbleiztz",
+          "image": "https://arweave.net/sQsf7-k2ZzBCHmVY4rcbPZM56fQ62ajCGNRmeNXXoXo/pepefoshur.png",
+          "link": ""
+        }
+      ]
+    }
+  ]
+}
