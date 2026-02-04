@@ -1,0 +1,664 @@
+{
+  "chain": "counterparty",
+  "name": "Faux Bitcorn Project",
+  "images": {
+    "avatar": "https://arweave.net/v5Vz3WdAooyrBGLdDKrE3U3EMEgfISUTAQMawoTPQqw/logo.png",
+    "banner": ""
+  },
+  "description": "",
+  "externalLinks": {
+    "website": "https://fauxbitcorn.com"
+  },
+  "sets": [
+    {
+      "name": "Harvest 0",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 0",
+          "name": "FAUXCORNCASH",
+          "images": {
+            "primary": "https://arweave.net/9HdDwglR8UBBNT2J28tr9xro2r4oGPMHUp1xMLcAJPM/fauxcorncash.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    },
+    {
+      "name": "Harvest 1",
+      "images": {
+        "avatar": "",
+        "banner": ""
+      },
+      "description": "",
+      "assets": [
+        {
+          "edition": "Card 1",
+          "name": "CORNICOPTER",
+          "images": {
+            "primary": "https://arweave.net/A91nVKOPxUkEcwze_lO2X11ZNKgkUupPUqEBFuzR2fs/cornicopter.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 2",
+          "name": "CORNYACHT",
+          "images": {
+            "primary": "https://arweave.net/aH7ggLtAIOCms8ydmCjN5vpFE3kvkoeSkEz0hcsKE0I/cornyacht.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 3",
+          "name": "CORNBORGHINI",
+          "images": {
+            "primary": "https://arweave.net/9_jKG_UamdPGlun3xkycUHeUkxAIahbGQwul2vCQmHk/cornborghini.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 4",
+          "name": "CORNBORGHINI.cosby",
+          "images": {
+            "primary": "https://arweave.net/gHFHEBbyWYjkWz2XQYIELfpoK-77xnNlsfgvFl9pm54/cornborghini.cosby.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 5",
+          "name": "KERNELISLAND",
+          "images": {
+            "primary": "https://arweave.net/lUo1tVg40pa0DKbp7W6yT-W-94a1AV356FP4ZMkCdjM/kernelisland.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Kane Mayfield",
+              "link": "https://x.com/KaneMayfield"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 6",
+          "name": "RARECOB",
+          "images": {
+            "primary": "https://arweave.net/rpdfHoUISgb78TcDK7USsXkmVOZXqEu0DNcILMTsVHc/rarecob.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "HNFT Pepe",
+              "link": "https://x.com/HnftPepe"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 7",
+          "name": "CORNPIGEON",
+          "images": {
+            "primary": "https://arweave.net/_LfskGNzuf2n82eRey0Otn9P_ddEILkGhzAJnH5ACuc/cornpigeon.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Bimbayo1985",
+              "link": "https://x.com/yorlov8"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 8",
+          "name": "INTOCORNLAND",
+          "images": {
+            "primary": "https://arweave.net/Tj7Zlo5xJhaVU7SS98HXRIBqNAdbQ7CQYcKGoXNbnpw/intocornland.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Rahvo",
+              "link": "https://x.com/RahvOart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 9",
+          "name": "CORNYHOMER",
+          "images": {
+            "primary": "https://arweave.net/4E_7RMNPPUJ-6etuQzPxdaaNZvQjj4WpPgzjHz7hmnY/cornyhomer.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "papeto",
+              "link": "https://x.com/papeto2"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 10",
+          "name": "GRILLEDCORN",
+          "images": {
+            "primary": "https://arweave.net/Kql_6DRxTVmyGmlY72AJjM-MM4xZrP2ytcMCZjs1iIc/grilledcorn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 11",
+          "name": "CORNDEITY",
+          "images": {
+            "primary": "https://arweave.net/S-aaJoREVXAoK08gq6aq5ojeCAesKbF2lXMrEBfHABk/corndeity.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": "https://x.com/AdeKrypto"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 12",
+          "name": "CORNTAINER",
+          "images": {
+            "primary": "https://arweave.net/IjlfzzS_CBVuAEhpR483kX6CXyyC7fVO7LJSRZyJIAI/corntainer.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "subterranean",
+              "link": "https://x.com/subterranean_1"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 13",
+          "name": "BITCORNHOLIO",
+          "images": {
+            "primary": "https://arweave.net/WvtGQq88vOMv1cmrbRbGgNruGV81XVd-2LQHpcJW4s4/bitcornholio.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Hues",
+              "link": "https://x.com/h_u_e_s_"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 14",
+          "name": "TRUTHBUDCORN",
+          "images": {
+            "primary": "https://arweave.net/MXztgJCR6_sJ6PJZv5VXO5a-PuhPlxzRad0-CQ9wKbI/truthbudcorn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "BLISSFULMORG",
+              "link": "https://x.com/BlissfulMorg"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 15",
+          "name": "NEVEREATCORN",
+          "images": {
+            "primary": "https://arweave.net/uHIqtFD1P3NwKbcsPzYeK9aWWm70NpDYhKtIop6Dn20/nevereatcorn.mp4",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "HNFT Pepe",
+              "link": "https://x.com/HnftPepe"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 16",
+          "name": "SOUTHCORN",
+          "images": {
+            "primary": "https://arweave.net/f6KmXAf0tWeRU-nN13eJaWG-THgybazlnDD9iYWtX9s/southcorn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Bimbayo1985",
+              "link": "https://x.com/yorlov8"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 17",
+          "name": "CORNEATER",
+          "images": {
+            "primary": "https://arweave.net/ZZVbijyLGq3pF81qYzs_4rAbJv4v5yZ2uT_DTZtaJNk/corneater.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Rahvo",
+              "link": "https://x.com/RahvOart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 18",
+          "name": "CORNALIEN",
+          "images": {
+            "primary": "https://arweave.net/IC-6P6C9NoU1NOIGBW6zshxuHLuk_gKdKDUwoU8gD4Y/cornalien.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": "https://x.com/abysvora"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 19",
+          "name": "KERNELKEVIN",
+          "images": {
+            "primary": "https://arweave.net/V45zq_yWV-21Fz9qvTsyL1StxjdOawYhfDepxusgJOQ/kernelkevin.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Arwyn",
+              "link": "https://x.com/arwyn_official"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 20",
+          "name": "BITCORNKING",
+          "images": {
+            "primary": "https://arweave.net/ej_HCdH2rGGXb7JMTGM4HdrqTHdoopfcW5RCRNg6wts/bitcornking.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "subterranean",
+              "link": "https://x.com/subterranean_1"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 22",
+          "name": "CORNSICKLE",
+          "images": {
+            "primary": "https://arweave.net/zH3x3E4Uu2MiYltLirBywRVqW8yTHD2Dh4etK4vf8Qg/cornsickle.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Amy DiGi",
+              "link": "https://x.com/AmyDiGi"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 23",
+          "name": "PAIKCORN",
+          "images": {
+            "primary": "https://arweave.net/F54qk3J03fbvCAHFhTNjALQlVurYHbpCAl9b4aUcUQ0/paikcorn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Amy DiGi",
+              "link": "https://x.com/AmyDiGi"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 24",
+          "name": "CORNSNKESKL",
+          "images": {
+            "primary": "https://arweave.net/cb2wiQwJFqmNQsfCvyIoqMJ-0L4S6G_t1v3jjCh22YE/cornsnkeskl.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AbysVora",
+              "link": "https://x.com/abysvora"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 25",
+          "name": "FXCORNFARMER",
+          "images": {
+            "primary": "https://arweave.net/9OzOes5IJ89D57CGwTPTX0jqeqZuczDojZveCiS-ghI/fxcornfarmer.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Palmer",
+              "link": "nan"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 26",
+          "name": "KORNACHMED",
+          "images": {
+            "primary": "https://arweave.net/PZMVJMsp6No5hOhffDgSGzMr2QCftKuj_QzxTtiJZ98/kornachmed.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 27",
+          "name": "OFFDACORN",
+          "images": {
+            "primary": "https://arweave.net/bkR7OIcOeZ_9VfkAtOJkanI51CIlkX1jdv4ngdjy0gw/offdacorn.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Viva La Vandal",
+              "link": "https://x.com/viva_la_vandal"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 28",
+          "name": "SLOBONMYKNOB",
+          "images": {
+            "primary": "https://arweave.net/opVgaxKtL28kNBStVYpPMlLI3oocV5iCx4e-6bMsaXQ/slobmyknob.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "HNFT Pepe",
+              "link": "https://x.com/HnftPepe"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 29",
+          "name": "INCORNITO",
+          "images": {
+            "primary": "https://arweave.net/tVenvQmFsa5uJ05alomCik3Jf4OvrqsxpPL5zUcnqu0/incornito.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 30",
+          "name": "CORNFED",
+          "images": {
+            "primary": "https://arweave.net/N24nWLlVi4rptG7z9GM1-Lxisv3EEFyHmCuZSRzwmZ0/cornfed.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Simon Morris",
+              "link": "https://x.com/simondmorris"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 31",
+          "name": "CORNQUEEN",
+          "images": {
+            "primary": "https://arweave.net/fMFWoZmonHJOiZzoo78CzszAX5YI6MaBgwarEudrSWw/cornqueen.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Robenira",
+              "link": "https://x.com/Robenirart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 32",
+          "name": "BITCORNQUER",
+          "images": {
+            "primary": "https://arweave.net/5aU75qD4etpGs25XEATct6vqXqmfeVaJSv0WaPZ4-Qk/bitcornquer.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Ndhoz dotule",
+              "link": "https://x.com/Ndhoz_dotule"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 33",
+          "name": "FAUXBANSKY",
+          "images": {
+            "primary": "https://arweave.net/x1pInlecn5azD9l4cGEwilaloxA_5Sw3fM7M1EHCsoY/fauxbanksy.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Simon Morris",
+              "link": "https://x.com/simondmorris"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 34",
+          "name": "CORNROLLIJET",
+          "images": {
+            "primary": "https://arweave.net/hFaOehjNy-Ocq7k0XYc3KvHDbwEH1Ol5d8Zylg9Lxx8/cornrollijet.jpg",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Hues",
+              "link": "https://x.com/h_u_e_s_"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 35",
+          "name": "ETOLE",
+          "images": {
+            "primary": "https://arweave.net/LKJ_WghMDNWyyukxrWxpNg1iIHFcbPjVPj1xa8I3SmA/etole.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 36",
+          "name": "MRCORNPORATE",
+          "images": {
+            "primary": "https://arweave.net/dMQk9qF2Wx6k0_a4Kx_Yrl_wLPIdrmFJMKRsML7B3Iw/mrconrporate.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "Rahvo",
+              "link": "https://x.com/RahvOart"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 37",
+          "name": "CORNELYUNQUE",
+          "images": {
+            "primary": "https://arweave.net/owR9iBX_eMTMMnuFvdm5j07WYyHaZpUv9NXt9NtiK6I/cornelyunque.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 38",
+          "name": "CORNDARGER",
+          "images": {
+            "primary": "https://arweave.net/kztNgZZm-_p2ceCTTAy1uVA9oTDM_6PA_6G0He0uyd8/corndarger.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 39",
+          "name": "KRUSTYCORN",
+          "images": {
+            "primary": "https://arweave.net/NGMn43pAAMncl2gjB-BDzRGtJZEZpZWUjSQ2JhRO5-o/krustycorn.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 40",
+          "name": "TRANSFORMAS",
+          "images": {
+            "primary": "https://arweave.net/7mOQ9XM77zUiq2FUasKflrzBSRCu_aJ_p0hrGuTGHIA/transformas.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "AdeKrypto",
+              "link": "https://x.com/AdeKrypto"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 41",
+          "name": "FIELDOFCORN",
+          "images": {
+            "primary": "https://arweave.net/LhhGmLP8qb_kIi4m54-vQ8mORPWNe9-ZkdqvqdZ5UAY/fieldofcorn.gif",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "HNFT Pepe",
+              "link": "https://x.com/HnftPepe"
+            }
+          ],
+          "subAssets": []
+        },
+        {
+          "edition": "Card 54",
+          "name": "CORNNUTS",
+          "images": {
+            "primary": "https://arweave.net/-XhV5R0bDbkDo-peWgLzb55M13UYZZNfTR7YWKycLWc/cornnuts.png",
+            "other": []
+          },
+          "artists": [
+            {
+              "name": "The 3 Homless Men & a Dog",
+              "link": "https://x.com/FauxBitcorn"
+            }
+          ],
+          "subAssets": []
+        }
+      ]
+    }
+  ]
+}
